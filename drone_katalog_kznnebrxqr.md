@@ -1,2 +1,2 @@
-# drone\_katalog\_kznnebrxqr
+# Каталог товаров drone.kz - часть 5
 
