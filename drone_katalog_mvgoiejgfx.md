@@ -16,10 +16,6 @@ https://drone.kz/product/solnechnaya-panel-ecoflow-400w3073/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-4897082664871
-
 #### Тип:
 
 солнечная панель
@@ -40,25 +36,9 @@ ecoflow
 
 50051001
 
-#### Дополнительные изображения:
-
-219802 / 219803 / 219804 / 219805 / 219806
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-417700
 
 #### Комплектация:
 
@@ -67,10 +47,6 @@ ecoflow
 #### Срок гарантии производителя, m:
 
 12
-
-#### Страница товара на сайте производителя:
-
-https://ecoflow.com
 
 #### Размеры (Ш×В×Г), cm:
 
@@ -84,7 +60,11 @@ https://ecoflow.com
 
 12
 
----
+
+
+
+
+
 
 ## Дополнительная батарея Ecoflow River Pro Extra battery
 
@@ -101,10 +81,6 @@ https://ecoflow.com
 https://drone.kz/product/dopolnitelnaya-batareya-ecoflow-river-pro-extra-battery5572/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-4897082663263
 
 #### Тип:
 
@@ -130,25 +106,9 @@ River Pro Extra battery
 
 50032006
 
-#### Дополнительные изображения:
-
-219820 / 219821 / 219822 / 219823 / 219824
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-226000
 
 #### Входное напряжение (макс), V:
 
@@ -170,10 +130,6 @@ River Pro Extra battery
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://ecoflow.com
-
 #### Размеры (Ш×В×Г), cm:
 
 28.8×21×18
@@ -182,7 +138,11 @@ https://ecoflow.com
 
 7
 
----
+
+
+
+
+
 
 ## Съемная батарея Ecoflow River Extra battery
 
@@ -199,10 +159,6 @@ https://ecoflow.com
 https://drone.kz/product/semnaya-batareya-ecoflow-river-extra-battery8468/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-4897082662785
 
 #### Тип:
 
@@ -232,45 +188,17 @@ River Extra battery
 
 50024070
 
-#### Дополнительные изображения:
-
-219826 / 219827 / 219828 / 219829 / 219830
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-108600
 
 #### Комплектация:
 
 Съемная батарея EcoFlow River Extra battery / Винты - 4 шт / Крестовая отвертка - 1 шт / Документация
 
-#### Сертификаты:
-
-CE / FCC / RoHS / RCM
-
 #### Срок гарантии производителя, m:
 
 12
-
-#### Руководство пользователя:
-
-https://cdn.shopify.com/s/files/1/1996/9707/files/RIVER_600_Extra_Battery.pdf?v=1602820133
-
-#### Страница товара на сайте производителя:
-
-https://ecoflow.com/products/ecoflow-river-extra-battery
 
 #### Размеры (Ш×В×Г), cm:
 
@@ -280,7 +208,11 @@ https://ecoflow.com/products/ecoflow-river-extra-battery
 
 2.5
 
----
+
+
+
+
+
 
 ## Роботизированная рука Chasing Grabber Arm B
 
@@ -298,10 +230,6 @@ https://drone.kz/product/robotizirovannaya-ruka-chasing-grabber-arm-b/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6971636380887
-
 #### Тип:
 
 роботизированная рука
@@ -318,25 +246,9 @@ Grabber Arm B
 
 Grabber-arm-b
 
-#### Дополнительные изображения:
-
-219832 / 219833 / 219834 / 219835
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-170800
 
 #### Комплектация:
 
@@ -346,10 +258,6 @@ Grabber-arm-b
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.chasing.com/
-
 #### Размеры (Ш×В×Г), cm:
 
 46×3.35×3.35
@@ -358,7 +266,11 @@ https://www.chasing.com/
 
 0.37
 
----
+
+
+
+
+
 
 ## Комплект подводного дрона Chasing Gladius Mini S Flash Pack (200м)
 
@@ -376,10 +288,6 @@ https://drone.kz/product/komplekt-podvodnogo-drona-chasing-gladius-mini-s-flash-
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6971636381099
-
 #### Тип:
 
 подводный  дрон
@@ -396,17 +304,9 @@ Gladius Mini S Flash Pack (200м)
 
 4800
 
-#### Код видео YouTube:
-
-A3j8iVFsYQ4
-
 #### Артикул:
 
 mini-s-spack-200m
-
-#### Дополнительные изображения:
-
-219843 / 219844 / 219845 / 219846 / 219847
 
 #### Разрешение видео:
 
@@ -428,21 +328,9 @@ mini-s-spack-200m
 
 7.2
 
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-0
-
 #### Датчики:
 
 3-осевой гироскоп / акселерометр / компас / датчик глубины +/- 0,5 м / датчик температуры +/- 2 °C
-
-#### Цена со скидкой:
-
-986300
 
 #### Класс дрона:
 
@@ -480,14 +368,6 @@ mini-s-spack-200m
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.chasing.com/
-
-#### К этому товару подходят:
-
-Карта памяти MicroSD ExAscend Catalyst SDXC I 512GB + SD adapter / Карта памяти MicroSD ExAscend Catalyst SDXC I 256GB + SD adapter
-
 #### Размеры (Ш×В×Г), cm:
 
 40×14.5×22.6
@@ -496,7 +376,11 @@ https://www.chasing.com/
 
 3.7
 
----
+
+
+
+
+
 
 ## Клип-кейс PolarPro LiteChaser Pro - Iphone 13 Pro Black Case
 
@@ -514,10 +398,6 @@ https://drone.kz/product/klip-keys-polarpro-litechaser-pro-iphone-13-pro-black-c
 
 ### Характеристики:
 
-#### Штрихкод:
-
-817465027097
-
 #### Тип:
 
 чехол
@@ -534,25 +414,9 @@ LiteChaser Pro - Iphone 13 Pro Black Case
 
 IP13-PRO-BLK
 
-#### Дополнительные изображения:
-
-219932
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-9
-
-#### Цена со скидкой:
-
-13800
 
 #### Рекомендуемые мобильные устройства:
 
@@ -566,14 +430,6 @@ Iphone 13 Pro
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.polarprofilters.com/
-
-#### К этому товару подходят:
-
-Клип-кейс PolarPro LiteChaser Pro Iphone 13 Pro Sage Case / Клип-кейс PolarPro LiteChaser Pro Iphone 13 Pro Glacier Case / Держатель PolarPro LiteChaser Pro Iphone 13 Pro
-
 #### Размеры (Ш×В×Г), cm:
 
 8.4×16.7×1.1
@@ -582,7 +438,11 @@ https://www.polarprofilters.com/
 
 0.05
 
----
+
+
+
+
+
 
 ## Клип-кейс PolarPro LiteChaser Pro Iphone 13 Pro Sage Case
 
@@ -600,10 +460,6 @@ https://drone.kz/product/klip-keys-polarpro-litechaser-pro-iphone-13-pro-sage-ca
 
 ### Характеристики:
 
-#### Штрихкод:
-
-817465027103
-
 #### Тип:
 
 чехол
@@ -620,25 +476,9 @@ LiteChaser Pro Iphone 13 Pro Sage Case
 
 IP13-PRO-SGE
 
-#### Дополнительные изображения:
-
-219934
-
 #### Цвет:
 
 песочный
-
-#### KaspiQtyAlmaty:
-
-6
-
-#### KaspiQtyAstana:
-
-8
-
-#### Цена со скидкой:
-
-13800
 
 #### Рекомендуемые мобильные устройства:
 
@@ -652,14 +492,6 @@ Iphone 13 Pro
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.polarprofilters.com/
-
-#### К этому товару подходят:
-
-Клип-кейс PolarPro LiteChaser Pro - Iphone 13 Pro Black Case / Клип-кейс PolarPro LiteChaser Pro Iphone 13 Pro Glacier Case / Держатель PolarPro LiteChaser Pro Iphone 13 Pro
-
 #### Размеры (Ш×В×Г), cm:
 
 8.4×16.7×1.1
@@ -668,7 +500,11 @@ https://www.polarprofilters.com/
 
 0.05
 
----
+
+
+
+
+
 
 ## Клип-кейс PolarPro LiteChaser Pro Iphone 13 Pro Glacier Case
 
@@ -686,10 +522,6 @@ https://drone.kz/product/klip-keys-polarpro-litechaser-pro-iphone-13-pro-glacier
 
 ### Характеристики:
 
-#### Штрихкод:
-
-817465027110
-
 #### Тип:
 
 чехол
@@ -706,25 +538,9 @@ LiteChaser Pro Iphone 13 Pro Glacier Case
 
 IP13-PRO-GLC
 
-#### Дополнительные изображения:
-
-219936
-
 #### Цвет:
 
 синий
-
-#### KaspiQtyAlmaty:
-
-16
-
-#### KaspiQtyAstana:
-
-18
-
-#### Цена со скидкой:
-
-13800
 
 #### Рекомендуемые мобильные устройства:
 
@@ -738,14 +554,6 @@ Iphone 13 Pro
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.polarprofilters.com/
-
-#### К этому товару подходят:
-
-Клип-кейс PolarPro LiteChaser Pro - Iphone 13 Pro Black Case / Держатель PolarPro LiteChaser Pro Iphone 13 Pro / Клип-кейс PolarPro LiteChaser Pro Iphone 13 Pro Sage Case
-
 #### Размеры (Ш×В×Г), cm:
 
 8.4×16.7×1.1
@@ -754,7 +562,11 @@ https://www.polarprofilters.com/
 
 0.05
 
----
+
+
+
+
+
 
 ## Клип-кейс PolarPro LiteChaser Pro Iphone 13 Max Black Case
 
@@ -772,10 +584,6 @@ https://drone.kz/product/klip-keys-polarpro-litechaser-pro-iphone-13-max-black-c
 
 ### Характеристики:
 
-#### Штрихкод:
-
-817465027127
-
 #### Тип:
 
 чехол
@@ -792,25 +600,9 @@ LiteChaser Pro Iphone 13 Max Black Case
 
 IP13-MAX-BLK
 
-#### Дополнительные изображения:
-
-219938
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-13
-
-#### KaspiQtyAstana:
-
-18
-
-#### Цена со скидкой:
-
-19500
 
 #### Рекомендуемые мобильные устройства:
 
@@ -824,14 +616,6 @@ Iphone 13 Pro Max
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.polarprofilters.com/
-
-#### К этому товару подходят:
-
-Клип-кейс PolarPro LiteChaser Pro Iphone 13 Max Sage Case / Клип-кейс PolarPro LiteChaser Pro Iphone 13 Max Glacier Case / Держатель PolarPro LiteChaser Pro Iphone 13 Max
-
 #### Размеры (Ш×В×Г), cm:
 
 9.1×18.1×1.1
@@ -840,7 +624,11 @@ https://www.polarprofilters.com/
 
 0.05
 
----
+
+
+
+
+
 
 ## Клип-кейс PolarPro LiteChaser Pro Iphone 13 Max Sage Case
 
@@ -858,10 +646,6 @@ https://drone.kz/product/klip-keys-polarpro-litechaser-pro-iphone-13-max-sage-ca
 
 ### Характеристики:
 
-#### Штрихкод:
-
-817465027134
-
 #### Тип:
 
 чехол
@@ -878,25 +662,9 @@ LiteChaser Pro Iphone 13 Max Sage Case
 
 IP13-MAX-SGE
 
-#### Дополнительные изображения:
-
-219940
-
 #### Цвет:
 
 песочный
-
-#### KaspiQtyAlmaty:
-
-12
-
-#### KaspiQtyAstana:
-
-19
-
-#### Цена со скидкой:
-
-13800
 
 #### Рекомендуемые мобильные устройства:
 
@@ -910,14 +678,6 @@ Iphone 13 Pro Max
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.polarprofilters.com/
-
-#### К этому товару подходят:
-
-Клип-кейс PolarPro LiteChaser Pro Iphone 13 Max Black Case / Клип-кейс PolarPro LiteChaser Pro Iphone 13 Max Glacier Case / Держатель PolarPro LiteChaser Pro Iphone 13 Max
-
 #### Размеры (Ш×В×Г), cm:
 
 9.1×18.1×1.1
@@ -926,7 +686,11 @@ https://www.polarprofilters.com/
 
 0.05
 
----
+
+
+
+
+
 
 ## Клип-кейс PolarPro LiteChaser Pro Iphone 13 Max Glacier Case
 
@@ -944,10 +708,6 @@ https://drone.kz/product/klip-keys-polarpro-litechaser-pro-iphone-13-max-glacier
 
 ### Характеристики:
 
-#### Штрихкод:
-
-817465027141
-
 #### Тип:
 
 чехол
@@ -964,25 +724,9 @@ LiteChaser Pro Iphone 13 Max Glacier Case
 
 IP13-MAX-GLC
 
-#### Дополнительные изображения:
-
-219942
-
 #### Цвет:
 
 синий
-
-#### KaspiQtyAlmaty:
-
-13
-
-#### KaspiQtyAstana:
-
-20
-
-#### Цена со скидкой:
-
-19500
 
 #### Рекомендуемые мобильные устройства:
 
@@ -996,14 +740,6 @@ Iphone 13 Pro Max
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.polarprofilters.com/
-
-#### К этому товару подходят:
-
-Клип-кейс PolarPro LiteChaser Pro Iphone 13 Max Black Case / Держатель PolarPro LiteChaser Pro Iphone 13 Max / Клип-кейс PolarPro LiteChaser Pro Iphone 13 Max Sage Case
-
 #### Размеры (Ш×В×Г), cm:
 
 9.1×18.1×1.1
@@ -1012,7 +748,11 @@ https://www.polarprofilters.com/
 
 0.05
 
----
+
+
+
+
+
 
 ## Держатель PolarPro LiteChaser Pro Iphone 13 Pro
 
@@ -1030,10 +770,6 @@ https://drone.kz/product/derzhatel-polarpro-litechaser-pro-iphone-13-pro/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-817465027158
-
 #### Тип:
 
 держатель для телефона
@@ -1050,25 +786,9 @@ LiteChaser Pro Iphone 13 Pro
 
 IP13-PRO-GRP
 
-#### Дополнительные изображения:
-
-219944 / 219945 / 219946 / 219947
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-14
-
-#### KaspiQtyAstana:
-
-18
-
-#### Цена со скидкой:
-
-13800
 
 #### Рекомендуемые мобильные устройства:
 
@@ -1082,19 +802,15 @@ Iphone 13 Pro
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.polarprofilters.com/
-
-#### К этому товару подходят:
-
-Клип-кейс PolarPro LiteChaser Pro - Iphone 13 Pro Black Case / Клип-кейс PolarPro LiteChaser Pro Iphone 13 Pro Sage Case / Клип-кейс PolarPro LiteChaser Pro Iphone 13 Pro Glacier Case
-
 #### Вес товара, кг:
 
 0.1
 
----
+
+
+
+
+
 
 ## Держатель PolarPro LiteChaser Pro Iphone 13 Max
 
@@ -1112,10 +828,6 @@ https://drone.kz/product/derzhatel-polarpro-litechaser-pro-iphone-13-max/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-817465027165
-
 #### Тип:
 
 держатель для телефона
@@ -1132,25 +844,9 @@ LiteChaser Pro Iphone 13 Max
 
 IP13-MAX-GRP
 
-#### Дополнительные изображения:
-
-219949 / 219950 / 219951 / 219952
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-29
-
-#### KaspiQtyAstana:
-
-38
-
-#### Цена со скидкой:
-
-14900
 
 #### Рекомендуемые мобильные устройства:
 
@@ -1164,19 +860,15 @@ Iphone 13 Pro Max
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.polarprofilters.com/
-
-#### К этому товару подходят:
-
-Клип-кейс PolarPro LiteChaser Pro Iphone 13 Max Black Case / Клип-кейс PolarPro LiteChaser Pro Iphone 13 Max Sage Case / Клип-кейс PolarPro LiteChaser Pro Iphone 13 Max Glacier Case
-
 #### Вес товара, кг:
 
 0.1
 
----
+
+
+
+
+
 
 ## Фильтр PolarPro LiteChaser Pro IPhone 13 - CP
 
@@ -1194,10 +886,6 @@ https://drone.kz/product/filtr-polarpro-litechaser-pro-iphone-13-cp/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-817465027189
-
 #### Тип:
 
 светофильтр
@@ -1210,29 +898,9 @@ polarpro
 
 LiteChaser Pro IPhone 13 - CP
 
-#### Код видео YouTube:
-
-jcxnKLnpPqw
-
 #### Артикул:
 
 IP13-CP
-
-#### Дополнительные изображения:
-
-219954 / 219955 / 219956
-
-#### KaspiQtyAlmaty:
-
-4
-
-#### KaspiQtyAstana:
-
-2
-
-#### Цена со скидкой:
-
-14200
 
 #### Рекомендуемые мобильные устройства:
 
@@ -1246,19 +914,15 @@ Iphone 13 Pro / Pro Max
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.polarprofilters.com/
-
-#### К этому товару подходят:
-
-Фильтр PolarPro LiteChaser Pro IPhone 13 - Mist / Фильтр PolarPro LiteChaser Pro IPhone 13 - BlueMorphic / Фильтр PolarPro LiteChaser Pro IPhone 13 - Mist VND 3-5 / Фильтр PolarPro LiteChaser Pro IPhone 13 - VND 6-7
-
 #### Вес товара, кг:
 
 0.03
 
----
+
+
+
+
+
 
 ## Фильтр PolarPro LiteChaser Pro IPhone 13 - Mist
 
@@ -1276,10 +940,6 @@ https://drone.kz/product/filtr-polarpro-litechaser-pro-iphone-13-mist/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-817465027196
-
 #### Тип:
 
 светофильтр
@@ -1292,29 +952,9 @@ polarpro
 
 LiteChaser Pro IPhone 13 - Mist
 
-#### Код видео YouTube:
-
-jcxnKLnpPqw
-
 #### Артикул:
 
 IP13-MST
-
-#### Дополнительные изображения:
-
-219958 / 219959 / 219960
-
-#### KaspiQtyAlmaty:
-
-14
-
-#### KaspiQtyAstana:
-
-10
-
-#### Цена со скидкой:
-
-25300
 
 #### Рекомендуемые мобильные устройства:
 
@@ -1328,19 +968,15 @@ Iphone 13 Pro / Pro Max
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.polarprofilters.com/
-
-#### К этому товару подходят:
-
-Фильтр PolarPro LiteChaser Pro IPhone 13 - BlueMorphic / Фильтр PolarPro LiteChaser Pro IPhone 13 - GoldMorphic / Фильтр PolarPro LiteChaser Pro IPhone 13 - Mist VND 3-5 / Фильтр PolarPro LiteChaser Pro IPhone 13 - CP
-
 #### Вес товара, кг:
 
 0.03
 
----
+
+
+
+
+
 
 ## Фильтр PolarPro LiteChaser Pro IPhone 13 - BlueMorphic
 
@@ -1358,10 +994,6 @@ https://drone.kz/product/filtr-polarpro-litechaser-pro-iphone-13-bluemorphic/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-817465027226
-
 #### Тип:
 
 светофильтр
@@ -1374,29 +1006,9 @@ polarpro
 
 LiteChaser Pro IPhone 13 - BlueMorphic
 
-#### Код видео YouTube:
-
-jcxnKLnpPqw
-
 #### Артикул:
 
 IP13-BLU-MORPH
-
-#### Дополнительные изображения:
-
-219962 / 219963 / 219964
-
-#### KaspiQtyAlmaty:
-
-10
-
-#### KaspiQtyAstana:
-
-8
-
-#### Цена со скидкой:
-
-25300
 
 #### Рекомендуемые мобильные устройства:
 
@@ -1410,19 +1022,15 @@ Iphone 13 Pro / Pro Max
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.polarprofilters.com/
-
-#### К этому товару подходят:
-
-Фильтр PolarPro LiteChaser Pro IPhone 13 - GoldMorphic / Фильтр PolarPro LiteChaser Pro IPhone 13 - CP / Фильтр PolarPro LiteChaser Pro IPhone 13 - Mist / Фильтр PolarPro LiteChaser Pro IPhone 13 - VND 3-5
-
 #### Вес товара, кг:
 
 0.03
 
----
+
+
+
+
+
 
 ## Фильтр PolarPro LiteChaser Pro IPhone 13 - GoldMorphic
 
@@ -1440,10 +1048,6 @@ https://drone.kz/product/filtr-polarpro-litechaser-pro-iphone-13-goldmorphic/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-817465027233
-
 #### Тип:
 
 светофильтр
@@ -1456,29 +1060,9 @@ polarpro
 
 LiteChaser Pro IPhone 13 - GoldMorphic
 
-#### Код видео YouTube:
-
-jcxnKLnpPqw
-
 #### Артикул:
 
 IP13-GLD-MORPH
-
-#### Дополнительные изображения:
-
-219966 / 219967 / 219968
-
-#### KaspiQtyAlmaty:
-
-10
-
-#### KaspiQtyAstana:
-
-8
-
-#### Цена со скидкой:
-
-25300
 
 #### Рекомендуемые мобильные устройства:
 
@@ -1492,19 +1076,15 @@ Iphone 13 Pro / Pro Max
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.polarprofilters.com/
-
-#### К этому товару подходят:
-
-Фильтр PolarPro LiteChaser Pro IPhone 13 - BlueMorphic / Фильтр PolarPro LiteChaser Pro IPhone 13 - CP / Фильтр PolarPro LiteChaser Pro IPhone 13 - Mist / Фильтр PolarPro LiteChaser Pro IPhone 13 - VND 3-5
-
 #### Вес товара, кг:
 
 0.03
 
----
+
+
+
+
+
 
 ## Фильтр PolarPro LiteChaser Pro IPhone 13 - VND 3-5
 
@@ -1522,10 +1102,6 @@ https://drone.kz/product/filtr-polarpro-litechaser-pro-iphone-13-vnd-3-5/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-817465027202
-
 #### Тип:
 
 светофильтр
@@ -1538,29 +1114,9 @@ polarpro
 
 LiteChaser Pro IPhone 13 - VND 3-5
 
-#### Код видео YouTube:
-
-jcxnKLnpPqw
-
 #### Артикул:
 
 IP13-3/5-VND
-
-#### Дополнительные изображения:
-
-219970 / 219971 / 219972
-
-#### KaspiQtyAlmaty:
-
-4
-
-#### KaspiQtyAstana:
-
-8
-
-#### Цена со скидкой:
-
-31100
 
 #### Рекомендуемые мобильные устройства:
 
@@ -1574,19 +1130,15 @@ Iphone 13 Pro / Pro Max
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.polarprofilters.com/
-
-#### К этому товару подходят:
-
-Фильтр PolarPro LiteChaser Pro IPhone 13 - Mist / Фильтр PolarPro LiteChaser Pro IPhone 13 - Mist VND 3-5 / Фильтр PolarPro LiteChaser Pro IPhone 13 - BlueMorphic / Фильтр PolarPro LiteChaser Pro IPhone 13 - GoldMorphic
-
 #### Вес товара, кг:
 
 0.03
 
----
+
+
+
+
+
 
 ## Фильтр PolarPro LiteChaser Pro IPhone 13 - VND 6-7
 
@@ -1604,10 +1156,6 @@ https://drone.kz/product/filtr-polarpro-litechaser-pro-iphone-13-vnd-6-7/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-817465027240
-
 #### Тип:
 
 светофильтр
@@ -1620,29 +1168,9 @@ polarpro
 
 LiteChaser Pro IPhone 13 - VND 6-7
 
-#### Код видео YouTube:
-
-jcxnKLnpPqw
-
 #### Артикул:
 
 IP13-6/7-VND
-
-#### Дополнительные изображения:
-
-219974 / 219975 / 219976
-
-#### KaspiQtyAlmaty:
-
-9
-
-#### KaspiQtyAstana:
-
-10
-
-#### Цена со скидкой:
-
-25300
 
 #### Рекомендуемые мобильные устройства:
 
@@ -1656,19 +1184,15 @@ Iphone 13 Pro / Pro Max
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.polarprofilters.com/
-
-#### К этому товару подходят:
-
-Фильтр PolarPro LiteChaser Pro IPhone 13 - Mist VND 6-7 / Фильтр PolarPro LiteChaser Pro IPhone 13 - BlueMorphic / Фильтр PolarPro LiteChaser Pro IPhone 13 - Mist / Фильтр PolarPro LiteChaser Pro IPhone 13 - GoldMorphic
-
 #### Вес товара, кг:
 
 0.03
 
----
+
+
+
+
+
 
 ## Фильтр PolarPro LiteChaser Pro IPhone 13 - Mist VND 3-5
 
@@ -1686,10 +1210,6 @@ https://drone.kz/product/filtr-polarpro-litechaser-pro-iphone-13-mist-vnd-3-5/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-817465027219
-
 #### Тип:
 
 светофильтр
@@ -1702,29 +1222,9 @@ polarpro
 
 LiteChaser Pro IPhone 13 - Mist VND 3-5
 
-#### Код видео YouTube:
-
-jcxnKLnpPqw
-
 #### Артикул:
 
 IP13-Mist3/5-VND
-
-#### Дополнительные изображения:
-
-219978 / 219979 / 219980
-
-#### KaspiQtyAlmaty:
-
-13
-
-#### KaspiQtyAstana:
-
-8
-
-#### Цена со скидкой:
-
-31100
 
 #### Рекомендуемые мобильные устройства:
 
@@ -1738,19 +1238,15 @@ Iphone 13 Pro / Pro Max
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.polarprofilters.com/
-
-#### К этому товару подходят:
-
-Фильтр PolarPro LiteChaser Pro IPhone 13 - Mist / Фильтр PolarPro LiteChaser Pro IPhone 13 - VND 3-5 / Фильтр PolarPro LiteChaser Pro IPhone 13 - BlueMorphic / Фильтр PolarPro LiteChaser Pro IPhone 13 - GoldMorphic
-
 #### Вес товара, кг:
 
 0.03
 
----
+
+
+
+
+
 
 ## Фильтр PolarPro LiteChaser Pro IPhone 13 - Mist VND 6-7
 
@@ -1768,10 +1264,6 @@ https://drone.kz/product/filtr-polarpro-litechaser-pro-iphone-13-mist-vnd-6-7/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-817465027295
-
 #### Тип:
 
 светофильтр
@@ -1784,29 +1276,9 @@ polarpro
 
 LiteChaser Pro IPhone 13 - Mist VND 6-7
 
-#### Код видео YouTube:
-
-jcxnKLnpPqw
-
 #### Артикул:
 
 IP13-MIST6/7-VND
-
-#### Дополнительные изображения:
-
-219982 / 219983 / 219984
-
-#### KaspiQtyAlmaty:
-
-11
-
-#### KaspiQtyAstana:
-
-9
-
-#### Цена со скидкой:
-
-25300
 
 #### Рекомендуемые мобильные устройства:
 
@@ -1820,19 +1292,15 @@ Iphone 13 Pro / Pro Max
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.polarprofilters.com/
-
-#### К этому товару подходят:
-
-Фильтр PolarPro LiteChaser Pro IPhone 13 - Mist / Фильтр PolarPro LiteChaser Pro IPhone 13 - VND 6-7 / Фильтр PolarPro LiteChaser Pro IPhone 13 - GoldMorphic / Фильтр PolarPro LiteChaser Pro IPhone 13 - BlueMorphic
-
 #### Вес товара, кг:
 
 0.03
 
----
+
+
+
+
+
 
 ## Карта памяти SanDisk Extreme PRO microSDXC 256GB
 
@@ -1850,10 +1318,6 @@ https://drone.kz/product/karta-pamyati-sandisk-extreme-pro-microsdxc-256gb/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-619659188542
-
 #### Тип:
 
 карта памяти
@@ -1866,33 +1330,13 @@ sandisk
 
 Extreme PRO microSDXC 256GB
 
-#### Код видео YouTube:
-
-qXpw4VN73VQ
-
 #### Артикул:
 
 SDSQXCZ-256G-GN6MA
 
-#### Дополнительные изображения:
-
-220075 / 220076 / 220077 / 220078
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-0
-
-#### KaspiQtyAstana:
-
-1
-
-#### Цена со скидкой:
-
-28800
 
 #### Рабочая температура, °C:
 
@@ -1910,19 +1354,15 @@ SDSQXCZ-256G-GN6MA
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.westerndigital.com/ru-ru/products/memory-cards/sandisk-extreme-pro-uhs-i-microsd#SDSQXCZ-512G-GN6MA
-
-#### К этому товару подходят:
-
-Экшн-камера GoPro HERO10 Black / Стабилизатор для смартфона DJI Osmo Mobile 4 / Квадрокоптер DJI Mavic 3 / Экшн-камера Insta360 GO 2 Standalone / Квадрокоптер DJI Mavic 2 Pro / Экшн-камера DJI Action 2 Power Combo / Кейс PolarPro Slate Card - SD / Футляр для карт памяти Pgytech (Deep Navy) / Кейс-кадридер PGYTECH CreateMate High-Speed
-
 #### Размеры (Ш×В×Г), cm:
 
 1,5×1,09×0,1
 
----
+
+
+
+
+
 
 ## Квадрокоптер BetaFPV Pavo 360 Whoop HD
 
@@ -1939,10 +1379,6 @@ https://www.westerndigital.com/ru-ru/products/memory-cards/sandisk-extreme-pro-u
 https://drone.kz/product/kvadrokopter-betafpv-pavo-360-whoop-hd/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-728314136238
 
 #### Тип:
 
@@ -1968,10 +1404,6 @@ Pavo-360-Whoop-HD
 
 1100
 
-#### Дополнительные изображения:
-
-220086 / 220087 / 220088 / 220089 / 220090 / 220091
-
 #### Разрешение видео:
 
 720p@60
@@ -1980,21 +1412,9 @@ Pavo-360-Whoop-HD
 
 черный
 
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-1
-
 #### Ссылка на скидочную категорию:
 
 /catalog/fpv-drony/
-
-#### Цена со скидкой:
-
-99900
 
 #### Наличие камеры:
 
@@ -2007,10 +1427,6 @@ Pavo-360-Whoop-HD
 #### Макс. разрешение видеосъемки:
 
 HD (1280×720)
-
-#### Старая цена:
-
-248500
 
 #### Время работы от аккумулятора, min:
 
@@ -2028,19 +1444,15 @@ HD (1280×720)
 
 1
 
-#### Страница товара на сайте производителя:
-
-https://betafpv.com/
-
-#### К этому товару подходят:
-
-Камера BetaFPV SMO 360 / Пульт управления BetaFPV LiteRadio 2 SE ELRS / Карта памяти MicroSD ExAscend Catalyst SDXC I 512GB + SD adapter / Карта памяти MicroSD ExAscend Catalyst SDXC I 256GB + SD adapter / Рюкзак Manfrotto Advanced Gearpack для Mavic Pro / Рюкзак и сумка PGYTECH OneMo (черные сумерки) / Рюкзак+сумка PGYTECH OneMo 2 25l (Серый камуфляж)
-
 #### Вес товара, кг:
 
 0.541
 
----
+
+
+
+
+
 
 ## Модуль BetaFPV ELRS Micro TX 2.4GHz 1W
 
@@ -2057,10 +1469,6 @@ https://betafpv.com/
 https://drone.kz/product/modul-betafpv-elrs-micro-tx-2-4ghz-1w/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-728314136719
 
 #### Тип:
 
@@ -2086,25 +1494,9 @@ ELRS Micro TX 2.4GHz 1W
 
 2.4
 
-#### Дополнительные изображения:
-
-220101 / 220102 / 220103
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-1
-
-#### Цена со скидкой:
-
-38000
 
 #### Порты и интерфейсы:
 
@@ -2126,15 +1518,15 @@ ELRS Micro TX 2.4GHz 1W
 
 1
 
-#### Страница товара на сайте производителя:
-
-https://betafpv.com/
-
 #### Вес товара, кг:
 
 0.2
 
----
+
+
+
+
+
 
 ## Джойстик пульта BetaFPV LiteRadio Transmitter Nano Gimbal-Hall (Pitch/Roll Stick/Hall)
 
@@ -2152,10 +1544,6 @@ https://drone.kz/product/dzhoystik-pulta-betafpv-literadio-transmitter-nano-gimb
 
 ### Характеристики:
 
-#### Штрихкод:
-
-728314136788
-
 #### Тип:
 
 блок управления
@@ -2172,25 +1560,9 @@ LiteRadio Nano Gimbal
 
 01120008_4
 
-#### Дополнительные изображения:
-
-220119 / 220120 / 220121 / 220122 / 220123
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-4
-
-#### KaspiQtyAstana:
-
-1
-
-#### Цена со скидкой:
-
-13800
 
 #### Комплектация:
 
@@ -2200,10 +1572,6 @@ LiteRadio Nano Gimbal
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://betafpv.com/
-
 #### Размеры (Ш×В×Г), cm:
 
 3.5×4.2
@@ -2212,7 +1580,11 @@ https://betafpv.com/
 
 0.1
 
----
+
+
+
+
+
 
 ## Джойстик пульта BetaFPV LiteRadio Transmitter Nano Gimbal-Hall (Throttle/Yaw Stick/Hall)
 
@@ -2230,10 +1602,6 @@ https://drone.kz/product/dzhoystik-pulta-betafpv-literadio-transmitter-nano-gimb
 
 ### Характеристики:
 
-#### Штрихкод:
-
-728314136771
-
 #### Тип:
 
 блок управления
@@ -2250,25 +1618,9 @@ LiteRadio Nano Hall
 
 01120008_3
 
-#### Дополнительные изображения:
-
-220125 / 220126 / 220127 / 220128
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-4
-
-#### KaspiQtyAstana:
-
-2
-
-#### Цена со скидкой:
-
-13800
 
 #### Дополнительные возможности:
 
@@ -2282,10 +1634,6 @@ LiteRadio Nano Hall
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://betafpv.com/
-
 #### Размеры (Ш×В×Г), cm:
 
 3.5×4.2
@@ -2294,7 +1642,11 @@ https://betafpv.com/
 
 0.1
 
----
+
+
+
+
+
 
 ## Кейс BetaFPV для хранения передатчика LiteRadio
 
@@ -2311,10 +1663,6 @@ https://betafpv.com/
 https://drone.kz/product/keys-betafpv-dlya-khraneniya-peredatchika-literadio/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-728314136696
 
 #### Тип:
 
@@ -2336,29 +1684,13 @@ LiteRadio
 
 LiteRadio-3-case
 
-#### Дополнительные изображения:
-
-220130 / 220131 / 220132
-
 #### Цвет:
 
 серый
 
-#### KaspiQtyAlmaty:
-
-5
-
-#### KaspiQtyAstana:
-
-2
-
 #### Совместимость:
 
 BetaFPV LiteRadio 3
-
-#### Цена со скидкой:
-
-18400
 
 #### Комплектация:
 
@@ -2368,10 +1700,6 @@ BetaFPV LiteRadio 3
 
 1
 
-#### Страница товара на сайте производителя:
-
-https://betafpv.com/
-
 #### Размеры (Ш×В×Г), cm:
 
 22×20×9
@@ -2380,7 +1708,11 @@ https://betafpv.com/
 
 0.343
 
----
+
+
+
+
+
 
 ## Ремешок BetaFPV для передатчика LiteRadio
 
@@ -2397,10 +1729,6 @@ https://betafpv.com/
 https://drone.kz/product/remeshok-betafpv-dlya-peredatchika-literadio/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-728314136672
 
 #### Тип:
 
@@ -2422,25 +1750,9 @@ LiteRadio
 
 01140001_1 white
 
-#### Дополнительные изображения:
-
-220138 / 220139 / 220140
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-10
-
-#### KaspiQtyAstana:
-
-3
-
-#### Цена со скидкой:
-
-4500
 
 #### Комплектация:
 
@@ -2450,10 +1762,6 @@ LiteRadio
 
 1
 
-#### Страница товара на сайте производителя:
-
-https://betafpv.com/
-
 #### Размеры (Ш×В×Г), cm:
 
 47×2
@@ -2462,7 +1770,11 @@ https://betafpv.com/
 
 0.04
 
----
+
+
+
+
+
 
 ## Камера BetaFPV SMO 360
 
@@ -2480,10 +1792,6 @@ https://drone.kz/product/kamera-betafpv-smo-360/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-728314136467
-
 #### Тип:
 
 экшн-камера
@@ -2496,17 +1804,9 @@ betafpv
 
 SMO 360
 
-#### Код видео YouTube:
-
-jefToVxXxCU
-
 #### Артикул:
 
 SMO-360
-
-#### Дополнительные изображения:
-
-220142 / 220143 / 220144 / 220145 / 220146 / 220147
 
 #### Разрешение видео:
 
@@ -2520,21 +1820,9 @@ SMO-360
 
 черный
 
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-2
-
 #### Совместимость:
 
 Квадрокоптер Pavo360 FPV
-
-#### Цена со скидкой:
-
-282900
 
 #### Макс. разрешение видеосъемки:
 
@@ -2568,14 +1856,6 @@ SMO-360
 
 1
 
-#### Страница товара на сайте производителя:
-
-https://betafpv.com/
-
-#### К этому товару подходят:
-
-Квадрокоптер BetaFPV Pavo 360 Whoop HD
-
 #### Размеры (Ш×В×Г), cm:
 
 4×5.2×4.96
@@ -2584,7 +1864,11 @@ https://betafpv.com/
 
 0.055
 
----
+
+
+
+
+
 
 ## Квадрокоптер BetaFPV Cetus Pro FrSky D8
 
@@ -2601,10 +1885,6 @@ https://betafpv.com/
 https://drone.kz/product/kvadrokopter-betafpv-cetus-pro/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-728314135910
 
 #### Тип:
 
@@ -2630,25 +1910,9 @@ Cetus-Pro
 
 80
 
-#### Дополнительные изображения:
-
-220177 / 220178 / 220179 / 220180
-
 #### Цвет:
 
 белый
-
-#### KaspiQtyAlmaty:
-
-15
-
-#### KaspiQtyAstana:
-
-2
-
-#### Цена со скидкой:
-
-107300
 
 #### Наличие камеры:
 
@@ -2678,19 +1942,15 @@ Cetus-Pro
 
 1
 
-#### Страница товара на сайте производителя:
-
-https://betafpv.com/
-
-#### К этому товару подходят:
-
-Пульт управления BetaFPV LiteRadio 2 SE ELRS / Карта памяти MicroSD ExAscend Catalyst SDXC I 512GB + SD adapter / Карта памяти MicroSD ExAscend Catalyst SDXC I 256GB + SD adapter / Рюкзак Manfrotto Advanced Gearpack для Mavic Pro / Рюкзак и сумка PGYTECH OneMo (черные сумерки) / Рюкзак+сумка PGYTECH OneMo 2 25l (Серый камуфляж)
-
 #### Вес товара, кг:
 
 0.15
 
----
+
+
+
+
+
 
 ## Пульт управления BetaFPV LiteRadio 2 SE ELRS
 
@@ -2707,10 +1967,6 @@ https://betafpv.com/
 https://drone.kz/product/pult-upravleniya-betafpv-literadio-2-se-elrs/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-728314136184
 
 #### Тип:
 
@@ -2736,10 +1992,6 @@ LiteRadio-2-SE-elrs
 
 2.4
 
-#### Дополнительные изображения:
-
-220191 / 220192 / 220193
-
 #### Время работы, h:
 
 8
@@ -2747,18 +1999,6 @@ LiteRadio-2-SE-elrs
 #### Цвет:
 
 белый
-
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-34500
 
 #### Порты и интерфейсы:
 
@@ -2780,19 +2020,15 @@ LiteRadio-2-SE-elrs
 
 1
 
-#### Страница товара на сайте производителя:
-
-https://betafpv.com/
-
-#### К этому товару подходят:
-
-Ремешок BetaFPV для передатчика LiteRadio
-
 #### Вес товара, кг:
 
 0.25
 
----
+
+
+
+
+
 
 ## Полетный контроллер BetaFPV F4 1S 5A AIO
 
@@ -2810,10 +2046,6 @@ https://drone.kz/product/beskollektornyy-kontroller-poleta-betafpv-f4-1s-5a-aio/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-738156453851
-
 #### Тип:
 
 полетный контроллер(FC)
@@ -2830,25 +2062,9 @@ betafpv
 
 F4-1S-5A-AIO
 
-#### Дополнительные изображения:
-
-220232 / 220233
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-4
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-34500
 
 #### Тип аккумулятора:
 
@@ -2862,15 +2078,15 @@ F4-1S-5A-AIO
 
 1
 
-#### Страница товара на сайте производителя:
-
-https://betafpv.com/
-
 #### Вес товара, кг:
 
 0.01
 
----
+
+
+
+
+
 
 ## Модуль BetaFPV ELRS Micro TX 868/915MHZ
 
@@ -2887,10 +2103,6 @@ https://betafpv.com/
 https://drone.kz/product/modul-betafpv-elrs-micro-tx-915-868-mhz-500mw/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-728314136313
 
 #### Тип:
 
@@ -2916,25 +2128,9 @@ ELRS-Micro-TX-800mhz
 
 0.868-0.915
 
-#### Дополнительные изображения:
-
-220235 / 220236 / 220237
-
 #### Цвет:
 
 белый
-
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-35700
 
 #### Порты и интерфейсы:
 
@@ -2956,15 +2152,15 @@ ELRS-Micro-TX-800mhz
 
 1
 
-#### Страница товара на сайте производителя:
-
-https://betafpv.com/
-
 #### Вес товара, кг:
 
 0.2
 
----
+
+
+
+
+
 
 ## Адаптер модуля BetaFPV Micro-Nano New Version
 
@@ -2982,10 +2178,6 @@ https://drone.kz/product/adapter-modulya-betafpv-micro-nano-new-version/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-728314135972
-
 #### Тип:
 
 адаптер
@@ -3002,25 +2194,9 @@ Micro-Nano New Version
 
 Micro-Nano-newV
 
-#### Дополнительные изображения:
-
-220244 / 220245 / 220246
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-5
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-3000
 
 #### Входное напряжение (мин), V:
 
@@ -3038,15 +2214,15 @@ Micro-Nano-newV
 
 1
 
-#### Страница товара на сайте производителя:
-
-https://betafpv.com/
-
 #### Вес товара, кг:
 
 0.025
 
----
+
+
+
+
+
 
 ## Приемник BetaFPV ELRS Nano
 
@@ -3063,10 +2239,6 @@ https://betafpv.com/
 https://drone.kz/product/priemnik-betafpv-elrs-nano-2-4g/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-728314135620
 
 #### Тип:
 
@@ -3092,25 +2264,9 @@ ELRS Nano
 
 2.4
 
-#### Дополнительные изображения:
-
-220263 / 220264 / 220265
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-13800
 
 #### Комплектация:
 
@@ -3120,10 +2276,6 @@ ELRS Nano
 
 1
 
-#### Страница товара на сайте производителя:
-
-https://betafpv.com/
-
 #### Размеры (Ш×В×Г), cm:
 
 1.9×0.6×1.2
@@ -3132,7 +2284,11 @@ https://betafpv.com/
 
 0.001
 
----
+
+
+
+
+
 
 ## Квадрокоптер BetaFPV Pavo 30 Whoop HD
 
@@ -3149,10 +2305,6 @@ https://betafpv.com/
 https://drone.kz/product/kvadrokopter-betafpv-pavo-30-whoop-hd/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-728314135989
 
 #### Тип:
 
@@ -3174,25 +2326,9 @@ Pavo 30 Whoop HD
 
 01010006_4 22C12
 
-#### Дополнительные изображения:
-
-220317 / 220318
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-5
-
-#### KaspiQtyAstana:
-
-1
-
-#### Цена со скидкой:
-
-79900
 
 #### Наличие камеры:
 
@@ -3201,10 +2337,6 @@ Pavo 30 Whoop HD
 #### Класс дрона:
 
 любительский
-
-#### Старая цена:
-
-175900
 
 #### Угол поворота,°:
 
@@ -3226,19 +2358,15 @@ Pavo 30 Whoop HD
 
 1
 
-#### Страница товара на сайте производителя:
-
-https://betafpv.com/
-
-#### К этому товару подходят:
-
-Пульт управления BetaFPV LiteRadio 2 SE ELRS / Карта памяти MicroSD ExAscend Catalyst SDXC I 512GB + SD adapter / Карта памяти MicroSD ExAscend Catalyst SDXC I 256GB + SD adapter / Рюкзак Manfrotto Advanced Gearpack для Mavic Pro / Рюкзак и сумка PGYTECH OneMo (черные сумерки) / Рюкзак+сумка PGYTECH OneMo 2 25l (Серый камуфляж)
-
 #### Вес товара, кг:
 
 0.23
 
----
+
+
+
+
+
 
 ## Полетный контроллер BetaFPV Toothpick F722 2-6S AIO Brushless Flight
 
@@ -3256,10 +2384,6 @@ https://drone.kz/product/kontroller-betafpv-toothpick-f722-2-6s-aio-brushless-fl
 
 ### Характеристики:
 
-#### Штрихкод:
-
-738156454018
-
 #### Тип:
 
 полетный контроллер(FC)
@@ -3276,25 +2400,9 @@ Toothpick F722 2-6S AIO Brushless Flight
 
 F722-2-6S-AIO
 
-#### Дополнительные изображения:
-
-220381 / 220382
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-75000
 
 #### Комплектация:
 
@@ -3304,10 +2412,6 @@ F722-2-6S-AIO
 
 1
 
-#### Страница товара на сайте производителя:
-
-https://betafpv.com/
-
 #### Размеры (Ш×В×Г), cm:
 
 3.3х3.3
@@ -3316,7 +2420,11 @@ https://betafpv.com/
 
 0.007
 
----
+
+
+
+
+
 
 ## Бесщеточный двигатель BetaFPV 1404-4500KV
 
@@ -3334,10 +2442,6 @@ https://drone.kz/product/besshchetochnyy-dvigatel-betafpv-1404-4500kv-4pcs/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-728314135095
-
 #### Тип:
 
 мотор
@@ -3350,33 +2454,13 @@ betafpv
 
 1404-4500KV
 
-#### Код видео YouTube:
-
-9wH1FIVMuEM
-
 #### Артикул:
 
 1404-4500KV-count4
 
-#### Дополнительные изображения:
-
-220423 / 220424 / 220425 / 220426
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-7
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-38000
 
 #### Комплектация:
 
@@ -3386,10 +2470,6 @@ betafpv
 
 1
 
-#### Страница товара на сайте производителя:
-
-https://betafpv.com/
-
 #### Размеры (Ш×В×Г), cm:
 
 1.86х1.53х1.86
@@ -3398,7 +2478,11 @@ https://betafpv.com/
 
 0.045
 
----
+
+
+
+
+
 
 ## Аккумулятор BetaFPV 300mAh 1S 30C (BT2.0) 1 шт
 
@@ -3415,10 +2499,6 @@ https://betafpv.com/
 https://drone.kz/product/akkumulyator-betafpv-300-mah-1s-30c-bt20-8pack/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-72831413703
 
 #### Тип:
 
@@ -3440,33 +2520,13 @@ BT2.0 1S 30C
 
 4.35
 
-#### Код видео YouTube:
-
-cq8Wquf3uV0
-
 #### Артикул:
 
 BT2.0-300m8
 
-#### Дополнительные изображения:
-
-220456 / 220457 / 220458
-
 #### Цвет:
 
 синий
-
-#### KaspiQtyAlmaty:
-
-41
-
-#### KaspiQtyAstana:
-
-9
-
-#### Цена со скидкой:
-
-4000
 
 #### Тип аккумулятора:
 
@@ -3480,10 +2540,6 @@ BT2.0-300m8
 
 1
 
-#### Страница товара на сайте производителя:
-
-https://betafpv.com/
-
 #### Размеры (Ш×В×Г), cm:
 
 6.73х1.18х0.61
@@ -3492,7 +2548,11 @@ https://betafpv.com/
 
 0.008
 
----
+
+
+
+
+
 
 ## LiPo-аккумулятор BetaFPV 850mAh 4S 75C XT30 2шт
 
@@ -3509,10 +2569,6 @@ https://betafpv.com/
 https://drone.kz/product/lipo-akkumulyator-betafpv-850mah-4s-75c-xt30-2pack/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-728314135125
 
 #### Тип:
 
@@ -3538,25 +2594,9 @@ betafpv
 
 4S-75C-xt30count2
 
-#### Дополнительные изображения:
-
-220479 / 220480
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-22
-
-#### KaspiQtyAstana:
-
-2
-
-#### Цена со скидкой:
-
-24200
 
 #### Тип аккумулятора:
 
@@ -3570,10 +2610,6 @@ betafpv
 
 1
 
-#### Страница товара на сайте производителя:
-
-https://betafpv.com/
-
 #### Размеры (Ш×В×Г), cm:
 
 6.2х2.8х2.8
@@ -3582,7 +2618,11 @@ https://betafpv.com/
 
 0.204
 
----
+
+
+
+
+
 
 ## Рама BetaFPV Meteor65 Pro
 
@@ -3600,10 +2640,6 @@ https://drone.kz/product/rama-betafpv-meteor65-pro/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-728314136443
-
 #### Тип:
 
 рама
@@ -3620,25 +2656,9 @@ Meteor65 Pro
 
 Meteor65-Pro-rama
 
-#### Дополнительные изображения:
-
-220561 / 220562
-
 #### Цвет:
 
 зеленый
-
-#### KaspiQtyAlmaty:
-
-28
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-4500
 
 #### Комплектация:
 
@@ -3648,11 +2668,11 @@ Meteor65-Pro-rama
 
 1
 
-#### Страница товара на сайте производителя:
 
-https://betafpv.com/
 
----
+
+
+
 
 ## 2-лопастные пропеллеры HQ 3020
 
@@ -3670,10 +2690,6 @@ https://drone.kz/product/2-lopastnye-propellery-betafpv-hq-3020/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-760625795612
-
 #### Тип:
 
 пропеллеры
@@ -3690,25 +2706,9 @@ HQ 3020
 
 WG000648
 
-#### Дополнительные изображения:
-
-220673 / 220674 / 220675
-
 #### Цвет:
 
 синий
-
-#### KaspiQtyAlmaty:
-
-40
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-4500
 
 #### Комплектация:
 
@@ -3718,11 +2718,11 @@ WG000648
 
 1
 
-#### Страница товара на сайте производителя:
 
-https://betafpv.com/
 
----
+
+
+
 
 ## 3-лопастные пропеллеры BetaFPV HQ 3030
 
@@ -3740,10 +2740,6 @@ https://drone.kz/product/3-lopastnye-propellery-betafpv-hq-3030/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-0760625794554
-
 #### Тип:
 
 пропеллеры
@@ -3760,25 +2756,9 @@ HQ 3030
 
 GP102885
 
-#### Дополнительные изображения:
-
-220705 / 220706
-
 #### Цвет:
 
 синий
-
-#### KaspiQtyAlmaty:
-
-20
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-4500
 
 #### Комплектация:
 
@@ -3788,11 +2768,11 @@ GP102885
 
 1
 
-#### Страница товара на сайте производителя:
 
-https://betafpv.com/
 
----
+
+
+
 
 ## 5-лопастные пропеллеры BetaFPV HQ 75
 
@@ -3810,10 +2790,6 @@ https://drone.kz/product/5-lopastnye-propellery-betafpv-hq-75/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-705644073808
-
 #### Тип:
 
 пропеллеры
@@ -3830,25 +2806,9 @@ HQ 75
 
 HQ-75
 
-#### Дополнительные изображения:
-
-220736 / 220737 / 220738 / 220739
-
 #### Цвет:
 
 серый
-
-#### KaspiQtyAlmaty:
-
-16
-
-#### KaspiQtyAstana:
-
-2
-
-#### Цена со скидкой:
-
-3400
 
 #### Комплектация:
 
@@ -3858,11 +2818,11 @@ HQ-75
 
 1
 
-#### Страница товара на сайте производителя:
 
-https://betafpv.com/
 
----
+
+
+
 
 ## 5-лопастные пропеллеры BetaFPV Gemfan D76
 
@@ -3880,10 +2840,6 @@ https://drone.kz/product/5-lopastnye-propellery-betafpv-gemfan-d76/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-705644073792
-
 #### Тип:
 
 пропеллеры
@@ -3900,25 +2856,9 @@ Gemfan D76
 
 Gemfan-D76
 
-#### Дополнительные изображения:
-
-220741 / 220742 / 220743
-
 #### Цвет:
 
 серый
-
-#### KaspiQtyAlmaty:
-
-21
-
-#### KaspiQtyAstana:
-
-3
-
-#### Цена со скидкой:
-
-3400
 
 #### Комплектация:
 
@@ -3928,11 +2868,11 @@ Gemfan-D76
 
 1
 
-#### Страница товара на сайте производителя:
 
-https://betafpv.com/
 
----
+
+
+
 
 ## Зарядное устройство и тестер напряжения V2 BetaFPV BT2.0
 
@@ -3949,10 +2889,6 @@ https://betafpv.com/
 https://drone.kz/product/zaryadnoe-ustroystvo-i-tester-napryazheniya-v2-betafpv-bt2-0/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-728314135088
 
 #### Тип:
 
@@ -3974,25 +2910,9 @@ BT2.0
 
 BT2.0-charge
 
-#### Дополнительные изображения:
-
-220836 / 220837 / 220838 / 220839
-
 #### Цвет:
 
 белый
-
-#### KaspiQtyAlmaty:
-
-7
-
-#### KaspiQtyAstana:
-
-6
-
-#### Цена со скидкой:
-
-8000
 
 #### Комплектация:
 
@@ -4002,11 +2922,11 @@ BT2.0-charge
 
 1
 
-#### Страница товара на сайте производителя:
 
-https://betafpv.com/
 
----
+
+
+
 
 ## 6-портовое зарядное устройство BetaFPV 1S + адаптер EU
 
@@ -4024,10 +2944,6 @@ https://drone.kz/product/6-portovoe-zaryadnoe-ustroystvo-betafpv-1s-adapter-eu/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-728314135460
-
 #### Тип:
 
 зарядное устройство
@@ -4044,25 +2960,9 @@ betafpv
 
 1S-adapter-eu
 
-#### Дополнительные изображения:
-
-220846 / 220847 / 220848 / 220849
-
 #### Цвет:
 
 белый
-
-#### KaspiQtyAlmaty:
-
-6
-
-#### KaspiQtyAstana:
-
-1
-
-#### Цена со скидкой:
-
-20700
 
 #### Входное напряжение (мин), V:
 
@@ -4084,11 +2984,11 @@ betafpv
 
 1
 
-#### Страница товара на сайте производителя:
 
-https://betafpv.com/
 
----
+
+
+
 
 ## Кейс для микродрона BetaFPV 65/75mm
 
@@ -4106,10 +3006,6 @@ https://drone.kz/product/keys-dlya-mikrodrona-betafpv-65-75mm/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-705644072856
-
 #### Тип:
 
 кейс
@@ -4126,25 +3022,9 @@ betafpv
 
 Micro-Drone
 
-#### Дополнительные изображения:
-
-220865 / 220866 / 220867 / 220868
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-10300
 
 #### Комплектация:
 
@@ -4154,11 +3034,11 @@ Micro-Drone
 
 1
 
-#### Страница товара на сайте производителя:
 
-https://betafpv.com/
 
----
+
+
+
 
 ## Ворота BetaFPV Racing Circle Gates (4 шт)
 
@@ -4176,10 +3056,6 @@ https://drone.kz/product/vorota-gonochnogo-kruga-betafpv-racing-circle/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-799649223993
-
 #### Тип:
 
 ворота
@@ -4196,25 +3072,9 @@ Racing Circle Gates
 
 Racing Circle Gates
 
-#### Дополнительные изображения:
-
-220908 / 220909 / 220910
-
 #### Цвет:
 
 синий
-
-#### KaspiQtyAlmaty:
-
-4
-
-#### KaspiQtyAstana:
-
-1
-
-#### Цена со скидкой:
-
-23000
 
 #### Комплектация:
 
@@ -4224,11 +3084,11 @@ Racing Circle Gates
 
 1
 
-#### Страница товара на сайте производителя:
 
-https://betafpv.com/
 
----
+
+
+
 
 ## Коннектор BetaFPV BT2.0
 
@@ -4246,10 +3106,6 @@ https://drone.kz/product/konnektor-betafpv-bt2-0/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-741376069122
-
 #### Тип:
 
 коннектор
@@ -4262,33 +3118,13 @@ betafpv
 
 BT2.0
 
-#### Код видео YouTube:
-
-cq8Wquf3uV0
-
 #### Артикул:
 
 BT2.0
 
-#### Дополнительные изображения:
-
-220918 / 220919
-
 #### Цвет:
 
 белый
-
-#### KaspiQtyAlmaty:
-
-20
-
-#### KaspiQtyAstana:
-
-5
-
-#### Цена со скидкой:
-
-4500
 
 #### Комплектация:
 
@@ -4298,11 +3134,11 @@ BT2.0
 
 1
 
-#### Страница товара на сайте производителя:
 
-https://betafpv.com/
 
----
+
+
+
 
 ## Аккумулятор DJI Mavic 3 Intelligent Flight Battery
 
@@ -4319,10 +3155,6 @@ https://betafpv.com/
 https://drone.kz/product/akkumulyator-dji-mavic-3-intelligent-flight-battery/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6941565922816
 
 #### Тип:
 
@@ -4344,25 +3176,9 @@ Mavic 3 Intelligent Flight Battery
 
 Mavic-3
 
-#### Дополнительные изображения:
-
-220940 / 220941 / 220942
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-0
-
-#### KaspiQtyAstana:
-
-1
-
-#### Цена со скидкой:
-
-121700
 
 #### Рабочая температура, °C:
 
@@ -4388,7 +3204,11 @@ Mavic-3
 
 6
 
----
+
+
+
+
+
 
 ## Демпфер вибрации Insta360 Vibration Damper
 
@@ -4405,10 +3225,6 @@ Mavic-3
 https://drone.kz/product/dempfer-vibratsii-insta360-vibration-damper/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970357853359
 
 #### Тип:
 
@@ -4430,33 +3246,13 @@ insta360
 
 CINSTBA/A
 
-#### Дополнительные изображения:
-
-220944 / 220945 / 220946
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-2
-
 #### Совместимость:
 
 Insta 360
-
-#### Цена со скидкой:
-
-18650
-
-#### Старая цена:
-
-37300
 
 #### Комплектация:
 
@@ -4466,15 +3262,11 @@ Insta 360
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.insta360.com/
 
-#### К этому товару подходят:
 
-Экшн-камера Insta360 GO 2 / Экшн-камера Insta360 GO 2 Standalone
 
----
+
 
 ## Кейс для дайвинга Insta360 GO 2
 
@@ -4491,10 +3283,6 @@ https://www.insta360.com/
 https://drone.kz/product/keys-dlya-dayvinga-insta360-go-2/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970357852918
 
 #### Тип:
 
@@ -4516,29 +3304,13 @@ Insta360-divego2
 
 45
 
-#### Дополнительные изображения:
-
-220948 / 220949
-
 #### Цвет:
 
 серый
 
-#### KaspiQtyAlmaty:
-
-6
-
-#### KaspiQtyAstana:
-
-2
-
 #### Совместимость:
 
 Insta 360
-
-#### Цена со скидкой:
-
-6500
 
 #### Комплектация:
 
@@ -4548,19 +3320,15 @@ Insta 360
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.insta360.com/
-
-#### К этому товару подходят:
-
-Экшн-камера Insta360 GO 2 Standalone / Экшн-камера Insta360 GO 2
-
 #### Вес товара, кг:
 
 0.131
 
----
+
+
+
+
+
 
 ## Поворотная подставка Insta360 GO 2 Pivot Stand
 
@@ -4577,10 +3345,6 @@ https://www.insta360.com/
 https://drone.kz/product/povorotnaya-podstavka-insta360-go-2-pivot-stand/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970357852741
 
 #### Тип:
 
@@ -4602,21 +3366,9 @@ GO 2
 
 Insta360-pivotstand
 
-#### Дополнительные изображения:
-
-220959 / 220960 / 220961
-
 #### Цвет:
 
 белый
-
-#### KaspiQtyAlmaty:
-
-7
-
-#### KaspiQtyAstana:
-
-2
 
 #### Совместимость:
 
@@ -4626,14 +3378,6 @@ Insta 360 GO 2
 
 https://drone.kz/catalog/aksessuary-dlya-ehkshn-kamer/
 
-#### Цена со скидкой:
-
-4350
-
-#### Старая цена:
-
-8700
-
 #### Комплектация:
 
 Поворотная подставка Insta360 GO 2 Pivot Stand / Документация
@@ -4642,15 +3386,11 @@ https://drone.kz/catalog/aksessuary-dlya-ehkshn-kamer/
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.insta360.com/
 
-#### К этому товару подходят:
 
-Экшн-камера Insta360 GO 2 Standalone / Экшн-камера Insta360 GO 2
 
----
+
 
 ## Магнитная подвеска Insta360 GO 2 Magnet Pendant
 
@@ -4668,10 +3408,6 @@ https://drone.kz/product/magnitnaya-podveska-insta360-go-2-magnet-pendant/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970357852758
-
 #### Тип:
 
 крепление
@@ -4688,29 +3424,13 @@ GO 2
 
 Insta360-magnetpendant
 
-#### Дополнительные изображения:
-
-220963 / 220964
-
 #### Цвет:
 
 серый
 
-#### KaspiQtyAlmaty:
-
-9
-
-#### KaspiQtyAstana:
-
-1
-
 #### Совместимость:
 
 Insta 360
-
-#### Цена со скидкой:
-
-4500
 
 #### Комплектация:
 
@@ -4720,15 +3440,11 @@ Insta 360
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.insta360.com/
 
-#### К этому товару подходят:
 
-Экшн-камера Insta360 GO 2 Standalone / Экшн-камера Insta360 GO 2
 
----
+
 
 ## Крепление Insta360 GO 2 Easy Clip
 
@@ -4746,10 +3462,6 @@ https://drone.kz/product/kreplenie-insta360-go-2-easy-clip/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970357852819
-
 #### Тип:
 
 крепление
@@ -4766,33 +3478,13 @@ GO 2 Easy Clip
 
 Insta360-easyclip
 
-#### Дополнительные изображения:
-
-220966 / 220967
-
 #### Цвет:
 
 серый
 
-#### KaspiQtyAlmaty:
-
-9
-
-#### KaspiQtyAstana:
-
-1
-
 #### Совместимость:
 
 Insta 360
-
-#### Цена со скидкой:
-
-6800
-
-#### Старая цена:
-
-6500
 
 #### Комплектация:
 
@@ -4802,15 +3494,11 @@ Insta 360
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.insta360.com/
 
-#### К этому товару подходят:
 
-Экшн-камера Insta360 GO 2 Standalone / Экшн-камера Insta360 GO 2
 
----
+
 
 ## Набор креплений Insta360 GO 2 Mount Adapter Bundle
 
@@ -4828,10 +3516,6 @@ https://drone.kz/product/nabor-krepleniy-insta360-go-2/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970357852826
-
 #### Тип:
 
 крепление / комплект
@@ -4848,33 +3532,13 @@ GO 2 Mount Adapter Bundle
 
 CING2CB/H
 
-#### Дополнительные изображения:
-
-220969 / 220970 / 220971 / 220972
-
 #### Цвет:
 
 белый
 
-#### KaspiQtyAlmaty:
-
-9
-
-#### KaspiQtyAstana:
-
-3
-
 #### Совместимость:
 
 Insta 360
-
-#### Цена со скидкой:
-
-7100
-
-#### Старая цена:
-
-14200
 
 #### Комплектация:
 
@@ -4884,14 +3548,6 @@ Insta 360
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.insta360.com/
-
-#### К этому товару подходят:
-
-Экшн-камера Insta360 GO 2 Standalone / Экшн-камера Insta360 GO 2
-
 #### Размер упаковки (Ш×В×Г), cm:
 
 21.6х12.5х4.4
@@ -4900,7 +3556,11 @@ https://www.insta360.com/
 
 0.16
 
----
+
+
+
+
+
 
 ## Крепление Insta360 GO 2 Pet Strap Mount
 
@@ -4918,10 +3578,6 @@ https://drone.kz/product/kreplenie-insta360-go-2-pet-strap-mount/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970357852857
-
 #### Тип:
 
 крепление
@@ -4938,33 +3594,13 @@ GO 2 Pet Strap Mount
 
 Insta360-petstrapmount
 
-#### Дополнительные изображения:
-
-220974 / 220975 / 220976
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-1
-
 #### Совместимость:
 
 Insta 360
-
-#### Цена со скидкой:
-
-6800
-
-#### Старая цена:
-
-6500
 
 #### Комплектация:
 
@@ -4974,14 +3610,6 @@ Insta 360
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.insta360.com/
-
-#### К этому товару подходят:
-
-Экшн-камера Insta360 GO 2 Standalone / Экшн-камера Insta360 GO 2
-
 #### Размер упаковки (Ш×В×Г), cm:
 
 18х12.7х1.8
@@ -4990,7 +3618,11 @@ https://www.insta360.com/
 
 0.085
 
----
+
+
+
+
+
 
 ## Набор фильтров Insta360 GO 2 ND
 
@@ -5008,10 +3640,6 @@ https://drone.kz/product/nabor-filtrov-insta360-go-2-nd/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-685757793971
-
 #### Тип:
 
 светофильтр
@@ -5028,29 +3656,13 @@ GO 2 ND
 
 FW-GO2-STD
 
-#### Дополнительные изображения:
-
-220978 / 220979 / 220980 / 220981
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-1
-
 #### Совместимость:
 
 Insta 360
-
-#### Цена со скидкой:
-
-20700
 
 #### Комплектация:
 
@@ -5060,14 +3672,6 @@ Insta 360
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.insta360.com/
-
-#### К этому товару подходят:
-
-Экшн-камера Insta360 GO 2 Standalone / Экшн-камера Insta360 GO 2
-
 #### Размер упаковки (Ш×В×Г), cm:
 
 8х8х2.5
@@ -5076,7 +3680,11 @@ https://www.insta360.com/
 
 0.06
 
----
+
+
+
+
+
 
 ## Монопод Insta360 Invisible Selfie Stick One R
 
@@ -5094,10 +3702,6 @@ https://drone.kz/product/monopod-insta360-invisible-selfie-stick-one-r/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970357851744
-
 #### Тип:
 
 монопод
@@ -5114,25 +3718,9 @@ Invisible Selfie Stick One R
 
 Insta360-70cm
 
-#### Дополнительные изображения:
-
-220983 / 220984
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-6
-
-#### Цена со скидкой:
-
-14200
 
 #### Комплектация:
 
@@ -5142,14 +3730,6 @@ Insta360-70cm
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.insta360.com/
-
-#### К этому товару подходят:
-
-Панорамная экшн-камера Insta360 ONE X2 Standalone / Экшн-камера Insta360 GO 2 Standalone / Модульная экшн-камера Insta360 ONE R 1-Inch Edition / Панорамная экшн-камера Insta360 Pro 2 Standard
-
 #### Размер упаковки (Ш×В×Г), cm:
 
 2.6х18х2.6
@@ -5158,7 +3738,11 @@ https://www.insta360.com/
 
 0.095
 
----
+
+
+
+
+
 
 ## Монопод Insta360 2-in-1 Invisible Selfie Stick + Tripod
 
@@ -5176,10 +3760,6 @@ https://drone.kz/product/monopod-insta360-2-in-1-invisible-selfie-stick-tripod/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970357852338
-
 #### Тип:
 
 монопод
@@ -5196,25 +3776,9 @@ insta360
 
 Insta360-2v1
 
-#### Дополнительные изображения:
-
-220986 / 220987 / 220988
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-35
-
-#### KaspiQtyAstana:
-
-16
-
-#### Цена со скидкой:
-
-16100
 
 #### Комплектация:
 
@@ -5224,15 +3788,11 @@ Insta360-2v1
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.insta360.com/
 
-#### К этому товару подходят:
 
-Панорамная экшн-камера Insta360 ONE X2 Standalone / Экшн-камера Insta360 GO 2 Standalone / Модульная экшн-камера Insta360 ONE R 1-Inch Edition
 
----
+
 
 ## Трипод Insta360
 
@@ -5250,10 +3810,6 @@ https://drone.kz/product/tripod-insta360/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970357851317
-
 #### Тип:
 
 штатив
@@ -5270,29 +3826,13 @@ no
 
 CINTRPH
 
-#### Дополнительные изображения:
-
-220990 / 220991
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-4
-
 #### Совместимость:
 
 Совместимость Insta360 ONE R, ONE X/X2, ONE / Максимальный несущий вес: 500 г
-
-#### Цена со скидкой:
-
-24200
 
 #### Порты и интерфейсы:
 
@@ -5306,15 +3846,11 @@ CINTRPH
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.insta360.com/
 
-#### К этому товару подходят:
 
-Панорамная экшн-камера Insta360 ONE X2 Standalone / Экшн-камера Insta360 GO 2 Standalone / Модульная экшн-камера Insta360 ONE R 1-Inch Edition
 
----
+
 
 ## Адаптер Insta360 Quick Reader (Vertical)
 
@@ -5332,10 +3868,6 @@ https://drone.kz/product/adapter-insta360-quick-reader-vertical-version/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970357853267
-
 #### Тип:
 
 адаптер
@@ -5348,33 +3880,13 @@ insta360
 
 Quick Reader (Vertical version)
 
-#### Код видео YouTube:
-
-ILoMz1-wf9A
-
 #### Артикул:
 
 Quick Reader (Vertical version)
 
-#### Дополнительные изображения:
-
-220993 / 220994 / 220995 / 220996
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-5
-
-#### KaspiQtyAstana:
-
-1
-
-#### Цена со скидкой:
-
-19800
 
 #### Комплектация:
 
@@ -5384,15 +3896,11 @@ Quick Reader (Vertical version)
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.insta360.com/
 
-#### К этому товару подходят:
 
-Панорамная экшн-камера Insta360 ONE X2 Standalone / Экшн-камера Insta360 GO 2 Standalone / Модульная экшн-камера Insta360 ONE R 1-Inch Edition
 
----
+
 
 ## Защита линз Insta360 ONE X2 Lens Guards
 
@@ -5410,10 +3918,6 @@ https://drone.kz/product/zashchita-linz-insta360-one-x2-lens-guards/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970357852574
-
 #### Тип:
 
 защита
@@ -5426,10 +3930,6 @@ insta360
 
 ONE X2 Lens Guards
 
-#### Код видео YouTube:
-
-c6n_INLBAqM
-
 #### Артикул:
 
 Insta360-onex2l
@@ -5438,29 +3938,9 @@ Insta360-onex2l
 
 10
 
-#### Дополнительные изображения:
-
-220998 / 220999
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-16
-
-#### KaspiQtyAstana:
-
-21
-
-#### Цена со скидкой:
-
-35700
-
-#### Старая цена:
-
-34000
 
 #### Комплектация:
 
@@ -5470,15 +3950,11 @@ Insta360-onex2l
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.insta360.com/
 
-#### К этому товару подходят:
 
-Панорамная экшн-камера Insta360 ONE X2 Standalone / Экшн-камера Insta360 GO 2 Standalone / Модульная экшн-камера Insta360 ONE R 1-Inch Edition
 
----
+
 
 ## Липкие защитные пленки Insta360 One X2 Sticky Lens Guards
 
@@ -5496,10 +3972,6 @@ https://drone.kz/product/lipkie-zashchitnye-plenki-insta360-one-x2-sticky-lens-g
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970357852314
-
 #### Тип:
 
 защита
@@ -5512,37 +3984,13 @@ insta360
 
 One X2
 
-#### Код видео YouTube:
-
-c6n_INLBAqM
-
 #### Артикул:
 
 Insta360-normal
 
-#### Дополнительные изображения:
-
-221004 / 221005 / 221006 / 221007
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-55
-
-#### KaspiQtyAstana:
-
-11
-
-#### Цена со скидкой:
-
-6550
-
-#### Старая цена:
-
-13100
 
 #### Комплектация:
 
@@ -5552,15 +4000,11 @@ Insta360-normal
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.insta360.com/
 
-#### К этому товару подходят:
 
-Панорамная экшн-камера Insta360 ONE X2 Standalone / Экшн-камера Insta360 GO 2 Standalone
 
----
+
 
 ## Рукоятка-штатив Insta360 Bullet Time Handle
 
@@ -5577,10 +4021,6 @@ https://www.insta360.com/
 https://drone.kz/product/rukoyatka-shtativ-insta360-bullet-time-handle/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970357850938
 
 #### Тип:
 
@@ -5602,25 +4042,9 @@ Bullet Time Handle
 
 CINGBTH/A
 
-#### Дополнительные изображения:
-
-221040 / 221041
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-15
-
-#### KaspiQtyAstana:
-
-3
-
-#### Цена со скидкой:
-
-28200
 
 #### Дополнительные возможности:
 
@@ -5634,11 +4058,11 @@ CINGBTH/A
 
 12
 
-#### К этому товару подходят:
 
-Модульная экшн-камера Insta360 ONE R 1-Inch Edition / Экшн-камера Insta360 GO 2 Standalone / Панорамная экшн-камера Insta360 Pro 2 Standard / Панорамная экшн-камера Insta360 ONE X2 Standalone
 
----
+
+
+
 
 ## Крепление Ulanzi PT-21 для Insta360 One X2
 
@@ -5656,10 +4080,6 @@ https://drone.kz/product/kreplenie-ulanzi-pt-21-dlya-insta360-one-x2/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6972436383764
-
 #### Тип:
 
 крепление
@@ -5676,25 +4096,9 @@ Ulanzi PT-21 для One X2
 
 PT-21
 
-#### Дополнительные изображения:
-
-221043
-
 #### Цвет:
 
 серый
-
-#### KaspiQtyAlmaty:
-
-8
-
-#### KaspiQtyAstana:
-
-1
-
-#### Цена со скидкой:
-
-33400
 
 #### Комплектация:
 
@@ -5704,11 +4108,11 @@ PT-21
 
 12
 
-#### К этому товару подходят:
 
-Панорамная экшн-камера Insta360 ONE X2 Standalone / Экшн-камера Insta360 GO 2 Standalone
 
----
+
+
+
 
 ## Магнитное крепление для телефона PowerVision S1
 
@@ -5726,10 +4130,6 @@ https://drone.kz/product/magnitnoe-kreplenie-dlya-telefona-powervision-s1/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970820831693
-
 #### Тип:
 
 крепление
@@ -5746,25 +4146,9 @@ S1
 
 PVSMPS10
 
-#### Дополнительные изображения:
-
-221045
-
 #### Цвет:
 
 серый
-
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-3
-
-#### Цена со скидкой:
-
-6500
 
 #### Комплектация:
 
@@ -5774,15 +4158,15 @@ PVSMPS10
 
 12
 
-#### К этому товару подходят:
-
-Клип-кейс PolarPro LiteChaser Pro | iPhone 11 Pro / Клип-кейс PolarPro LiteChaser Pro | iPhone 11 Pro Max / Клип-кейс PolarPro LiteChaser Pro | iPhone 12 Pro Max Black
-
 #### Вес товара, кг:
 
 0.64
 
----
+
+
+
+
+
 
 ## Магнитный зажим для телефона PowerVision S1
 
@@ -5800,10 +4184,6 @@ https://drone.kz/product/magnitnyy-zazhim-dlya-telefona-powervision-s1/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970820831921
-
 #### Тип:
 
 крепление
@@ -5820,25 +4200,9 @@ S1
 
 Magnetic Phone Clamp
 
-#### Дополнительные изображения:
-
-221047
-
 #### Цвет:
 
 серый
-
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-9
-
-#### Цена со скидкой:
-
-6500
 
 #### Комплектация:
 
@@ -5848,15 +4212,15 @@ Magnetic Phone Clamp
 
 12
 
-#### К этому товару подходят:
-
-Клип-кейс PolarPro LiteChaser Pro | iPhone 11 Pro / Клип-кейс PolarPro LiteChaser Pro | iPhone 11 Pro Max / Клип-кейс PolarPro LiteChaser Pro | iPhone 12 Pro Max Black
-
 #### Вес товара, кг:
 
 0.7
 
----
+
+
+
+
+
 
 ## Монопод Insta360 Extended Edition Selfie Stick 3m
 
@@ -5874,10 +4238,6 @@ https://drone.kz/product/palka-dlya-selfi-insta360-extended-edition-selfie-stick
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970357852611
-
 #### Тип:
 
 монопод
@@ -5890,10 +4250,6 @@ insta360
 
 Extended Edition Selfie Stick (новая версия)
 
-#### Код видео YouTube:
-
-X0TljUgGH-I
-
 #### Артикул:
 
 SelfieStick
@@ -5902,29 +4258,13 @@ SelfieStick
 
 3
 
-#### Дополнительные изображения:
-
-221055 / 221056 / 221057
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-13
-
-#### KaspiQtyAstana:
-
-5
-
 #### Совместимость:
 
 Insta360 ONE RS,ONE X2,ONE R,ONE X,ONE
-
-#### Цена со скидкой:
-
-49900
 
 #### Порты и интерфейсы:
 
@@ -5938,10 +4278,6 @@ Insta360 ONE RS,ONE X2,ONE R,ONE X,ONE
 
 12
 
-#### К этому товару подходят:
-
-Модульная экшн-камера Insta360 ONE R 1-Inch Edition / Панорамная экшн-камера Insta360 ONE X2 Standalone
-
 #### Размеры (Ш×В×Г), cm:
 
 36-300х3.6x3.6
@@ -5950,7 +4286,11 @@ Insta360 ONE RS,ONE X2,ONE R,ONE X,ONE
 
 0.365
 
----
+
+
+
+
+
 
 ## Панорамная камера Insta360 Sphere
 
@@ -5967,10 +4307,6 @@ Insta360 ONE RS,ONE X2,ONE R,ONE X,ONE
 https://drone.kz/product/panoramnaya-kamera-insta360-sphere/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970357853526
 
 #### Тип:
 
@@ -5996,10 +4332,6 @@ Sphere
 
 90
 
-#### Код видео YouTube:
-
-XElwZifhYl8
-
 #### Артикул:
 
 CINSTAW/A
@@ -6011,10 +4343,6 @@ Mavic Air
 #### Дальность действия, m:
 
 10
-
-#### Дополнительные изображения:
-
-221118 / 221119 / 221120 / 221121 / 221122 / 221123 / 221124
 
 #### Разрешение видео:
 
@@ -6036,21 +4364,9 @@ Mavic Air
 
 черный
 
-#### KaspiQtyAlmaty:
-
-12
-
-#### KaspiQtyAstana:
-
-3
-
 #### Совместимость:
 
 DJI Mavic Air 2/2S
-
-#### Цена со скидкой:
-
-150600
 
 #### Наличие камеры:
 
@@ -6096,10 +4412,6 @@ CMOS
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://insta360.ru/
-
 #### Размеры (Ш×В×Г), cm:
 
 12.5×11×6.3
@@ -6112,7 +4424,11 @@ https://insta360.ru/
 
 0.192
 
----
+
+
+
+
+
 
 ## Модульная экшн-камера Insta360 ONE RS 1-Inch
 
@@ -6129,10 +4445,6 @@ https://insta360.ru/
 https://drone.kz/product/modulnaya-ekshn-kamera-insta360-one-rs-1-inch/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970357852987
 
 #### Тип:
 
@@ -6158,17 +4470,9 @@ ONE RS
 
 60
 
-#### Код видео YouTube:
-
-eLSlUZJMNRU
-
 #### Артикул:
 
 CINRSGP/B
-
-#### Дополнительные изображения:
-
-221136 / 221137 / 221138 / 221139 / 221140
 
 #### Разрешение видео:
 
@@ -6186,21 +4490,9 @@ CINRSGP/B
 
 черный
 
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-2
-
 #### Ссылка на скидочную категорию:
 
 https://drone.kz/catalog/ekshn-kamery/filter/product_type-is-b6b6668cd26e9780968fa74eafb18516/brand-is-insta360/
-
-#### Цена со скидкой:
-
-347500
 
 #### Макс. разрешение видеосъемки:
 
@@ -6238,14 +4530,6 @@ https://drone.kz/catalog/ekshn-kamery/filter/product_type-is-b6b6668cd26e9780968
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://insta360.ru/
-
-#### К этому товару подходят:
-
-Кейс PGYTECH для экшн-камеры / Крепление Insta360 ONE RS Cold Shoe / Монопод Insta360 Extended Edition Selfie Stick 3m / Штатив-рукоятка PGYTECH для экшн-камеры / Крепление на трёх присосках PGYTECH / Карта памяти SanDisk Extreme PRO microSDXC 256GB / Крепление на руль PGYTECH для экшн-камеры / Крепление с присоской PGYTECH для экшн-камеры / Монопод Insta360 2-in-1 Invisible Selfie Stick + Tripod / Монопод Insta360 Invisible Selfie Stick One R / Карта памяти MicroSD ExAscend Catalyst SDXC I 512GB + SD adapter / Карта памяти MicroSD ExAscend Catalyst SDXC I 256GB + SD adapter
-
 #### Размеры (Ш×В×Г), cm:
 
 7.87×5.57×4.72
@@ -6254,7 +4538,11 @@ https://insta360.ru/
 
 0.163
 
----
+
+
+
+
+
 
 ## Крепление на рюкзак Insta360 Third-Person
 
@@ -6272,10 +4560,6 @@ https://drone.kz/product/kreplenie-na-ryukzak-insta360-third-person/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970357853625
-
 #### Тип:
 
 крепление
@@ -6292,33 +4576,13 @@ Third-Person
 
 Алюминий, нейлон, карбон
 
-#### Код видео YouTube:
-
-ZUjD_34Nb1Y
-
 #### Артикул:
 
 CINSTAV/C
 
-#### Дополнительные изображения:
-
-221185 / 221186
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-10
-
-#### Цена со скидкой:
-
-41500
 
 #### Комплектация:
 
@@ -6328,15 +4592,15 @@ CINSTAV/C
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://insta360.ru/
-
 #### Вес товара, кг:
 
 0.3
 
----
+
+
+
+
+
 
 ## Защита для линз Insta360 Sticky Lens Guards
 
@@ -6354,10 +4618,6 @@ https://drone.kz/product/zashchita-dlya-linz-insta360-sticky-lens-guards/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970357852970
-
 #### Тип:
 
 защита
@@ -6370,37 +4630,17 @@ insta360
 
 Lens Guards
 
-#### Код видео YouTube:
-
-c6n_INLBAqM
-
 #### Артикул:
 
 CINFSSF/A
-
-#### Дополнительные изображения:
-
-221188 / 221189 / 221190 / 221191
 
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-9
-
-#### KaspiQtyAstana:
-
-7
-
 #### Совместимость:
 
 ONE R/RS 360 Edition
-
-#### Цена со скидкой:
-
-6500
 
 #### Комплектация:
 
@@ -6410,10 +4650,6 @@ ONE R/RS 360 Edition
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://insta360.ru/
-
 #### Размеры (Ш×В×Г), cm:
 
 3.38х3.78х1.12
@@ -6422,7 +4658,11 @@ https://insta360.ru/
 
 0.002
 
----
+
+
+
+
+
 
 ## Адаптер передачи данных Insta360 Quick Reader (Horizontal)
 
@@ -6440,10 +4680,6 @@ https://drone.kz/product/modul-peredachi-dannykh-insta360-quick-reader-horizonta
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970357853083
-
 #### Тип:
 
 адаптер
@@ -6460,37 +4696,17 @@ Quick Reader
 
 Пластик
 
-#### Код видео YouTube:
-
-BgJQVOS-L5I
-
 #### Артикул:
 
 CINRSCR/A
-
-#### Дополнительные изображения:
-
-221193 / 221194
 
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-2
-
 #### Совместимость:
 
 ONE RS, ONE R
-
-#### Цена со скидкой:
-
-19700
 
 #### Использование карт памяти:
 
@@ -6516,7 +4732,11 @@ ONE RS, ONE R
 
 0.064
 
----
+
+
+
+
+
 
 ## Зарядное устройство Insta360 ONE R/RS Fast Charge Hub
 
@@ -6533,10 +4753,6 @@ ONE RS, ONE R
 https://drone.kz/product/zaryadnoe-ustroystvo-insta360-one-r-rs-fast-charge-hub/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970357851539
 
 #### Тип:
 
@@ -6562,29 +4778,13 @@ ONE R/RS
 
 CINORBC/A
 
-#### Дополнительные изображения:
-
-221216 / 221217 / 221218 / 221219 / 221220 / 221221
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-2
-
 #### Совместимость:
 
 ONE R, ONE RS
-
-#### Цена со скидкой:
-
-19500
 
 #### Порты и интерфейсы:
 
@@ -6598,10 +4798,6 @@ ONE R, ONE RS
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://insta360.ru/
-
 #### Размер упаковки (Ш×В×Г), cm:
 
 16.26×5.08×9.66
@@ -6610,7 +4806,11 @@ https://insta360.ru/
 
 0.166
 
----
+
+
+
+
+
 
 ## Монтажная рамка Insta360 ONE RS Mounting Bracket
 
@@ -6627,10 +4827,6 @@ https://insta360.ru/
 https://drone.kz/product/montazhnaya-ramka-insta360-one-rs-mounting-bracket/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970357853090
 
 #### Тип:
 
@@ -6652,29 +4848,13 @@ ONE RS
 
 CINORSC/D
 
-#### Дополнительные изображения:
-
-221223 / 221224 / 221225 / 221226
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 ONE RS
-
-#### Цена со скидкой:
-
-13800
 
 #### Порты и интерфейсы:
 
@@ -6688,10 +4868,6 @@ ONE RS
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://insta360.ru/
-
 #### Размеры (Ш×В×Г), cm:
 
 7.83×6.09×2.89
@@ -6700,7 +4876,11 @@ https://insta360.ru/
 
 0.035
 
----
+
+
+
+
+
 
 ## Крепление Insta360 ONE RS Cold Shoe
 
@@ -6717,10 +4897,6 @@ https://insta360.ru/
 https://drone.kz/product/kreplenie-insta360-one-rs-cold-shoe/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970357853106
 
 #### Тип:
 
@@ -6742,29 +4918,13 @@ ONE RS
 
 CINORSC/E
 
-#### Дополнительные изображения:
-
-221228 / 221229 / 221230
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-1
-
 #### Совместимость:
 
 ONE RS
-
-#### Цена со скидкой:
-
-10300
 
 #### Комплектация:
 
@@ -6774,10 +4934,6 @@ ONE RS
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://insta360.ru/
-
 #### Размеры (Ш×В×Г), cm:
 
 2.6x0.94x2.34 
@@ -6786,7 +4942,11 @@ https://insta360.ru/
 
 0.008
 
----
+
+
+
+
+
 
 ## Кейс для дайвинга Insta360 ONE R/RS 4K Edition Dive Case
 
@@ -6804,10 +4964,6 @@ https://drone.kz/product/zashchitnyy-keys-insta360-one-r-rs-4k-edition-dive-case
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970357853045
-
 #### Тип:
 
 подводный кейс
@@ -6824,10 +4980,6 @@ ONE R/RS
 
 Пластик
 
-#### Код видео YouTube:
-
-rrxh8SzC87w
-
 #### Артикул:
 
 CINRSBT/B
@@ -6836,29 +4988,13 @@ CINRSBT/B
 
 60
 
-#### Дополнительные изображения:
-
-221232 / 221233 / 221234 / 221235
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 ONE R/RS 4K Edition
-
-#### Цена со скидкой:
-
-25300
 
 #### Порты и интерфейсы:
 
@@ -6872,10 +5008,6 @@ ONE R/RS 4K Edition
 
 6
 
-#### Страница товара на сайте производителя:
-
-https://insta360.ru/
-
 #### Размер упаковки (Ш×В×Г), cm:
 
 16.5×7.12×10.42
@@ -6884,7 +5016,11 @@ https://insta360.ru/
 
 0.252
 
----
+
+
+
+
+
 
 ## Кейс для дайвинга Insta360 ONE R/RS 360 Edition Dive Case
 
@@ -6902,10 +5038,6 @@ https://drone.kz/product/zashchitnyy-keys-insta360-one-r-rs-360-edition-dive-cas
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970357851713
-
 #### Тип:
 
 подводный кейс
@@ -6922,10 +5054,6 @@ ONE R/RS
 
 Пластик
 
-#### Код видео YouTube:
-
-eGD1pFvHGa0
-
 #### Артикул:
 
 CINORAW/A
@@ -6934,25 +5062,9 @@ CINORAW/A
 
 60
 
-#### Дополнительные изображения:
-
-221237 / 221238
-
-#### KaspiQtyAlmaty:
-
-8
-
-#### KaspiQtyAstana:
-
-2
-
 #### Совместимость:
 
 ONE R/RS 360 Edition
-
-#### Цена со скидкой:
-
-29600
 
 #### Порты и интерфейсы:
 
@@ -6966,10 +5078,6 @@ ONE R/RS 360 Edition
 
 6
 
-#### Страница товара на сайте производителя:
-
-https://insta360.ru/
-
 #### Размеры (Ш×В×Г), cm:
 
 8.11×14.4×7.84
@@ -6982,7 +5090,11 @@ https://insta360.ru/
 
 0.159
 
----
+
+
+
+
+
 
 ## Чехол для линз Insta360 ONE R/RS Lens Cap
 
@@ -6999,10 +5111,6 @@ https://insta360.ru/
 https://drone.kz/product/chekhol-dlya-linz-insta360-one-r-rs-lens-cap/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970357853052
 
 #### Тип:
 
@@ -7024,29 +5132,13 @@ ONE R/RS
 
 CINRSBT/C
 
-#### Дополнительные изображения:
-
-221268 / 221269 / 221270 / 221271
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 ONE R/RS
-
-#### Цена со скидкой:
-
-6800
 
 #### Комплектация:
 
@@ -7056,10 +5148,6 @@ ONE R/RS
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://insta360.ru/
-
 #### Размеры (Ш×В×Г), cm:
 
 4.07×5.13×4.69
@@ -7068,7 +5156,11 @@ https://insta360.ru/
 
 0.025
 
----
+
+
+
+
+
 
 ## Гибкое крепление Insta360 Monkey Tail Mount
 
@@ -7086,10 +5178,6 @@ https://drone.kz/product/gibkoe-kreplenie-insta360-monkey-tail-mount/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970357852765
-
 #### Тип:
 
 крепление
@@ -7106,37 +5194,17 @@ Tail Mount
 
 Cиликагель, Алюминий
 
-#### Код видео YouTube:
-
-aHXgVqilqqY
-
 #### Артикул:
 
 CING2CB/E
-
-#### Дополнительные изображения:
-
-221273 / 221274 / 221275 / 221276 / 221277
 
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-0
-
-#### KaspiQtyAstana:
-
-2
-
 #### Совместимость:
 
 ONE X, ONE X2, ONE RS, ONE R, GO 2
-
-#### Цена со скидкой:
-
-15600
 
 #### Порты и интерфейсы:
 
@@ -7150,10 +5218,6 @@ ONE X, ONE X2, ONE RS, ONE R, GO 2
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://insta360.ru/
-
 #### Размеры (Ш×В×Г), cm:
 
 50
@@ -7162,7 +5226,11 @@ https://insta360.ru/
 
 0.128
 
----
+
+
+
+
+
 
 ## Адаптер Insta360 Mic Adapter (Horizontal)
 
@@ -7179,10 +5247,6 @@ https://insta360.ru/
 https://drone.kz/product/adapter-insta360-mic-adapter-horizontal/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970357853250
 
 #### Тип:
 
@@ -7204,29 +5268,13 @@ ONE RS
 
 CINTYAV/A
 
-#### Дополнительные изображения:
-
-221279 / 221280 / 221281
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-1
-
 #### Совместимость:
 
 ONE RS
-
-#### Цена со скидкой:
-
-6500
 
 #### Порты и интерфейсы:
 
@@ -7240,10 +5288,6 @@ ONE RS
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://insta360.ru/
-
 #### Размеры (Ш×В×Г), cm:
 
 2.2×2.59×2.25
@@ -7252,7 +5296,11 @@ https://insta360.ru/
 
 0.006
 
----
+
+
+
+
+
 
 ## Монопод Insta360 Invisible Selfie Stick
 
@@ -7270,10 +5318,6 @@ https://drone.kz/product/monopod-insta360-invisible-selfie-stick-1-2m-cinsphd-d-
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970357854653
-
 #### Тип:
 
 монопод
@@ -7290,33 +5334,13 @@ Selfie Stick
 
 Карбон
 
-#### Код видео YouTube:
-
-Rxj73oTVG30
-
 #### Артикул:
 
 CINSAAVE
 
-#### Дополнительные изображения:
-
-221321 / 221322
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-38
-
-#### KaspiQtyAstana:
-
-2
-
-#### Цена со скидкой:
-
-9500
 
 #### Комплектация:
 
@@ -7326,10 +5350,6 @@ CINSAAVE
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://insta360.ru/
-
 #### Размеры (Ш×В×Г), cm:
 
 2.5×18.5×2.5
@@ -7338,7 +5358,11 @@ https://insta360.ru/
 
 0.15
 
----
+
+
+
+
+
 
 ## Стедикам DJI RS 3 Pro
 
@@ -7355,10 +5379,6 @@ https://insta360.ru/
 https://drone.kz/product/stedikam-dji-rs-3-pro/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6941565929761
 
 #### Тип:
 
@@ -7380,10 +5400,6 @@ RS 3 Pro
 
 1.5
 
-#### Код видео YouTube:
-
-MumLQJx0-ZQ
-
 #### Артикул:
 
 DJI-RS300P
@@ -7391,10 +5407,6 @@ DJI-RS300P
 #### Дальность действия, m:
 
 200
-
-#### Дополнительные изображения:
-
-221324 / 221325 / 221326 / 221327 / 221328 / 221329
 
 #### Время работы, h:
 
@@ -7408,21 +5420,9 @@ DJI-RS300P
 
 4.5
 
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-1
-
 #### Ссылка на скидочную категорию:
 
 https://drone.kz/catalog/professionalnye-ctedikamy/
-
-#### Цена со скидкой:
-
-386900
 
 #### Порты и интерфейсы:
 
@@ -7448,22 +5448,6 @@ https://drone.kz/catalog/professionalnye-ctedikamy/
 
 12
 
-#### Спецификация:
-
-https://www.dji.com/ru/rs-3-pro/specs
-
-#### Руководство пользователя:
-
-https://dl.djicdn.com/downloads/DJI_RS_3_Pro/DJI_RS_3_Pro_User_Manual_v1.0_enI.pdf
-
-#### Руководство по быстрому старту:
-
-https://dl.djicdn.com/downloads/DJI_RS_3_Pro/DJI_RS_3_Pro_Quick_Start_Guide.pdf
-
-#### Страница товара на сайте производителя:
-
-https://www.dji.com/ru/rs-3-pro
-
 #### Размеры (Ш×В×Г), cm:
 
 27.6×26.8×6.8
@@ -7472,7 +5456,11 @@ https://www.dji.com/ru/rs-3-pro
 
 1.8
 
----
+
+
+
+
+
 
 ## Крепление на руку Insta360 Hand Mount Bundle
 
@@ -7489,10 +5477,6 @@ https://www.dji.com/ru/rs-3-pro
 https://drone.kz/product/kreplenie-na-ruku-insta360-hand-mount-bundle/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970357853304
 
 #### Тип:
 
@@ -7514,29 +5498,13 @@ Hand Mount
 
 CINTYAV/C
 
-#### Дополнительные изображения:
-
-221360 / 221361 / 221362 / 221363 / 221364 / 221365
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-10
-
-#### KaspiQtyAstana:
-
-2
-
 #### Совместимость:
 
 ONE RS (1-Inch 360 excluded),GO 2,ONE X2,ONE R,ONE X
-
-#### Цена со скидкой:
-
-18400
 
 #### Комплектация:
 
@@ -7546,10 +5514,6 @@ ONE RS (1-Inch 360 excluded),GO 2,ONE X2,ONE R,ONE X
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://insta360.ru/
-
 #### Размер упаковки (Ш×В×Г), cm:
 
 13.8×4.4×9.4
@@ -7558,7 +5522,11 @@ https://insta360.ru/
 
 0.131
 
----
+
+
+
+
+
 
 ## Крепление на шлем Insta360 Helmet Chin Mount
 
@@ -7575,10 +5543,6 @@ https://insta360.ru/
 https://drone.kz/product/kreplenie-na-shlem-insta360-helmet-chin-mount/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970357853311
 
 #### Тип:
 
@@ -7600,29 +5564,13 @@ Helmet Chin
 
 CINCHUX/B
 
-#### Дополнительные изображения:
-
-221367 / 221368
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-11
-
-#### KaspiQtyAstana:
-
-1
-
 #### Совместимость:
 
 ONE X2, ONE RS, ONE R, ONE X, GO 2
-
-#### Цена со скидкой:
-
-13800
 
 #### Комплектация:
 
@@ -7632,10 +5580,6 @@ ONE X2, ONE RS, ONE R, ONE X, GO 2
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://insta360.ru/
-
 #### Размеры (Ш×В×Г), cm:
 
 13.36×4×7.78
@@ -7644,7 +5588,11 @@ https://insta360.ru/
 
 0.076
 
----
+
+
+
+
+
 
 ## Пульт управления Insta360 Roadie Remote
 
@@ -7661,10 +5609,6 @@ https://insta360.ru/
 https://drone.kz/product/pult-upravleniya-insta360-roadie-remote/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970357852659
 
 #### Тип:
 
@@ -7686,29 +5630,13 @@ Roadie Remote
 
 DINKYKQ/A
 
-#### Дополнительные изображения:
-
-221370 / 221371 / 221372
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-0
-
-#### KaspiQtyAstana:
-
-2
-
 #### Совместимость:
 
 ONE RS / ONE R
-
-#### Цена со скидкой:
-
-10100
 
 #### Радиус действия сигнала:
 
@@ -7726,10 +5654,6 @@ ONE RS / ONE R
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://insta360.ru/
-
 #### Размер упаковки (Ш×В×Г), cm:
 
 11.7×5.1×7.4
@@ -7738,7 +5662,11 @@ https://insta360.ru/
 
 0.073
 
----
+
+
+
+
+
 
 ## Крепление Insta360 Unicorn Helmet Mount Extension
 
@@ -7756,10 +5684,6 @@ https://drone.kz/product/kreplenie-insta360-unicorn-helmet-mount-extension/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970357853137
-
 #### Тип:
 
 крепление
@@ -7776,37 +5700,17 @@ Unicorn Helmet
 
 Карбон, сталь
 
-#### Код видео YouTube:
-
-wKSvDeIUA24
-
 #### Артикул:
 
 CINAKDS/B
-
-#### Дополнительные изображения:
-
-221402 / 221403
 
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-2
-
 #### Совместимость:
 
 ONE RS (исключая 1-Inch 360),GO 2,ONE X2,ONE R,ONE X
-
-#### Цена со скидкой:
-
-13800
 
 #### Комплектация:
 
@@ -7816,10 +5720,6 @@ ONE RS (исключая 1-Inch 360),GO 2,ONE X2,ONE R,ONE X
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://insta360.ru/
-
 #### Размер упаковки (Ш×В×Г), cm:
 
 30.3×2.6×4.6
@@ -7828,7 +5728,11 @@ https://insta360.ru/
 
 0.06
 
----
+
+
+
+
+
 
 ## Крепление Insta360 The Back Bar
 
@@ -7846,10 +5750,6 @@ https://drone.kz/product/kreplenie-insta360-the-back-bar/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970357850969
-
 #### Тип:
 
 крепление
@@ -7866,29 +5766,13 @@ Back Bar
 
 DPWAREX/A
 
-#### Дополнительные изображения:
-
-221432
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-0
-
-#### KaspiQtyAstana:
-
-2
-
 #### Совместимость:
 
 ONE RS (исключая 1-Inch 360),GO 2,ONE X2,ONE R,ONE X
-
-#### Цена со скидкой:
-
-15460
 
 #### Комплектация:
 
@@ -7910,7 +5794,11 @@ ONE RS (исключая 1-Inch 360),GO 2,ONE X2,ONE R,ONE X
 
 0.6
 
----
+
+
+
+
+
 
 ## Адаптер DJI Multi-Camera Control Type-C/microUSB | Ronin-SC
 
@@ -7928,10 +5816,6 @@ https://drone.kz/product/adapter-dji-multi-camera-control-type-c-microusb-ronin-
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6958265191251
-
 #### Тип:
 
 переходник
@@ -7948,29 +5832,13 @@ Multi-Camera Control Type-C/microUSB
 
 CP.RN.0104.01
 
-#### Дополнительные изображения:
-
-221553 / 221554 / 221555
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 Ronin-SC
-
-#### Цена со скидкой:
-
-4900
 
 #### Порты и интерфейсы:
 
@@ -7984,15 +5852,11 @@ USB-C / microUSB
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.dji.com
 
-#### К этому товару подходят:
 
-Стедикам DJI Ronin SC / Стабилизатор DJI Ronin SC Pro Combo
 
----
+
 
 ## Приемник BetaFPV ELRS Lite Tower Antenna V1.1
 
@@ -8009,10 +5873,6 @@ https://www.dji.com
 https://drone.kz/product/priemnik-betafpv-elrs-lite-tower-antenna-v1-1/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-728314136733
 
 #### Тип:
 
@@ -8038,25 +5898,9 @@ Tower-Antenna-V1.1
 
 2.4
 
-#### Дополнительные изображения:
-
-221574 / 221575 / 221576 / 221577
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-28
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-11400
 
 #### Комплектация:
 
@@ -8066,10 +5910,6 @@ Tower-Antenna-V1.1
 
 1
 
-#### Страница товара на сайте производителя:
-
-https://betafpv.com/
-
 #### Размеры (Ш×В×Г), cm:
 
 1.1×0.3×1
@@ -8078,7 +5918,11 @@ https://betafpv.com/
 
 0.001
 
----
+
+
+
+
+
 
 ## Квадрокоптер BetaFPV Pavo25 Whoop PNP
 
@@ -8095,10 +5939,6 @@ https://betafpv.com/
 https://drone.kz/product/kvadrokopter-betafpv-pavo25-whoop-pnp/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-728314137112
 
 #### Тип:
 
@@ -8120,29 +5960,13 @@ Pavo25 Whoop PNP
 
 01010013_1 (PNP)
 
-#### Дополнительные изображения:
-
-221579 / 221580 / 221581 / 221582 / 221583 / 221584
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-6
-
-#### KaspiQtyAstana:
-
-2
-
 #### Ссылка на скидочную категорию:
 
 https://drone.kz/catalog/fpv-drony/
-
-#### Цена со скидкой:
-
-69900
 
 #### Наличие камеры:
 
@@ -8180,14 +6004,6 @@ https://drone.kz/catalog/fpv-drony/
 
 1
 
-#### Страница товара на сайте производителя:
-
-https://betafpv.com/
-
-#### К этому товару подходят:
-
-Пульт управления BetaFPV LiteRadio 2 SE ELRS / Карта памяти MicroSD ExAscend Catalyst SDXC I 512GB + SD adapter / Карта памяти MicroSD ExAscend Catalyst SDXC I 256GB + SD adapter / Рюкзак Manfrotto Advanced Gearpack для Mavic Pro / Рюкзак и сумка PGYTECH OneMo (черные сумерки) / Рюкзак+сумка PGYTECH OneMo 2 25l (Серый камуфляж)
-
 #### Размеры (Ш×В×Г), cm:
 
 15.7х4.6х15.7
@@ -8196,7 +6012,11 @@ https://betafpv.com/
 
 0.154
 
----
+
+
+
+
+
 
 ## Квадрокоптер BetaFPV Pavo25 Whoop ELRS 2.4
 
@@ -8213,10 +6033,6 @@ https://betafpv.com/
 https://drone.kz/product/kvadrokopter-betafpv-pavo25-whoop-elrs-2-4/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-738156452861
 
 #### Тип:
 
@@ -8242,29 +6058,13 @@ Pavo25 Whoop ELRS 2.4
 
 2.4
 
-#### Дополнительные изображения:
-
-221586 / 221587 / 221588 / 221589 / 221590 / 221591
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-2
-
 #### Ссылка на скидочную категорию:
 
 https://drone.kz/catalog/fpv-drony/
-
-#### Цена со скидкой:
-
-89900
 
 #### Наличие камеры:
 
@@ -8277,10 +6077,6 @@ https://drone.kz/catalog/fpv-drony/
 #### Макс. разрешение видеосъемки:
 
 4K (3840×2160)
-
-#### Старая цена:
-
-185800
 
 #### Порты и интерфейсы:
 
@@ -8306,14 +6102,6 @@ https://drone.kz/catalog/fpv-drony/
 
 1
 
-#### Страница товара на сайте производителя:
-
-https://betafpv.com/
-
-#### К этому товару подходят:
-
-Пульт управления BetaFPV LiteRadio 2 SE ELRS / Карта памяти MicroSD ExAscend Catalyst SDXC I 512GB + SD adapter / Карта памяти MicroSD ExAscend Catalyst SDXC I 256GB + SD adapter / Рюкзак Manfrotto Advanced Gearpack для Mavic Pro / Рюкзак и сумка PGYTECH OneMo (черные сумерки) / Рюкзак+сумка PGYTECH OneMo 2 25l (Серый камуфляж)
-
 #### Размеры (Ш×В×Г), cm:
 
 15.7х4.6х15.7
@@ -8322,7 +6110,11 @@ https://betafpv.com/
 
 0.154
 
----
+
+
+
+
+
 
 ## Рама BetaFPV Pavo25 Frame Kit
 
@@ -8339,10 +6131,6 @@ https://betafpv.com/
 https://drone.kz/product/komplekt-ramy-betafpv-pavo25-frame-kit/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-738156452885
 
 #### Тип:
 
@@ -8364,25 +6152,9 @@ Pavo25
 
 Pavo25-Frame-Kit
 
-#### Дополнительные изображения:
-
-221599 / 221600 / 221601 / 221602
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-16
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-27600
 
 #### Комплектация:
 
@@ -8392,10 +6164,6 @@ Pavo25-Frame-Kit
 
 1
 
-#### Страница товара на сайте производителя:
-
-https://betafpv.com/
-
 #### Размеры (Ш×В×Г), cm:
 
 15.7х4.6х15.7
@@ -8404,7 +6172,11 @@ https://betafpv.com/
 
 0.068
 
----
+
+
+
+
+
 
 ## ND-фильтры Osmo Pocket (2)
 
@@ -8422,10 +6194,6 @@ https://drone.kz/product/nd-filtry-osmo-pocket/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6958265179808
-
 #### Тип:
 
 светофильтр
@@ -8442,29 +6210,13 @@ Osmo Pocket ND Filters Set
 
 DJPcktNDFltrs
 
-#### Дополнительные изображения:
-
-221766 / 221767 / 221768 / 221769 / 221770
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 Osmo Pocket, DJI Pocket 2
-
-#### Цена со скидкой:
-
-16800
 
 #### Рабочая температура, °C:
 
@@ -8478,19 +6230,15 @@ ND-фильтры Osmo Pocket: / ND4 Filter × 1 / ND8 Filter × 1 / ND16 Filter
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://dji.com/
-
-#### К этому товару подходят:
-
-Камера DJI Pocket 2 / Камера DJI Pocket 2 Creator Combo
-
 #### Размеры (Ш×В×Г), cm:
 
 1.7 × 1.3 × 0.2
 
----
+
+
+
+
+
 
 ## Зарядный хаб USB-C DJI WB37
 
@@ -8508,10 +6256,6 @@ https://drone.kz/product/zaryadnyy-khab-usb-c-dji-wb37/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6941565922618
-
 #### Тип:
 
 зарядное устройство
@@ -8528,29 +6272,13 @@ WCH3
 
 DJWCH3
 
-#### Дополнительные изображения:
-
-221852
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-15
-
-#### KaspiQtyAstana:
-
-4
-
 #### Совместимость:
 
 DJI Charger DJI 65W Portable Charger, DJI Battery WB37-4920mAh-7.6V
-
-#### Цена со скидкой:
-
-46100
 
 #### Порты и интерфейсы:
 
@@ -8576,19 +6304,11 @@ USB-C х 1 / Зарядный слот х 2
 
 12
 
-#### Руководство пользователя:
 
-https://dl.djicdn.com/downloads/DJI_Ronin_4D/DJI_WB37_Battery_Charging_Hub_USB-C_User_Guide_v1.0.pdf
 
-#### Страница товара на сайте производителя:
 
-https://www.dji.com
 
-#### К этому товару подходят:
 
-Автомобильное ЗУ 65W DJI Mavic 3/Cine / Зарядное устройство 65W DJI Mavic 3/Cine / Аккумулятор DJI CrystalSky/Cendence WB37 / Зарядный хаб DJI Cendence/CrystalSky WCH2
-
----
 
 ## Внешний GPS-модуль DJI Ronin-S /R
 
@@ -8606,10 +6326,6 @@ https://drone.kz/product/vneshniy-gps-modul-dji-ronin-s-r/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6958265180866
-
 #### Тип:
 
 GPS модуль
@@ -8626,21 +6342,9 @@ Ronin-S External GPS Module
 
 DJRnxtrnlGPS
 
-#### Дополнительные изображения:
-
-221854 / 221855 / 221856 / 221857
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-0
 
 #### Совместимость:
 
@@ -8649,10 +6353,6 @@ Ronin 4D, Ronin-S, RS 2, RS 3 Pro
 #### Навигация:
 
 GPS+ГЛОНАСС
-
-#### Цена со скидкой:
-
-21300
 
 #### Порты и интерфейсы:
 
@@ -8674,19 +6374,11 @@ CAN
 
 12
 
-#### Руководство пользователя:
 
-https://dl.djicdn.com/downloads/Ronin-S/20181121/Ronin-S%20External%20GPS%20Module%20User%20Guide.pdf
 
-#### Страница товара на сайте производителя:
 
-https://www.dji.com
 
-#### К этому товару подходят:
 
-Стедикам DJI RS 3 Pro / Стедикам DJI RS 2 / Стедикам DJI Ronin-S / DJI Ronin 4D / Адаптер External GPS Module DJI R
-
----
 
 ## Аккумулятор DJI Mini 3 Pro
 
@@ -8703,10 +6395,6 @@ https://www.dji.com
 https://drone.kz/product/akkumulyator-dji-mini-3-pro/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6941565930774
 
 #### Тип:
 
@@ -8728,29 +6416,13 @@ BWX162-2453-7.38
 
 BWX162-2453-7.38
 
-#### Дополнительные изображения:
-
-221878 / 221879 / 221880 / 221881 / 221882
-
 #### Цвет:
 
 серый
 
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 DJI Mini 3 Pro
-
-#### Цена со скидкой:
-
-39800
 
 #### Рабочая температура, °C:
 
@@ -8780,11 +6452,11 @@ DJI Mini 3 Pro
 
 12
 
-#### К этому товару подходят:
 
-Квадрокоптер DJI Mini 3 Pro (без RC) / Квадрокоптер DJI Mini 3 Pro RC / Квадрокоптер DJI Mini 3 Pro / Аккумулятор DJI Mini 3 Pro (Plus) (traid-in)
 
----
+
+
+
 
 ## Фильтры ND64/128/256/512 DJI Mavic 3
 
@@ -8801,10 +6473,6 @@ DJI Mini 3 Pro
 https://drone.kz/product/filtry-nd64-128-256-512-dji-mavic-3/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6941565922960
 
 #### Тип:
 
@@ -8826,25 +6494,9 @@ Mavic 3 ND Filters Set (ND64/128/256/512）
 
 DJI-MV308
 
-#### Дополнительные изображения:
-
-221900 / 221901 / 221902 / 221903
-
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-2
-
 #### Совместимость:
 
 DJI Mavic 3,  DJI Mavic 3 Cine
-
-#### Цена со скидкой:
-
-110800
 
 #### Дополнительные возможности:
 
@@ -8858,19 +6510,15 @@ DJI Mavic 3,  DJI Mavic 3 Cine
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.dji.com/
-
-#### К этому товару подходят:
-
-Квадрокоптер DJI Mavic 3 / Квадрокоптер DJI Mavic 3 Fly More Combo / Квадрокоптер DJI Mavic 3 Cine Premium Combo / Фильтры ND4/8/16/32 DJI Mavic 3 / Широкоугольный объектив DJI Mavic 3
-
 #### Вес товара, г:
 
 0
 
----
+
+
+
+
+
 
 ## Фильтры ND4/8/16/32 DJI Mavic 3
 
@@ -8887,10 +6535,6 @@ https://www.dji.com/
 https://drone.kz/product/filtry-nd4-8-16-32-dji-mavic-3/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6941565922977
 
 #### Тип:
 
@@ -8912,25 +6556,9 @@ Mavic 3 ND Filters Set (ND64/128/256/512）
 
 DJMv3PrND
 
-#### Дополнительные изображения:
-
-221905 / 221906 / 221907 / 221908
-
-#### KaspiQtyAlmaty:
-
-0
-
-#### KaspiQtyAstana:
-
-2
-
 #### Совместимость:
 
 DJI Mavic 3,  DJI Mavic 3 Cine
-
-#### Цена со скидкой:
-
-107500
 
 #### Дополнительные возможности:
 
@@ -8944,19 +6572,15 @@ DJI Mavic 3,  DJI Mavic 3 Cine
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.dji.com/
-
-#### К этому товару подходят:
-
-Квадрокоптер DJI Mavic 3 / Квадрокоптер DJI Mavic 3 Fly More Combo / Квадрокоптер DJI Mavic 3 Cine Premium Combo / Широкоугольный объектив DJI Mavic 3
-
 #### Вес товара, г:
 
 0
 
----
+
+
+
+
+
 
 ## Фильтры ND64/128/256/512 DJI Air 2S
 
@@ -8973,10 +6597,6 @@ https://www.dji.com/
 https://drone.kz/product/filtry-nd64-128-256-512-dji-air-2s/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6941565913555
 
 #### Тип:
 
@@ -8998,25 +6618,9 @@ Air 2S ND Filters Set (ND64/128/256/512)
 
 DJR2SPrND
 
-#### Дополнительные изображения:
-
-221922 / 221923 / 221924
-
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-2
-
 #### Совместимость:
 
 DJI Air 2S
-
-#### Цена со скидкой:
-
-59300
 
 #### Дополнительные возможности:
 
@@ -9030,19 +6634,15 @@ DJI Air 2S
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.dji.com/
-
-#### К этому товару подходят:
-
-Квадрокоптер DJI AIR 2S
-
 #### Размеры (Ш×В×Г), cm:
 
 2.2 × 1.8
 
----
+
+
+
+
+
 
 ## Аккумулятор DJI FPV Goggles 2
 
@@ -9059,10 +6659,6 @@ https://www.dji.com/
 https://drone.kz/product/akkumulyator-dji-fpv-goggles/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6941565929723
 
 #### Тип:
 
@@ -9088,29 +6684,13 @@ FPV Goggles Battery
 
 DJFPVGgglsBat
 
-#### Дополнительные изображения:
-
-221950 / 221951
-
 #### Время работы, h:
 
 2
 
-#### KaspiQtyAlmaty:
-
-9
-
-#### KaspiQtyAstana:
-
-6
-
 #### Совместимость:
 
 DJI FPV Goggles V2,  DJI FPV Goggles
-
-#### Цена со скидкой:
-
-24000
 
 #### Порты и интерфейсы:
 
@@ -9132,15 +6712,11 @@ USB-C х 1
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.dji.com/
 
-#### К этому товару подходят:
 
-Квадрокоптер DJI FPV Combo / Цифровая система DJI FPV Fly More Combo
 
----
+
 
 ## Комплект объективов DL/DL-S DJI Zenmuse X7/X9
 
@@ -9158,10 +6734,6 @@ https://drone.kz/product/komplekt-obektivov-dl-dl-s-dji-zenmuse-x7-x9/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6941565955036
-
 #### Тип:
 
 объектив
@@ -9178,29 +6750,13 @@ Zenmuse X7 DL/DL-S Lens Set
 
 DJX7DL/DLSLS
 
-#### Дополнительные изображения:
-
-221955 / 221956 / 221957 / 221958 / 221959
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 Zenmuse X7, Zenmuse X9
-
-#### Цена со скидкой:
-
-832700
 
 #### Порты и интерфейсы:
 
@@ -9218,19 +6774,15 @@ Zenmuse X7 DL-S 16mm F2.8 ND: фокусное расстояние 16 мм, Э�
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.dji.com/
-
-#### К этому товару подходят:
-
-Камера DJI Zenmuse X7 / DJI Ronin 4D
-
 #### Вес товара, г:
 
 0
 
----
+
+
+
+
+
 
 ## Пульт управления DJI FPV Remote Controller (Mode 2)
 
@@ -9247,10 +6799,6 @@ https://www.dji.com/
 https://drone.kz/product/pult-upravleniya-dji-fpv-remote-controller-mode-2/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6958265190322
 
 #### Тип:
 
@@ -9276,25 +6824,9 @@ FPV-Remote-Controller
 
 5.725–5.850
 
-#### Дополнительные изображения:
-
-222039 / 222040 / 222041 / 222042
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-1
-
-#### Цена со скидкой:
-
-99900
 
 #### Порты и интерфейсы:
 
@@ -9316,15 +6848,15 @@ FPV-Remote-Controller
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.dji.com/
-
 #### Вес товара, г:
 
 765
 
----
+
+
+
+
+
 
 ## Универсальный ключ STP 4-in-1 5mm Multi-Purpose Prop Tool (2mm, 2.5mm)
 
@@ -9342,10 +6874,6 @@ https://drone.kz/product/universalnyy-klyuch-stp-4-in-1-5mm-multi-purpose-prop-t
 
 ### Характеристики:
 
-#### Штрихкод:
-
-766234648806
-
 #### Тип:
 
 инструменты
@@ -9362,25 +6890,9 @@ Multi-Purpose
 
 Prop-Tool
 
-#### Дополнительные изображения:
-
-222059 / 222060 / 222061
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-5
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-18400
 
 #### Комплектация:
 
@@ -9390,10 +6902,6 @@ Prop-Tool
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.getfpv.com/
-
 #### Размеры (Ш×В×Г), cm:
 
 7.5х5х0.8
@@ -9402,7 +6910,11 @@ https://www.getfpv.com/
 
 36
 
----
+
+
+
+
+
 
 ## Адаптер Insta360 Mic Adapter (Vertical)
 
@@ -9420,10 +6932,6 @@ https://drone.kz/product/adapter-insta360-mic-adapter-vertical/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970357853489
-
 #### Тип:
 
 адаптер
@@ -9440,37 +6948,17 @@ Mic Adapter
 
 Металл, Пластик
 
-#### Код видео YouTube:
-
-wWtdL3uKwSE
-
 #### Артикул:
 
 CINTYAV/E
-
-#### Дополнительные изображения:
-
-222087 / 222088 / 222089 / 222090
 
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-2
-
 #### Совместимость:
 
 ONE X2,ONE RS 1-Inch 360 Edition
-
-#### Цена со скидкой:
-
-6500
 
 #### Порты и интерфейсы:
 
@@ -9484,10 +6972,6 @@ ONE X2,ONE RS 1-Inch 360 Edition
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://insta360.ru/
-
 #### Размеры (Ш×В×Г), cm:
 
 1.4×3.02×2.64
@@ -9496,7 +6980,11 @@ https://insta360.ru/
 
 0.006
 
----
+
+
+
+
+
 
 ## Монопод Insta360 Power Selfie Stick
 
@@ -9513,10 +7001,6 @@ https://insta360.ru/
 https://drone.kz/product/monopod-insta360-power-selfie-stick/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970357852864
 
 #### Тип:
 
@@ -9538,37 +7022,17 @@ Selfie Stick
 
 4500
 
-#### Код видео YouTube:
-
--qX-Q4DOBDk
-
 #### Артикул:
 
 CINSPHD/F
-
-#### Дополнительные изображения:
-
-222092 / 222093 / 222094 / 222095 / 222096
 
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-61
-
-#### KaspiQtyAstana:
-
-2
-
 #### Совместимость:
 
 Insta360 X3, One RS, One X2, One R
-
-#### Цена со скидкой:
-
-28200
 
 #### Порты и интерфейсы:
 
@@ -9586,10 +7050,6 @@ Insta360 X3, One RS, One X2, One R
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://insta360.ru/
-
 #### Размеры (Ш×В×Г), cm:
 
 2.5×33×2.5
@@ -9598,7 +7058,11 @@ https://insta360.ru/
 
 300
 
----
+
+
+
+
+
 
 ## Панорамная камера Insta360 One RS 1-inch 360 Edition
 
@@ -9615,10 +7079,6 @@ https://insta360.ru/
 https://drone.kz/product/panoramnaya-kamera-insta360-one-rs-1-inch-360-edition/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970357853243
 
 #### Тип:
 
@@ -9648,10 +7108,6 @@ One RS
 
 CINRSGP/D
 
-#### Дополнительные изображения:
-
-237084 / 222122 / 222123 / 222124 / 222125 / 222126 / 222127 / 222128
-
 #### Разрешение видео:
 
 6144×3072@24/25 / 5888×2944@30 / 3840х1920@24/25/30 / 3040х1520@50
@@ -9668,21 +7124,9 @@ CINRSGP/D
 
 черный
 
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-1
-
 #### Датчики:
 
 6-осевой Гироскоп
-
-#### Цена со скидкой:
-
-408800
 
 #### Макс. разрешение видеосъемки:
 
@@ -9720,14 +7164,6 @@ CINRSGP/D
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://insta360.ru/
-
-#### К этому товару подходят:
-
-Монопод Insta360 2-in-1 Invisible Selfie Stick + Tripod / Монопод Insta360 Extended Edition Selfie Stick 3m / Карта памяти SanDisk Extreme PRO microSDXC 256GB / Мини кейс PGYTECH для экшн-камеры / Карта памяти MicroSD ExAscend Catalyst SDXC I 512GB + SD adapter / Карта памяти MicroSD ExAscend Catalyst SDXC I 256GB + SD adapter
-
 #### Размеры (Ш×В×Г), cm:
 
 5.4×13×5
@@ -9736,7 +7172,11 @@ https://insta360.ru/
 
 239
 
----
+
+
+
+
+
 
 ## Адаптер Insta360 X3 Quick Reader
 
@@ -9753,10 +7193,6 @@ https://insta360.ru/
 https://drone.kz/product/modul-khraneniya-insta360-x3-quick-reader/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970357853939
 
 #### Тип:
 
@@ -9778,29 +7214,13 @@ X3 Quick Reader
 
 X3 Quick Reader
 
-#### Дополнительные изображения:
-
-222176 / 222177 / 222178
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-7
-
-#### KaspiQtyAstana:
-
-4
-
 #### Совместимость:
 
 X3
-
-#### Цена со скидкой:
-
-41500
 
 #### Порты и интерфейсы:
 
@@ -9814,14 +7234,6 @@ X3
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://insta360.ru/
-
-#### К этому товару подходят:
-
-Панорамная камера Insta360 X3 / Липкие линзы Insta360 X3 Sticky Lens Guards / Адаптер Insta360 X3 Mic (Vertical)
-
 #### Вес товара, г:
 
 3
@@ -9830,7 +7242,11 @@ https://insta360.ru/
 
 USB Type-C
 
----
+
+
+
+
+
 
 ## Липкие линзы Insta360 X3 Sticky Lens Guards
 
@@ -9848,10 +7264,6 @@ https://drone.kz/product/lipkie-linzy-insta360-x3-sticky-lens-guards/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970357854059
-
 #### Тип:
 
 защита
@@ -9868,37 +7280,17 @@ Insta360 X3 Sticky Lens Guards
 
 полиметилметалкрилат (PMMA)
 
-#### Код видео YouTube:
-
-AhEiW71CbUg
-
 #### Артикул:
 
 X3 Sticky Lens Guards
-
-#### Дополнительные изображения:
-
-222180 / 222181 / 222182
 
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-145
-
-#### KaspiQtyAstana:
-
-2
-
 #### Совместимость:
 
 X3
-
-#### Цена со скидкой:
-
-14900
 
 #### Комплектация:
 
@@ -9908,14 +7300,6 @@ X3
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://insta360.ru/
-
-#### К этому товару подходят:
-
-Панорамная камера Insta360 X3 / Адаптер Insta360 X3 Mic (Vertical) / Адаптер Insta360 X3 Quick Reader
-
 #### Вес товара, г:
 
 1.5
@@ -9924,7 +7308,11 @@ https://insta360.ru/
 
 Защита от брызг
 
----
+
+
+
+
+
 
 ## Адаптер Insta360 X3 Mic (Vertical)
 
@@ -9942,10 +7330,6 @@ https://drone.kz/product/adapter-dlya-mikrofona-insta360-x3-mic-adapter/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970357853991
-
 #### Тип:
 
 адаптер
@@ -9962,29 +7346,13 @@ Mic Adapter
 
 Mic Adapter
 
-#### Дополнительные изображения:
-
-244223 / 244224 / 244225
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-26
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 X3
-
-#### Цена со скидкой:
-
-13800
 
 #### Порты и интерфейсы:
 
@@ -9998,14 +7366,6 @@ X3
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://insta360.ru/
-
-#### К этому товару подходят:
-
-Панорамная камера Insta360 X3
-
 #### Вес товара, г:
 
 5.7
@@ -10014,7 +7374,11 @@ https://insta360.ru/
 
 USB Type-C
 
----
+
+
+
+
+
 
 ## Аккумулятор Insta360 One X2
 
@@ -10031,10 +7395,6 @@ USB Type-C
 https://drone.kz/product/akkumulyator-insta360-one-x2/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970357851812
 
 #### Тип:
 
@@ -10056,33 +7416,13 @@ Insta360 ONE X2 Power Accessories
 
 CINOSBT/B
 
-#### Дополнительные изображения:
-
-222189 / 222190 / 222191
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-23
-
-#### KaspiQtyAstana:
-
-5
-
 #### Совместимость:
 
 ONE X2
-
-#### Цена со скидкой:
-
-25300
-
-#### Старая цена:
-
-24100
 
 #### Тип аккумулятора:
 
@@ -10096,19 +7436,15 @@ ONE X2
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://insta360.ru/
-
-#### К этому товару подходят:
-
-Панорамная экшн-камера Insta360 ONE X2 Standalone
-
 #### Вес товара, г:
 
 85.3
 
----
+
+
+
+
+
 
 ## Аккумулятор Insta360 X3
 
@@ -10125,10 +7461,6 @@ https://insta360.ru/
 https://drone.kz/product/akkumulyator-insta360-x3/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970357853113
 
 #### Тип:
 
@@ -10158,29 +7490,13 @@ Insta360 X3 Power Accessories
 
 X3 Power Accessories
 
-#### Дополнительные изображения:
-
-222211 / 222212 / 222213
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-24
-
-#### KaspiQtyAstana:
-
-4
-
 #### Совместимость:
 
 X3
-
-#### Цена со скидкой:
-
-18400
 
 #### Тип аккумулятора:
 
@@ -10194,19 +7510,15 @@ X3
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://insta360.ru/
-
-#### К этому товару подходят:
-
-Панорамная камера Insta360 X3 / Адаптер Insta360 X3 Quick Reader / Липкие линзы Insta360 X3 Sticky Lens Guards
-
 #### Вес товара, г:
 
 96
 
----
+
+
+
+
+
 
 ## Кейс для дайвинга Insta360 X3 Dive Case
 
@@ -10223,10 +7535,6 @@ https://insta360.ru/
 https://drone.kz/product/chekhol-dlya-dayvinga-insta360-x3-dive-case/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970357854035
 
 #### Тип:
 
@@ -10248,29 +7556,13 @@ Insta360 X3 Dive Case
 
 X3 Dive Case
 
-#### Дополнительные изображения:
-
-222224 / 222225 / 222226
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-4
-
-#### KaspiQtyAstana:
-
-2
-
 #### Совместимость:
 
 X3
-
-#### Цена со скидкой:
-
-54200
 
 #### Комплектация:
 
@@ -10280,19 +7572,15 @@ X3
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://insta360.ru/
-
-#### К этому товару подходят:
-
-Панорамная камера Insta360 X3 / Адаптер Insta360 X3 Mic (Vertical) / Адаптер Insta360 X3 Quick Reader
-
 #### Водонепроницаемость:
 
 Защита от брызг
 
----
+
+
+
+
+
 
 ## Крышка объектива Insta360 X3 Lens Cap
 
@@ -10309,10 +7597,6 @@ https://insta360.ru/
 https://drone.kz/product/kryshka-obektiva-insta360-x3-lens-cap/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970357854028
 
 #### Тип:
 
@@ -10334,29 +7618,13 @@ X3 Lens Cap
 
 X3 Lens Cap
 
-#### Дополнительные изображения:
-
-222228 / 222229 / 222230
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-14
-
-#### KaspiQtyAstana:
-
-11
-
 #### Совместимость:
 
 X3
-
-#### Цена со скидкой:
-
-6800
 
 #### Комплектация:
 
@@ -10366,19 +7634,15 @@ X3
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://insta360.ru/
-
-#### К этому товару подходят:
-
-Панорамная камера Insta360 X3 / Адаптер Insta360 X3 Mic (Vertical) / Адаптер Insta360 X3 Quick Reader
-
 #### Водонепроницаемость:
 
 Защита от брызг
 
----
+
+
+
+
+
 
 ## Кабель для передачи Insta360 X3/X2 Transfer Cable for Android
 
@@ -10395,10 +7659,6 @@ https://insta360.ru/
 https://drone.kz/product/kabel-dlya-peredachi-insta360-x3-x2-transfer-cable-for-android/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970357852963
 
 #### Тип:
 
@@ -10420,21 +7680,9 @@ X3/X2 Transfer Cable for Android
 
 черный
 
-#### KaspiQtyAlmaty:
-
-27
-
-#### KaspiQtyAstana:
-
-1
-
 #### Совместимость:
 
 X3, ONE X2
-
-#### Цена со скидкой:
-
-6800
 
 #### Порты и интерфейсы:
 
@@ -10452,19 +7700,15 @@ X3, ONE X2
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.insta360.com
-
-#### К этому товару подходят:
-
-Панорамная камера Insta360 X3 / Липкие линзы Insta360 X3 Sticky Lens Guards / Крышка объектива Insta360 X3 Lens Cap
-
 #### Разъемы:
 
 USB Type-C
 
----
+
+
+
+
+
 
 ## Комплект для обновления объектива Insta360 ONE RS 1-Inch 360 Lens Upgrade Bundle
 
@@ -10481,10 +7725,6 @@ USB Type-C
 https://drone.kz/product/komplekt-dlya-obnovleniya-obektiva-insta360-one-rs-1-inch-360-lens-upgrade-bundle/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970357854134
 
 #### Тип:
 
@@ -10514,21 +7754,9 @@ Insta360 ONE RS 1-Inch 360 Lens Upgrade Bundle
 
 CINRSGP/G (CINAHLA/A)
 
-#### Дополнительные изображения:
-
-222276 / 222277 / 222278 / 222279
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-2
 
 #### Совместимость:
 
@@ -10538,10 +7766,6 @@ ONE RS, ONE R
 
 https://drone.kz/catalog/aksessuary-dlya-insta360/
 
-#### Цена со скидкой:
-
-494200
-
 #### Комплектация:
 
 Объектив Insta360 ONE RS 1-Inch 360 - 1 шт / Объектив Insta360 ONE RS 1-Inch 360 с вертикальной батарейной базой - 1 шт / Кронштейн для крепления объектива 360 - 1 шт / Крышка объектива для Insta360 ONE RS 1-Inch 360 - 1шт / Зарядный кабель - 1 шт / Ткань для линз - 1 шт / Документация
@@ -10549,14 +7773,6 @@ https://drone.kz/catalog/aksessuary-dlya-insta360/
 #### Срок гарантии производителя, m:
 
 12
-
-#### Страница товара на сайте производителя:
-
-https://www.insta360.com
-
-#### К этому товару подходят:
-
-Модульная экшн-камера Insta360 ONE RS / Модульная экшн-камера Insta360 ONE RS 4K / Модульная экшн-камера Insta360 ONE R 1-Inch Edition
 
 #### Дифрагма:
 
@@ -10566,7 +7782,11 @@ f/2.2
 
 USB Type-C
 
----
+
+
+
+
+
 
 ## Зарядный хаб DJI Mavic 3
 
@@ -10584,10 +7804,6 @@ https://drone.kz/product/zaryadnyy-khab-dji-mavic-3/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6941565922984
-
 #### Тип:
 
 зарядное устройство
@@ -10604,29 +7820,13 @@ CHX260-65
 
 DJIMV3CHHUB
 
-#### Дополнительные изображения:
-
-222309 / 222310
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-4
-
-#### KaspiQtyAstana:
-
-3
-
 #### Совместимость:
 
 Mavic 3 Intelligent Flight Battery BWX260-5000-15.4, DJI 65W Portable Charger
-
-#### Цена со скидкой:
-
-48200
 
 #### Рабочая температура, °C:
 
@@ -10648,15 +7848,11 @@ Mavic 3 Intelligent Flight Battery BWX260-5000-15.4, DJI 65W Portable Charger
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.dji.com/
 
-#### К этому товару подходят:
 
-Квадрокоптер DJI Mavic 3 / Зарядное устройство 65W DJI Mavic 3/Cine / Автомобильное ЗУ 65W DJI Mavic 3/Cine / Аккумулятор DJI Mavic 3 Intelligent Flight Battery
 
----
+
 
 ## Пропеллеры DJI Mavic 3 Low-Noise 
 
@@ -10674,10 +7870,6 @@ https://drone.kz/product/propellery-low-noise-dji-mavic-3/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6941565922526
-
 #### Тип:
 
 пропеллеры
@@ -10694,29 +7886,13 @@ Mavic 3 Low-Noise Propellers
 
 DJI9453F
 
-#### Дополнительные изображения:
-
-222320 / 222321
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-3
-
 #### Совместимость:
 
 Mavic 3, Mavic 3 Cine
-
-#### Цена со скидкой:
-
-13100
 
 #### Комплектация:
 
@@ -10726,14 +7902,6 @@ Mavic 3, Mavic 3 Cine
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.dji.com/
-
-#### К этому товару подходят:
-
-Квадрокоптер DJI Mavic 3
-
 #### Размеры (Ш×В×Г), cm:
 
 Диаметр 23.9, шаг 13.5
@@ -10742,7 +7910,11 @@ https://www.dji.com/
 
 8.5
 
----
+
+
+
+
+
 
 ## Зарядное устройство 65W DJI Mavic 3/Cine
 
@@ -10759,10 +7931,6 @@ https://www.dji.com/
 https://drone.kz/product/zaryadnoe-ustroystvo-65w-dji-mavic-3-cine/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6941565922915
 
 #### Тип:
 
@@ -10788,29 +7956,13 @@ Mavic 3/Cine 65W Portable Charger
 
 DJIMV365WPCh
 
-#### Дополнительные изображения:
-
-222327 / 222328 / 222329
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 DJI Avata, DJI Mavic 3, DJI Mavic 3 Cine, DJI Goggles 2 Battery
-
-#### Цена со скидкой:
-
-47200
 
 #### Порты и интерфейсы:
 
@@ -10836,15 +7988,11 @@ USB-A / USB-C
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.dji.com/
 
-#### К этому товару подходят:
 
-Квадрокоптер DJI Mavic 3 / Зарядный хаб DJI Mavic 3 / Квадрокоптер DJI Avata
 
----
+
 
 ## Автомобильное ЗУ 65W DJI Mavic 3/Cine
 
@@ -10862,10 +8010,6 @@ https://drone.kz/product/avtomobilnoe-zu-65w-dji-mavic-3-cine/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6941565922922
-
 #### Тип:
 
 зарядное устройство
@@ -10882,29 +8026,13 @@ dji
 
 DJICCX260-65
 
-#### Дополнительные изображения:
-
-222331 / 222332
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-11
-
-#### KaspiQtyAstana:
-
-5
-
 #### Совместимость:
 
 Mavic 3, Mavic 3 Cine, Avata, Goggles 2
-
-#### Цена со скидкой:
-
-45000
 
 #### Порты и интерфейсы:
 
@@ -10930,15 +8058,11 @@ USB-A / USB-C
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.dji.com/
 
-#### К этому товару подходят:
 
-Квадрокоптер DJI Mavic 3 / Зарядный хаб DJI Mavic 3 / Квадрокоптер DJI Avata
 
----
+
 
 ## Защита пропеллеров DJI Mavic 3
 
@@ -10956,10 +8080,6 @@ https://drone.kz/product/zashchita-propellerov-dji-mavic-3/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6941565922519
-
 #### Тип:
 
 защита пропеллеров
@@ -10976,29 +8096,13 @@ Mavic 3 Low-Noise Propellers
 
 DJIMV3PrG
 
-#### Дополнительные изображения:
-
-222352 / 222353 / 222354
-
 #### Цвет:
 
 серый
 
-#### KaspiQtyAlmaty:
-
-9
-
-#### KaspiQtyAstana:
-
-1
-
 #### Совместимость:
 
 Mavic 3, Mavic 3 Cine
-
-#### Цена со скидкой:
-
-31400
 
 #### Комплектация:
 
@@ -11008,14 +8112,6 @@ Mavic 3, Mavic 3 Cine
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.dji.com/
-
-#### К этому товару подходят:
-
-Квадрокоптер DJI Mavic 3 / Пропеллеры DJI Mavic 3 Low-Noise 
-
 #### Размеры (Ш×В×Г), cm:
 
 После установки 63.4 × 54.9 × 10.8
@@ -11024,7 +8120,11 @@ https://www.dji.com/
 
 116
 
----
+
+
+
+
+
 
 ## Кейс PGYTECH P-26A-008 | Mavic 3
 
@@ -11042,10 +8142,6 @@ https://drone.kz/product/sumka-keys-pgytech-p-26a-008-mavic-3/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970801337060
-
 #### Тип:
 
 кейс
@@ -11062,29 +8158,13 @@ P-26A-008
 
 DJIMV3P-26A-008
 
-#### Дополнительные изображения:
-
-222356 / 222357 / 222358 / 222359 / 222360
-
 #### Цвет:
 
 серый
 
-#### KaspiQtyAlmaty:
-
-4
-
-#### KaspiQtyAstana:
-
-4
-
 #### Совместимость:
 
 Mavic 3, Mavic 3 Cine
-
-#### Цена со скидкой:
-
-32200
 
 #### Дополнительные возможности:
 
@@ -11098,14 +8178,6 @@ Mavic 3, Mavic 3 Cine
 
 12
 
-#### Страница товара на сайте производителя:
-
-pgytech.com
-
-#### К этому товару подходят:
-
-Квадрокоптер DJI Mavic 3 / Сумка-трансформер DJI Mavic 3
-
 #### Размеры (Ш×В×Г), cm:
 
 32.0 x 24.6 x 13.0
@@ -11114,7 +8186,11 @@ pgytech.com
 
 630
 
----
+
+
+
+
+
 
 ## Защитный кейс PGYTECH P-26A-006 | Mavic 3
 
@@ -11131,10 +8207,6 @@ pgytech.com
 https://drone.kz/product/zashchitnyy-keys-pgytech-p-26a-006-mavic-3/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970801337053
 
 #### Тип:
 
@@ -11156,29 +8228,13 @@ P-26A-006
 
 DJIMV3P-26A-006
 
-#### Дополнительные изображения:
-
-222362 / 222363 / 222364 / 222365 / 222366 / 222367 / 222368 / 222369
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-4
-
 #### Совместимость:
 
 Mavic 3, Mavic 3 Cine
-
-#### Цена со скидкой:
-
-81900
 
 #### Рабочая температура, °C:
 
@@ -11192,14 +8248,6 @@ Mavic 3, Mavic 3 Cine
 
 12
 
-#### Страница товара на сайте производителя:
-
-pgytech.com
-
-#### К этому товару подходят:
-
-Квадрокоптер DJI Mavic 3 / Сумка-трансформер DJI Mavic 3 / Кейс PGYTECH P-26A-008 | Mavic 3
-
 #### Размеры (Ш×В×Г), cm:
 
 41.0 х 33.0 х 16.5
@@ -11208,7 +8256,11 @@ pgytech.com
 
 2.69
 
----
+
+
+
+
+
 
 ## VND-фильтр (2-5 Stop) PGYTECH | Mavic 3
 
@@ -11226,10 +8278,6 @@ https://drone.kz/product/vnd-filtr-2-5-stop-pgytech-mavic-3/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970801337107
-
 #### Тип:
 
 светофильтр
@@ -11246,25 +8294,9 @@ P-26A-016
 
 P-26A-016
 
-#### Дополнительные изображения:
-
-222371
-
-#### KaspiQtyAlmaty:
-
-5
-
-#### KaspiQtyAstana:
-
-5
-
 #### Совместимость:
 
 Mavic 3
-
-#### Цена со скидкой:
-
-26500
 
 #### Комплектация:
 
@@ -11274,14 +8306,6 @@ VND-фильтр (2-5 Stop) PGYTECH | Mavic 3
 
 12
 
-#### Страница товара на сайте производителя:
-
-pgytech.com
-
-#### К этому товару подходят:
-
-Квадрокоптер DJI Mavic 3
-
 #### Размеры (Ш×В×Г), cm:
 
 3.45 х 3.41 х 0.36
@@ -11290,7 +8314,11 @@ pgytech.com
 
 5.7
 
----
+
+
+
+
+
 
 ## CPL-фильтр Pro PGYTECH | Mini 3 Pro
 
@@ -11308,10 +8336,6 @@ https://drone.kz/product/cpl-filtr-pro-pgytech-mini-3-pro/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970801337640
-
 #### Тип:
 
 светофильтр
@@ -11328,25 +8352,9 @@ P-30A-013
 
 P-30A-013
 
-#### Дополнительные изображения:
-
-222375 / 222376
-
-#### KaspiQtyAlmaty:
-
-0
-
-#### KaspiQtyAstana:
-
-2
-
 #### Совместимость:
 
 Mavic 3
-
-#### Цена со скидкой:
-
-17200
 
 #### Комплектация:
 
@@ -11356,14 +8364,6 @@ CPL-фильтр Pro PGYTECH | Mini 3 Pro
 
 12
 
-#### Страница товара на сайте производителя:
-
-pgytech.com
-
-#### К этому товару подходят:
-
-Квадрокоптер DJI Mini 3 Pro / Фильтры ND16/64/256 DJI Mini 3 Pro
-
 #### Размеры (Ш×В×Г), cm:
 
 2.45 х 2.41 х 0.36
@@ -11372,7 +8372,11 @@ pgytech.com
 
 5.7
 
----
+
+
+
+
+
 
 ## UV-фильтр Pro PGYTECH | Mini 3 Pro
 
@@ -11390,10 +8394,6 @@ https://drone.kz/product/uv-filtr-pro-pgytech-mini-3-pro/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970801337633
-
 #### Тип:
 
 светофильтр
@@ -11410,25 +8410,9 @@ P-30A-012
 
 P-30A-012
 
-#### Дополнительные изображения:
-
-222378 / 222379
-
-#### KaspiQtyAlmaty:
-
-4
-
-#### KaspiQtyAstana:
-
-10
-
 #### Совместимость:
 
 Mini 3 Pro
-
-#### Цена со скидкой:
-
-12600
 
 #### Комплектация:
 
@@ -11438,14 +8422,6 @@ UV-фильтр Pro PGYTECH | Mini 3 Pro
 
 12
 
-#### Страница товара на сайте производителя:
-
-pgytech.com
-
-#### К этому товару подходят:
-
-Квадрокоптер DJI Mini 3 Pro / Фильтры ND16/64/256 DJI Mini 3 Pro / CPL-фильтр Pro PGYTECH | Mini 3 Pro
-
 #### Размеры (Ш×В×Г), cm:
 
 2.45 х 2.41 х 0.36
@@ -11454,7 +8430,11 @@ pgytech.com
 
 3.3
 
----
+
+
+
+
+
 
 ## Удлинители шасси PGYTECH | Mini 3 Pro
 
@@ -11472,10 +8452,6 @@ https://drone.kz/product/udliniteli-shassi-pgytech-mini-3-pro/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970801337671
-
 #### Тип:
 
 шасси
@@ -11492,29 +8468,13 @@ P-30A-050
 
 P-30A-050
 
-#### Дополнительные изображения:
-
-222396 / 222397 / 222398 / 222399 / 222400
-
 #### Цвет:
 
 серый
 
-#### KaspiQtyAlmaty:
-
-10
-
-#### KaspiQtyAstana:
-
-9
-
 #### Совместимость:
 
 Mini 3 Pro
-
-#### Цена со скидкой:
-
-6800
 
 #### Комплектация:
 
@@ -11524,14 +8484,6 @@ Mini 3 Pro
 
 12
 
-#### Страница товара на сайте производителя:
-
-pgytech.com
-
-#### К этому товару подходят:
-
-Квадрокоптер DJI Mini 3 Pro
-
 #### Размеры (Ш×В×Г), cm:
 
 Передний удлинитель: 6.3 × 2.6 × 3.9 / В сложенном состоянии: 4.3 × 2.6 × 3.9; Задний удлинитель: 7.1 × 5.4 × 6.0 / В сложенном состоянии: 6.0 × 3.5 × 6.0
@@ -11540,7 +8492,11 @@ pgytech.com
 
 17
 
----
+
+
+
+
+
 
 ## Протектор пульта PGYTECH | DJI RC
 
@@ -11558,10 +8514,6 @@ https://drone.kz/product/protektor-pulta-pgytech-dji-rc/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6976100482449
-
 #### Тип:
 
 защита
@@ -11578,29 +8530,13 @@ P-30A-060
 
 DJIMN3P-30A-060
 
-#### Дополнительные изображения:
-
-222402 / 222403 / 222404
-
 #### Цвет:
 
 серый
 
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-2
-
 #### Совместимость:
 
 DJI RC
-
-#### Цена со скидкой:
-
-10300
 
 #### Комплектация:
 
@@ -11610,15 +8546,11 @@ DJI RC
 
 12
 
-#### Страница товара на сайте производителя:
 
-pgytech.com
 
-#### К этому товару подходят:
 
-Квадрокоптер DJI Mini 3 Pro / Пульт DJI RC
 
----
+
 
 ## Держатель планшета V2 PGYTECH
 
@@ -11636,10 +8568,6 @@ https://drone.kz/product/derzhatel-plansheta-v2-pgytech-mavic-mini/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970801337282
-
 #### Тип:
 
 держатель для планшета
@@ -11656,29 +8584,13 @@ P-GM-145
 
 P-GM-145
 
-#### Дополнительные изображения:
-
-222406 / 222407 / 222408 / 222409 / 222410 / 222411 / 222412
-
 #### Цвет:
 
 серый
 
-#### KaspiQtyAlmaty:
-
-40
-
-#### KaspiQtyAstana:
-
-11
-
 #### Совместимость:
 
 DJI RC
-
-#### Цена со скидкой:
-
-8000
 
 #### Комплектация:
 
@@ -11688,19 +8600,15 @@ DJI RC
 
 12
 
-#### Страница товара на сайте производителя:
-
-pgytech.com
-
-#### К этому товару подходят:
-
-Квадрокоптер DJI Mini 3 Pro / Держатель планшета DJI RC-N1
-
 #### Размеры (Ш×В×Г), cm:
 
 16.0 x 7.3 x 4.7
 
----
+
+
+
+
+
 
 ## Пропеллеры DJI Mini 3 Pro
 
@@ -11718,10 +8626,6 @@ https://drone.kz/product/propellery-dji-mini-3-pro/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6941565931696
-
 #### Тип:
 
 пропеллеры
@@ -11738,29 +8642,13 @@ dji
 
 DJIMN36030F
 
-#### Дополнительные изображения:
-
-222414 / 222415 / 222416 / 222417
-
 #### Цвет:
 
 серый
 
-#### KaspiQtyAlmaty:
-
-20
-
-#### KaspiQtyAstana:
-
-10
-
 #### Совместимость:
 
 Mini 3 Pro
-
-#### Цена со скидкой:
-
-6318
 
 #### Комплектация:
 
@@ -11770,19 +8658,15 @@ Mini 3 Pro
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.dji.com/
-
-#### К этому товару подходят:
-
-Квадрокоптер DJI Mini 3 Pro
-
 #### Размеры (Ш×В×Г), cm:
 
 Диаметр 15.24 / шаг 7.62
 
----
+
+
+
+
+
 
 ## Набор карт Makeblock mTiny Town & Grassland
 
@@ -11800,10 +8684,6 @@ https://drone.kz/product/nabor-kart-makeblock-mtiny-town-grassland/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-P5010085201224000005
-
 #### Тип:
 
 комплект
@@ -11820,22 +8700,6 @@ mTiny Town & Grassland
 
 P5010085
 
-#### Дополнительные изображения:
-
-222454
-
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-1
-
-#### Цена со скидкой:
-
-39200
-
 #### Комплектация:
 
 Тематические карты Grasslands и Town - 24 шт / Карты активности - 4 шт / Кодовые карты - 81 шт / Игровые карты - 5 шт / Маска персонажа - 3 шт / Специальная карта разблокировки - 1 шт / Флаг - 8 шт / Карточка с QR-кодом - 1 шт / Документация
@@ -11843,10 +8707,6 @@ P5010085
 #### Срок гарантии производителя, m:
 
 12
-
-#### Страница товара на сайте производителя:
-
-https://education.makeblock.com/product/p5010085/
 
 #### Размер упаковки (Ш×В×Г), cm:
 
@@ -11856,7 +8716,11 @@ https://education.makeblock.com/product/p5010085/
 
 2.054
 
----
+
+
+
+
+
 
 ## Комплект Makeblock AI & IoT Education Toolkit
 
@@ -11874,10 +8738,6 @@ https://drone.kz/product/komplekt-makeblock-ai-iot-education-toolkit/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6928819510777
-
 #### Тип:
 
 комплект
@@ -11894,22 +8754,6 @@ AI & IoT Education Toolkit
 
 P1020007
 
-#### Дополнительные изображения:
-
-222473 / 222474 / 222475
-
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-351000
-
 #### Комплектация:
 
 Модуль mBuild - 31 шт / Аксессуары - 10 уп / Документация
@@ -11917,10 +8761,6 @@ P1020007
 #### Срок гарантии производителя, m:
 
 12
-
-#### Страница товара на сайте производителя:
-
-https://education.makeblock.com/product/p1020007/
 
 #### Размер упаковки (Ш×В×Г), cm:
 
@@ -11930,7 +8770,11 @@ https://education.makeblock.com/product/p1020007/
 
 2.4
 
----
+
+
+
+
+
 
 ## Комплект Makeblock AI & IoT Scientist
 
@@ -11948,10 +8792,6 @@ https://drone.kz/product/komplekt-makeblock-ai-iot-scientist/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6928819510753
-
 #### Тип:
 
 комплект
@@ -11968,22 +8808,6 @@ AI & IoT Scientist
 
 P1020005
 
-#### Дополнительные изображения:
-
-222477 / 222478 / 222479 / 222480 / 222481 / 222482
-
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-196200
-
 #### Комплектация:
 
 Модуль mBuild - 18 шт / Аксессуары - 7 уп / Документация
@@ -11991,10 +8815,6 @@ P1020005
 #### Срок гарантии производителя, m:
 
 12
-
-#### Страница товара на сайте производителя:
-
-https://education.makeblock.com/
 
 #### Размер упаковки (Ш×В×Г), cm:
 
@@ -12004,7 +8824,11 @@ https://education.makeblock.com/
 
 2
 
----
+
+
+
+
+
 
 ## Комплект Makeblock AI & IoT Creator
 
@@ -12022,10 +8846,6 @@ https://drone.kz/product/komplekt-makeblock-ai-iot-creator/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6928819510760
-
 #### Тип:
 
 комплект
@@ -12042,22 +8862,6 @@ AI & IoT Creator
 
 P1020006
 
-#### Дополнительные изображения:
-
-222484 / 222485 / 222486
-
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-168500
-
 #### Комплектация:
 
 Модуль mBuild - 13 шт / Аксессуары - 9 уп / Документация
@@ -12065,10 +8869,6 @@ P1020006
 #### Срок гарантии производителя, m:
 
 12
-
-#### Страница товара на сайте производителя:
-
-https://education.makeblock.com/
 
 #### Размер упаковки (Ш×В×Г), cm:
 
@@ -12078,7 +8878,11 @@ https://education.makeblock.com/
 
 1.95
 
----
+
+
+
+
+
 
 ## Одноплатный компьютер Makeblock HaloCode_EN V2
 
@@ -12096,10 +8900,6 @@ https://drone.kz/product/odnoplatnyy-kompyuter-makeblock-halocode-en-v2/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6928819509153
-
 #### Тип:
 
 компьютер
@@ -12116,10 +8916,6 @@ Halocode
 
 P1030063
 
-#### Дополнительные изображения:
-
-222488 / 222489 / 222490 / 222491 / 222492 / 222493 / 222494 / 222495 / 222496 / 222497
-
 #### Процессор:
 
 Core Xtensa LX6
@@ -12127,18 +8923,6 @@ Core Xtensa LX6
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-20700
 
 #### Порты и интерфейсы:
 
@@ -12156,10 +8940,6 @@ Core Xtensa LX6
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.makeblock.com
-
 #### Размер упаковки (Ш×В×Г), cm:
 
 5х2.2х4.6
@@ -12168,7 +8948,11 @@ https://www.makeblock.com
 
 20
 
----
+
+
+
+
+
 
 ## USB-адаптер Makeblock Bluetooth Dongle_EN
 
@@ -12185,10 +8969,6 @@ https://www.makeblock.com
 https://drone.kz/product/usb-adapter-makeblock-bluetooth-dongle-en/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6928819507630
 
 #### Тип:
 
@@ -12214,25 +8994,9 @@ P5010002
 
 2.4-2.48
 
-#### Дополнительные изображения:
-
-222499 / 222500 / 222501
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-13800
 
 #### Порты и интерфейсы:
 
@@ -12254,15 +9018,15 @@ USB-адаптер Makeblock Bluetooth Dongle_EN / Документация
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://education.makeblock.com/
-
 #### Вес товара, г:
 
 40
 
----
+
+
+
+
+
 
 ## Комплект Makeblock Smart Camera
 
@@ -12280,10 +9044,6 @@ https://drone.kz/product/komplekt-makeblock-smart-camera/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6928819510616
-
 #### Тип:
 
 комплект
@@ -12300,25 +9060,9 @@ Smart Camera
 
 P1100022
 
-#### Дополнительные изображения:
-
-222503 / 222504 / 222505 / 222506 / 222507
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-77300
 
 #### Комплектация:
 
@@ -12328,10 +9072,6 @@ P1100022
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://education.makeblock.com/product/p1100022/
-
 #### Размер упаковки (Ш×В×Г), cm:
 
 20.2х15.3х4
@@ -12340,7 +9080,11 @@ https://education.makeblock.com/product/p1100022/
 
 435
 
----
+
+
+
+
+
 
 ## Bluetooth-контроллер Makeblock Bluetooth Controller V1
 
@@ -12357,10 +9101,6 @@ https://education.makeblock.com/product/p1100022/
 https://drone.kz/product/bluetooth-kontroller-makeblock-bluetooth-controller-v1/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6928819510449
 
 #### Тип:
 
@@ -12386,25 +9126,9 @@ P3060003
 
 20
 
-#### Дополнительные изображения:
-
-222509 / 222510 / 222511 / 222512 / 222513
-
 #### Цвет:
 
 белый
-
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-36900
 
 #### Порты и интерфейсы:
 
@@ -12422,10 +9146,6 @@ Bluetooth-контроллер Makeblock Bluetooth Controller V1 / Докуме�
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://education.makeblock.com/
-
 #### Размер упаковки (Ш×В×Г), cm:
 
 20.2х15.3х4
@@ -12434,7 +9154,11 @@ https://education.makeblock.com/
 
 195
 
----
+
+
+
+
+
 
 ## Комплект Makeblock Perception gizmos
 
@@ -12452,10 +9176,6 @@ https://drone.kz/product/komplekt-makeblock-perception-gizmos/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6928819506008
-
 #### Тип:
 
 комплект
@@ -12472,22 +9192,6 @@ Perception gizmos
 
 P1020002
 
-#### Дополнительные изображения:
-
-222515 / 222516 / 222517 / 222518 / 222519 / 222520 / 222521
-
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-43800
-
 #### Комплектация:
 
 Датчик температуры и влажности - 1 шт / Датчик звука - 1 шт / Потенциометр - 1 шт / Светодиодная матрица 8x16 - 1 шт / 130 моторный пакет - 1 шт  / Кабель RJ25 - 4 шт / Балка 0824-096 - 2 шт / Балка 0808-072 - 2 шт / Кронштейн 3x3 - 2 шт / Пластины 45° - 2 шт / Ключ 5 мм и 7 мм  - 1 шт / Латунные шпильки M4x25 мм - 4 шт / Винт M4x8 мм  - 16 шт / Винт M4x14 мм - 20 шт / Винт M4x22 мм  - 4 шт / Гайка M4 - 20 шт / Пластиковых прокладок 4x7x3 мм - 10 шт / Документация
@@ -12496,19 +9200,15 @@ P1020002
 
 12
 
-#### Руководство пользователя:
-
-https://download.makeblock.com/mBot&mBot%20Ranger-Perception%20GizmosAdd-on%20Pack_STD_EN_User%20Manual_D1.1.4_%20M402010002_Print.pdf
-
-#### Страница товара на сайте производителя:
-
-https://education.makeblock.com/
-
 #### Вес товара, кг:
 
 1
 
----
+
+
+
+
+
 
 ## Комплект Makeblock CyberPi Innovation
 
@@ -12526,10 +9226,6 @@ https://drone.kz/product/komplekt-makeblock-cyberpi-innovation/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6928819511873
-
 #### Тип:
 
 комплект
@@ -12546,22 +9242,6 @@ CyberPi Innovation
 
 P5010083
 
-#### Дополнительные изображения:
-
-222523 / 222524 / 222525 / 222526 / 222527
-
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-46100
-
 #### Комплектация:
 
 Двухосевой мотор-редуктор TT - 1 шт / Светодиодная лента RGB (0,5 м) - 1 шт / Блок сенсорных датчиков mBuild Multi Touch- 1 уп / Ультразвуковой датчик mBuild - 1 шт / Потенциометр mBuild Slider - 1 шт  / Сервопривод с кронштейном 9g Servo MS-1.5A / Кабель mBuild (200 мм) - 3 шт / Кабель mBuild (100 мм) - 2 шт / Документация
@@ -12569,10 +9249,6 @@ P5010083
 #### Срок гарантии производителя, m:
 
 12
-
-#### Страница товара на сайте производителя:
-
-https://education.makeblock.com/product/cyberpi-innovation-add-on-pack/
 
 #### Размер упаковки (Ш×В×Г), cm:
 
@@ -12582,7 +9258,11 @@ https://education.makeblock.com/product/cyberpi-innovation-add-on-pack/
 
 220
 
----
+
+
+
+
+
 
 ## Ручка для чистки линз PGYTECH Lens Cleaning Pen
 
@@ -12599,10 +9279,6 @@ https://education.makeblock.com/product/cyberpi-innovation-add-on-pack/
 https://drone.kz/product/ruchka-dlya-chistki-linz-pgytech-lens-cleaning-pen/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970801334427
 
 #### Тип:
 
@@ -12624,25 +9300,9 @@ Lens Cleaning Pen
 
 P-GM-112
 
-#### Дополнительные изображения:
-
-222534 / 222535 / 222536
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-1
-
-#### Цена со скидкой:
-
-10300
 
 #### Комплектация:
 
@@ -12652,10 +9312,6 @@ P-GM-112
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.dji.com/
-
 #### Размеры (Ш×В×Г), cm:
 
 5.1х15.5х2.6
@@ -12664,7 +9320,11 @@ https://www.dji.com/
 
 20
 
----
+
+
+
+
+
 
 ## Стабилизатор для смартфона DJI Osmo Mobile 6
 
@@ -12681,10 +9341,6 @@ https://www.dji.com/
 https://drone.kz/product/stedikam-dji-osmo-mobile-6/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6941565939005
 
 #### Тип:
 
@@ -12706,10 +9362,6 @@ Osmo Mobile 6
 
 1.4
 
-#### Код видео YouTube:
-
-fVXMzFLtLwo
-
 #### Артикул:
 
 OM6
@@ -12717,10 +9369,6 @@ OM6
 #### Модель:
 
 OSMO
-
-#### Дополнительные изображения:
-
-222601 / 222602 / 222603 / 222604 / 222605 / 222606 / 222607
 
 #### Время работы, h:
 
@@ -12730,21 +9378,9 @@ OSMO
 
 черный
 
-#### KaspiQtyAlmaty:
-
-0
-
-#### KaspiQtyAstana:
-
-1
-
 #### Совместимость:
 
 iOS, Android
-
-#### Цена со скидкой:
-
-69900
 
 #### Порты и интерфейсы:
 
@@ -12766,18 +9402,6 @@ iOS, Android
 
 12
 
-#### Руководство пользователя:
-
-https://dl.djicdn.com/downloads/DJI_Osmo_Mobile_6/Osmo_Mobile_6_User_Manual_v1.0_ru.pdf
-
-#### Руководство по быстрому старту:
-
-https://dl.djicdn.com/downloads/DJI_Osmo_Mobile_6/Osmo_Mobile_6_Quick_Start_Guide.pdf
-
-#### Страница товара на сайте производителя:
-
-https://www.dji.com/
-
 #### Размеры (Ш×В×Г), cm:
 
 8.45х4.4х18.9
@@ -12786,7 +9410,11 @@ https://www.dji.com/
 
 340
 
----
+
+
+
+
+
 
 ## Сумка PGYTECH OneGo Shoulder Bag 6L Obsidian Black
 
@@ -12804,10 +9432,6 @@ https://drone.kz/product/sumka-pgytech-onego-shoulder-bag-6l-obsidian-black/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970801337190
-
 #### Тип:
 
 сумка
@@ -12824,37 +9448,17 @@ OneGo Shoulder Bag 6L Obsidian Black
 
 Полиэстер, полиуретан
 
-#### Код видео YouTube:
-
-gXY3JzfROgs
-
 #### Артикул:
 
 P-CB-044
-
-#### Дополнительные изображения:
-
-222609 / 222610
 
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-2
-
 #### Совместимость:
 
 Mini 3 Pro
-
-#### Цена со скидкой:
-
-43800
 
 #### Варианты конструктивного исполнения:
 
@@ -12868,19 +9472,15 @@ Mini 3 Pro
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.pgytech.com/products/onego-shoulder-bag
-
-#### К этому товару подходят:
-
-Сумка PGYTECH OneMo Shoulder Bag (Twilight Black) / Рюкзак PGYTECH OneGo (черный обсидиан) / Рюкзак и сумка PGYTECH OneMo (черные сумерки)
-
 #### Размеры (Ш×В×Г), cm:
 
 30×32×10
 
----
+
+
+
+
+
 
 ## Сумка PGYTECH OneGo Shoulder Bag 6L Deep Navy
 
@@ -12898,10 +9498,6 @@ https://drone.kz/product/sumka-pgytech-onego-shoulder-bag-6l-deep-navy/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970801337206
-
 #### Тип:
 
 сумка
@@ -12918,37 +9514,17 @@ OneGo Shoulder Bag 6L Deep Navy
 
 Полиэстер, полиуретан
 
-#### Код видео YouTube:
-
-gXY3JzfROgs
-
 #### Артикул:
 
 P-CB-048
-
-#### Дополнительные изображения:
-
-222612
 
 #### Цвет:
 
 синий
 
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-2
-
 #### Совместимость:
 
 Mini 3 Pro
-
-#### Цена со скидкой:
-
-62300
 
 #### Варианты конструктивного исполнения:
 
@@ -12962,19 +9538,15 @@ Mini 3 Pro
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.pgytech.com/products/onego-shoulder-bag
-
-#### К этому товару подходят:
-
-Сумка PGYTECH OneMo Shoulder Bag (Twilight Black) / Рюкзак PGYTECH OneGo (черный обсидиан) / Рюкзак и сумка PGYTECH OneMo (черные сумерки)
-
 #### Размеры (Ш×В×Г), cm:
 
 30×32×10
 
----
+
+
+
+
+
 
 ## Сумка PGYTECH OneGo Shoulder Bag 10L Obsidian Black
 
@@ -12992,10 +9564,6 @@ https://drone.kz/product/sumka-pgytech-onego-shoulder-bag-10l-obsidian-black/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970801337176
-
 #### Тип:
 
 сумка
@@ -13012,37 +9580,17 @@ OneGo Shoulder Bag 10L Obsidian Black
 
 Полиэстер, полиуретан
 
-#### Код видео YouTube:
-
-gXY3JzfROgs
-
 #### Артикул:
 
 P-CB-043
-
-#### Дополнительные изображения:
-
-222614 / 222615
 
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-0
-
-#### KaspiQtyAstana:
-
-1
-
 #### Совместимость:
 
 Mini 3 Pro
-
-#### Цена со скидкой:
-
-71500
 
 #### Варианты конструктивного исполнения:
 
@@ -13056,19 +9604,15 @@ Mini 3 Pro
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.pgytech.com/products/onego-shoulder-bag
-
-#### К этому товару подходят:
-
-Сумка PGYTECH OneMo Shoulder Bag (Twilight Black) / Рюкзак PGYTECH OneGo (черный обсидиан) / Рюкзак и сумка PGYTECH OneMo (черные сумерки)
-
 #### Размеры (Ш×В×Г), cm:
 
 35×28×14
 
----
+
+
+
+
+
 
 ## Сумка PGYTECH OneGo Shoulder Bag 10L Shell Grey
 
@@ -13086,10 +9630,6 @@ https://drone.kz/product/sumka-pgytech-onego-shoulder-bag-10l-shell-grey/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970801337183
-
 #### Тип:
 
 сумка
@@ -13106,37 +9646,17 @@ OneGo Shoulder Bag 10L Shell Grey
 
 Полиэстер, полиуретан
 
-#### Код видео YouTube:
-
-gXY3JzfROgs
-
 #### Артикул:
 
 P-CB-047
-
-#### Дополнительные изображения:
-
-222617
 
 #### Цвет:
 
 серый
 
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-2
-
 #### Совместимость:
 
 Mini 3 Pro
-
-#### Цена со скидкой:
-
-71500
 
 #### Варианты конструктивного исполнения:
 
@@ -13150,19 +9670,15 @@ Mini 3 Pro
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.pgytech.com/products/onego-shoulder-bag
-
-#### К этому товару подходят:
-
-Сумка PGYTECH OneMo Shoulder Bag (Twilight Black) / Рюкзак PGYTECH OneGo (черный обсидиан) / Рюкзак и сумка PGYTECH OneMo (черные сумерки)
-
 #### Размеры (Ш×В×Г), cm:
 
 35×28×14
 
----
+
+
+
+
+
 
 ## Сумка PGYTECH OneGo Solo Sling Deep Navy
 
@@ -13179,10 +9695,6 @@ https://www.pgytech.com/products/onego-shoulder-bag
 https://drone.kz/product/sumka-pgytech-onego-solo-sling-deep-navy/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970801337237
 
 #### Тип:
 
@@ -13204,29 +9716,13 @@ OneGo Solo Sling Deep Navy
 
 P-CB-051
 
-#### Дополнительные изображения:
-
-222622
-
 #### Цвет:
 
 синий
 
-#### KaspiQtyAlmaty:
-
-0
-
-#### KaspiQtyAstana:
-
-2
-
 #### Совместимость:
 
 Mini 3 Pro
-
-#### Цена со скидкой:
-
-36900
 
 #### Варианты конструктивного исполнения:
 
@@ -13240,19 +9736,15 @@ Mini 3 Pro
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.pgytech.com/products/onego-shoulder-bag
-
-#### К этому товару подходят:
-
-Сумка PGYTECH OneMo Shoulder Bag (Twilight Black) / Рюкзак PGYTECH OneGo (черный обсидиан) / Рюкзак и сумка PGYTECH OneMo (черные сумерки)
-
 #### Размеры (Ш×В×Г), cm:
 
 32×15×8
 
----
+
+
+
+
+
 
 ## Чехол для пульта управления PGYTECH DJI RC Pro Protector
 
@@ -13269,10 +9761,6 @@ https://www.pgytech.com/products/onego-shoulder-bag
 https://drone.kz/product/chekhol-dlya-pulta-upravleniya-pgytech-dji-rc-pro-protector/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970801337695
 
 #### Тип:
 
@@ -13294,29 +9782,13 @@ TPU
 
 P-GM-148
 
-#### Дополнительные изображения:
-
-222624
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-4
-
-#### KaspiQtyAstana:
-
-4
-
 #### Совместимость:
 
 Mini 3 Pro
-
-#### Цена со скидкой:
-
-12600
 
 #### Варианты конструктивного исполнения:
 
@@ -13330,19 +9802,15 @@ Mini 3 Pro
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.pgytech.com/products/dji-rc-pro-protector
-
-#### К этому товару подходят:
-
-Сумка PGYTECH OneGo Shoulder Bag 6L Obsidian Black / Сумка PGYTECH OneGo Shoulder Bag 10L Shell Grey / Сумка PGYTECH OneGo Shoulder Bag 10L Obsidian Black
-
 #### Размеры (Ш×В×Г), cm:
 
 14×18×5
 
----
+
+
+
+
+
 
 ## Защита пульта управления PGYTECH DJI RC Protector
 
@@ -13359,10 +9827,6 @@ https://www.pgytech.com/products/dji-rc-pro-protector
 https://drone.kz/product/zashchita-pulta-upravleniya-pgytech-dji-rc-protector/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970801337626
 
 #### Тип:
 
@@ -13384,29 +9848,13 @@ TPU
 
 P-30A-060
 
-#### Дополнительные изображения:
-
-222626 / 222627
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-7
-
-#### KaspiQtyAstana:
-
-2
-
 #### Совместимость:
 
 Mini 3 Pro
-
-#### Цена со скидкой:
-
-10300
 
 #### Варианты конструктивного исполнения:
 
@@ -13420,19 +9868,15 @@ Mini 3 Pro
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.pgytech.com/products/dji-rc-protector
-
-#### К этому товару подходят:
-
-Сумка PGYTECH OneGo Shoulder Bag 6L Obsidian Black / Сумка PGYTECH OneGo Shoulder Bag 10L Shell Grey / Сумка PGYTECH OneGo Shoulder Bag 10L Obsidian Black
-
 #### Размеры (Ш×В×Г), cm:
 
 12×17×5
 
----
+
+
+
+
+
 
 ## Защита пропеллеров PGYTECH DJI Mini 3 Pro Propeller Guard
 
@@ -13449,10 +9893,6 @@ https://www.pgytech.com/products/dji-rc-protector
 https://drone.kz/product/zashchita-propellerov-pgytech-dji-mini-3-pro-propeller-guard/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970801337688
 
 #### Тип:
 
@@ -13474,25 +9914,9 @@ ABS
 
 P-30A-040
 
-#### Дополнительные изображения:
-
-222629 / 222630
-
 #### Цвет:
 
 серый
-
-#### KaspiQtyAlmaty:
-
-0
-
-#### KaspiQtyAstana:
-
-8
-
-#### Цена со скидкой:
-
-13800
 
 #### Варианты конструктивного исполнения:
 
@@ -13506,19 +9930,15 @@ P-30A-040
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.pgytech.com/products/dji-mini-3-pro-propeller-guard
-
-#### К этому товару подходят:
-
-Сумка PGYTECH OneGo Shoulder Bag 6L Obsidian Black / Сумка PGYTECH OneGo Shoulder Bag 10L Shell Grey / Сумка PGYTECH OneGo Shoulder Bag 10L Obsidian Black
-
 #### Размеры (Ш×В×Г), cm:
 
 42×35×6
 
----
+
+
+
+
+
 
 ## Коврик для дрона PGYTECH Drones Landing Pad Pro V2
 
@@ -13535,10 +9955,6 @@ https://www.pgytech.com/products/dji-mini-3-pro-propeller-guard
 https://drone.kz/product/kovrik-dlya-drona-pgytech-drones-landing-pad-pro-v2/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970801337022
 
 #### Тип:
 
@@ -13560,25 +9976,9 @@ Drones Landing Pad Pro V2
 
 P-GM-143
 
-#### Дополнительные изображения:
-
-222632 / 222633
-
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-2
-
 #### Совместимость:
 
 Mini 3 Pro
-
-#### Цена со скидкой:
-
-13800
 
 #### Комплектация:
 
@@ -13588,14 +9988,6 @@ Mini 3 Pro
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.pgytech.com/
-
-#### К этому товару подходят:
-
-Квадрокоптер DJI Mini 3 Pro RC / Квадрокоптер DJI Mini 3 Pro / Квадрокоптер DJI Mini 3 Pro (без RC)
-
 #### Размеры (Ш×В×Г), cm:
 
 26х17х2
@@ -13604,7 +9996,11 @@ https://www.pgytech.com/
 
 0.352
 
----
+
+
+
+
+
 
 ## UV фильтр PGYTECH DJI Action 2 UV 
 
@@ -13621,10 +10017,6 @@ https://www.pgytech.com/
 https://drone.kz/product/uv-filtr-pgytech-dji-action-2-uv-filter/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970801337121
 
 #### Тип:
 
@@ -13646,29 +10038,13 @@ DJI Action 2 UV Filter
 
 P-28A-010
 
-#### Дополнительные изображения:
-
-222635
-
 #### Цвет:
 
 фиолетовый
 
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-2
-
 #### Совместимость:
 
 DJI Action 2
-
-#### Цена со скидкой:
-
-9100
 
 #### Комплектация:
 
@@ -13678,14 +10054,6 @@ UV фильтр PGYTECH DJI Action 2 UV
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.pgytech.com/products/dji-action-2-filters
-
-#### К этому товару подходят:
-
-DJI Action 2 Dual-Screen Combo / Экшн-камера DJI Action 2 Dual-Screen Combo / Макрообъектив DJI Action 2
-
 #### Размеры (Ш×В×Г), cm:
 
 3.8 х 3.8 х 0.22
@@ -13694,7 +10062,11 @@ DJI Action 2 Dual-Screen Combo / Экшн-камера DJI Action 2 Dual-Screen 
 
 3.3
 
----
+
+
+
+
+
 
 ## UV фильтр PGYTECH DJI Action 2 CPL
 
@@ -13711,10 +10083,6 @@ DJI Action 2 Dual-Screen Combo / Экшн-камера DJI Action 2 Dual-Screen 
 https://drone.kz/product/uv-filtr-pgytech-dji-action-2-cpl-filter/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970801337138
 
 #### Тип:
 
@@ -13736,29 +10104,13 @@ DJI Action 2 CPL Filter
 
 P-28A-011
 
-#### Дополнительные изображения:
-
-222637
-
 #### Цвет:
 
 фиолетовый
 
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-2
-
 #### Совместимость:
 
 DJI Action 2
-
-#### Цена со скидкой:
-
-10300
 
 #### Комплектация:
 
@@ -13768,14 +10120,6 @@ UV фильтр PGYTECH DJI Action 2 CPL
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.pgytech.com/products/dji-action-2-filters
-
-#### К этому товару подходят:
-
-DJI Action 2 Dual-Screen Combo / Экшн-камера DJI Action 2 Dual-Screen Combo / Макрообъектив DJI Action 2
-
 #### Размеры (Ш×В×Г), cm:
 
 3.8 х 3.8 х 0.27
@@ -13784,7 +10128,11 @@ DJI Action 2 Dual-Screen Combo / Экшн-камера DJI Action 2 Dual-Screen 
 
 5
 
----
+
+
+
+
+
 
 ## Стабилизатор для смартфона PowerVision S1 Explorer Kit зеленый
 
@@ -13801,10 +10149,6 @@ DJI Action 2 Dual-Screen Combo / Экшн-камера DJI Action 2 Dual-Screen 
 https://drone.kz/product/stabilizator-dlya-smartfona-powervision-s1-explorer-kit-zelenyy/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970820830900
 
 #### Тип:
 
@@ -13834,33 +10178,13 @@ S1 Explorer Kit En Green
 
 S1 Explorer Kit En Green
 
-#### Дополнительные изображения:
-
-222655 / 222656 / 222657 / 222658 / 222659
-
 #### Цвет:
 
 зеленый
 
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-2
-
 #### Совместимость:
 
 Телефоны с ОС iOS 12.0 и выше, Android 7.0 и выше
-
-#### Цена со скидкой:
-
-29600
-
-#### Старая цена:
-
-29600
 
 #### Порты и интерфейсы:
 
@@ -13894,15 +10218,11 @@ S1 Explorer Kit En Green
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.powervision.me/en/product/powervision-s1/specs
 
-#### К этому товару подходят:
 
-Стабилизатор для смартфона PowerVision S1 Combo Set Blue / Магнитное крепление для телефона PowerVision S1 / Стабилизатор PowerVision S1
 
----
+
 
 ## Стабилизатор для смартфона PowerVision S1 Explorer Kit синий
 
@@ -13919,10 +10239,6 @@ https://www.powervision.me/en/product/powervision-s1/specs
 https://drone.kz/product/stabilizator-dlya-smartfona-powervision-s1-explorer-kit-siniy/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970820830917
 
 #### Тип:
 
@@ -13952,33 +10268,13 @@ S1 Explorer Kit En Blue
 
 S1 Explorer Kit En Blue
 
-#### Дополнительные изображения:
-
-222661 / 222662 / 222663 / 222664 / 222665 / 222666
-
 #### Цвет:
 
 синий
 
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-2
-
 #### Совместимость:
 
 Телефоны с ОС iOS 12.0 и выше, Android 7.0 и выше
-
-#### Цена со скидкой:
-
-29600
-
-#### Старая цена:
-
-29600
 
 #### Порты и интерфейсы:
 
@@ -14012,15 +10308,11 @@ S1 Explorer Kit En Blue
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.powervision.me/en/product/powervision-s1/specs
 
-#### К этому товару подходят:
 
-Стабилизатор для смартфона PowerVision S1 Combo Set Blue / Магнитное крепление для телефона PowerVision S1 / Стабилизатор PowerVision S1
 
----
+
 
 ## Магнитный чехол PowerVision S1 iPhone 12 Pro Max Black
 
@@ -14038,10 +10330,6 @@ https://drone.kz/product/magnitnyy-chekhol-powervision-s1-iphone-12-pro-max-blac
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970820831709
-
 #### Тип:
 
 чехол
@@ -14058,29 +10346,13 @@ S1 Magnetic PhoneCase iPhone12 Pro Max Black
 
 S1 Magnetic PhoneCase iPhone12 Pro Max Black
 
-#### Дополнительные изображения:
-
-222668
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-1
-
 #### Совместимость:
 
 iPhone 12 Pro Max
-
-#### Цена со скидкой:
-
-6500
 
 #### Комплектация:
 
@@ -14090,14 +10362,6 @@ iPhone 12 Pro Max
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.powervision.me/ru/product/powervision-s1/#null
-
-#### К этому товару подходят:
-
-Клип-кейс PolarPro LiteChaser Pro | iPhone 11 Pro / Клип-кейс PolarPro LiteChaser Pro | iPhone 11 Pro Max / Клип-кейс PolarPro LiteChaser Pro | iPhone 12 Pro Max Black
-
 #### Размеры (Ш×В×Г), cm:
 
 16x7.8x0.7
@@ -14106,7 +10370,11 @@ https://www.powervision.me/ru/product/powervision-s1/#null
 
 0.2
 
----
+
+
+
+
+
 
 ## Магнитный чехол PowerVision S1 iPhone 12 Pro Green
 
@@ -14124,10 +10392,6 @@ https://drone.kz/product/magnitnyy-chekhol-powervision-s1-iphone-12-pro-green/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970820831747
-
 #### Тип:
 
 чехол
@@ -14144,29 +10408,13 @@ S1 Magnetic PhoneCase iPhone 12 Pro Green
 
 S1 Magnetic PhoneCase iPhone 12 Pro Green
 
-#### Дополнительные изображения:
-
-222670
-
 #### Цвет:
 
 зеленый
 
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-1
-
 #### Совместимость:
 
 iPhone 12 Pro
-
-#### Цена со скидкой:
-
-6500
 
 #### Комплектация:
 
@@ -14176,14 +10424,6 @@ iPhone 12 Pro
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.powervision.me/ru/product/powervision-s1/#null
-
-#### К этому товару подходят:
-
-Клип-кейс PolarPro LiteChaser Pro | iPhone 11 Pro / Клип-кейс PolarPro LiteChaser Pro | iPhone 11 Pro Max / Клип-кейс PolarPro LiteChaser Pro | iPhone 12 Pro Max Black
-
 #### Размеры (Ш×В×Г), cm:
 
 14.6x7.1x0.7
@@ -14192,7 +10432,11 @@ https://www.powervision.me/ru/product/powervision-s1/#null
 
 0.2
 
----
+
+
+
+
+
 
 ## Магнитный чехол PowerVision S1 iPhone 11 Pro Max Green
 
@@ -14210,10 +10454,6 @@ https://drone.kz/product/magnitnyy-chekhol-powervision-s1-iphone-11-pro-max-gree
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970820831778
-
 #### Тип:
 
 чехол
@@ -14230,29 +10470,13 @@ S1 Magnetic PhoneCase iPhone 11 Pro Max Green
 
 S1 Magnetic PhoneCase iPhone 11 Pro Max Green
 
-#### Дополнительные изображения:
-
-222676
-
 #### Цвет:
 
 зеленый
 
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-1
-
 #### Совместимость:
 
 iPhone 11 Pro Max
-
-#### Цена со скидкой:
-
-6500
 
 #### Комплектация:
 
@@ -14262,14 +10486,6 @@ iPhone 11 Pro Max
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.powervision.me/ru/product/powervision-s1/#null
-
-#### К этому товару подходят:
-
-Клип-кейс PolarPro LiteChaser Pro | iPhone 11 Pro / Клип-кейс PolarPro LiteChaser Pro | iPhone 11 Pro Max / Клип-кейс PolarPro LiteChaser Pro | iPhone 12 Pro Max Black
-
 #### Размеры (Ш×В×Г), cm:
 
 15x6x0.8
@@ -14278,7 +10494,11 @@ https://www.powervision.me/ru/product/powervision-s1/#null
 
 0.2
 
----
+
+
+
+
+
 
 ## Магнитный чехол PowerVision S1 iPhone 11 Pro Black
 
@@ -14296,10 +10516,6 @@ https://drone.kz/product/magnitnyy-chekhol-powervision-s1-iphone-11-pro-black/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970820831792
-
 #### Тип:
 
 чехол
@@ -14316,29 +10532,13 @@ S1 Magnetic PhoneCase iPhone 11 Pro Black
 
 S1 Magnetic PhoneCase iPhone 11 Pro Black
 
-#### Дополнительные изображения:
-
-222678
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-1
-
 #### Совместимость:
 
 iPhone 11 Pro 
-
-#### Цена со скидкой:
-
-6500
 
 #### Комплектация:
 
@@ -14348,14 +10548,6 @@ iPhone 11 Pro
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.powervision.me/ru/product/powervision-s1/#null
-
-#### К этому товару подходят:
-
-Клип-кейс PolarPro LiteChaser Pro | iPhone 11 Pro / Клип-кейс PolarPro LiteChaser Pro | iPhone 11 Pro Max / Клип-кейс PolarPro LiteChaser Pro | iPhone 12 Pro Max Black
-
 #### Размеры (Ш×В×Г), cm:
 
 14.4x7.1x0.8
@@ -14364,7 +10556,11 @@ https://www.powervision.me/ru/product/powervision-s1/#null
 
 0.2
 
----
+
+
+
+
+
 
 ## Магнитный чехол PowerVision S1 iPhone 11 Blue
 
@@ -14382,10 +10578,6 @@ https://drone.kz/product/magnitnyy-chekhol-powervision-s1-iphone-11-blue/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970820831846
-
 #### Тип:
 
 чехол
@@ -14402,29 +10594,13 @@ S1 Magnetic PhoneCase iPhone 11 Blue
 
 S1 Magnetic PhoneCase iPhone 11 Blue
 
-#### Дополнительные изображения:
-
-222681
-
 #### Цвет:
 
 синий
 
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-1
-
 #### Совместимость:
 
 iPhone 11
-
-#### Цена со скидкой:
-
-6500
 
 #### Комплектация:
 
@@ -14434,14 +10610,6 @@ iPhone 11
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.powervision.me/ru/product/powervision-s1/#null
-
-#### К этому товару подходят:
-
-Клип-кейс PolarPro LiteChaser Pro | iPhone 11 Pro / Клип-кейс PolarPro LiteChaser Pro | iPhone 11 Pro Max / Клип-кейс PolarPro LiteChaser Pro | iPhone 12 Pro Max Black
-
 #### Размеры (Ш×В×Г), cm:
 
 15x7x0.8
@@ -14450,7 +10618,11 @@ https://www.powervision.me/ru/product/powervision-s1/#null
 
 0.2
 
----
+
+
+
+
+
 
 ## Магнитный чехол PowerVision S1 Galaxy S21 Blue
 
@@ -14468,10 +10640,6 @@ https://drone.kz/product/magnitnyy-chekhol-powervision-s1-galaxy-s21-blue/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970820831877
-
 #### Тип:
 
 чехол
@@ -14488,29 +10656,13 @@ S1 Magnetic PhoneCase Galaxy S21 Blue
 
 PVSMPC16 B
 
-#### Дополнительные изображения:
-
-222683
-
 #### Цвет:
 
 синий
 
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-1
-
 #### Совместимость:
 
 Samsung Galaxy S21
-
-#### Цена со скидкой:
-
-6500
 
 #### Комплектация:
 
@@ -14520,10 +10672,6 @@ Samsung Galaxy S21
 
 12
 
-#### К этому товару подходят:
-
-Клип-кейс PolarPro LiteChaser Pro | iPhone 11 Pro / Клип-кейс PolarPro LiteChaser Pro | iPhone 11 Pro Max / Клип-кейс PolarPro LiteChaser Pro | iPhone 12 Pro Max Black
-
 #### Размеры (Ш×В×Г), cm:
 
 15.5x7.4x0.8
@@ -14532,7 +10680,11 @@ Samsung Galaxy S21
 
 0.2
 
----
+
+
+
+
+
 
 ## Магнитный чехол PowerVision S1 Galaxy S21 Ultra Black
 
@@ -14550,10 +10702,6 @@ https://drone.kz/product/magnitnyy-chekhol-powervision-s1-galaxy-s21-ultra-black
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970820831853
-
 #### Тип:
 
 чехол
@@ -14570,29 +10718,13 @@ S1 Magnetic PhoneCase Galaxy S21 Ultra Black
 
 PVSMPC15 С
 
-#### Дополнительные изображения:
-
-222685
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-1
-
 #### Совместимость:
 
 Samsung Galaxy S21
-
-#### Цена со скидкой:
-
-6500
 
 #### Комплектация:
 
@@ -14602,10 +10734,6 @@ Samsung Galaxy S21
 
 12
 
-#### К этому товару подходят:
-
-Клип-кейс PolarPro LiteChaser Pro | iPhone 11 Pro / Клип-кейс PolarPro LiteChaser Pro | iPhone 11 Pro Max / Клип-кейс PolarPro LiteChaser Pro | iPhone 12 Pro Max Black
-
 #### Размеры (Ш×В×Г), cm:
 
 15.5x7.4x0.8
@@ -14614,7 +10742,11 @@ Samsung Galaxy S21
 
 0.2
 
----
+
+
+
+
+
 
 ## Магнитный чехол PowerVision S1 Galaxy S20 Black
 
@@ -14631,10 +10763,6 @@ Samsung Galaxy S21
 https://drone.kz/product/magnitnyy-chekhol-powervision-s1-galaxy-s20-black/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970820831884
 
 #### Тип:
 
@@ -14656,21 +10784,9 @@ PVSMPC17 С
 
 черный
 
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-1
-
 #### Совместимость:
 
 Samsung Galaxy S20
-
-#### Цена со скидкой:
-
-6500
 
 #### Комплектация:
 
@@ -14680,10 +10796,6 @@ Samsung Galaxy S20
 
 12
 
-#### К этому товару подходят:
-
-Клип-кейс PolarPro LiteChaser Pro | iPhone 11 Pro / Клип-кейс PolarPro LiteChaser Pro | iPhone 11 Pro Max / Клип-кейс PolarPro LiteChaser Pro | iPhone 12 Pro Max Black
-
 #### Размеры (Ш×В×Г), cm:
 
 15.9x7.4x0.8
@@ -14692,7 +10804,11 @@ Samsung Galaxy S20
 
 0.2
 
----
+
+
+
+
+
 
 ## Стабилизатор для смартфона PowerVision S1 + Magnetic Car Mount зеленый
 
@@ -14709,10 +10825,6 @@ Samsung Galaxy S20
 https://drone.kz/product/stabilizator-dlya-smartfona-powervision-s1-magnetic-car-mount-zelenyy/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970820830993
 
 #### Тип:
 
@@ -14742,29 +10854,13 @@ S1 + Magnetic Car Mount En Green
 
 S1 + Magnetic Car Mount En Green
 
-#### Дополнительные изображения:
-
-222688 / 222689 / 222690 / 222691 / 222692 / 222693
-
 #### Цвет:
 
 зеленый
 
-#### KaspiQtyAlmaty:
-
-6
-
-#### KaspiQtyAstana:
-
-6
-
 #### Совместимость:
 
 Телефоны с ОС iOS 12.0 и выше, Android 7.0 и выше
-
-#### Цена со скидкой:
-
-10000
 
 #### Порты и интерфейсы:
 
@@ -14798,15 +10894,11 @@ S1 + Magnetic Car Mount En Green
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.powervision.me/en/product/powervision-s1/specs
 
-#### К этому товару подходят:
 
-Стабилизатор для смартфона PowerVision S1 Combo Set Green / Стабилизатор для смартфона PowerVision S1 Explorer Kit синий / Стабилизатор для смартфона PowerVision S1 Explorer Kit
 
----
+
 
 ## Стабилизатор для смартфона PowerVision S1 + Magnetic Car Mount синий
 
@@ -14823,10 +10915,6 @@ https://www.powervision.me/en/product/powervision-s1/specs
 https://drone.kz/product/stabilizator-dlya-smartfona-powervision-s1-magnetic-car-mount-siniy/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970820831006
 
 #### Тип:
 
@@ -14856,21 +10944,9 @@ S1 + Magnetic Car Mount En Blue
 
 S1 + Magnetic Car Mount En Blue
 
-#### Дополнительные изображения:
-
-222695 / 222696 / 222697 / 222698 / 222699 / 222700 / 222701
-
 #### Цвет:
 
 синий
-
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-5
 
 #### Совместимость:
 
@@ -14879,10 +10955,6 @@ S1 + Magnetic Car Mount En Blue
 #### Ссылка на скидочную категорию:
 
 https://drone.kz/catalog/stabilizatory-dlya-smartfonov/
-
-#### Цена со скидкой:
-
-24100
 
 #### Порты и интерфейсы:
 
@@ -14916,15 +10988,11 @@ https://drone.kz/catalog/stabilizatory-dlya-smartfonov/
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.powervision.me/en/product/powervision-s1/specs
 
-#### К этому товару подходят:
 
-Стабилизатор для смартфона PowerVision S1 Combo Set Green / Стабилизатор для смартфона PowerVision S1 Explorer Kit синий / Стабилизатор для смартфона PowerVision S1 Explorer Kit
 
----
+
 
 ## Стабилизатор для смартфона PowerVision S1 + Magnetic Car Mount черный
 
@@ -14941,10 +11009,6 @@ https://www.powervision.me/en/product/powervision-s1/specs
 https://drone.kz/product/stabilizator-dlya-smartfona-powervision-s1-magnetic-car-mount-chernyy/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970820830986
 
 #### Тип:
 
@@ -14974,29 +11038,13 @@ S1 + Magnetic Car Mount En Black
 
 S1 + Magnetic Car Mount En Black
 
-#### Дополнительные изображения:
-
-222703 / 222704 / 222705 / 222706 / 222707
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-4
-
-#### KaspiQtyAstana:
-
-4
-
 #### Совместимость:
 
 Телефоны с ОС iOS 12.0 и выше, Android 7.0 и выше
-
-#### Цена со скидкой:
-
-29600
 
 #### Порты и интерфейсы:
 
@@ -15030,15 +11078,11 @@ S1 + Magnetic Car Mount En Black
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.powervision.me/en/product/powervision-s1/specs
 
-#### К этому товару подходят:
 
-Стабилизатор для смартфона PowerVision S1 Combo Set Green / Стабилизатор для смартфона PowerVision S1 Explorer Kit синий / Стабилизатор для смартфона PowerVision S1 Explorer Kit
 
----
+
 
 ## Защита пропеллеров DJI Avata
 
@@ -15056,10 +11100,6 @@ https://drone.kz/product/zashchita-propellerov-dji-avata/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6941565936462
-
 #### Тип:
 
 защита пропеллеров
@@ -15072,29 +11112,9 @@ dji
 
 DJI Avata Propeller Guard
 
-#### Код видео YouTube:
-
-mf4ATMZgzFU
-
 #### Артикул:
 
 DJIAvataPG
-
-#### Дополнительные изображения:
-
-222774 / 222775
-
-#### KaspiQtyAlmaty:
-
-0
-
-#### KaspiQtyAstana:
-
-2
-
-#### Цена со скидкой:
-
-20700
 
 #### Комплектация:
 
@@ -15104,19 +11124,15 @@ DJIAvataPG
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.dji.com/
-
-#### К этому товару подходят:
-
-Квадрокоптер DJI Avata / Пропеллеры DJI Avata
-
 #### Размеры (Ш×В×Г), cm:
 
 18.0 × 18.0 × 4.2
 
----
+
+
+
+
+
 
 ## ND-фильтры 8/16/32 DJI Avata
 
@@ -15133,10 +11149,6 @@ ND-фильтры 8/16/32 DJI Avata – это комплект светофил
 https://drone.kz/product/nd-filtry-8-16-32-dji-avata/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6941565937612
 
 #### Тип:
 
@@ -15158,25 +11170,9 @@ DJI Avata ND Filters Set includes ND8, ND16, and ND32
 
 DJI-FAV107
 
-#### Дополнительные изображения:
-
-222788 / 222789 / 222790 / 222791
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-5
-
-#### KaspiQtyAstana:
-
-2
-
-#### Цена со скидкой:
-
-49600
 
 #### Класс дрона:
 
@@ -15190,23 +11186,15 @@ ND-фильтры 8/16/32 DJI Avata: / ND8 Filter × 1 / ND16 Filter × 1 / ND32
 
 12
 
-#### Руководство пользователя:
-
-https://dl.djicdn.com/downloads/DJI_Avata/20220825/DJI_Avata_ND_Filters_Set_(ND8_16_32)_Product_Info.pdf
-
-#### Страница товара на сайте производителя:
-
-https://www.dji.com/
-
-#### К этому товару подходят:
-
-Квадрокоптер DJI Avata
-
 #### Размеры (Ш×В×Г), cm:
 
 2.2 × 1.8
 
----
+
+
+
+
+
 
 ## Верхняя рама DJI Avata
 
@@ -15224,10 +11212,6 @@ https://drone.kz/product/verkhnyaya-rama-dji-avata/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6941565936486
-
 #### Тип:
 
 корпус
@@ -15240,33 +11224,13 @@ dji
 
 DJI Avata Upper Frame
 
-#### Код видео YouTube:
-
-mf4ATMZgzFU
-
 #### Артикул:
 
 DJI-FAV106
 
-#### Дополнительные изображения:
-
-222799 / 222800 / 222801
-
 #### Цвет:
 
 серый
-
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-2
-
-#### Цена со скидкой:
-
-18400
 
 #### Комплектация:
 
@@ -15276,19 +11240,15 @@ DJI-FAV106
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.dji.com/
-
-#### К этому товару подходят:
-
-Квадрокоптер DJI Avata
-
 #### Размеры (Ш×В×Г), cm:
 
 13.2 × 5.7 × 4.2
 
----
+
+
+
+
+
 
 ## Лицевая накладка DJI Goggles 2
 
@@ -15306,10 +11266,6 @@ https://drone.kz/product/litsevaya-nakladka-dji-goggles-2/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6941565929730
-
 #### Тип:
 
 подкладка оголовья
@@ -15326,29 +11282,13 @@ DJI Goggles 2 Foam Padding
 
 DJIG2FPad
 
-#### Дополнительные изображения:
-
-222813 / 222814 / 222815
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-5
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 DJI Goggles 2
-
-#### Цена со скидкой:
-
-10300
 
 #### Комплектация:
 
@@ -15358,15 +11298,11 @@ DJI Goggles 2
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.dji.com/
 
-#### К этому товару подходят:
 
-Комплект DJI Goggles 2 Motion Combo / Квадрокоптер DJI Avata
 
----
+
 
 ## Ремешок DJI Goggles 2 Headband
 
@@ -15384,10 +11320,6 @@ https://drone.kz/product/remeshok-dji-goggles-2-headband/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6941565929747
-
 #### Тип:
 
 ремешок
@@ -15404,29 +11336,13 @@ DJI Goggles 2 Headband
 
 DJIG2HBN
 
-#### Дополнительные изображения:
-
-222817 / 222818 / 222819
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-10
-
-#### KaspiQtyAstana:
-
-2
-
 #### Совместимость:
 
 DJI Goggles 2
-
-#### Цена со скидкой:
-
-10300
 
 #### Комплектация:
 
@@ -15436,11 +11352,11 @@ DJI Goggles 2
 
 12
 
-#### К этому товару подходят:
 
-Комплект DJI Goggles 2 Motion Combo / Квадрокоптер DJI Avata / Лицевая накладка DJI Goggles 2
 
----
+
+
+
 
 ## Магнитный зажим Clamp 3 DJI OM
 
@@ -15458,10 +11374,6 @@ https://drone.kz/product/magnitnyy-zazhim-clamp-3-dji-om/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6941565946225
-
 #### Тип:
 
 крепление
@@ -15478,25 +11390,9 @@ OM Magnetic Phone Clamp 3
 
 DJPhnClmp3
 
-#### Дополнительные изображения:
-
-222845 / 222846 / 222847 / 222848
-
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-3
-
 #### Совместимость:
 
 DJI OM 6, DJI OM 5, DJI OM 4
-
-#### Цена со скидкой:
-
-14900
 
 #### Рабочая температура, °C:
 
@@ -15514,19 +11410,15 @@ DJI OM 6, DJI OM 5, DJI OM 4
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.dji.com/
-
-#### К этому товару подходят:
-
-Стабилизатор для смартфона DJI OM5 / Стабилизатор для смартфона DJI Osmo Mobile 4 / Стабилизатор для смартфона DJI Osmo Mobile 4 SE
-
 #### Размеры (Ш×В×Г), cm:
 
 6.8 × 4.0 × 1.8
 
----
+
+
+
+
+
 
 ## Маркеры DJI RoboMaster S1 Vision Markers
 
@@ -15544,10 +11436,6 @@ https://drone.kz/product/markery-dji-robomaster-s1-vision-markers/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6958265189197
-
 #### Тип:
 
 комплект
@@ -15564,22 +11452,6 @@ S1 Vision Markers
 
 S1 Vision Markers
 
-#### Дополнительные изображения:
-
-223170 / 223171
-
-#### KaspiQtyAlmaty:
-
-40
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-8000
-
 #### Комплектация:
 
 Маркеры DJI RoboMaster S1 Vision Markers
@@ -15588,15 +11460,11 @@ S1 Vision Markers
 
 12
 
-#### Страница товара на сайте производителя:
 
-dji.com
 
-#### К этому товару подходят:
 
-Интеллектуальный робот DJI Robomaster S1
 
----
+
 
 ## Пульт управления DJI RoboMaster S1 Gamepad
 
@@ -15613,10 +11481,6 @@ dji.com
 https://drone.kz/product/pult-upravleniya-dji-robomaster-s1-gamepad/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6958265191329
 
 #### Тип:
 
@@ -15646,10 +11510,6 @@ dji
 
 1S1P
 
-#### Дополнительные изображения:
-
-223173 / 223174 / 223175 / 223176
-
 #### Время работы, h:
 
 2
@@ -15658,21 +11518,9 @@ dji
 
 серый
 
-#### KaspiQtyAlmaty:
-
-7
-
-#### KaspiQtyAstana:
-
-3
-
 #### Аксессуары в комплекте:
 
 Пульт ДУ
-
-#### Цена со скидкой:
-
-68000
 
 #### Рабочая температура, °C:
 
@@ -15686,19 +11534,15 @@ dji
 
 12
 
-#### Страница товара на сайте производителя:
-
-dji.com
-
-#### К этому товару подходят:
-
-Интеллектуальный робот DJI Robomaster S1
-
 #### Разъемы:
 
 USB
 
----
+
+
+
+
+
 
 ## Гелевые шарики DJI RoboMaster S1 Gel Beads
 
@@ -15716,10 +11560,6 @@ https://drone.kz/product/gelevye-shariki-dji-robomaster-s1-gel-beads/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6958265188336
-
 #### Тип:
 
 шарики
@@ -15736,25 +11576,9 @@ S1 Gel Beads
 
 S1 Gel Beads
 
-#### Дополнительные изображения:
-
-223178 / 223179 / 223180
-
 #### Цвет:
 
 белый
-
-#### KaspiQtyAlmaty:
-
-38
-
-#### KaspiQtyAstana:
-
-2
-
-#### Цена со скидкой:
-
-13800
 
 #### Комплектация:
 
@@ -15764,15 +11588,11 @@ S1 Gel Beads
 
 12
 
-#### Страница товара на сайте производителя:
 
-dji.com
 
-#### К этому товару подходят:
 
-Интеллектуальный робот DJI Robomaster S1
 
----
+
 
 ## Фильтр PolarPro Circular Polarizer | Mini 3 Pro
 
@@ -15789,10 +11609,6 @@ dji.com
 https://drone.kz/product/filtr-polarpro-circular-polarizer-mini-3-pro/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-817465027912
 
 #### Тип:
 
@@ -15814,25 +11630,9 @@ PolarPro Circular Polarizer | Mini 3 Pro
 
 MINI3-PRO-CP
 
-#### Дополнительные изображения:
-
-223230 / 223231 / 223232 / 223233 / 223234
-
-#### KaspiQtyAlmaty:
-
-5
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 Mini 3 Pro
-
-#### Цена со скидкой:
-
-13800
 
 #### Дополнительные возможности:
 
@@ -15846,19 +11646,11 @@ Mini 3 Pro
 
 12
 
-#### Руководство пользователя:
 
-https://cdn.shopify.com/s/files/1/1050/9944/t/30/assets/DJI-Mini-3-Pro-Filters-UG-1657926003856.pdf
 
-#### Страница товара на сайте производителя:
 
-https://www.polarprofilters.com/
 
-#### К этому товару подходят:
 
-Квадрокоптер DJI Mini 3 Pro (без RC) / Квадрокоптер DJI Mini 3 Pro RC / Квадрокоптер DJI Mini 3 Pro / Фильтры PolarPro FX 3-Pack | Mini 3 Pro / ND-фильтры PolarPro Shutter Collection | Mini 3 Pro / ND/PL-фильтры PolarPro Vivid Collection | Mini 3 Pro
-
----
 
 ## ND/PL-фильтры PolarPro Vivid Collection | Mini 3 Pro
 
@@ -15875,10 +11667,6 @@ ND/PL-фильтры PolarPro Vivid Collection | Mini 3 Pro специально
 https://drone.kz/product/nd-pl-filtry-polarpro-vivid-collection-mini-3-pro/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-817465027899
 
 #### Тип:
 
@@ -15900,25 +11688,9 @@ PolarPro Vivid Collection | Mini 3 Pro
 
 MINI3-PRO-VIVID
 
-#### Дополнительные изображения:
-
-223236 / 223237 / 223238 / 223239 / 223240
-
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-1
-
 #### Совместимость:
 
 Mini 3 Pro
-
-#### Цена со скидкой:
-
-32200
 
 #### Дополнительные возможности:
 
@@ -15932,19 +11704,11 @@ ND/PL-фильтры PolarPro Vivid Collection | Mini 3 Pro: / фильтр ND8/
 
 12
 
-#### Руководство пользователя:
 
-https://cdn.shopify.com/s/files/1/1050/9944/t/30/assets/DJI-Mini-3-Pro-Filters-UG-1657926003856.pdf
 
-#### Страница товара на сайте производителя:
 
-https://www.polarprofilters.com/
 
-#### К этому товару подходят:
 
-Квадрокоптер DJI Mini 3 Pro (без RC) / Квадрокоптер DJI Mini 3 Pro RC / Квадрокоптер DJI Mini 3 Pro / Фильтр PolarPro Circular Polarizer | Mini 3 Pro / Фильтры PolarPro FX 3-Pack | Mini 3 Pro / ND-фильтры PolarPro Shutter Collection | Mini 3 Pro
-
----
 
 ## ND-фильтры PolarPro Shutter Collection | Mini 3 Pro
 
@@ -15961,10 +11725,6 @@ ND-фильтры PolarPro Shutter Collection | Mini 3 Pro – это компл
 https://drone.kz/product/nd-filtry-polarpro-shutter-collection-mini-3-pro/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-817465027905
 
 #### Тип:
 
@@ -15986,25 +11746,9 @@ PolarPro Shutter Collection | Mini 3 Pro
 
 MINI3-PRO-SHUTTER
 
-#### Дополнительные изображения:
-
-223242 / 223243 / 223244 / 223245 / 223246
-
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-2
-
 #### Совместимость:
 
 Mini 3 Pro
-
-#### Цена со скидкой:
-
-32200
 
 #### Дополнительные возможности:
 
@@ -16018,19 +11762,11 @@ ND-фильтры PolarPro Shutter Collection | Mini 3 Pro: / фильтр ND8 /
 
 12
 
-#### Руководство пользователя:
 
-https://cdn.shopify.com/s/files/1/1050/9944/t/30/assets/DJI-Mini-3-Pro-Filters-UG-1657926003856.pdf
 
-#### Страница товара на сайте производителя:
 
-https://www.polarprofilters.com/
 
-#### К этому товару подходят:
 
-Квадрокоптер DJI Mini 3 Pro (без RC) / Квадрокоптер DJI Mini 3 Pro RC / Квадрокоптер DJI Mini 3 Pro / ND/PL-фильтры PolarPro Vivid Collection | Mini 3 Pro / Фильтры PolarPro FX 3-Pack | Mini 3 Pro / Фильтр PolarPro Circular Polarizer | Mini 3 Pro
-
----
 
 ## Фильтры PolarPro FX 3-Pack | Mini 3 Pro
 
@@ -16047,10 +11783,6 @@ https://www.polarprofilters.com/
 https://drone.kz/product/filtry-polarpro-fx-3-pack-mini-3-pro/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-817465027882
 
 #### Тип:
 
@@ -16072,25 +11804,9 @@ PolarPro FX 3-Pack | Mini 3 Pro
 
 MINI3-PRO-FX-3PK
 
-#### Дополнительные изображения:
-
-223248 / 223249 / 223250 / 223251 / 223252
-
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-2
-
 #### Совместимость:
 
 Mini 3 Pro
-
-#### Цена со скидкой:
-
-32200
 
 #### Дополнительные возможности:
 
@@ -16104,19 +11820,11 @@ Mini 3 Pro
 
 12
 
-#### Руководство пользователя:
 
-https://cdn.shopify.com/s/files/1/1050/9944/t/30/assets/DJI-Mini-3-Pro-Filters-UG-1657926003856.pdf
 
-#### Страница товара на сайте производителя:
 
-https://www.polarprofilters.com/
 
-#### К этому товару подходят:
 
-Квадрокоптер DJI Mini 3 Pro (без RC) / Квадрокоптер DJI Mini 3 Pro RC / Квадрокоптер DJI Mini 3 Pro / ND/PL-фильтры PolarPro Vivid Collection | Mini 3 Pro / ND-фильтры PolarPro Shutter Collection | Mini 3 Pro / Фильтр PolarPro Circular Polarizer | Mini 3 Pro
-
----
 
 ## Фильтр PolarPro Circular Polarizer | Mavic 3
 
@@ -16134,10 +11842,6 @@ https://drone.kz/product/filtr-polarpro-circular-polarizer-mavic-3/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-817465027554
-
 #### Тип:
 
 светофильтр
@@ -16154,33 +11858,13 @@ PolarPro Circular Polarizer | Mavic 3
 
 Алюминий, оптическое стекло
 
-#### Код видео YouTube:
-
-EG-3B6XQiNg
-
 #### Артикул:
 
 MVC3-CP
 
-#### Дополнительные изображения:
-
-223254 / 223255 / 223256
-
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 Mavic 3
-
-#### Цена со скидкой:
-
-38000
 
 #### Дополнительные возможности:
 
@@ -16194,19 +11878,11 @@ Mavic 3
 
 12
 
-#### Руководство пользователя:
 
-https://cdn.shopify.com/s/files/1/1050/9944/t/30/assets/MAVIC3-FILTERS-UG-1643741080330.pdf
 
-#### Страница товара на сайте производителя:
 
-https://www.polarprofilters.com/
 
-#### К этому товару подходят:
 
-Квадрокоптер DJI Mavic 3 / ND/PL-фильтры PolarPro Vivid Collection | Mavic 3 / Фильтры PolarPro Directors Collection ED1 | Mavic 3 / Фильтры PolarPro Cinema Kit | Mavic 3
-
----
 
 ## ND/PL-фильтры PolarPro Vivid Collection | Mavic 3
 
@@ -16224,10 +11900,6 @@ https://drone.kz/product/nd-pl-filtry-polarpro-vivid-collection-mavic-3/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-817465028759
-
 #### Тип:
 
 светофильтр
@@ -16244,33 +11916,13 @@ PolarPro Vivid Collection | Mavic 3
 
 Алюминий, оптическое стекло
 
-#### Код видео YouTube:
-
-EG-3B6XQiNg
-
 #### Артикул:
 
 MVC3-VIVID
 
-#### Дополнительные изображения:
-
-223258 / 223259 / 223260
-
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 Mavic 3
-
-#### Цена со скидкой:
-
-62300
 
 #### Дополнительные возможности:
 
@@ -16284,19 +11936,11 @@ ND/PL-фильтры PolarPro Vivid Collection | Mavic 3: / фильтр ND8/PL 
 
 12
 
-#### Руководство пользователя:
 
-https://cdn.shopify.com/s/files/1/1050/9944/t/30/assets/MAVIC3-FILTERS-UG-1643741080330.pdf
 
-#### Страница товара на сайте производителя:
 
-https://www.polarprofilters.com/
 
-#### К этому товару подходят:
 
-Квадрокоптер DJI Mavic 3 / Фильтры PolarPro Directors Collection ED1 | Mavic 3 / Фильтры PolarPro Cinema Kit | Mavic 3 / Фильтр PolarPro VND 2-5 BlueMorphic | Mavic 3 / Фильтр PolarPro VND 2-5 GoldMorphic | Mavic 3
-
----
 
 ## Фильтры PolarPro Directors Collection ED1 | Mavic 3
 
@@ -16314,10 +11958,6 @@ https://drone.kz/product/filtry-polarpro-directors-collection-ed1-mavic-3/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-817465027622
-
 #### Тип:
 
 светофильтр
@@ -16334,33 +11974,13 @@ Directors Collection - Edition 1 | Mavic 3
 
 Алюминий, оптическое стекло
 
-#### Код видео YouTube:
-
-EG-3B6XQiNg
-
 #### Артикул:
 
 MVC3-DRCT-CLLTN-ED1
 
-#### Дополнительные изображения:
-
-223262 / 223263 / 223264
-
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-1
-
 #### Совместимость:
 
 Mavic 3
-
-#### Цена со скидкой:
-
-195100
 
 #### Дополнительные возможности:
 
@@ -16374,19 +11994,11 @@ Mavic 3
 
 12
 
-#### Руководство пользователя:
 
-https://cdn.shopify.com/s/files/1/1050/9944/t/30/assets/MAVIC3-FILTERS-UG-1643741080330.pdf
 
-#### Страница товара на сайте производителя:
 
-https://www.polarprofilters.com/
 
-#### К этому товару подходят:
 
-Квадрокоптер DJI Mavic 3 / ND/PL-фильтры PolarPro Vivid Collection | Mavic 3 / Фильтры PolarPro Cinema Kit | Mavic 3 / Фильтр PolarPro VND 2-5 BlueMorphic | Mavic 3 / Фильтр PolarPro VND 2-5 GoldMorphic | Mavic 3
-
----
 
 ## Фильтры PolarPro FX 3-Pack | Mavic 3
 
@@ -16404,10 +12016,6 @@ https://drone.kz/product/filtry-polarpro-fx-3-pack-mavic-3/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-817465027486
-
 #### Тип:
 
 светофильтр
@@ -16424,33 +12032,13 @@ PolarPro FX 3-Pack  Mavic 3
 
 Алюминий, оптическое стекло
 
-#### Код видео YouTube:
-
-EG-3B6XQiNg
-
 #### Артикул:
 
 MVC3-FX-3PK
 
-#### Дополнительные изображения:
-
-223266 / 223267 / 223268
-
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 Mavic 3
-
-#### Цена со скидкой:
-
-84200
 
 #### Дополнительные возможности:
 
@@ -16464,19 +12052,11 @@ Mavic 3
 
 12
 
-#### Руководство пользователя:
 
-https://cdn.shopify.com/s/files/1/1050/9944/t/30/assets/MAVIC3-FILTERS-UG-1643741080330.pdf
 
-#### Страница товара на сайте производителя:
 
-https://www.polarprofilters.com/
 
-#### К этому товару подходят:
 
-Квадрокоптер DJI Mavic 3 / ND/PL-фильтры PolarPro Vivid Collection | Mavic 3 / Фильтры PolarPro Directors Collection ED1 | Mavic 3 / Фильтры PolarPro Cinema Kit | Mavic 3 / Фильтры PolarPro VND 2-Pack | Mavic 3
-
----
 
 ## Фильтры PolarPro VND 2-Pack | Mavic 3
 
@@ -16494,10 +12074,6 @@ https://drone.kz/product/filtry-polarpro-vnd-2-pack-mavic-3/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-817465027509
-
 #### Тип:
 
 светофильтр
@@ -16514,33 +12090,13 @@ PolarPro VND 2-Pack  Mavic 3
 
 Алюминий, оптическое стекло
 
-#### Код видео YouTube:
-
-EG-3B6XQiNg
-
 #### Артикул:
 
 MVC3-VND-2PACK
 
-#### Дополнительные изображения:
-
-223270 / 223271 / 223272
-
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 Mavic 3
-
-#### Цена со скидкой:
-
-62300
 
 #### Дополнительные возможности:
 
@@ -16554,19 +12110,11 @@ Mavic 3
 
 12
 
-#### Руководство пользователя:
 
-https://cdn.shopify.com/s/files/1/1050/9944/t/30/assets/MAVIC3-FILTERS-UG-1643741080330.pdf
 
-#### Страница товара на сайте производителя:
 
-https://www.polarprofilters.com/
 
-#### К этому товару подходят:
 
-Квадрокоптер DJI Mavic 3 / ND/PL-фильтры PolarPro Vivid Collection | Mavic 3 / Фильтры PolarPro Directors Collection ED1 | Mavic 3 / Фильтры PolarPro FX 3-Pack | Mavic 3
-
----
 
 ## Фильтр PolarPro VND 2-5 Mist | Mavic 3
 
@@ -16584,10 +12132,6 @@ https://drone.kz/product/filtr-polarpro-vnd-2-5-mist-mavic-3/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-817465027479
-
 #### Тип:
 
 светофильтр
@@ -16604,33 +12148,13 @@ PolarPro VND 2-5 Mist Filter  Mavic 3
 
 Алюминий, оптическое стекло
 
-#### Код видео YouTube:
-
-EG-3B6XQiNg
-
 #### Артикул:
 
 MVC3-MIST-2/5
 
-#### Дополнительные изображения:
-
-223274 / 223275 / 223276
-
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 Mavic 3
-
-#### Цена со скидкой:
-
-38000
 
 #### Дополнительные возможности:
 
@@ -16644,19 +12168,11 @@ Mavic 3
 
 12
 
-#### Руководство пользователя:
 
-https://cdn.shopify.com/s/files/1/1050/9944/t/30/assets/MAVIC3-FILTERS-UG-1643741080330.pdf
 
-#### Страница товара на сайте производителя:
 
-https://www.polarprofilters.com/
 
-#### К этому товару подходят:
 
-Квадрокоптер DJI Mavic 3 / ND/PL-фильтры PolarPro Vivid Collection | Mavic 3 / Фильтры PolarPro Directors Collection ED1 | Mavic 3 / Фильтры PolarPro FX 3-Pack | Mavic 3 / Фильтры PolarPro VND 2-Pack | Mavic 3
-
----
 
 ## Фильтр PolarPro VND 2-5 BlueMorphic | Mavic 3
 
@@ -16674,10 +12190,6 @@ https://drone.kz/product/filtr-polarpro-vnd-2-5-bluemorphic-mavic-3/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-817465027561
-
 #### Тип:
 
 светофильтр
@@ -16694,33 +12206,13 @@ PolarPro VND 2-5 BlueMorphic Filter | Mavic 3
 
 Алюминий, оптическое стекло
 
-#### Код видео YouTube:
-
-EG-3B6XQiNg
-
 #### Артикул:
 
 MVC3-BLU-MORPH-VND
 
-#### Дополнительные изображения:
-
-223278 / 223279 / 223280
-
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 Mavic 3
-
-#### Цена со скидкой:
-
-38000
 
 #### Дополнительные возможности:
 
@@ -16734,19 +12226,11 @@ Mavic 3
 
 12
 
-#### Руководство пользователя:
 
-https://cdn.shopify.com/s/files/1/1050/9944/t/30/assets/MAVIC3-FILTERS-UG-1643741080330.pdf
 
-#### Страница товара на сайте производителя:
 
-https://www.polarprofilters.com/
 
-#### К этому товару подходят:
 
-Квадрокоптер DJI Mavic 3 / Фильтр PolarPro VND 2-5 GoldMorphic | Mavic 3 / Фильтр PolarPro VND 2-5 Mist | Mavic 3 / Фильтры PolarPro VND 2-Pack | Mavic 3 / Фильтры PolarPro Directors Collection ED1 | Mavic 3
-
----
 
 ## Фильтр PolarPro VND 2-5 GoldMorphic | Mavic 3
 
@@ -16764,10 +12248,6 @@ https://drone.kz/product/filtr-polarpro-vnd-2-5-goldmorphic-mavic-3/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-817465027578
-
 #### Тип:
 
 светофильтр
@@ -16784,33 +12264,13 @@ PolarPro VND 2-5 GoldMorphic Filter | Mavic 3
 
 Алюминий, оптическое стекло
 
-#### Код видео YouTube:
-
-EG-3B6XQiNg
-
 #### Артикул:
 
 MVC3-GLD-MORPH-VND
 
-#### Дополнительные изображения:
-
-223282 / 223283 / 223284
-
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 Mavic 3
-
-#### Цена со скидкой:
-
-38000
 
 #### Дополнительные возможности:
 
@@ -16824,19 +12284,11 @@ Mavic 3
 
 12
 
-#### Руководство пользователя:
 
-https://cdn.shopify.com/s/files/1/1050/9944/t/30/assets/MAVIC3-FILTERS-UG-1643741080330.pdf
 
-#### Страница товара на сайте производителя:
 
-https://www.polarprofilters.com/
 
-#### К этому товару подходят:
 
-Квадрокоптер DJI Mavic 3 / Фильтр PolarPro VND 2-5 BlueMorphic | Mavic 3 / Фильтры PolarPro VND 2-Pack | Mavic 3 / Фильтры PolarPro Cinema Kit | Mavic 3
-
----
 
 ## Рюкзак PolarPro Boreal 50L
 
@@ -16854,10 +12306,6 @@ https://drone.kz/product/ryukzak-polarpro-boreal-50l/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-817465027684
-
 #### Тип:
 
 рюкзак
@@ -16870,29 +12318,9 @@ polarpro
 
 Boreal 50L Backpack
 
-#### Код видео YouTube:
-
-ti-3H9bl8uw
-
 #### Артикул:
 
 BREL-50L-BLK-DEP
-
-#### Дополнительные изображения:
-
-223289 / 223290 / 223291 / 223292
-
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-1
-
-#### Цена со скидкой:
-
-269000
 
 #### Рабочая температура, °C:
 
@@ -16914,19 +12342,15 @@ BREL-50L-BLK-DEP
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.polarprofilters.com/
-
-#### К этому товару подходят:
-
-Органайзер PolarPro Tech Pouch | Boreal / Органайзер PolarPro 10L Cube | Boreal / Органайзер PolarPro 20L Cube | Boreal / Дождевик PolarPro Boreal 50L
-
 #### Размеры (Ш×В×Г), cm:
 
 36,83 х 63,5 х 20,32
 
----
+
+
+
+
+
 
 ## Квадрокоптер Autel EVO II Pro V3 Rugged Bundle
 
@@ -16943,10 +12367,6 @@ https://www.polarprofilters.com/
 https://drone.kz/product/autel-evo-ii-pro-v3/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6924991128687
 
 #### Тип:
 
@@ -16988,10 +12408,6 @@ EVOIIPro(V3)
 
 iOS, Android
 
-#### Дополнительные изображения:
-
-223295 / 223296 / 223297 / 223298 / 223299
-
 #### Разрешение видео:
 
 6К @30/25/24 кадров в секунду / 4K @60/50/48/30/25/24 кадров в секунду / 2.7K @120/60/50/48/30/25/24 кадров в секунду / FHD @120/60/50/48/30/25/24 кадров в секунду
@@ -17020,14 +12436,6 @@ iOS, Android
 
 72
 
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-0
-
 #### Навигация:
 
 GPS, Beidou, ГЛОНАСС, Gallileo
@@ -17035,10 +12443,6 @@ GPS, Beidou, ГЛОНАСС, Gallileo
 #### Датчики:
 
 Барометр / светодиодные индикаторы / защита от перегрузки / Всенаправленная сенсорная система 360
-
-#### Цена со скидкой:
-
-1576500
 
 #### Наличие камеры:
 
@@ -17084,14 +12488,6 @@ GPS, Beidou, ГЛОНАСС, Gallileo
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.autelrobotics.com/productdetail/25.html
-
-#### К этому товару подходят:
-
-Аккумулятор Autel Robotics EVO II / Аккумулятор Autel Robotics Battery for Smart Controller SE / Пропеллеры Autel Robotics EVO II / Посадочный коврик PGYTECH 110 / Посадочный коврик PGYTECH 75 / Карта памяти MicroSD ExAscend Catalyst SDXC I 512GB + SD adapter / Карта памяти MicroSD ExAscend Catalyst SDXC I 256GB + SD adapter / Рюкзак Manfrotto Advanced Gearpack для Mavic Pro / Рюкзак и сумка PGYTECH OneMo (черные сумерки) / Рюкзак+сумка PGYTECH OneMo 2 25l (Серый камуфляж) / Посадочный коврик PGYTECH 55 / Протектор пульта PGYTECH | DJI RC / Защита пульта управления PGYTECH DJI RC Protector / Защита пропеллеров для DJI Air 3 Propeller Guard / Поляризационный фильтр PGYTECH P-40B-011 | Mini 3/Mini 3 Pro / Коврик для дрона PGYTECH Drones Landing Pad Pro V2 / Кейс PGYTECH P-40B-030 | Mini 3/3 Pro / Защита пропеллеров 360° DJI Mini 4 Pro / Коврик посадочный PGYTECH 110cm (Weighted) / Защитный кейс PGYTECH для DJI Mavic Air 2/2S
-
 #### Вес товара, кг:
 
 365
@@ -17104,7 +12500,11 @@ https://www.autelrobotics.com/productdetail/25.html
 
 f/2.8
 
----
+
+
+
+
+
 
 ## Модуль DJI Mavic 3 Enterprise RTK Module
 
@@ -17121,10 +12521,6 @@ f/2.8
 https://drone.kz/product/modul-dji-mavic-3-enterprise-rtk-module/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6941565944788
 
 #### Тип:
 
@@ -17146,25 +12542,9 @@ Mavic 3 Enterprise RTK Module
 
 Mavic 3 Enterprise RTK Module
 
-#### Дополнительные изображения:
-
-223325 / 223326 / 223327
-
 #### Цвет:
 
 серый
-
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-437700
 
 #### Порты и интерфейсы:
 
@@ -17182,10 +12562,6 @@ USB-C
 
 12
 
-#### К этому товару подходят:
-
-Громкоговоритель DJI Mavic 3 Enterprise Speaker / Аккумулятор DJI Mavic 3 Intelligent Flight Battery / Пропеллеры DJI Mavic 3 Low-Noise  / Квадрокоптер DJI Mavic 3 Enterprise (Universal Edition) / Квадрокоптер DJI Mavic 3 Enterprise Thermal
-
 #### Размеры (Ш×В×Г), cm:
 
 5.02 × 4.02 × 6.62
@@ -17194,7 +12570,11 @@ USB-C
 
 24
 
----
+
+
+
+
+
 
 ## Комплект аккумуляторов DJI Mavic 3 Enterprise Battery Kit
 
@@ -17211,10 +12591,6 @@ USB-C
 https://drone.kz/product/komplekt-akkumulyatorov-dji-mavic-3-enterprise-battery-kit/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6941565944825
 
 #### Тип:
 
@@ -17240,25 +12616,9 @@ Mavic 3 Enterprise Battery Kit
 
 Mavic 3 Enterprise Battery Kit
 
-#### Дополнительные изображения:
-
-223329
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-372900
 
 #### Рабочая температура, °C:
 
@@ -17284,7 +12644,11 @@ Mavic 3 Enterprise Battery Kit
 
 0.441
 
----
+
+
+
+
+
 
 ## Смарт-контроллер Autel Robotics Smart Controller V3
 
@@ -17301,10 +12665,6 @@ Mavic 3 Enterprise Battery Kit
 https://drone.kz/product/smart-kontroller-autel-robotics-smart-controller-v3/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6924991104391
 
 #### Тип:
 
@@ -17350,10 +12710,6 @@ Android
 
 128
 
-#### Дополнительные изображения:
-
-223358 / 223359 / 223360 / 223361
-
 #### Время работы, h:
 
 3
@@ -17362,14 +12718,6 @@ Android
 
 черный
 
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-1
-
 #### Совместимость:
 
 EVO II Enterprise V3
@@ -17377,10 +12725,6 @@ EVO II Enterprise V3
 #### Навигация:
 
 GPS
-
-#### Цена со скидкой:
-
-607400
 
 #### Порты и интерфейсы:
 
@@ -17402,10 +12746,6 @@ HDMI
 
 12
 
-#### К этому товару подходят:
-
-Квадрокоптер Autel Robotics EVO II / Квадрокоптер Autel Robotics EVO II Pro Rugged Bundle / Квадрокоптер Autel Robotics EVO II Rugged Bundle
-
 #### Размеры (Ш×В×Г), cm:
 
 30.3×8.7×19(сложенные антенны) /  30.3×8.7×27.3(разложенные антенны) / 
@@ -17414,7 +12754,11 @@ HDMI
 
 1.15
 
----
+
+
+
+
+
 
 ## Система Mirfak Audio WE10 Pro Channel Compact Wireless
 
@@ -17431,10 +12775,6 @@ HDMI
 https://drone.kz/product/sistema-mirfak-audio-we10-pro-channel-compact-wireless/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-743791915398
 
 #### Тип:
 
@@ -17472,10 +12812,6 @@ Audio WE10 Pro
 
 2.4
 
-#### Дополнительные изображения:
-
-223380
-
 #### Время работы, h:
 
 5
@@ -17483,22 +12819,6 @@ Audio WE10 Pro
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-1
-
-#### Цена со скидкой:
-
-59300
-
-#### Старая цена:
-
-59300
 
 #### Использование карт памяти:
 
@@ -17524,14 +12844,6 @@ Audio WE10 Pro
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://mirfakaudio.com/
-
-#### К этому товару подходят:
-
-Система Mirfak Audio WE10 Dual Channel Wireless / Комплект Mirfak Audio Vlogging Kit Starter / Микрофон Mirfak Audio N2 On-camera
-
 #### Размеры (Ш×В×Г), cm:
 
 6.1*4.4*2
@@ -17540,7 +12852,11 @@ https://mirfakaudio.com/
 
 0.034
 
----
+
+
+
+
+
 
 ## Стабилизатор для смартфона DJI Osmo Mobile SE
 
@@ -17557,10 +12873,6 @@ https://mirfakaudio.com/
 https://drone.kz/product/stedikam-dji-osmo-mobile-se/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6941565939012
 
 #### Тип:
 
@@ -17590,10 +12902,6 @@ Osmo Mobile SE
 
 OSMO
 
-#### Дополнительные изображения:
-
-223500 / 223501 / 223502 / 223503 / 223504 / 223505 / 223506
-
 #### Время работы, h:
 
 8
@@ -17602,21 +12910,9 @@ OSMO
 
 серый
 
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-3
-
 #### Совместимость:
 
 iOS, Android
-
-#### Цена со скидкой:
-
-39900
 
 #### Порты и интерфейсы:
 
@@ -17638,14 +12934,6 @@ iOS, Android
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.dji.com/osmo-mobile-se
-
-#### К этому товару подходят:
-
-Зарядное устройство DJI Osmo Mobile 10W USB / Стабилизатор для смартфона DJI Osmo Mobile 4
-
 #### Размеры (Ш×В×Г), cm:
 
 В раскрытом состоянии: 26.25×11.95×10.4  В сложенном состоянии: 16.7×10.85×4.65
@@ -17654,7 +12942,11 @@ https://www.dji.com/osmo-mobile-se
 
 0.39
 
----
+
+
+
+
+
 
 ## ND/PL-фильтры Vivid Collection PolarPro | Mavic 2 Zoom
 
@@ -17672,10 +12964,6 @@ https://drone.kz/product/nd-pl-filtry-vivid-collection-polarpro-mavic-2-zoom/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-817465022474
-
 #### Тип:
 
 светофильтр
@@ -17692,33 +12980,13 @@ PolarPro Vivid Collection | Mavic 2 Zoom
 
 Алюминий, оптическое стекло
 
-#### Код видео YouTube:
-
-sxlbO14lVl4
-
 #### Артикул:
 
 PLMV2ZVV
 
-#### Дополнительные изображения:
-
-223573 / 223574
-
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 Mavic 2 Zoom
-
-#### Цена со скидкой:
-
-21100
 
 #### Дополнительные возможности:
 
@@ -17732,15 +13000,11 @@ ND/PL-фильтры Vivid Collection PolarPro | Mavic 2 Zoom: / фильтр ND
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.polarprofilters.com/
 
-#### К этому товару подходят:
 
-Квадрокоптер DJI Mavic 2 Zoom
 
----
+
 
 ## ND-фильтры Shutter Collection PolarPro | Mavic 2 Zoom
 
@@ -17758,10 +13022,6 @@ https://drone.kz/product/nd-filtry-shutter-collection-polarpro-mavic-2-zoom/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-817465022481
-
 #### Тип:
 
 светофильтр
@@ -17778,29 +13038,13 @@ Shutter Collection | Mavic 2 Zoom
 
 Алюминий, оптическое стекло
 
-#### Код видео YouTube:
-
-sxlbO14lVl4
-
 #### Артикул:
 
 PLMV2ZSH
 
-#### KaspiQtyAlmaty:
-
-5
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 Mavic 2 Zoom
-
-#### Цена со скидкой:
-
-21100
 
 #### Дополнительные возможности:
 
@@ -17814,15 +13058,11 @@ ND-фильтры Shutter Collection PolarPro | Mavic 2 Zoom: / фильтр ND4
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.polarprofilters.com/
 
-#### К этому товару подходят:
 
-Квадрокоптер DJI Mavic 2 Zoom
 
----
+
 
 ## Фильтр VND 2-5 PolarPro | Mavic 2 Pro
 
@@ -17840,10 +13080,6 @@ https://drone.kz/product/filtr-vnd-2-5-polarpro-mavic-2-pro/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-817465025932
-
 #### Тип:
 
 светофильтр
@@ -17860,33 +13096,13 @@ VND 2-5 | Mavic 2 Pro
 
 Алюминий, оптическое стекло
 
-#### Код видео YouTube:
-
-sxlbO14lVl4
-
 #### Артикул:
 
 PLMV2VND2-5
 
-#### Дополнительные изображения:
-
-223577
-
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 Mavic 2 Pro
-
-#### Цена со скидкой:
-
-19400
 
 #### Дополнительные возможности:
 
@@ -17900,15 +13116,11 @@ Mavic 2 Pro
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.polarprofilters.com/
 
-#### К этому товару подходят:
 
-Квадрокоптер DJI Mavic 2 Pro
 
----
+
 
 ## Фильтр PolarPro VND 3-6 | Mavic 3 Classic
 
@@ -17925,10 +13137,6 @@ https://www.polarprofilters.com/
 https://drone.kz/product/filtr-polarpro-vnd-3-6-mavic-3-classic/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-817465028773
 
 #### Тип:
 
@@ -17950,25 +13158,9 @@ VND 3-6 | Mavic 3 Classic
 
 M3C-VND3/6
 
-#### Дополнительные изображения:
-
-223595 / 223596 / 223597
-
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 Mavic 3 Classic
-
-#### Цена со скидкой:
-
-25300
 
 #### Дополнительные возможности:
 
@@ -17982,15 +13174,11 @@ Mavic 3 Classic
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.polarprofilters.com/
 
-#### К этому товару подходят:
 
-Квадрокоптер DJI Mavic 3 Classic (DJI RC) / Фильтр PolarPro Circular Polarizer | Mavic 3 Classic / ND/PL-фильтры PolarPro Vivid Collection | Mavic 3 / Mavic 3 Cine
 
----
+
 
 ## Фильтр PolarPro Circular Polarizer | Mavic 3 Classic
 
@@ -18007,10 +13195,6 @@ https://www.polarprofilters.com/
 https://drone.kz/product/filtr-polarpro-circular-polarizer-mavic-3-classic/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-817465028780
 
 #### Тип:
 
@@ -18032,18 +13216,6 @@ Circular Polarizer | Mavic 3 Classic
 
 M3C-CP
 
-#### Дополнительные изображения:
-
-223599 / 223600 / 223601
-
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 Mavic 3 Classic
@@ -18051,10 +13223,6 @@ Mavic 3 Classic
 #### Ссылка на скидочную категорию:
 
 https://drone.kz/catalog/aksessuary-dlya-kvadrokopterov/filter/brand-is-polarpro/
-
-#### Цена со скидкой:
-
-19500
 
 #### Дополнительные возможности:
 
@@ -18068,15 +13236,11 @@ https://drone.kz/catalog/aksessuary-dlya-kvadrokopterov/filter/brand-is-polarpro
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.polarprofilters.com/
 
-#### К этому товару подходят:
 
-Квадрокоптер DJI Mavic 3 Classic (DJI RC) / ND/PL-фильтры PolarPro Vivid Collection | Mavic 3 / Mavic 3 Cine / Фильтр PolarPro VND 3-6 | Mavic 3 Classic
 
----
+
 
 ## ND/PL-фильтры PolarPro Vivid Collection | Mavic 3 / Mavic 3 Cine
 
@@ -18093,10 +13257,6 @@ ND/PL-фильтры PolarPro Vivid Collection | Mavic 3 / Mavic 3 Cine спец
 https://drone.kz/product/nd-pl-filtry-polarpro-vivid-collection-mavic-3-classic/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-817465027455
 
 #### Тип:
 
@@ -18118,25 +13278,9 @@ Vivid Collection | Mavic 3 / Mavic 3 Cine
 
 M3C-VIVID
 
-#### Дополнительные изображения:
-
-223603 / 223604 / 223605
-
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 Mavic 3 Classic
-
-#### Цена со скидкой:
-
-43800
 
 #### Дополнительные возможности:
 
@@ -18150,15 +13294,11 @@ ND/PL-фильтры PolarPro Vivid Collection | Mavic 3 Classic: / ND8-PL / ND1
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.polarprofilters.com/
 
-#### К этому товару подходят:
 
-Квадрокоптер DJI Mavic 3 Classic (DJI RC) / Фильтр PolarPro VND 3-6 | Mavic 3 Classic / Фильтр PolarPro Circular Polarizer | Mavic 3 Classic
 
----
+
 
 ## Бленда DJI CrystalSky Monitor 5.5&quot;
 
@@ -18176,10 +13316,6 @@ https://drone.kz/product/blenda-dji-crystalsky-monitor-5-5/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6958265154249
-
 #### Тип:
 
 бленда
@@ -18196,25 +13332,9 @@ CrystalSky Monitor Hood 5.5&quot;
 
 DJCSM5.5
 
-#### Дополнительные изображения:
-
-223623 / 223624 / 223625
-
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 CrystalSky Monitor 5.5&quot;
-
-#### Цена со скидкой:
-
-9900
 
 #### Комплектация:
 
@@ -18224,15 +13344,11 @@ CrystalSky Monitor 5.5&quot;
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.dji.com
 
-#### К этому товару подходят:
 
-Монитор DJI CrystalSky 5.5&quot; High Brightness
 
----
+
 
 ## Бленда DJI CrystalSky Monitor 7.85&quot;
 
@@ -18250,10 +13366,6 @@ https://drone.kz/product/blenda-dji-crystalsky-monitor-7-85/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6958265154256
-
 #### Тип:
 
 бленда
@@ -18270,25 +13382,9 @@ CrystalSky Monitor Hood 7.85&quot;
 
 DJCSM7.85
 
-#### Дополнительные изображения:
-
-223627 / 223628 / 223629 / 223630
-
-#### KaspiQtyAlmaty:
-
-0
-
-#### KaspiQtyAstana:
-
-1
-
 #### Совместимость:
 
 CrystalSky Monitor 7.85&quot;
-
-#### Цена со скидкой:
-
-26900
 
 #### Комплектация:
 
@@ -18298,15 +13394,11 @@ CrystalSky Monitor 7.85&quot;
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.dji.com
 
-#### К этому товару подходят:
 
-Монитор DJI CrystalSky 7.85&quot; High Brightness / Монитор DJI CrystalSky 7.85&quot; Ultra Brightness
 
----
+
 
 ## Футляр для карт памяти Pgytech (Deep Navy)
 
@@ -18324,10 +13416,6 @@ https://drone.kz/product/futlyar-pgytech-deep-navy/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970801336506
-
 #### Тип:
 
 SD кейс
@@ -18344,25 +13432,9 @@ MEMORY CARD WALLET (DEEP NAVY)
 
 PGYDpN 
 
-#### Дополнительные изображения:
-
-223656 / 223657 / 223658 / 223659 / 223660
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-4
-
-#### Цена со скидкой:
-
-13800
 
 #### Дополнительные возможности:
 
@@ -18376,15 +13448,15 @@ PGYDpN
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://pgytech.com
-
 #### Размеры (Ш×В×Г), cm:
 
 9.5 х 4.0 х 1.0
 
----
+
+
+
+
+
 
 ## Клетка PolarPro LiteChaser Pro | iPhone 14 Pro
 
@@ -18402,10 +13474,6 @@ https://drone.kz/product/kletka-polarpro-litechaser-pro-iphone-14-pro/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-817465028360
-
 #### Тип:
 
 чехол
@@ -18418,33 +13486,13 @@ polarpro
 
 iPhone 14 Pro - Cage | LiteChaser Pro
 
-#### Код видео YouTube:
-
--GRy7p3nsko
-
 #### Артикул:
 
 IP14-PRO-CAGE
 
-#### Дополнительные изображения:
-
-223703 / 223704
-
-#### KaspiQtyAlmaty:
-
-8
-
-#### KaspiQtyAstana:
-
-1
-
 #### Совместимость:
 
 iPhone 14 Pro
-
-#### Цена со скидкой:
-
-62300
 
 #### Порты и интерфейсы:
 
@@ -18462,27 +13510,15 @@ iPhone 14 Pro
 
 12
 
-#### Спецификация:
-
-https://www.polarprofilters.com/pages/faq-litechaser-pro-iphone-14
-
-#### Руководство пользователя:
-
-https://cdn.shopify.com/s/files/1/1050/9944/t/30/assets/LiteChaserPro14-UG-1665596896613.pdf
-
-#### Страница товара на сайте производителя:
-
-https://www.polarprofilters.com/
-
-#### К этому товару подходят:
-
-Фильтр PolarPro LiteChaser Pro IPhone 13 - GoldMorphic / Фильтр PolarPro LiteChaser Pro IPhone 13 - BlueMorphic / Фильтр PolarPro LiteChaser Pro IPhone 13 - Mist / Фильтр PolarPro LiteChaser Pro IPhone 13 - Mist VND 3-5 / Фильтр PolarPro LiteChaser Pro IPhone 13 - Mist VND 6-7 / Фильтр PolarPro LiteChaser Pro IPhone 13 - CP / Фильтр PolarPro LiteChaser Pro IPhone 13 - VND 6-7 / Фильтр PolarPro LiteChaser Pro IPhone 13 - VND 3-5 / Ручка клетки PolarPro LiteChaser Pro | iPhone 14 / Кнопка PolarPro LiteChaser Pro | iPhone 12 - Bluetooth
-
 #### Размеры (Ш×В×Г), cm:
 
 16.5 x 9.1 x 1.8
 
----
+
+
+
+
+
 
 ## Клип-кейс PolarPro LiteChaser Pro | iPhone 14 Pro
 
@@ -18500,10 +13536,6 @@ https://drone.kz/product/klip-keys-polarpro-litechaser-pro-iphone-14-pro/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-817465028414
-
 #### Тип:
 
 чехол
@@ -18516,33 +13548,13 @@ polarpro
 
 iPhone 14 Pro - Case | LiteChaser Pro
 
-#### Код видео YouTube:
-
--GRy7p3nsko
-
 #### Артикул:
 
 IP14-PRO-BLK
 
-#### Дополнительные изображения:
-
-223706 / 223707
-
-#### KaspiQtyAlmaty:
-
-5
-
-#### KaspiQtyAstana:
-
-1
-
 #### Совместимость:
 
 iPhone 14 Pro
-
-#### Цена со скидкой:
-
-16100
 
 #### Дополнительные возможности:
 
@@ -18556,27 +13568,15 @@ iPhone 14 Pro
 
 12
 
-#### Спецификация:
-
-https://www.polarprofilters.com/pages/faq-litechaser-pro-iphone-14
-
-#### Руководство пользователя:
-
-https://cdn.shopify.com/s/files/1/1050/9944/t/30/assets/LiteChaserPro14-UG-1665596896613.pdf
-
-#### Страница товара на сайте производителя:
-
-https://www.polarprofilters.com/
-
-#### К этому товару подходят:
-
-Фильтр PolarPro LiteChaser Pro IPhone 13 - CP / Фильтр PolarPro LiteChaser Pro IPhone 13 - Mist / Фильтр PolarPro LiteChaser Pro IPhone 13 - BlueMorphic / Фильтр PolarPro LiteChaser Pro IPhone 13 - GoldMorphic / Фильтр PolarPro LiteChaser Pro IPhone 13 - VND 3-5 / Фильтр PolarPro LiteChaser Pro IPhone 13 - VND 6-7 / Фильтр PolarPro LiteChaser Pro IPhone 13 - Mist VND 3-5 / Фильтр PolarPro LiteChaser Pro IPhone 13 - Mist VND 6-7 / Держатель PolarPro LiteChaser Pro | iPhone 14Pro / Кнопка PolarPro LiteChaser Pro | iPhone 12 - Bluetooth
-
 #### Размеры (Ш×В×Г), cm:
 
 15.2 x 7.7 x 1.5
 
----
+
+
+
+
+
 
 ## Держатель PolarPro LiteChaser Pro | iPhone 14Pro
 
@@ -18594,10 +13594,6 @@ https://drone.kz/product/derzhatel-polarpro-litechaser-pro-iphone-14pro/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-817465028438
-
 #### Тип:
 
 держатель для телефона
@@ -18610,33 +13606,13 @@ polarpro
 
 iPhone 14 Pro - Grip | LiteChaser Pro
 
-#### Код видео YouTube:
-
--GRy7p3nsko
-
 #### Артикул:
 
 IP14-PRO-GRIP
 
-#### Дополнительные изображения:
-
-223709 / 223710 / 223711 / 223712
-
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-1
-
 #### Совместимость:
 
 iPhone 14 Pro
-
-#### Цена со скидкой:
-
-11400
 
 #### Порты и интерфейсы:
 
@@ -18650,27 +13626,15 @@ iPhone 14 Pro
 
 12
 
-#### Спецификация:
-
-https://www.polarprofilters.com/pages/faq-litechaser-pro-iphone-14
-
-#### Руководство пользователя:
-
-https://cdn.shopify.com/s/files/1/1050/9944/t/30/assets/LiteChaserPro14-UG-1665596896613.pdf
-
-#### Страница товара на сайте производителя:
-
-https://www.polarprofilters.com/
-
-#### К этому товару подходят:
-
-Клип-кейс PolarPro LiteChaser Pro | iPhone 14 Pro / Кнопка PolarPro LiteChaser Pro | iPhone 12 - Bluetooth
-
 #### Размеры (Ш×В×Г), cm:
 
 8.4 x 4.3 x 3.6
 
----
+
+
+
+
+
 
 ## Держатель PolarPro LiteChaser Pro | iPhone 14 ProMax
 
@@ -18688,10 +13652,6 @@ https://drone.kz/product/derzhatel-polarpro-litechaser-pro-iphone-14-promax/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-817465028445
-
 #### Тип:
 
 держатель для телефона
@@ -18704,33 +13664,13 @@ polarpro
 
 iPhone 14 Pro Max - Grip | LiteChaser Pro
 
-#### Код видео YouTube:
-
--GRy7p3nsko
-
 #### Артикул:
 
 IP14-MAX-GRIP
 
-#### Дополнительные изображения:
-
-223714 / 223715 / 223716 / 223717
-
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-1
-
 #### Совместимость:
 
 iPhone 14 Pro Max
-
-#### Цена со скидкой:
-
-11400
 
 #### Порты и интерфейсы:
 
@@ -18744,27 +13684,15 @@ iPhone 14 Pro Max
 
 12
 
-#### Спецификация:
-
-https://www.polarprofilters.com/pages/faq-litechaser-pro-iphone-14
-
-#### Руководство пользователя:
-
-https://cdn.shopify.com/s/files/1/1050/9944/t/30/assets/LiteChaserPro14-UG-1665596896613.pdf
-
-#### Страница товара на сайте производителя:
-
-https://www.polarprofilters.com/
-
-#### К этому товару подходят:
-
-Клип-кейс PolarPro LiteChaser Pro | iPhone 14 ProMax / Кнопка PolarPro LiteChaser Pro | iPhone 12 - Bluetooth
-
 #### Размеры (Ш×В×Г), cm:
 
 8.7 x 4.3 x 3.6
 
----
+
+
+
+
+
 
 ## Ручка клетки PolarPro LiteChaser Pro | iPhone 14
 
@@ -18782,10 +13710,6 @@ https://drone.kz/product/ruchka-kletki-polarpro-litechaser-pro-iphone-14/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-817465027875
-
 #### Тип:
 
 держатель для телефона
@@ -18798,33 +13722,13 @@ polarpro
 
 iPhone 14 Cage Handle | LiteChaser Pro
 
-#### Код видео YouTube:
-
--GRy7p3nsko
-
 #### Артикул:
 
 LCP-HNDL-Q20
 
-#### Дополнительные изображения:
-
-223719 / 223720 / 223721
-
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 iPhone 14 Pro - Cage | LiteChaser Pro, iPhone 14 Pro Max - Cage | LiteChaser Pro 
-
-#### Цена со скидкой:
-
-25300
 
 #### Порты и интерфейсы:
 
@@ -18838,27 +13742,15 @@ iPhone 14 Pro - Cage | LiteChaser Pro, iPhone 14 Pro Max - Cage | LiteChaser Pro
 
 12
 
-#### Спецификация:
-
-https://www.polarprofilters.com/pages/faq-litechaser-pro-iphone-14
-
-#### Руководство пользователя:
-
-https://cdn.shopify.com/s/files/1/1050/9944/t/30/assets/LiteChaserPro14-UG-1665596896613.pdf
-
-#### Страница товара на сайте производителя:
-
-https://www.polarprofilters.com/
-
-#### К этому товару подходят:
-
-Клетка PolarPro LiteChaser Pro | iPhone 14 Pro / Клетка PolarPro LiteChaser Pro | iPhone 14 ProMax / Кнопка PolarPro LiteChaser Pro | iPhone 12 - Bluetooth
-
 #### Размеры (Ш×В×Г), cm:
 
 10.3 x 7.0 x 3.0
 
----
+
+
+
+
+
 
 ## Клетка PolarPro LiteChaser Pro | iPhone 14 ProMax
 
@@ -18876,10 +13768,6 @@ https://drone.kz/product/kletka-polarpro-litechaser-pro-iphone-14-promax/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-817465028377
-
 #### Тип:
 
 чехол
@@ -18892,33 +13780,13 @@ polarpro
 
 iPhone 14 Pro Max - Cage | LiteChaser Pro
 
-#### Код видео YouTube:
-
--GRy7p3nsko
-
 #### Артикул:
 
 IP14-MAX-CAGE
 
-#### Дополнительные изображения:
-
-223733 / 223734
-
-#### KaspiQtyAlmaty:
-
-6
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 iPhone 14 Pro Max
-
-#### Цена со скидкой:
-
-62300
 
 #### Порты и интерфейсы:
 
@@ -18932,27 +13800,15 @@ iPhone 14 Pro Max
 
 12
 
-#### Спецификация:
-
-https://www.polarprofilters.com/pages/faq-litechaser-pro-iphone-14
-
-#### Руководство пользователя:
-
-https://cdn.shopify.com/s/files/1/1050/9944/t/30/assets/LiteChaserPro14-UG-1665596896613.pdf
-
-#### Страница товара на сайте производителя:
-
-https://www.polarprofilters.com/
-
-#### К этому товару подходят:
-
-Фильтр PolarPro LiteChaser Pro IPhone 13 - CP / Фильтр PolarPro LiteChaser Pro IPhone 13 - Mist / Фильтр PolarPro LiteChaser Pro IPhone 13 - BlueMorphic / Фильтр PolarPro LiteChaser Pro IPhone 13 - GoldMorphic / Фильтр PolarPro LiteChaser Pro IPhone 13 - VND 3-5 / Фильтр PolarPro LiteChaser Pro IPhone 13 - VND 6-7 / Фильтр PolarPro LiteChaser Pro IPhone 13 - Mist VND 3-5 / Фильтр PolarPro LiteChaser Pro IPhone 13 - Mist VND 6-7 / Ручка клетки PolarPro LiteChaser Pro | iPhone 14 / Кнопка PolarPro LiteChaser Pro | iPhone 12 - Bluetooth
-
 #### Размеры (Ш×В×Г), cm:
 
 17.8 x 9.5 x 1.7
 
----
+
+
+
+
+
 
 ## Клип-кейс PolarPro LiteChaser Pro | iPhone 14 ProMax
 
@@ -18970,10 +13826,6 @@ https://drone.kz/product/klip-keys-polarpro-litechaser-pro-iphone-14-promax/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-817465028421
-
 #### Тип:
 
 чехол
@@ -18986,25 +13838,9 @@ polarpro
 
 iPhone 14 Pro Max - Case | LiteChaser Pro
 
-#### Код видео YouTube:
-
--GRy7p3nsko
-
 #### Артикул:
 
 IP14-MAX-BLK
-
-#### Дополнительные изображения:
-
-223736 / 223737
-
-#### KaspiQtyAlmaty:
-
-4
-
-#### KaspiQtyAstana:
-
-2
 
 #### Совместимость:
 
@@ -19013,10 +13849,6 @@ iPhone 14 Pro Max
 #### Ссылка на скидочную категорию:
 
 https://drone.kz/catalog/mobilografiya/filter/product_type-is-0437c7ebc05c99d0059c134944d5b562/
-
-#### Цена со скидкой:
-
-16100
 
 #### Дополнительные возможности:
 
@@ -19030,27 +13862,15 @@ https://drone.kz/catalog/mobilografiya/filter/product_type-is-0437c7ebc05c99d005
 
 12
 
-#### Спецификация:
-
-https://www.polarprofilters.com/pages/faq-litechaser-pro-iphone-14
-
-#### Руководство пользователя:
-
-https://cdn.shopify.com/s/files/1/1050/9944/t/30/assets/LiteChaserPro14-UG-1665596896613.pdf
-
-#### Страница товара на сайте производителя:
-
-https://www.polarprofilters.com/
-
-#### К этому товару подходят:
-
-Фильтр PolarPro LiteChaser Pro IPhone 13 - CP / Фильтр PolarPro LiteChaser Pro IPhone 13 - Mist / Фильтр PolarPro LiteChaser Pro IPhone 13 - BlueMorphic / Фильтр PolarPro LiteChaser Pro IPhone 13 - GoldMorphic / Фильтр PolarPro LiteChaser Pro IPhone 13 - VND 3-5 / Фильтр PolarPro LiteChaser Pro IPhone 13 - VND 6-7 / Фильтр PolarPro LiteChaser Pro IPhone 13 - Mist VND 3-5 / Фильтр PolarPro LiteChaser Pro IPhone 13 - Mist VND 6-7 / Держатель PolarPro LiteChaser Pro | iPhone 14 ProMax / Кнопка PolarPro LiteChaser Pro | iPhone 12 - Bluetooth
-
 #### Размеры (Ш×В×Г), cm:
 
 16.5 x 8.3 x 1.5
 
----
+
+
+
+
+
 
 ## Адаптер Anamorphic Moment PolarPro LiteChaser Pro | iPhone 14
 
@@ -19068,10 +13888,6 @@ https://drone.kz/product/adapter-anamorphic-moment-polarpro-litechaser-pro-iphon
 
 ### Характеристики:
 
-#### Штрихкод:
-
-817465028452
-
 #### Тип:
 
 адаптер
@@ -19084,33 +13900,13 @@ polarpro
 
 iPhone 14 - Anamorphic Moment® Lens Filter Adapter | LiteChaser Pro
 
-#### Код видео YouTube:
-
--GRy7p3nsko
-
 #### Артикул:
 
 ADAPT-LCP14-AMORPH
 
-#### Дополнительные изображения:
-
-223739 / 223740
-
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 LiteChaser Pro | iPhone 14, Anamorphic Moment 
-
-#### Цена со скидкой:
-
-9100
 
 #### Комплектация:
 
@@ -19120,27 +13916,15 @@ LiteChaser Pro | iPhone 14, Anamorphic Moment
 
 12
 
-#### Спецификация:
-
-https://www.polarprofilters.com/pages/faq-litechaser-pro-iphone-14
-
-#### Руководство пользователя:
-
-https://cdn.shopify.com/s/files/1/1050/9944/t/30/assets/LiteChaserPro14-UG-1665596896613.pdf
-
-#### Страница товара на сайте производителя:
-
-https://www.polarprofilters.com/
-
-#### К этому товару подходят:
-
-Комплект PolarPro LiteChaser ProCase | iPhone 14 Pro / Комплект PolarPro LiteChaser ProCase | iPhone 14 ProMax / Комплект PolarPro LiteChaser ProCAGE | iPhone 14 Pro / Комплект PolarPro LiteChaser ProCAGE | iPhone 14 ProMax
-
 #### Размеры (Ш×В×Г), cm:
 
 5.8 x 5.8 x 1.5
 
----
+
+
+
+
+
 
 ## Адаптер 58mm Moment PolarPro LiteChaser Pro | iPhone 14
 
@@ -19158,10 +13942,6 @@ https://drone.kz/product/adapter-58mm-moment-polarpro-litechaser-pro-iphone-14/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-817465028469
-
 #### Тип:
 
 адаптер
@@ -19174,33 +13954,13 @@ polarpro
 
 iPhone 14 - 58mm Moment® Lens Filter Adapter | LiteChaser Pro
 
-#### Код видео YouTube:
-
--GRy7p3nsko
-
 #### Артикул:
 
 ADAPT-LCP14-TELE
 
-#### Дополнительные изображения:
-
-223742 / 223743
-
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 58mm Moment® Lens Filter Adapter | LiteChaser Pro
-
-#### Цена со скидкой:
-
-9100
 
 #### Комплектация:
 
@@ -19210,27 +13970,15 @@ ADAPT-LCP14-TELE
 
 12
 
-#### Спецификация:
-
-https://www.polarprofilters.com/pages/faq-litechaser-pro-iphone-14
-
-#### Руководство пользователя:
-
-https://cdn.shopify.com/s/files/1/1050/9944/t/30/assets/LiteChaserPro14-UG-1665596896613.pdf
-
-#### Страница товара на сайте производителя:
-
-https://www.polarprofilters.com/
-
-#### К этому товару подходят:
-
-Комплект PolarPro LiteChaser ProCase | iPhone 14 Pro / Комплект PolarPro LiteChaser ProCase | iPhone 14 ProMax / Комплект PolarPro LiteChaser ProCAGE | iPhone 14 Pro / Комплект PolarPro LiteChaser ProCAGE | iPhone 14 ProMax
-
 #### Размеры (Ш×В×Г), cm:
 
 5.8 x 5.8 x 1.6
 
----
+
+
+
+
+
 
 ## Цифровая система DJI O3 Air Unit
 
@@ -19248,10 +13996,6 @@ https://drone.kz/product/tsifrovaya-fpv-sistema-dji-o3-air-unit/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6941565936561
-
 #### Тип:
 
 видеолинк
@@ -19264,17 +14008,9 @@ dji
 
 O3 Air Unit
 
-#### Код видео YouTube:
-
-uM3H7c-1L-s
-
 #### Артикул:
 
 DJI-FAV150
-
-#### Дополнительные изображения:
-
-223754 / 223755 / 223756 / 223757 / 223758
 
 #### Разрешение видео:
 
@@ -19288,21 +14024,9 @@ DJI-FAV150
 
 48 MP
 
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-1
-
 #### Совместимость:
 
 DJI Goggles 2, DJI FPV Goggles V2, DJI FPV Remote Controller 2
-
-#### Цена со скидкой:
-
-168500
 
 #### Возможности подключения:
 
@@ -19311,10 +14035,6 @@ DJI Goggles 2, DJI FPV Goggles V2, DJI FPV Remote Controller 2
 #### Радиус действия сигнала:
 
 10 km (FCC), 2 km (CE), 6 km (SRRC)
-
-#### Обзоры относящиеся к товару:
-
-Лучшие FPV дроны для новичков в 2025 году
 
 #### Порты и интерфейсы:
 
@@ -19352,27 +14072,15 @@ Equivalent Focal Length: 12.7 mm / Focal Length: 2.34 mm / Aperture: f/2.8 / Foc
 
 12
 
-#### Спецификация:
-
-https://www.dji.com/o3-air-unit/specs
-
-#### Руководство пользователя:
-
-https://dl.djicdn.com/downloads/DJI_O3_Air_Unit/20221123/DJI_O3_Air_Unit_User_Manual_v1.0_EN.pdf
-
-#### Страница товара на сайте производителя:
-
-https://www.dji.com/o3-air-unit
-
-#### К этому товару подходят:
-
-Цифровые очки DJI FPV Goggles V2 / Комплект DJI Goggles 2 Motion Combo / Пульт управления DJI FPV Controller 2 / ND-фильтры 8/16/32 DJI Avata
-
 #### Размеры (Ш×В×Г), cm:
 
 Передатчик (L×W×H): 3.2 × 3.0 × 1.5 mm, Камера (L×W×H): 2.1 × 2.0 × 1.9
 
----
+
+
+
+
+
 
 ## Камера Autel L20T | Dragonfish St/Pro
 
@@ -19390,10 +14098,6 @@ https://drone.kz/product/kamera-autel-l20t-dragonfish-st-pro/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-889520011522
-
 #### Тип:
 
 тепловизор / дальномер / подвесная камера
@@ -19410,17 +14114,9 @@ Autel Dragonfish L20T
 
 IP43
 
-#### Код видео YouTube:
-
-WZREQXMGMrQ
-
 #### Артикул:
 
 DG-L20T
-
-#### Дополнительные изображения:
-
-223765 / 223766
 
 #### Разрешение видео:
 
@@ -19430,21 +14126,9 @@ Wide: 3840x2160@30fps / Thermal: 640x512@30Hz
 
 12 MP
 
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 Dragonfish Standard/Pro
-
-#### Цена со скидкой:
-
-26015100
 
 #### Макс. разрешение видеосъемки:
 
@@ -19482,19 +14166,15 @@ Zoom: Aperture: F2.0(wide)-F2.8(tele)/Wide: ISO Range 100~6400/Thermal: Focal le
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.autelrobotics.com/productdetail/9.html#4
-
-#### К этому товару подходят:
-
-VTOL дрон Autel Robotics Dragonfish / VTOL дрон Autel Robotics Dragonfish Lite + Dual Sensor / VTOL дрон Autel Robotics Dragonfish Pro + Dual Sensor
-
 #### Размеры (Ш×В×Г), cm:
 
 15.1 х 9.7 х 17.2
 
----
+
+
+
+
+
 
 ## Квадрокоптер DJI Mavic 3 Fly More Combo RB Unit
 
@@ -19511,10 +14191,6 @@ VTOL дрон Autel Robotics Dragonfish / VTOL дрон Autel Robotics Dragonfis
 https://drone.kz/product/kvadrokopter-dji-mavic-3-fly-more-combo-rb-unit/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6941565926463
 
 #### Тип:
 
@@ -19540,10 +14216,6 @@ Mavic 3 Fly More Combo (RB Unit)
 
 60
 
-#### Код видео YouTube:
-
-facW_2TWqY8
-
 #### Артикул:
 
 CP.MA.00000440.01-unit
@@ -19559,10 +14231,6 @@ CP.MA.00000440.01-unit
 #### Размер встроенной памяти, GB:
 
 8
-
-#### Дополнительные изображения:
-
-223970 / 223971 / 223972 / 223973 / 223974
 
 #### Разрешение видео:
 
@@ -19580,21 +14248,9 @@ CP.MA.00000440.01-unit
 
 68
 
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-0
-
 #### Навигация:
 
 GPS + ГЛОНАСС
-
-#### Цена со скидкой:
-
-1320900
 
 #### Радиус действия сигнала:
 
@@ -19656,10 +14312,6 @@ Hasselblad Camera / Угол обзора 84 ° / Основная камера 
 
 12
 
-#### К этому товару подходят:
-
-Кейс PGYTECH P-26A-008 | Mavic 3 / Защитный кейс PGYTECH P-26A-006 | Mavic 3 / Комплект аккумуляторов DJI Mavic 3 Enterprise Battery Kit / Пропеллеры DJI Mavic 3 Low-Noise  / Фильтр Pgytech Mavic 3 Filter ND-PL Set (NDPL 8 16 32 64) (Professional) / Фильтр PGYTECH Mavic 3 UV Filter (Professional) / Защита пропеллеров DJI Mavic 3 / Аккумулятор DJI Mavic 3 / Аккумулятор DJI Mavic 3 Intelligent Flight Battery / Посадочный коврик PGYTECH 110 / Посадочный коврик PGYTECH 75 / Карта памяти MicroSD ExAscend Catalyst SDXC I 512GB + SD adapter / Карта памяти MicroSD ExAscend Catalyst SDXC I 256GB + SD adapter / Рюкзак Manfrotto Advanced Gearpack для Mavic Pro / Рюкзак и сумка PGYTECH OneMo (черные сумерки) / Рюкзак+сумка PGYTECH OneMo 2 25l (Серый камуфляж) / Посадочный коврик PGYTECH 55 / Протектор пульта PGYTECH | DJI RC / Защита пульта управления PGYTECH DJI RC Protector / Защита пропеллеров для DJI Air 3 Propeller Guard / Поляризационный фильтр PGYTECH P-40B-011 | Mini 3/Mini 3 Pro / Коврик для дрона PGYTECH Drones Landing Pad Pro V2 / Кейс PGYTECH P-40B-030 | Mini 3/3 Pro / Защита пропеллеров 360° DJI Mini 4 Pro / Коврик посадочный PGYTECH 110cm (Weighted) / Защитный кейс PGYTECH для DJI Mavic Air 2/2S
-
 #### Размеры (Ш×В×Г), cm:
 
 32.2×24.2×8.4 (в сложенном виде — 21.4x9.1x8.4)
@@ -19676,7 +14328,11 @@ microSDXC
 
 f/2.8
 
----
+
+
+
+
+
 
 ## Стедикам DJI RS 3 Pro Combo
 
@@ -19693,10 +14349,6 @@ f/2.8
 https://drone.kz/product/stedikam-dji-rs-3-pro-combo/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6941565930965
 
 #### Тип:
 
@@ -19718,10 +14370,6 @@ RS 3 Pro Combo
 
 1.5
 
-#### Код видео YouTube:
-
-MumLQJx0-ZQ
-
 #### Артикул:
 
 DJI-RS300P-C1
@@ -19734,10 +14382,6 @@ DJI-RS300P-C1
 
 2.4–2.484
 
-#### Дополнительные изображения:
-
-223976 / 223977 / 223978 / 223979 / 223980 / 223981
-
 #### Время работы, h:
 
 12
@@ -19749,18 +14393,6 @@ DJI-RS300P-C1
 #### Макс. несущая способность, kg:
 
 4.5
-
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-1
-
-#### Цена со скидкой:
-
-449900
 
 #### Порты и интерфейсы:
 
@@ -19786,10 +14418,6 @@ DJI-RS300P-C1
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.dji.com/
-
 #### Размеры (Ш×В×Г), cm:
 
 27.6×26.8×6.8
@@ -19798,7 +14426,11 @@ https://www.dji.com/
 
 1.143
 
----
+
+
+
+
+
 
 ## Аккумулятор Tattu R-Line 1300
 
@@ -19815,10 +14447,6 @@ https://www.dji.com/
 https://drone.kz/product/akkumulyator-tattu-r-line-1300/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-817465023888
 
 #### Тип:
 
@@ -19844,22 +14472,6 @@ R-Line 1300
 
 Tattu R-Line
 
-#### Дополнительные изображения:
-
-224566
-
-#### KaspiQtyAlmaty:
-
-0
-
-#### KaspiQtyAstana:
-
-5
-
-#### Цена со скидкой:
-
-26300
-
 #### Комплектация:
 
 Аккумулятор Tattu R-Line 1300 / Документация
@@ -19868,15 +14480,15 @@ Tattu R-Line
 
 12
 
-#### К этому товару подходят:
-
-Квадрокоптер DJI Mini 3 Pro RC / Квадрокоптер DJI Mini 3 Pro (без RC) / Квадрокоптер DJI Mini 3 (RC)
-
 #### Размеры (Ш×В×Г), cm:
 
 7.5 x 3.8 x 3.8
 
----
+
+
+
+
+
 
 ## Органайзер PolarPro Tech Pouch | Boreal
 
@@ -19894,10 +14506,6 @@ https://drone.kz/product/organayzer-polarpro-tech-pouch-boreal/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-817465027592
-
 #### Тип:
 
 органайзер
@@ -19910,33 +14518,13 @@ polarpro
 
 Tech Pouch | Boreal
 
-#### Код видео YouTube:
-
-ti-3H9bl8uw
-
 #### Артикул:
 
 BRELTP
 
-#### Дополнительные изображения:
-
-224593 / 224594 / 224595 / 224596 / 224597 / 224598
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-1
-
-#### Цена со скидкой:
-
-31100
 
 #### Рабочая температура, °C:
 
@@ -19958,19 +14546,15 @@ BRELTP
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.polarprofilters.com/
-
-#### К этому товару подходят:
-
-Рюкзак PolarPro Boreal 50L
-
 #### Размеры (Ш×В×Г), cm:
 
 24.8 х 15.2 х 8.1
 
----
+
+
+
+
+
 
 ## Органайзер PolarPro 10L Cube | Boreal
 
@@ -19988,10 +14572,6 @@ https://drone.kz/product/organayzer-polarpro-10l-cube-boreal/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-817465027608
-
 #### Тип:
 
 органайзер
@@ -20004,37 +14584,17 @@ polarpro
 
 10L Cube | Boreal
 
-#### Код видео YouTube:
-
-ti-3H9bl8uw
-
 #### Артикул:
 
 BR10LCube
-
-#### Дополнительные изображения:
-
-224600 / 224601 / 224602 / 224603
 
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-0
-
 #### Ссылка на скидочную категорию:
 
 https://drone.kz/catalog/universalnye-sumki-ryukzaki/filter/brand-is-polarpro/
-
-#### Цена со скидкой:
-
-19500
 
 #### Рабочая температура, °C:
 
@@ -20056,19 +14616,15 @@ https://drone.kz/catalog/universalnye-sumki-ryukzaki/filter/brand-is-polarpro/
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.polarprofilters.com/
-
-#### К этому товару подходят:
-
-Рюкзак PolarPro Boreal 50L
-
 #### Размеры (Ш×В×Г), cm:
 
 30.5 х 14.6 х 15.9
 
----
+
+
+
+
+
 
 ## Органайзер PolarPro 20L Cube | Boreal
 
@@ -20086,10 +14642,6 @@ https://drone.kz/product/organayzer-polarpro-20l-cube-boreal/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-817465027615
-
 #### Тип:
 
 органайзер
@@ -20102,33 +14654,13 @@ polarpro
 
 20L Cube | Boreal
 
-#### Код видео YouTube:
-
-ti-3H9bl8uw
-
 #### Артикул:
 
 BR20LCube
 
-#### Дополнительные изображения:
-
-224605 / 224606 / 224607 / 224608 / 224609
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-20700
 
 #### Рабочая температура, °C:
 
@@ -20150,19 +14682,15 @@ BR20LCube
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.polarprofilters.com/
-
-#### К этому товару подходят:
-
-Рюкзак PolarPro Boreal 50L
-
 #### Размеры (Ш×В×Г), cm:
 
 30.5 х  39.4 х 15.9
 
----
+
+
+
+
+
 
 ## Адаптер Insta360 Mic One X2 (Vertical)
 
@@ -20180,10 +14708,6 @@ https://drone.kz/product/audioadapter-insta360-one-x2-mic/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6971536489642
-
 #### Тип:
 
 адаптер
@@ -20200,33 +14724,13 @@ One X2 Mic
 
 One X2 Mic
 
-#### Дополнительные изображения:
-
-224731 / 224732 / 224733
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-5
-
-#### KaspiQtyAstana:
-
-2
-
 #### Совместимость:
 
 One X2
-
-#### Цена со скидкой:
-
-7100
-
-#### Старая цена:
-
-14200
 
 #### Порты и интерфейсы:
 
@@ -20240,14 +14744,6 @@ One X2
 
 12
 
-#### Спецификация:
-
-https://insta360.ru/
-
-#### К этому товару подходят:
-
-Панорамная экшн-камера Insta360 ONE X2 Standalone
-
 #### Размеры (Ш×В×Г), cm:
 
 3.04×1.42×2.65 
@@ -20256,7 +14752,11 @@ https://insta360.ru/
 
 0.0057
 
----
+
+
+
+
+
 
 ## Кабель 3-in-1 DJI O3 Air Unit
 
@@ -20274,10 +14774,6 @@ https://drone.kz/product/kabel-3-in-1-dji-o3-air-unit/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6941565936530
-
 #### Тип:
 
 кабель
@@ -20294,25 +14790,9 @@ O3 Air Unit 3-in-1 Cable
 
 DJO3AU31C
 
-#### Дополнительные изображения:
-
-224735 / 224736 / 224737
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-4500
 
 #### Порты и интерфейсы:
 
@@ -20326,15 +14806,11 @@ S-Bus / UART
 
 12
 
-#### Страница товара на сайте производителя:
 
-http://www.dji.com/
 
-#### К этому товару подходят:
 
-Цифровой видеопередатчик DJI O3 Air Unit
 
----
+
 
 ## Кейс Insta360 One X2 Carry Case
 
@@ -20352,10 +14828,6 @@ https://drone.kz/product/zashchitnyi-chekhol-insta360-one-x2-carry-case/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970357852345
-
 #### Тип:
 
 кейс
@@ -20372,21 +14844,9 @@ One X2
 
 CINX2CB/H
 
-#### Дополнительные изображения:
-
-224739 / 224740 / 224741 / 224742
-
 #### Цвет:
 
 серый
-
-#### KaspiQtyAlmaty:
-
-17
-
-#### KaspiQtyAstana:
-
-0
 
 #### Совместимость:
 
@@ -20400,14 +14860,6 @@ ONE X2
 
 Защитный корпус
 
-#### Цена со скидкой:
-
-12600
-
-#### Старая цена:
-
-12000
-
 #### Комплектация:
 
 Защитный чехол Insta360 One X2 Carry Case / Документация
@@ -20415,14 +14867,6 @@ ONE X2
 #### Срок гарантии производителя, m:
 
 12
-
-#### Спецификация:
-
-https://insta360.ru/
-
-#### К этому товару подходят:
-
-Панорамная экшн-камера Insta360 ONE X2 Standalone
 
 #### Размеры (Ш×В×Г), cm:
 
@@ -20432,7 +14876,11 @@ https://insta360.ru/
 
 193
 
----
+
+
+
+
+
 
 ## Стедикам DJI RS 3 Mini
 
@@ -20449,10 +14897,6 @@ https://insta360.ru/
 https://drone.kz/product/stedikam-dji-rs-3-mini/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6941565941916
 
 #### Тип:
 
@@ -20474,10 +14918,6 @@ RS 3 Mini
 
 2.5
 
-#### Код видео YouTube:
-
-f75sFzVpGGU
-
 #### Артикул:
 
 DJI-RS300M
@@ -20485,10 +14925,6 @@ DJI-RS300M
 #### Частотный диапазон, GHz:
 
 2.4–2.484
-
-#### Дополнительные изображения:
-
-224744 / 224745 / 224746 / 224747 / 224748
 
 #### Время работы, h:
 
@@ -20501,18 +14937,6 @@ DJI-RS300M
 #### Макс. несущая способность, kg:
 
 2
-
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-1
-
-#### Цена со скидкой:
-
-118900
 
 #### Порты и интерфейсы:
 
@@ -20542,26 +14966,6 @@ Bluetooth управление затвором / Легкий переход н
 
 12
 
-#### Спецификация:
-
-https://www.dji.com/rs-3-mini/specs
-
-#### Руководство пользователя:
-
-https://dl.djicdn.com/downloads/DJI_RS_3_Mini/UM/20230118/DJI_RS_3_Mini_User_Manual_V1.0_en.pdf
-
-#### Руководство по быстрому старту:
-
-https://dl.djicdn.com/downloads/DJI_RS_3_Mini/QSG/DJI_RS_3_Mini_Quick_Start_Guide.pdf
-
-#### Страница товара на сайте производителя:
-
-https://www.dji.com/rs-3-mini
-
-#### К этому товару подходят:
-
-Монтажная пластина DJI RS 3 Mini Quick-Release
-
 #### Размеры (Ш×В×Г), cm:
 
 Сложенный 32.3×19.5×9.8; Разложенный 18.0×15.9×29.6
@@ -20570,7 +14974,11 @@ https://www.dji.com/rs-3-mini
 
 0.795
 
----
+
+
+
+
+
 
 ## Фильтр PGYTECH Mavic 3 UV Filter (Professional)
 
@@ -20587,10 +14995,6 @@ https://www.dji.com/rs-3-mini
 https://drone.kz/product/filtr-pgytech-mavic-3-uv-filter-professional/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970801337077
 
 #### Тип:
 
@@ -20612,29 +15016,13 @@ UV фильтр для Mavic 3
 
 P-26A-033
 
-#### Дополнительные изображения:
-
-224754
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-5
-
 #### Совместимость:
 
 Mavic 3
-
-#### Цена со скидкой:
-
-11400
 
 #### Комплектация:
 
@@ -20644,14 +15032,6 @@ Mavic 3
 
 12
 
-#### Спецификация:
-
-https://www.dji.com
-
-#### К этому товару подходят:
-
-Квадрокоптер DJI Mavic 3 Classic (DJI RC)
-
 #### Размеры (Ш×В×Г), cm:
 
 3.45 х 3.41 х 0.36
@@ -20660,7 +15040,11 @@ https://www.dji.com
 
 3.3
 
----
+
+
+
+
+
 
 ## Фильтр Pgytech Mavic 3 CPL Filter (Professional)  
 
@@ -20677,10 +15061,6 @@ https://www.dji.com
 https://drone.kz/product/filtr-pgytech-mavic-3-cpl-filterprofessional/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970801337091
 
 #### Тип:
 
@@ -20702,29 +15082,13 @@ CPL фильтр для Mavic 3 (Professional)
 
 P-26A-035
 
-#### Дополнительные изображения:
-
-224756
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-4
-
-#### KaspiQtyAstana:
-
-5
-
 #### Совместимость:
 
 Mavic 3
-
-#### Цена со скидкой:
-
-17200
 
 #### Комплектация:
 
@@ -20734,14 +15098,6 @@ Mavic 3
 
 12
 
-#### Спецификация:
-
-https://www.dji.com
-
-#### К этому товару подходят:
-
-Квадрокоптер DJI Mavic 3 Classic (DJI RC)
-
 #### Размеры (Ш×В×Г), cm:
 
 3.45 х 3.41 х 0.36
@@ -20750,7 +15106,11 @@ https://www.dji.com
 
 5.7
 
----
+
+
+
+
+
 
 ## Фильтр Pgytech Mavic 3 VND Filter (6 to 9-Stop)
 
@@ -20767,10 +15127,6 @@ https://www.dji.com
 https://drone.kz/product/opticheskiy-pgytech-mavic-3-vnd-filtr-6-to-9-stop/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970801337114
 
 #### Тип:
 
@@ -20792,29 +15148,13 @@ dji
 
 P-26A-017
 
-#### Дополнительные изображения:
-
-224758 / 224759
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-4
-
-#### KaspiQtyAstana:
-
-4
-
 #### Совместимость:
 
 Mavic 3
-
-#### Цена со скидкой:
-
-26500
 
 #### Комплектация:
 
@@ -20824,14 +15164,6 @@ Mavic 3
 
 12
 
-#### Спецификация:
-
-https://www.dji.com
-
-#### К этому товару подходят:
-
-Квадрокоптер DJI Mavic 3 Classic (DJI RC)
-
 #### Размеры (Ш×В×Г), cm:
 
 3.45 х 3.41 х 0.36
@@ -20840,7 +15172,11 @@ https://www.dji.com
 
 5.7
 
----
+
+
+
+
+
 
 ## Зарядное устройство Insta360 X3 Fast Charge Hub
 
@@ -20857,10 +15193,6 @@ https://www.dji.com
 https://drone.kz/product/zaryadnoe-ustroystvo-insta360-x3-fast-charge-hub/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970357853649
 
 #### Тип:
 
@@ -20886,29 +15218,13 @@ X3 Fast Charge Hub
 
 X3 Fast Charge Hub
 
-#### Дополнительные изображения:
-
-224778 / 224779 / 224780
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-16
-
-#### KaspiQtyAstana:
-
-5
-
 #### Совместимость:
 
 Insta360 X3
-
-#### Цена со скидкой:
-
-32200
 
 #### Комплектация:
 
@@ -20917,14 +15233,6 @@ Insta360 X3
 #### Срок гарантии производителя, m:
 
 12
-
-#### Страница товара на сайте производителя:
-
-https://insta360.ru/
-
-#### К этому товару подходят:
-
-Аккумулятор Insta360 X3 / Кабель для передачи Insta360 X3/X2 Transfer Cable for Android / Панорамная камера Insta360 X3
 
 #### Размер упаковки (Ш×В×Г), cm:
 
@@ -20938,7 +15246,11 @@ https://insta360.ru/
 
 USB Type-C
 
----
+
+
+
+
+
 
 ## Кейс Insta360 X3 X Series Carry Case
 
@@ -20955,10 +15267,6 @@ USB Type-C
 https://drone.kz/product/zashchitnyy-chekhol-insta360-x3-x-series-carry-case/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970357854264
 
 #### Тип:
 
@@ -20980,21 +15288,9 @@ X3 X Series Carry Case
 
 X3 X Series Carry Case
 
-#### Дополнительные изображения:
-
-224782 / 224783 / 224784
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-13
-
-#### KaspiQtyAstana:
-
-1
 
 #### Совместимость:
 
@@ -21004,10 +15300,6 @@ Insta360 X3 X Series
 
 Защитный корпус
 
-#### Цена со скидкой:
-
-17200
-
 #### Комплектация:
 
 Защитный чехол Insta360 X3 X Series Carry Case / Документация
@@ -21015,14 +15307,6 @@ Insta360 X3 X Series
 #### Срок гарантии производителя, m:
 
 12
-
-#### Страница товара на сайте производителя:
-
-https://insta360.ru/
-
-#### К этому товару подходят:
-
-Аккумулятор Insta360 X3 / Кабель для передачи Insta360 X3/X2 Transfer Cable for Android / Панорамная камера Insta360 X3
 
 #### Размер упаковки (Ш×В×Г), cm:
 
@@ -21032,7 +15316,11 @@ https://insta360.ru/
 
 0.1
 
----
+
+
+
+
+
 
 ## Монтажная рамка Insta360 X3 Mounting Bracket
 
@@ -21049,10 +15337,6 @@ https://insta360.ru/
 https://drone.kz/product/montazhnaya-ramka-insta360-x3-mounting-bracket/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970357854165
 
 #### Тип:
 
@@ -21074,21 +15358,9 @@ X3 Mounting Bracket
 
 X3 Mounting Bracket
 
-#### Дополнительные изображения:
-
-224786 / 224787
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-0
-
-#### KaspiQtyAstana:
-
-2
 
 #### Совместимость:
 
@@ -21098,10 +15370,6 @@ Insta360 X3
 
 Защитный корпус
 
-#### Цена со скидкой:
-
-43800
-
 #### Комплектация:
 
 Монтажная рамка Insta360 X3 Mounting Bracket / Ключ - 1 шт / Защитная крышка на камеру - 1 шт / монтажный кронштейн - 1 шт / Документация
@@ -21109,14 +15377,6 @@ Insta360 X3
 #### Срок гарантии производителя, m:
 
 12
-
-#### Страница товара на сайте производителя:
-
-https://insta360.ru/
-
-#### К этому товару подходят:
-
-Панорамная камера Insta360 X3 / Аккумулятор Insta360 X3 / Липкие линзы Insta360 X3 Sticky Lens Guards
 
 #### Размеры (Ш×В×Г), cm:
 
@@ -21126,7 +15386,11 @@ https://insta360.ru/
 
 0.04
 
----
+
+
+
+
+
 
 ## Фильтр Pgytech Mavic 3 Filter ND-PL Set (NDPL 8 16 32 64) (Professional)
 
@@ -21143,10 +15407,6 @@ https://insta360.ru/
 https://drone.kz/product/nd-filtry-8-16-32-64-dji-mavic-3-professional/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970801337084
 
 #### Тип:
 
@@ -21168,29 +15428,13 @@ ND-фильтры 8/16/32/64 DJI Mavic 3 Professional
 
 P-26A-034
 
-#### Дополнительные изображения:
-
-224789
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-4
-
 #### Совместимость:
 
 Mavic 3
-
-#### Цена со скидкой:
-
-56500
 
 #### Комплектация:
 
@@ -21200,14 +15444,6 @@ Mavic 3
 
 12
 
-#### Спецификация:
-
-https://www.dji.com
-
-#### К этому товару подходят:
-
-Квадрокоптер DJI Mavic 3
-
 #### Размеры (Ш×В×Г), cm:
 
 2.27×1.85×0.42 
@@ -21216,7 +15452,11 @@ https://www.dji.com
 
 56
 
----
+
+
+
+
+
 
 ## Регулятор SpeedyBee BL32 50A 4-in-1 ESC
 
@@ -21234,10 +15474,6 @@ https://drone.kz/product/regulyator-speedybee-bl32-50a-4-in-1-esc/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6112345678814
-
 #### Тип:
 
 регулятор оборотов(ESC)
@@ -21254,25 +15490,9 @@ F7 V3 BL32 50A 4-in-1 ESC
 
 SPEEDYBEE-BL32-50A
 
-#### Дополнительные изображения:
-
-224965
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-50700
 
 #### Комплектация:
 
@@ -21282,14 +15502,6 @@ SPEEDYBEE-BL32-50A
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.speedybee.com/
-
-#### К этому товару подходят:
-
-Ремешок Speedy Bee Tie Down Strap for Lipo Battery small / Ремешок Speedy Bee Tie Down Strap for Lipo Battery big / Полетный контроллер Speedy Bee F7 AIO Flight Controller
-
 #### Размеры (Ш×В×Г), cm:
 
 4.56 * 4* 0.88
@@ -21298,7 +15510,11 @@ https://www.speedybee.com/
 
 19.2
 
----
+
+
+
+
+
 
 ## Цифровая система RunCam Link Falcon Nano Kit
 
@@ -21315,10 +15531,6 @@ https://www.speedybee.com/
 https://drone.kz/product/komplekt-runcam-link-falcon-nano-kit/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6891510202412
 
 #### Тип:
 
@@ -21344,10 +15556,6 @@ RUNCAM-LINK-FALN
 
 5.725-5.850
 
-#### Дополнительные изображения:
-
-224985 / 224986 / 224987 / 224988
-
 #### Разрешение видео:
 
 1920*1080 при 120 кадрах в секунду
@@ -21372,21 +15580,9 @@ RUNCAM-LINK-FALN
 
 серый
 
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 FPV система
-
-#### Цена со скидкой:
-
-121200
 
 #### Радиус действия сигнала:
 
@@ -21432,14 +15628,6 @@ HD (1280×720)
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.runcam.com/
-
-#### К этому товару подходят:
-
-FPV видео-очки SwellPro GL1 / Цифровые очки DJI FPV Goggles V2 / Аналоговая HD камера RunCam Hybrid 4k
-
 #### Размеры (Ш×В×Г), cm:
 
 1.6×1.4×1.7
@@ -21452,7 +15640,11 @@ FPV видео-очки SwellPro GL1 / Цифровые очки DJI FPV Goggles
 
 microSD
 
----
+
+
+
+
+
 
 ## Цифровая система RunCam Link Phoenix HD Kit
 
@@ -21469,10 +15661,6 @@ microSD
 https://drone.kz/product/komplekt-runcam-link-phoenix-hd-kit/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6927426491280
 
 #### Тип:
 
@@ -21498,10 +15686,6 @@ RUNCAM-LINK-PH-SL
 
 5.725-5.850
 
-#### Дополнительные изображения:
-
-224995 / 224996 / 224997 / 224998 / 224999
-
 #### Разрешение видео:
 
 1280*720 при 60 кадрах в секунду
@@ -21526,21 +15710,9 @@ RUNCAM-LINK-PH-SL
 
 серый
 
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 FPV система
-
-#### Цена со скидкой:
-
-107300
 
 #### Радиус действия сигнала:
 
@@ -21586,14 +15758,6 @@ HD (1280×720)
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.runcam.com/
-
-#### К этому товару подходят:
-
-FPV видео-очки SwellPro GL1 / Цифровые очки DJI FPV Goggles V2 / Аналоговая HD камера RunCam Hybrid 4k
-
 #### Размеры (Ш×В×Г), cm:
 
 1.9×1.9×2.3
@@ -21606,7 +15770,11 @@ FPV видео-очки SwellPro GL1 / Цифровые очки DJI FPV Goggles
 
 microSD
 
----
+
+
+
+
+
 
 ## Кабель MIPI 26P для RunCam Link и DJI Air Unit 80 мм
 
@@ -21623,10 +15791,6 @@ microSD
 https://drone.kz/product/kabel-mipi-26p-dlya-runcam-link-i-dji-air-unit-80-mm/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6112345673628
 
 #### Тип:
 
@@ -21648,18 +15812,6 @@ CABLE-26P-80
 
 черный
 
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-9100
-
 #### Порты и интерфейсы:
 
 Standard MIPI 
@@ -21672,14 +15824,6 @@ Standard MIPI
 
 1
 
-#### Страница товара на сайте производителя:
-
-https://www.runcam.com/
-
-#### К этому товару подходят:
-
-Комплект RunCam Link MIPI HD Kit / Цифровая система RunCam Link Phoenix HD Kit / Цифровая система RunCam Link Falcon Nano Kit
-
 #### Размеры (Ш×В×Г), cm:
 
 8
@@ -21688,7 +15832,11 @@ https://www.runcam.com/
 
 70
 
----
+
+
+
+
+
 
 ## Кабель MIPI 26P для RunCam Link и DJI Air Unit 120 мм
 
@@ -21705,10 +15853,6 @@ https://www.runcam.com/
 https://drone.kz/product/kabel-mipi-26p-dlya-runcam-link-i-dji-air-unit-120-mm/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6112345673611
 
 #### Тип:
 
@@ -21730,18 +15874,6 @@ CABLE-26P-120
 
 черный
 
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-9100
-
 #### Порты и интерфейсы:
 
 Standard MIPI 
@@ -21754,14 +15886,6 @@ Standard MIPI
 
 1
 
-#### Страница товара на сайте производителя:
-
-https://www.runcam.com/
-
-#### К этому товару подходят:
-
-Комплект RunCam Link MIPI HD Kit / Цифровая система RunCam Link Phoenix HD Kit / Цифровая система RunCam Link Falcon Nano Kit
-
 #### Размеры (Ш×В×Г), cm:
 
 12
@@ -21770,7 +15894,11 @@ https://www.runcam.com/
 
 70
 
----
+
+
+
+
+
 
 ## Кабель MIPI 26P для RunCam Link и DJI Air Unit 200 мм
 
@@ -21787,10 +15915,6 @@ https://www.runcam.com/
 https://drone.kz/product/kabel-mipi-26p-dlya-runcam-link-i-dji-air-unit-200-mm/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-CABLE-26P-200
 
 #### Тип:
 
@@ -21812,18 +15936,6 @@ CABLE-26P-200
 
 черный
 
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-8700
-
 #### Порты и интерфейсы:
 
 Standard MIPI 
@@ -21836,14 +15948,6 @@ Standard MIPI
 
 1
 
-#### Страница товара на сайте производителя:
-
-https://www.runcam.com/
-
-#### К этому товару подходят:
-
-Комплект RunCam Link MIPI HD Kit / Цифровая система RunCam Link Phoenix HD Kit / Цифровая система RunCam Link Falcon Nano Kit
-
 #### Размеры (Ш×В×Г), cm:
 
 20
@@ -21852,7 +15956,11 @@ https://www.runcam.com/
 
 70
 
----
+
+
+
+
+
 
 ## Плата SpeedyBee BT Nano 3 Wireless FC Configuration
 
@@ -21870,10 +15978,6 @@ https://drone.kz/product/plata-speedybee-bt-nano-3-wireless-fc-configuration/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-SB-BTNANO3
-
 #### Тип:
 
 плата
@@ -21890,25 +15994,9 @@ BT Nano 3 Wireless FC Configuration
 
 BTNANO3
 
-#### Дополнительные изображения:
-
-225050 / 225051 / 225052 / 225053
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-9100
 
 #### Комплектация:
 
@@ -21918,19 +16006,15 @@ BTNANO3
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.speedybee.com/
-
-#### К этому товару подходят:
-
-Ремешок Speedy Bee Tie Down Strap for Lipo Battery big / Ремешок Speedy Bee Tie Down Strap for Lipo Battery small / Полетный контроллер Speedy Bee F7 AIO Flight Controller
-
 #### Размеры (Ш×В×Г), cm:
 
 1.4×1.1×0.08
 
----
+
+
+
+
+
 
 ## Плата SpeedyBee 12V 1A Micro BEC module
 
@@ -21948,10 +16032,6 @@ https://drone.kz/product/plata-speedybee-12v-1a-micro-bec-module/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-SB-12V-1A-BEC
-
 #### Тип:
 
 плата
@@ -21968,25 +16048,9 @@ speedy-bee
 
 SB-12V-1A-BEC
 
-#### Дополнительные изображения:
-
-225056
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-4500
 
 #### Комплектация:
 
@@ -21996,19 +16060,15 @@ SB-12V-1A-BEC
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.speedybee.com/
-
-#### К этому товару подходят:
-
-Ремешок Speedy Bee Tie Down Strap for Lipo Battery small / Полетный контроллер Speedy Bee F7 AIO Flight Controller / Ремешок Speedy Bee Tie Down Strap for Lipo Battery big
-
 #### Размеры (Ш×В×Г), cm:
 
 1.195 х 1.69 х 0.115
 
----
+
+
+
+
+
 
 ## Мотор SpeedyBee 1404 4500KV Motor
 
@@ -22026,10 +16086,6 @@ https://drone.kz/product/motor-speedybee-1404-4500kv-motor/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-SB-1404-4500KV
-
 #### Тип:
 
 мотор
@@ -22046,25 +16102,9 @@ speedy-bee
 
 SB-1404-4500KV-4PCS
 
-#### Дополнительные изображения:
-
-225058 / 225059 / 225060 / 225061
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-4
-
-#### KaspiQtyAstana:
-
-3
-
-#### Цена со скидкой:
-
-11400
 
 #### Питание:
 
@@ -22078,14 +16118,6 @@ SB-1404-4500KV-4PCS
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.speedybee.com/
-
-#### К этому товару подходят:
-
-Ремешок Speedy Bee Tie Down Strap for Lipo Battery big / Ремешок Speedy Bee Tie Down Strap for Lipo Battery small / Полетный контроллер Speedy Bee F7 AIO Flight Controller
-
 #### Размеры (Ш×В×Г), cm:
 
 1.93×1.93×1.56
@@ -22094,7 +16126,11 @@ https://www.speedybee.com/
 
 9.6
 
----
+
+
+
+
+
 
 ## Светодиодная лента Speedy Bee LED Strip with BEC White
 
@@ -22111,10 +16147,6 @@ https://www.speedybee.com/
 https://drone.kz/product/svetodiodnaya-lenta-speedy-bee-led-strip-with-bec-white/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6973183102264
 
 #### Тип:
 
@@ -22136,21 +16168,9 @@ FLEX25-LED-WHIITE
 
 белый
 
-#### KaspiQtyAlmaty:
-
-4
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 Flex25
-
-#### Цена со скидкой:
-
-6800
 
 #### Комплектация:
 
@@ -22160,19 +16180,15 @@ Flex25
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.speedybee.com/
-
-#### К этому товару подходят:
-
-Ремешок Speedy Bee Tie Down Strap for Lipo Battery small / Ремешок Speedy Bee Tie Down Strap for Lipo Battery big / Полетный контроллер Speedy Bee F7 AIO Flight Controller
-
 #### Размеры (Ш×В×Г), cm:
 
 45×0.4×
 
----
+
+
+
+
+
 
 ## Защита пропеллеров Speedy Bee Flex25 Propeller Protection Duct Grey
 
@@ -22190,10 +16206,6 @@ https://drone.kz/product/zashchita-propellerov-speedy-bee-flex25-propeller-prote
 
 ### Характеристики:
 
-#### Штрихкод:
-
-FLEX25-RING-G
-
 #### Тип:
 
 защита пропеллеров
@@ -22210,25 +16222,9 @@ Flex25
 
 FLEX25-RING-G
 
-#### Дополнительные изображения:
-
-225066
-
 #### Цвет:
 
 серый
-
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-6800
 
 #### Комплектация:
 
@@ -22238,14 +16234,6 @@ FLEX25-RING-G
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.speedybee.com/
-
-#### К этому товару подходят:
-
-Ремешок Speedy Bee Tie Down Strap for Lipo Battery small / Ремешок Speedy Bee Tie Down Strap for Lipo Battery big / Полетный контроллер Speedy Bee F7 AIO Flight Controller
-
 #### Размеры (Ш×В×Г), cm:
 
 13.6×13.6×1.3
@@ -22254,7 +16242,11 @@ https://www.speedybee.com/
 
 5
 
----
+
+
+
+
+
 
 ## Адаптер SpeedyBee Adapter 3
 
@@ -22272,10 +16264,6 @@ https://drone.kz/product/adapter-speedybee-adapter-3/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6112345678326
-
 #### Тип:
 
 адаптер
@@ -22292,25 +16280,9 @@ Adapter 3
 
 SPEEDYBEE-ADAPTER3-QC
 
-#### Дополнительные изображения:
-
-225068 / 225069
-
 #### Цвет:
 
 желтый
-
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-28800
 
 #### Порты и интерфейсы:
 
@@ -22328,14 +16300,6 @@ SPEEDYBEE-ADAPTER3-QC
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.speedybee.com/
-
-#### К этому товару подходят:
-
-Ремешок Speedy Bee Tie Down Strap for Lipo Battery small / Ремешок Speedy Bee Tie Down Strap for Lipo Battery big / Полетный контроллер Speedy Bee F7 AIO Flight Controller
-
 #### Размеры (Ш×В×Г), cm:
 
 2.48 х 2.18 х 5.36
@@ -22344,7 +16308,11 @@ https://www.speedybee.com/
 
 35
 
----
+
+
+
+
+
 
 ## Регулируемое основание для крепления Speedy Bee Adjustable GoPro Yellow TPU Mount Base
 
@@ -22362,10 +16330,6 @@ https://drone.kz/product/reguliruemoe-osnovanie-dlya-krepleniya-speedy-bee-adjus
 
 ### Характеристики:
 
-#### Штрихкод:
-
-SB-M5-GP-Y-KIT
-
 #### Тип:
 
 крепление
@@ -22382,29 +16346,13 @@ Adjustable GoPro Yellow TPU Mount Base For Master5/Master5 HD
 
 SB-M5-GP-Y-KIT
 
-#### Дополнительные изображения:
-
-225082
-
 #### Цвет:
 
 желтый
 
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 Master5, Master5 HD
-
-#### Цена со скидкой:
-
-4500
 
 #### Комплектация:
 
@@ -22414,15 +16362,11 @@ Master5, Master5 HD
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.speedybee.com/
 
-#### К этому товару подходят:
 
-Ремешок Speedy Bee Tie Down Strap for Lipo Battery big / Полетный контроллер Speedy Bee F7 AIO Flight Controller / Ремешок Speedy Bee Tie Down Strap for Lipo Battery small
 
----
+
 
 ## Комплект креплений Speedy Bee 3D Printed Drone Parts For V1 Frame
 
@@ -22440,10 +16384,6 @@ https://drone.kz/product/komplekt-krepleniy-speedy-bee-3d-printed-drone-parts-fo
 
 ### Характеристики:
 
-#### Штрихкод:
-
-SB-FRAME-MOUNT-RC5
-
 #### Тип:
 
 крепление
@@ -22460,25 +16400,9 @@ speedy-bee
 
 SB-FRAME-MOUNT-RC5
 
-#### Дополнительные изображения:
-
-225113 / 225114 / 225115 / 225116
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-12
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-9100
 
 #### Комплектация:
 
@@ -22488,15 +16412,11 @@ SB-FRAME-MOUNT-RC5
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.speedybee.com/
 
-#### К этому товару подходят:
 
-Ремешок Speedy Bee Tie Down Strap for Lipo Battery small / Ремешок Speedy Bee Tie Down Strap for Lipo Battery big / Полетный контроллер Speedy Bee F7 AIO Flight Controller
 
----
+
 
 ## Рама SpeedyBee Flex25 2.5-inch Frame Kit
 
@@ -22514,10 +16434,6 @@ https://drone.kz/product/ramka-speedybee-flex25-2-5-inch-frame-kit/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-FLEX25-FRMKIT-HD
-
 #### Тип:
 
 рама
@@ -22534,25 +16450,9 @@ Flex25 2.5-inch Frame Kit
 
 FLEX25-FRMKIT-HD
 
-#### Дополнительные изображения:
-
-225125 / 225126 / 225127 / 225128
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-27600
 
 #### Комплектация:
 
@@ -22562,18 +16462,6 @@ FLEX25-FRMKIT-HD
 
 12
 
-#### Руководство пользователя:
-
-https://store-fhxxhuiq8q.mybigcommerce.com/product_images/img_SpeedyBee_Flex25_Frame/SpeedyBee_Flex25%20Frame_Manual_en.pdf
-
-#### Страница товара на сайте производителя:
-
-https://www.speedybee.com/
-
-#### К этому товару подходят:
-
-Ремешок Speedy Bee Tie Down Strap for Lipo Battery small / Ремешок Speedy Bee Tie Down Strap for Lipo Battery big / Полетный контроллер Speedy Bee F7 AIO Flight Controller
-
 #### Размеры (Ш×В×Г), cm:
 
 13.6×13.6×3.5
@@ -22582,7 +16470,11 @@ https://www.speedybee.com/
 
 54
 
----
+
+
+
+
+
 
 ## Цифровая камера RunCam Phoenix HD Camera
 
@@ -22599,10 +16491,6 @@ https://www.speedybee.com/
 https://drone.kz/product/kamera-runcam-phoenix-hd-camera/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6112345678937
 
 #### Тип:
 
@@ -22623,10 +16511,6 @@ Phoenix HD Camera
 #### Артикул:
 
 PHOENIX-HD-SL
-
-#### Дополнительные изображения:
-
-225144
 
 #### Разрешение видео:
 
@@ -22652,21 +16536,9 @@ PHOENIX-HD-SL
 
 серый
 
-#### KaspiQtyAlmaty:
-
-5
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 FPV система
-
-#### Цена со скидкой:
-
-39200
 
 #### Наличие камеры:
 
@@ -22708,14 +16580,6 @@ HD (1280×720)
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.runcam.com/
-
-#### К этому товару подходят:
-
-FPV видео-очки SwellPro GL1 / Цифровые очки DJI FPV Goggles V2 / Аналоговая HD камера RunCam Hybrid 4k
-
 #### Размеры (Ш×В×Г), cm:
 
 1.9×1.9×2.3
@@ -22728,7 +16592,11 @@ FPV видео-очки SwellPro GL1 / Цифровые очки DJI FPV Goggles
 
 microSD
 
----
+
+
+
+
+
 
 ## Коаксиальный кабель RunCam DJI O3 100 мм
 
@@ -22745,10 +16613,6 @@ microSD
 https://drone.kz/product/koaksialnyy-kabel-runcam-dji-o3-100-mm/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6112345673512
 
 #### Тип:
 
@@ -22770,18 +16634,6 @@ CABLE-O3-100
 
 черный
 
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-8000
-
 #### Комплектация:
 
 Коаксиальный кабель RunCam DJI O3 100 мм / Документация
@@ -22789,14 +16641,6 @@ CABLE-O3-100
 #### Срок гарантии производителя, m:
 
 1
-
-#### Страница товара на сайте производителя:
-
-https://www.runcam.com/
-
-#### К этому товару подходят:
-
-Комплект RunCam Link MIPI HD Kit / Цифровая система RunCam Link Phoenix HD Kit / Цифровая система RunCam Link Falcon Nano Kit
 
 #### Размеры (Ш×В×Г), cm:
 
@@ -22806,7 +16650,11 @@ https://www.runcam.com/
 
 70
 
----
+
+
+
+
+
 
 ## Коаксиальный кабель RunCam DJI O3 170 мм
 
@@ -22823,10 +16671,6 @@ https://www.runcam.com/
 https://drone.kz/product/koaksialnyy-kabel-dji-o3-170-mm/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6112345673574
 
 #### Тип:
 
@@ -22848,18 +16692,6 @@ CABLE-O3-170
 
 черный
 
-#### KaspiQtyAlmaty:
-
-4
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-8000
-
 #### Комплектация:
 
 Коаксиальный кабель RunCam DJI O3 170 мм / Документация
@@ -22867,14 +16699,6 @@ CABLE-O3-170
 #### Срок гарантии производителя, m:
 
 1
-
-#### Страница товара на сайте производителя:
-
-https://www.runcam.com/
-
-#### К этому товару подходят:
-
-Комплект RunCam Link MIPI HD Kit / Цифровая система RunCam Link Phoenix HD Kit / Цифровая система RunCam Link Falcon Nano Kit
 
 #### Размеры (Ш×В×Г), cm:
 
@@ -22884,7 +16708,11 @@ https://www.runcam.com/
 
 130
 
----
+
+
+
+
+
 
 ## Коаксиальный кабель RunCam DJI O3 200 мм
 
@@ -22901,10 +16729,6 @@ https://www.runcam.com/
 https://drone.kz/product/koaksialnyy-kabel-runcam-dji-o3-200-mm/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6112345673581
 
 #### Тип:
 
@@ -22926,18 +16750,6 @@ CABLE-O3-200
 
 черный
 
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-9100
-
 #### Комплектация:
 
 Коаксиальный кабель RunCam DJI O3 200 мм / Документация
@@ -22945,14 +16757,6 @@ CABLE-O3-200
 #### Срок гарантии производителя, m:
 
 1
-
-#### Страница товара на сайте производителя:
-
-https://www.runcam.com/
-
-#### К этому товару подходят:
-
-Комплект RunCam Link MIPI HD Kit / Цифровая система RunCam Link Phoenix HD Kit / Цифровая система RunCam Link Falcon Nano Kit
 
 #### Размеры (Ш×В×Г), cm:
 
@@ -22962,7 +16766,11 @@ https://www.runcam.com/
 
 140
 
----
+
+
+
+
+
 
 ## Комплект SpeedyBee F7 Mini 35A 3-6S 8-bit Flight Controller Stack
 
@@ -22980,10 +16788,6 @@ https://drone.kz/product/plata-speedybee-f7-mini-35a-3-6s-8-bit-flight-controlle
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6112345678715
-
 #### Тип:
 
 полетный контроллер(FC) / регулятор оборотов(ESC)
@@ -23000,22 +16804,6 @@ F7 Mini 35A 3-6S 8-bit Flight Controller Stack
 
 SPEEDYBEE-STACKMINI
 
-#### Дополнительные изображения:
-
-225170
-
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-76100
-
 #### Комплектация:
 
 Плата SpeedyBee F7 Mini 35A 3-6S 8-bit Flight Controller Stack / SpeedyBee 35A BLHeli_S Mini 4-in-1 ESC- 1 шт. / XT30 Power Cable(Length: 7cm) - 1 шт. / 8pin JST cable(For FC & ESC Connection）- 1 шт. / 35V 470uF Capacitor - 1 шт. /  M2(Diameter) * 20mm(Length) Screw - 4 шт. /  M2(Diameter) * 25mm(Length) Screw - 4 шт. /  M2(Hole Diameter) * 6.6mm(Height) Anti-vibration Silicone Grommets - 9 шт. /  M2 Silicone O-Ring - 5 шт. /  M2 Nylon Hex Nut - 5 шт. /  M3(Diameter) * 20mm(Length) Screw - 4 шт. /  M3(Diameter) * 25mm(Length) Screw - 4 шт. /  M3(Hole Diameter) * 6.6mm(Height) Anti-vibration Silicone Grommets - 9 шт. /  M3 Silicone O-Ring - 5 шт. /  M3 Nylon Hex Nut - 5 шт. / Документация
@@ -23023,14 +16811,6 @@ SPEEDYBEE-STACKMINI
 #### Срок гарантии производителя, m:
 
 12
-
-#### Страница товара на сайте производителя:
-
-https://www.speedybee.com/
-
-#### К этому товару подходят:
-
-Ремешок Speedy Bee Tie Down Strap for Lipo Battery big / Полетный контроллер Speedy Bee F7 AIO Flight Controller / Ремешок Speedy Bee Tie Down Strap for Lipo Battery small
 
 #### Размеры (Ш×В×Г), cm:
 
@@ -23040,7 +16820,11 @@ https://www.speedybee.com/
 
 5.7
 
----
+
+
+
+
+
 
 ## Кабель Speedy Bee 6A USB-A to USB-C Supper Fast Charging Cable
 
@@ -23058,10 +16842,6 @@ https://drone.kz/product/kabel-speedy-bee-6a-usb-a-to-usb-c-supper-fast-charging
 
 ### Характеристики:
 
-#### Штрихкод:
-
-SB-USB-QC
-
 #### Тип:
 
 кабель
@@ -23078,25 +16858,9 @@ speedy-bee
 
 SB-USB-QC
 
-#### Дополнительные изображения:
-
-225179
-
 #### Цвет:
 
 белый
-
-#### KaspiQtyAlmaty:
-
-20
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-4500
 
 #### Порты и интерфейсы:
 
@@ -23110,14 +16874,6 @@ SB-USB-QC
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.speedybee.com/
-
-#### К этому товару подходят:
-
-Ремешок Speedy Bee Tie Down Strap for Lipo Battery small / Ремешок Speedy Bee Tie Down Strap for Lipo Battery big / Полетный контроллер Speedy Bee F7 AIO Flight Controller
-
 #### Размеры (Ш×В×Г), cm:
 
 25
@@ -23126,7 +16882,11 @@ https://www.speedybee.com/
 
 11
 
----
+
+
+
+
+
 
 ## Комплект креплений Speedy Bee 3D Printed Drone Parts
 
@@ -23144,10 +16904,6 @@ https://drone.kz/product/komplekt-krepleniy-speedy-bee-3d-printed-drone-parts/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-SB-FRAME-MOUNT-RC5
-
 #### Тип:
 
 крепление
@@ -23164,29 +16920,13 @@ speedy-bee
 
 SB-FRAMEV2-MOUNT-RC5V2
 
-#### Дополнительные изображения:
-
-225181 / 225182 / 225183
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-12
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 FS225 V2 Frame
-
-#### Цена со скидкой:
-
-9100
 
 #### Комплектация:
 
@@ -23196,15 +16936,11 @@ FS225 V2 Frame
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.speedybee.com/
 
-#### К этому товару подходят:
 
-Ремешок Speedy Bee Tie Down Strap for Lipo Battery small / Полетный контроллер Speedy Bee F7 AIO Flight Controller / Ремешок Speedy Bee Tie Down Strap for Lipo Battery big
 
----
+
 
 ## Рамка Speedy Bee TPU Naked
 
@@ -23222,10 +16958,6 @@ https://drone.kz/product/ramka-speedy-bee-tpu-naked/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-SB-GOPRO67-3DMOUNT
-
 #### Тип:
 
 крепление
@@ -23242,21 +16974,9 @@ TPU Naked GoPro 6/7/8/RunCam Thumb/Insta Go 2 Mount-black for Flex25
 
 SB-GOPRO67-3DMOUNT
 
-#### Дополнительные изображения:
-
-225195 / 225196 / 225197 / 225198
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-10
-
-#### KaspiQtyAstana:
-
-0
 
 #### Совместимость:
 
@@ -23266,10 +16986,6 @@ Flex25
 
 Защитный корпус
 
-#### Цена со скидкой:
-
-4500
-
 #### Комплектация:
 
 Рамка Speedy Bee TPU Naked / Документация
@@ -23278,19 +16994,15 @@ Flex25
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.speedybee.com/
-
-#### К этому товару подходят:
-
-Ремешок Speedy Bee Tie Down Strap for Lipo Battery small / Полетный контроллер Speedy Bee F7 AIO Flight Controller / Ремешок Speedy Bee Tie Down Strap for Lipo Battery big
-
 #### Вес товара, г:
 
 2.7
 
----
+
+
+
+
+
 
 ## Плата Speedy Bee Camera BEC Balance Power
 
@@ -23308,10 +17020,6 @@ https://drone.kz/product/plata-speedy-bee-camera-bec-balance-power/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-XH254-TYPEC-5V
-
 #### Тип:
 
 плата
@@ -23328,29 +17036,13 @@ Camera BEC Balance Power Plug
 
 XH254-TYPEC-5V
 
-#### Дополнительные изображения:
-
-225205 / 225206
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 Gopro 6, Gopro , Gopro 8, Gopro 9, Gopro 10 BEC 3-6s (2 Sets)
-
-#### Цена со скидкой:
-
-9100
 
 #### Питание:
 
@@ -23364,14 +17056,6 @@ Gopro 6, Gopro , Gopro 8, Gopro 9, Gopro 10 BEC 3-6s (2 Sets)
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.speedybee.com/
-
-#### К этому товару подходят:
-
-Ремешок Speedy Bee Tie Down Strap for Lipo Battery small / Ремешок Speedy Bee Tie Down Strap for Lipo Battery big / Полетный контроллер Speedy Bee F7 AIO Flight Controller
-
 #### Размеры (Ш×В×Г), cm:
 
 2.5×1.2×1.2
@@ -23380,7 +17064,11 @@ https://www.speedybee.com/
 
 3
 
----
+
+
+
+
+
 
 ## Экшн-камера RunCam Thumb Pro New Version + ND Filter Set
 
@@ -23397,10 +17085,6 @@ https://www.speedybee.com/
 https://drone.kz/product/ekshn-kamera-runcam-thumb-pro-new-version-nd-filter-set/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6112345678951
 
 #### Тип:
 
@@ -23426,10 +17110,6 @@ Thumb Pro New Version + ND Filter Set
 
 THUMB-PRO-W-ND-ZZ
 
-#### Дополнительные изображения:
-
-225249 / 225250 / 225251
-
 #### Разрешение видео:
 
 4K@30fps / 2.7K@60fps / 1440P@60fps / 1080P@120fps / 1080P@60fps
@@ -23445,18 +17125,6 @@ THUMB-PRO-W-ND-ZZ
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-17
-
-#### KaspiQtyAstana:
-
-8
-
-#### Цена со скидкой:
-
-73800
 
 #### Наличие камеры:
 
@@ -23494,14 +17162,6 @@ Sony imx377 (1/2. 3 ''mp)
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.runcam.com/
-
-#### К этому товару подходят:
-
-Карта памяти SanDisk Extreme microSD 128 GB / Крепление RunCam 3D Printed Vertical Fixed Mount for Thumb Pro / Аккумулятор RunCam Removable battery
-
 #### Размеры (Ш×В×Г), cm:
 
 5.4 * 2.5 * 2.1
@@ -23518,7 +17178,11 @@ https://www.runcam.com/
 
 microSD
 
----
+
+
+
+
+
 
 ## FPV камера RunCam Thumb + Крепление 3DMount
 
@@ -23535,10 +17199,6 @@ microSD
 https://drone.kz/product/fpv-kamera-runcam-thumb-kreplenie-3dmount/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6112345678944
 
 #### Тип:
 
@@ -23564,10 +17224,6 @@ RunCam Thumb + Крепление 3DMount
 
 THUMB-3DMOUNT
 
-#### Дополнительные изображения:
-
-225263 / 225264 / 225265 / 225266 / 225267 / 225268
-
 #### Разрешение видео:
 
 1080P при 60 кадрах в секунду
@@ -23580,21 +17236,9 @@ THUMB-3DMOUNT
 
 черный
 
-#### KaspiQtyAlmaty:
-
-28
-
-#### KaspiQtyAstana:
-
-1
-
 #### Аксессуары в комплекте:
 
 Защитный корпус
-
-#### Цена со скидкой:
-
-33400
 
 #### Наличие камеры:
 
@@ -23624,14 +17268,6 @@ FPV камера RunCam Thumb / MicroUSB кабель - 1 шт / 2P кабель
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.runcam.com/
-
-#### К этому товару подходят:
-
-HD камера RunCam 2 / 4К камера RunCam 2 / Аналоговая камера RunCam Eagle3-L21
-
 #### Размеры (Ш×В×Г), cm:
 
 5.2 х 1.3 х 1.9
@@ -23644,7 +17280,11 @@ HD камера RunCam 2 / 4К камера RunCam 2 / Аналоговая ка
 
 128 ГБ
 
----
+
+
+
+
+
 
 ## Набор креплений GoPro для RunCam 5
 
@@ -23662,10 +17302,6 @@ https://drone.kz/product/nabor-krepleniy-gopro-dlya-runcam-5/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-RC5-BL-3DPRO
-
 #### Тип:
 
 крепление / комплект
@@ -23682,29 +17318,13 @@ runcam
 
 RC5-BL-3DPRO
 
-#### Дополнительные изображения:
-
-225275 / 225276
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-30
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 RunCam 5
-
-#### Цена со скидкой:
-
-11400
 
 #### Комплектация:
 
@@ -23714,19 +17334,15 @@ RunCam 5
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.runcam.com/
-
-#### К этому товару подходят:
-
-FPV видео-очки SwellPro GL1 / Цифровые очки DJI FPV Goggles V2 / Аналоговая HD камера RunCam Hybrid 4k
-
 #### Вес товара, г:
 
 84.7
 
----
+
+
+
+
+
 
 ## Печатная плата для RunCam 2 / RunCam 2 4K
 
@@ -23743,10 +17359,6 @@ FPV видео-очки SwellPro GL1 / Цифровые очки DJI FPV Goggles
 https://drone.kz/product/pechatnaya-plata-dlya-runcam-2-runcam-2-4k/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-КС2-01
 
 #### Тип:
 
@@ -23768,21 +17380,9 @@ RC2-01
 
 черный
 
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 RunCam 2 / RunCam 2 4K
-
-#### Цена со скидкой:
-
-29900
 
 #### Порты и интерфейсы:
 
@@ -23796,19 +17396,15 @@ RunCam 2 / RunCam 2 4K
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.runcam.com/
-
-#### К этому товару подходят:
-
-FPV видео-очки SwellPro GL1 / Цифровые очки DJI FPV Goggles V2 / Аналоговая HD камера RunCam Hybrid 4k
-
 #### Вес товара, г:
 
 13.6
 
----
+
+
+
+
+
 
 ## Аналоговая камера RunCam Phoenix 2 Special Edition
 
@@ -23846,10 +17442,6 @@ Phoenix 2 Special Edition
 
 PHOENIX2-SE
 
-#### Дополнительные изображения:
-
-225328 / 225329 / 225330 / 225331
-
 #### Макс. угол обзора по горизонтали,°:
 
 124
@@ -23865,18 +17457,6 @@ PHOENIX2-SE
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-0
-
-#### KaspiQtyAstana:
-
-1
-
-#### Цена со скидкой:
-
-18400
 
 #### Питание:
 
@@ -23898,14 +17478,6 @@ PHOENIX2-SE
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.runcam.com/
-
-#### К этому товару подходят:
-
-Аналоговая HD камера RunCam Split 3 Nano / 4К камера RunCam 2 / Аналоговая камера RunCam Racer3-BL-L18
-
 #### Размеры (Ш×В×Г), cm:
 
 1.9 х 1.9 х 2.2
@@ -23914,7 +17486,11 @@ https://www.runcam.com/
 
 8.6
 
----
+
+
+
+
+
 
 ## Аналоговая камера RunCam Phoenix 2 серый
 
@@ -23932,10 +17508,6 @@ https://drone.kz/product/analogovaya-kamera-runcam-phoenix-2-seryy/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6112345678913
-
 #### Тип:
 
 аналоговая камера
@@ -23952,25 +17524,9 @@ Phoenix 2 серый
 
 PHOENIX2-SL
 
-#### Дополнительные изображения:
-
-225333 / 225334 / 225335
-
 #### Цвет:
 
 серый
-
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-24200
 
 #### Питание:
 
@@ -23996,14 +17552,6 @@ PHOENIX2-SL
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.runcam.com/
-
-#### К этому товару подходят:
-
-4К камера RunCam 2 / Аналоговая HD камера RunCam Split 4
-
 #### Размеры (Ш×В×Г), cm:
 
 1.9 х 1.9 х 1.9
@@ -24012,7 +17560,11 @@ https://www.runcam.com/
 
 9
 
----
+
+
+
+
+
 
 ## Аналоговая камера RunCam Phoenix 2 Nano серый
 
@@ -24030,10 +17582,6 @@ https://drone.kz/product/analogovaya-kamera-runcam-phoenix-2-nano-seryy/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6112345673741
-
 #### Тип:
 
 аналоговая камера
@@ -24050,25 +17598,9 @@ Phoenix 2 Nano серый
 
 PHOENIX2-NANO-SL
 
-#### Дополнительные изображения:
-
-225337 / 225338 / 225339
-
 #### Цвет:
 
 серый
-
-#### KaspiQtyAlmaty:
-
-5
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-24200
 
 #### Питание:
 
@@ -24094,14 +17626,6 @@ PHOENIX2-NANO-SL
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.runcam.com/
-
-#### К этому товару подходят:
-
-4К камера RunCam 2 / Аналоговая HD камера RunCam Split 3 Nano / Аналоговая камера RunCam Nano 4
-
 #### Размеры (Ш×В×Г), cm:
 
 1.4 х 1.4 х 2.2
@@ -24110,7 +17634,11 @@ https://www.runcam.com/
 
 5
 
----
+
+
+
+
+
 
 ## Футболка RunCam T-Shirt черная M
 
@@ -24128,10 +17656,6 @@ https://drone.kz/product/futbolka-runcam-t-shirt-chernaya-m/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-F013579
-
 #### Тип:
 
 футболка
@@ -24148,47 +17672,27 @@ T-Shirt черная M
 
 T-Shirt черная M
 
-#### Дополнительные изображения:
-
-225409
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-9
-
-#### KaspiQtyAstana:
-
-0
 
 #### Аксессуары в комплекте:
 
 Защитный корпус
 
-#### Цена со скидкой:
-
-24200
-
 #### Комплектация:
 
 Футболка RunCam T-Shirt черная M -1 шт
-
-#### Страница товара на сайте производителя:
-
-https://www.runcam.com/
-
-#### К этому товару подходят:
-
-FPV видео-очки SwellPro GL1 / Цифровые очки DJI FPV Goggles V2 / Аналоговая HD камера RunCam Hybrid 4k
 
 #### Вес товара, г:
 
 135
 
----
+
+
+
+
+
 
 ## Тактическая эмблема RunCam ScopeCam Tactical Emblem
 
@@ -24206,10 +17710,6 @@ https://drone.kz/product/takticheskaya-emblema-runcam-scopecam/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-BZ
-
 #### Тип:
 
 эмблема
@@ -24226,43 +17726,23 @@ ScopeCam Tactical Emblem
 
 BZ
 
-#### Дополнительные изображения:
-
-225513 / 225514 / 225515
-
 #### Цвет:
 
 оранжевый
-
-#### KaspiQtyAlmaty:
-
-30
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-4500
 
 #### Комплектация:
 
 Тактическая эмблема RunCam ScopeCam Tactical Emblem - 1 шт
 
-#### Страница товара на сайте производителя:
-
-https://www.runcam.com/
-
-#### К этому товару подходят:
-
-FPV видео-очки SwellPro GL1 / Цифровые очки DJI FPV Goggles V2 / Аналоговая HD камера RunCam Hybrid 4k
-
 #### Вес товара, г:
 
 8
 
----
+
+
+
+
+
 
 ## Кабель RunCam Flashback Cable for Scope Cam 2 4K
 
@@ -24280,10 +17760,6 @@ https://drone.kz/product/kabel-runcam-flashback-cable-for-scope-cam-2-4k/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-SC03-RECORD-CABLE
-
 #### Тип:
 
 кабель
@@ -24300,29 +17776,13 @@ runcam
 
 SC03-RECORD-CABLE
 
-#### Дополнительные изображения:
-
-225530 / 225531
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-30
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 RunCam Scope Cam 2 4K
-
-#### Цена со скидкой:
-
-13800
 
 #### Комплектация:
 
@@ -24332,19 +17792,15 @@ RunCam Scope Cam 2 4K
 
 1
 
-#### Страница товара на сайте производителя:
-
-https://www.runcam.com/
-
-#### К этому товару подходят:
-
-Комплект RunCam Link MIPI HD Kit / Цифровая система RunCam Link Phoenix HD Kit / Цифровая система RunCam Link Falcon Nano Kit
-
 #### Вес товара, г:
 
 15.6
 
----
+
+
+
+
+
 
 ## Коврик для мыши RunCam landing
 
@@ -24361,10 +17817,6 @@ https://www.runcam.com/
 https://drone.kz/product/posadochnaya-vzletnaya-ploshchadka-runcam-landing-takeoff-pad/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-RC-PAD
 
 #### Тип:
 
@@ -24386,37 +17838,13 @@ runcam
 
 RC-PAD
 
-#### Дополнительные изображения:
-
-225533 / 225534
-
 #### Цвет:
 
 оранжевый
 
-#### KaspiQtyAlmaty:
-
-8
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-12600
-
 #### Комплектация:
 
 Посадочная / взлетная площадка RunCam landing/takeoff pad -1 шт
-
-#### Страница товара на сайте производителя:
-
-https://www.runcam.com/
-
-#### К этому товару подходят:
-
-FPV видео-очки SwellPro GL1 / Цифровые очки DJI FPV Goggles V2 / Аналоговая HD камера RunCam Hybrid 4k
 
 #### Размеры (Ш×В×Г), cm:
 
@@ -24426,7 +17854,11 @@ FPV видео-очки SwellPro GL1 / Цифровые очки DJI FPV Goggles
 
 430
 
----
+
+
+
+
+
 
 ## Ремень RunCam Lipo Strap for RC Multirotor
 
@@ -24443,10 +17875,6 @@ FPV видео-очки SwellPro GL1 / Цифровые очки DJI FPV Goggles
 https://drone.kz/product/remen-runcam-lipo-strap-for-rc-multirotor/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6112345673451
 
 #### Тип:
 
@@ -24468,41 +17896,17 @@ Lipo Strap for RC Multirotor
 
 RC-VELCRO-OR
 
-#### Дополнительные изображения:
-
-225536
-
 #### Цвет:
 
 оранжевый
-
-#### KaspiQtyAlmaty:
-
-101
-
-#### KaspiQtyAstana:
-
-16
 
 #### Совместимость:
 
 RunCam RC Multirotor
 
-#### Цена со скидкой:
-
-2100
-
 #### Комплектация:
 
 Ремень RunCam Lipo Strap for RC Multirotor - 3 шт
-
-#### Страница товара на сайте производителя:
-
-https://www.runcam.com/
-
-#### К этому товару подходят:
-
-FPV видео-очки SwellPro GL1 / Цифровые очки DJI FPV Goggles V2 / Аналоговая HD камера RunCam Hybrid 4k
 
 #### Размеры (Ш×В×Г), cm:
 
@@ -24512,7 +17916,11 @@ FPV видео-очки SwellPro GL1 / Цифровые очки DJI FPV Goggles
 
 18.6
 
----
+
+
+
+
+
 
 ## Адаптер RunCam Base Adapter Weaver Picatinny Rail 
 
@@ -24529,10 +17937,6 @@ FPV видео-очки SwellPro GL1 / Цифровые очки DJI FPV Goggles
 https://drone.kz/product/adapter-runcam-base-adapter-weaver-picatinny-rail-/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-AS-MOUNT-20MM
 
 #### Тип:
 
@@ -24554,29 +17958,13 @@ runcam
 
 AS-MOUNT-20MM
 
-#### Дополнительные изображения:
-
-225538 / 225539
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-10
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 RunCam Scope Cam 2,RunCam Scope Cam 2 4k
-
-#### Цена со скидкой:
-
-9100
 
 #### Комплектация:
 
@@ -24586,19 +17974,15 @@ RunCam Scope Cam 2,RunCam Scope Cam 2 4k
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.runcam.com/
-
-#### К этому товару подходят:
-
-FPV видео-очки SwellPro GL1 / Цифровые очки DJI FPV Goggles V2 / Аналоговая HD камера RunCam Hybrid 4k
-
 #### Вес товара, г:
 
 75
 
----
+
+
+
+
+
 
 ## Рельсовый адаптер RunCam Rail Adapter
 
@@ -24615,10 +17999,6 @@ FPV видео-очки SwellPro GL1 / Цифровые очки DJI FPV Goggles
 https://drone.kz/product/relsovyy-adapter-runcam-rail-adapter/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-AS-MOUNT-02
 
 #### Тип:
 
@@ -24644,21 +18024,9 @@ AS-MOUNT-02
 
 черный
 
-#### KaspiQtyAlmaty:
-
-20
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 RunCam2 Airsoft Version
-
-#### Цена со скидкой:
-
-10300
 
 #### Комплектация:
 
@@ -24668,19 +18036,15 @@ RunCam2 Airsoft Version
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.runcam.com/
-
-#### К этому товару подходят:
-
-FPV видео-очки SwellPro GL1 / Цифровые очки DJI FPV Goggles V2 / Аналоговая HD камера RunCam Hybrid 4k
-
 #### Вес товара, г:
 
 34.03
 
----
+
+
+
+
+
 
 ## Аналоговая FPV камера RunCam ATOM-W
 
@@ -24697,10 +18061,6 @@ FPV видео-очки SwellPro GL1 / Цифровые очки DJI FPV Goggles
 https://drone.kz/product/analogovaya-fpv-kamera-runcam-atom-w/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6112345673857
 
 #### Тип:
 
@@ -24722,25 +18082,9 @@ ATOM-W
 
 ATOM-W
 
-#### Дополнительные изображения:
-
-225548 / 225549 / 225550 / 225551 / 225552
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-5
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-13800
 
 #### Питание:
 
@@ -24766,14 +18110,6 @@ ABS с медной гайкой M1.4 / Мин. Подсветка 0.01Lux@1.2F 
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.runcam.com/
-
-#### К этому товару подходят:
-
-4К камера RunCam 2 / Аналоговая HD камера RunCam Split 3 Nano / Аналоговая камера RunCam Nano 4
-
 #### Размеры (Ш×В×Г), cm:
 
 1.6 х 1 х 1
@@ -24782,7 +18118,11 @@ https://www.runcam.com/
 
 1.7
 
----
+
+
+
+
+
 
 ## Аналоговая камера RunCam Night Eagle 3
 
@@ -24800,10 +18140,6 @@ https://drone.kz/product/analogovaya-fpv-kamera-runcam-night-eagle-3/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-68915102402
-
 #### Тип:
 
 аналоговая камера
@@ -24820,10 +18156,6 @@ Night Eagle 3
 
 NIGHTEAGLE3
 
-#### Дополнительные изображения:
-
-225554 / 225555 / 225556 / 225557
-
 #### Кол-во мегапикселей:
 
 2 MP
@@ -24831,18 +18163,6 @@ NIGHTEAGLE3
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-5
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-55300
 
 #### Питание:
 
@@ -24868,14 +18188,6 @@ ABS / Чувствительность	11390 мВ/Люкс-сек / Встрое
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.runcam.com/
-
-#### К этому товару подходят:
-
-4К камера RunCam 2 / Аналоговая HD камера RunCam Split 3 Nano / Аналоговая камера RunCam Nano 4
-
 #### Размеры (Ш×В×Г), cm:
 
 1.9 х 1.9 х 2.5
@@ -24884,7 +18196,11 @@ https://www.runcam.com/
 
 8.5
 
----
+
+
+
+
+
 
 ## Аналоговая камера RunCam Racer Nano3 MCK
 
@@ -24901,10 +18217,6 @@ https://www.runcam.com/
 https://drone.kz/product/analogovaya-fpv-kamera-runcam-racer-nano3-mck/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6112345673734
 
 #### Тип:
 
@@ -24926,25 +18238,9 @@ ABS
 
 RACERNANO3-L18-MCK
 
-#### Дополнительные изображения:
-
-225559 / 225560 / 225561
-
 #### Цвет:
 
 серый
-
-#### KaspiQtyAlmaty:
-
-5
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-25300
 
 #### Питание:
 
@@ -24970,14 +18266,6 @@ Super WDR CMOS
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.runcam.com/
-
-#### К этому товару подходят:
-
-4К камера RunCam 2 / Аналоговая HD камера RunCam Split 3 Nano / Аналоговая камера RunCam Nano 4
-
 #### Размеры (Ш×В×Г), cm:
 
 1.4 х 1.4 х 1.6
@@ -24986,7 +18274,11 @@ https://www.runcam.com/
 
 3.5
 
----
+
+
+
+
+
 
 ## Камера для страйкбола RunCam Scopecam Plus
 
@@ -25003,10 +18295,6 @@ https://www.runcam.com/
 https://drone.kz/product/kamera-dlya-straykbola-runcam-scopecam-plus/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6112345673956
 
 #### Тип:
 
@@ -25032,10 +18320,6 @@ Scopecam Plus
 
 SCOPECAM-PLUS
 
-#### Дополнительные изображения:
-
-225587 / 225588 / 225589 / 225590
-
 #### Время работы, h:
 
 5
@@ -25043,18 +18327,6 @@ SCOPECAM-PLUS
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-6
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-180100
 
 #### Макс. разрешение видеосъемки:
 
@@ -25096,14 +18368,6 @@ SCOPECAM-PLUS
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.runcam.com/
-
-#### К этому товару подходят:
-
-Аккумулятор RunCam Removable battery / Закаленное стекло RunCam Tempered glass replacements / Карта памяти Kingston Canvas Go! Plus microSD 256GB / Карта памяти SanDisk Extreme microSD 128 GB / Кабель RunCam Replacement Ribbon Cable
-
 #### Размеры (Ш×В×Г), cm:
 
 13 х 4.8 х 4.3
@@ -25116,7 +18380,11 @@ https://www.runcam.com/
 
 128 ГБ
 
----
+
+
+
+
+
 
 ## Камера RunCam Scope Cam 2 4K 25 мм
 
@@ -25133,10 +18401,6 @@ https://www.runcam.com/
 https://drone.kz/product/kamera-runcam-scope-cam-2-4k-25-mm/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6112345678982
 
 #### Тип:
 
@@ -25170,10 +18434,6 @@ SCOPECAM2-4K-L25-RC
 
 2.4
 
-#### Дополнительные изображения:
-
-225595
-
 #### Разрешение видео:
 
 4K@30fps/2.7K@60fps/1080P@120fps/1080P@100fps/1080P@60fps/1080P@50fps
@@ -25189,18 +18449,6 @@ SCOPECAM2-4K-L25-RC
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-4
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-130400
 
 #### Макс. разрешение видеосъемки:
 
@@ -25238,14 +18486,6 @@ SCOPECAM2-4K-L25-RC
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.runcam.com/
-
-#### К этому товару подходят:
-
-Аккумулятор RunCam Removable battery / Карта памяти SanDisk Extreme PRO microSDXC 256GB / Кабель RunCam Flashback Cable for Scope Cam 2 4K
-
 #### Размеры (Ш×В×Г), cm:
 
 9.3 х 3.2 х 3.6
@@ -25266,7 +18506,11 @@ microSD
 
 USB Type-C
 
----
+
+
+
+
+
 
 ## Камера RunCam Scope Cam 2 40 мм
 
@@ -25316,10 +18560,6 @@ SCOPECAM2-L40
 
 2.4
 
-#### Дополнительные изображения:
-
-225597 / 225598 / 225599
-
 #### Разрешение видео:
 
 1080P при 60 кадрах в секунду/1080P при 50 кадрах в секунду/720P при 90 кадрах в секунду / Формат видео MP4 (H.264)
@@ -25335,18 +18575,6 @@ SCOPECAM2-L40
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-96900
 
 #### Макс. разрешение видеосъемки:
 
@@ -25384,14 +18612,6 @@ HD (1280×720)
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.runcam.com/
-
-#### К этому товару подходят:
-
-Аккумулятор RunCam Removable battery / Карта памяти microSD Silicon Power 64 GB (class 10) / Кабель RunCam Replacement Ribbon Cable
-
 #### Размеры (Ш×В×Г), cm:
 
 11.2 х 3.2 х 3.6
@@ -25412,7 +18632,11 @@ microSD
 
 USB Type-C
 
----
+
+
+
+
+
 
 ## Камера RunCam Scope Cam 2 25 мм
 
@@ -25462,10 +18686,6 @@ SCOPECAM2-L25
 
 2.4
 
-#### Дополнительные изображения:
-
-225601
-
 #### Разрешение видео:
 
 1080P при 60 кадрах в секунду/1080P при 50 кадрах в секунду/720P при 90 кадрах в секунду / Формат видео MP4 (H.264)
@@ -25481,18 +18701,6 @@ SCOPECAM2-L25
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-4
-
-#### KaspiQtyAstana:
-
-1
-
-#### Цена со скидкой:
-
-96900
 
 #### Макс. разрешение видеосъемки:
 
@@ -25530,14 +18738,6 @@ HD (1280×720)
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.runcam.com/
-
-#### К этому товару подходят:
-
-Карта памяти Insta360 64GB / Аккумулятор RunCam Removable battery / Закаленное стекло RunCam Tempered glass replacements
-
 #### Размеры (Ш×В×Г), cm:
 
 9.3 х 3.2 х 3.6
@@ -25558,7 +18758,11 @@ microSD
 
 USB Type-C
 
----
+
+
+
+
+
 
 ## Рюкзак+сумка PGYTECH OneMo 2 25l (Черный)
 
@@ -25575,10 +18779,6 @@ USB Type-C
 https://drone.kz/product/ryukzak-sumka-pgytech-onemo-2-25l-chernyy/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970801339101
 
 #### Тип:
 
@@ -25600,33 +18800,13 @@ POLY+PU
 
 25
 
-#### Код видео YouTube:
-
-s6dSvu8WWbQ
-
 #### Артикул:
 
 P-CB-110
 
-#### Дополнительные изображения:
-
-225609 / 225610 / 225611 / 225612 / 225613 / 225614 / 225615 / 225616 / 225617 / 225618 / 225619 / 225620 / 225621 / 225622 / 225623 / 225624 / 225625
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-7
-
-#### KaspiQtyAstana:
-
-3
-
-#### Цена со скидкой:
-
-115400
 
 #### Дополнительные возможности:
 
@@ -25640,14 +18820,6 @@ P-CB-110
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.pgytech.com
-
-#### К этому товару подходят:
-
-Зажим Pgytech Beetle Camera Clip
-
 #### Размер упаковки (Ш×В×Г), cm:
 
 50.8 х 37.0 х 30.2
@@ -25656,7 +18828,11 @@ https://www.pgytech.com
 
 0
 
----
+
+
+
+
+
 
 ## Органайзер PGYTECH Mini Tech Pouch (Twilight Black)
 
@@ -25674,10 +18850,6 @@ https://drone.kz/product/organayzer-pgytech-mini-tech-pouch-twilight-black/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970801339170
-
 #### Тип:
 
 органайзер
@@ -25694,33 +18866,13 @@ Mini Tech Pouch
 
 2
 
-#### Код видео YouTube:
-
-_ZNLqk6aOPo
-
 #### Артикул:
 
 P-CB-093
 
-#### Дополнительные изображения:
-
-225648 / 225649 / 225650 / 225651
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-4
-
-#### KaspiQtyAstana:
-
-3
-
-#### Цена со скидкой:
-
-18400
 
 #### Комплектация:
 
@@ -25730,10 +18882,6 @@ P-CB-093
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.pgytech.com
-
 #### Размеры (Ш×В×Г), cm:
 
 19.0 х 13.0 х 8.5
@@ -25742,7 +18890,11 @@ https://www.pgytech.com
 
 20.8 х 14.7 х 9.8
 
----
+
+
+
+
+
 
 ## Рюкзак+сумка PGYTECH OneMo 2 35l
 
@@ -25760,10 +18912,6 @@ https://drone.kz/product/ryukzak-sumka-pgytech-onemo-2-35l/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970801339125
-
 #### Тип:
 
 рюкзак
@@ -25780,33 +18928,13 @@ Onemo 2 35l
 
 35
 
-#### Код видео YouTube:
-
-s6dSvu8WWbQ
-
 #### Артикул:
 
 P-CB-112
 
-#### Дополнительные изображения:
-
-225700 / 225701 / 225702 / 225703 / 225704 / 225705 / 225706 / 225707 / 225708 / 225709 / 225710 / 225711 / 225712 / 225713 / 225714 / 225715
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-0
-
-#### KaspiQtyAstana:
-
-1
-
-#### Цена со скидкой:
-
-120000
 
 #### Дополнительные возможности:
 
@@ -25820,19 +18948,15 @@ P-CB-112
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.pgytech.com
-
-#### К этому товару подходят:
-
-Зажим Pgytech Beetle Camera Clip
-
 #### Размер упаковки (Ш×В×Г), cm:
 
 59.0 х 38.2 х 32.5
 
----
+
+
+
+
+
 
 ## Рюкзак PGYTECH OneGo Air 25l
 
@@ -25850,10 +18974,6 @@ https://drone.kz/product/ryukzak-pgytech-onego-air-25l/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970801338852
-
 #### Тип:
 
 рюкзак
@@ -25870,17 +18990,9 @@ Onego Air 25l
 
 25
 
-#### Код видео YouTube:
-
-4WtBBpsv1BU
-
 #### Артикул:
 
 P-CB-063
-
-#### Дополнительные изображения:
-
-225717 / 225718 / 225719 / 225720 / 225721 / 225722 / 225723
 
 #### Цвет:
 
@@ -25889,18 +19001,6 @@ P-CB-063
 #### Макс. несущая способность, kg:
 
 12
-
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-1
-
-#### Цена со скидкой:
-
-95800
 
 #### Дополнительные возможности:
 
@@ -25914,19 +19014,15 @@ P-CB-063
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.pgytech.com
-
-#### К этому товару подходят:
-
-Зажим Pgytech Beetle Camera Clip
-
 #### Размеры (Ш×В×Г), cm:
 
 47.0 х 38.0 х 20.0
 
----
+
+
+
+
+
 
 ## Держатель телефона PGYTECH Cold Shoe
 
@@ -25944,10 +19040,6 @@ https://drone.kz/product/derzhatel-telefona-pgytech-cold-shoe/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970801339255
-
 #### Тип:
 
 держатель для телефона
@@ -25964,25 +19056,9 @@ Cold Shoe Phone Holder
 
 P-CG-140
 
-#### Дополнительные изображения:
-
-225725 / 225726 / 225727 / 225728 / 225729 / 225730 / 225731 / 225732
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-2
-
-#### Цена со скидкой:
-
-5500
 
 #### Класс дрона:
 
@@ -26008,14 +19084,6 @@ P-CG-140
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.pgytech.com/
-
-#### К этому товару подходят:
-
-Держатель смартфона PGYTECH / Штатив PGYTECH Mantispod 2.0 W/O RC / Штатив PGYTECH Mantispod 2.0 W/O Head
-
 #### Размеры (Ш×В×Г), cm:
 
 11.6 х 3.2 х 4.2
@@ -26024,7 +19092,11 @@ https://www.pgytech.com/
 
 14.0 х 5.4 х 4.7
 
----
+
+
+
+
+
 
 ## Штатив телескопический с держателем смартфона PGYTECH Cold Shoe
 
@@ -26042,10 +19114,6 @@ https://drone.kz/product/shtativ-teleskopicheskiy-s-derzhatelem-smartfona-pgytec
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970801339279
-
 #### Тип:
 
 держатель для телефона / штатив
@@ -26062,10 +19130,6 @@ Cold Shoe Phone Holder & Extension Pole Tripod & Phone Extension Pole Tripod Set
 
 P-GM-219
 
-#### Дополнительные изображения:
-
-225734 / 225735 / 225736 / 225737 / 225738 / 225739 / 225740 / 225741 / 225742 / 225743 / 225744 / 225745 / 225746 / 225747 / 225748 / 225749 / 225750
-
 #### Цвет:
 
 черный
@@ -26073,18 +19137,6 @@ P-GM-219
 #### Макс. несущая способность, kg:
 
 1
-
-#### KaspiQtyAlmaty:
-
-21
-
-#### KaspiQtyAstana:
-
-6
-
-#### Цена со скидкой:
-
-13800
 
 #### Класс дрона:
 
@@ -26110,15 +19162,15 @@ P-GM-219
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.pgytech.com/
-
 #### Размеры (Ш×В×Г), cm:
 
 17 х 3
 
----
+
+
+
+
+
 
 ## ND-фильтры 8/16/32/64 Pro PGYTECH | Osmo Action 3
 
@@ -26135,10 +19187,6 @@ ND-фильтры 8/16/32/64 Pro PGYTECH | Osmo Action 3 предназначе�
 https://drone.kz/product/nd-filtry-8-16-32-64-pro-pgytech-osmo-action-3/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970801339057
 
 #### Тип:
 
@@ -26160,22 +19208,6 @@ ND Set（ND 8 16 32 64) (Professional)
 
 P-32C-012
 
-#### Дополнительные изображения:
-
-225815 / 225816 / 225817
-
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-1
-
-#### Цена со скидкой:
-
-25300
-
 #### Дополнительные возможности:
 
 В фильтре используется профессиональное оптическое стекло SCHOTT, которое несколько раз подвергалось шлифовке и полировке для получения изображения высокой четкости / Двустороннее многослойное покрытие / Высокая светопроницаемость без потери резкости изображения / Эргономичный дизайн предотвращает повреждения и отпечатки пальцев / Чрезвычайно легкий, но прочный, не влияет на калибровку и производительность дрона
@@ -26188,19 +19220,15 @@ ND-фильтры 8/16/32/64 Pro PGYTECH | Osmo Action 3: / Фильтр ND8 x 1
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.pgytech.com
-
-#### К этому товару подходят:
-
-Экшн-камера DJI Osmo Action 3
-
 #### Размеры (Ш×В×Г), cm:
 
 Один 3.4 х 3.4 х 0.6
 
----
+
+
+
+
+
 
 ## ND/PL-фильтры 8/16/32/64 Pro PGYTECH | Osmo Action 3
 
@@ -26217,10 +19245,6 @@ ND/PL-фильтры 8/16/32/64 Pro PGYTECH | Osmo Action 3 специально
 https://drone.kz/product/nd-pl-filtry-8-16-32-64-pro-pgytech-osmo-action-3/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970801339064
 
 #### Тип:
 
@@ -26242,22 +19266,6 @@ ND-PL Set（NDPL 8 16 32 64) (Professional)
 
 P-32C-013
 
-#### Дополнительные изображения:
-
-225819 / 225820 / 225821
-
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-31100
-
 #### Класс дрона:
 
 любительский / профессиональный
@@ -26274,19 +19282,15 @@ ND/PL-фильтры 8/16/32/64 Pro PGYTECH | Osmo Action 3: / Фильтр ND-P
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.pgytech.com
-
-#### К этому товару подходят:
-
-Экшн-камера DJI Osmo Action 3
-
 #### Размеры (Ш×В×Г), cm:
 
 Один 3.7 х 3.7 х 0.6
 
----
+
+
+
+
+
 
 ## Защита пропеллеров PGYTECH | Mavic 3 Classic
 
@@ -26304,10 +19308,6 @@ https://drone.kz/product/zashchita-propellerov-pgytech-mavic-3-classic/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970801339385
-
 #### Тип:
 
 защита пропеллеров
@@ -26324,29 +19324,13 @@ MAVIC 3 CLASSIC PROPELLER GUARD
 
 P-39A-020
 
-#### Дополнительные изображения:
-
-225836 / 225837 / 225838 / 225839 / 225840
-
 #### Цвет:
 
 серый
 
-#### KaspiQtyAlmaty:
-
-6
-
-#### KaspiQtyAstana:
-
-5
-
 #### Совместимость:
 
 Mavic 3, Mavic 3 Cine
-
-#### Цена со скидкой:
-
-13800
 
 #### Комплектация:
 
@@ -26356,19 +19340,15 @@ Mavic 3, Mavic 3 Cine
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.dji.com/
-
-#### К этому товару подходят:
-
-Квадрокоптер DJI Mavic 3 / Пропеллеры DJI Mavic 3 Low-Noise 
-
 #### Размеры (Ш×В×Г), cm:
 
 После установки 64.0 х 55.5 х 10.0
 
----
+
+
+
+
+
 
 ## Трипод+держатель Manfrotto PIXI Smart
 
@@ -26386,10 +19366,6 @@ https://drone.kz/product/tripod-derzhatel-manfrotto-pixi-smart/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-8024221651164
-
 #### Тип:
 
 трипод
@@ -26406,17 +19382,9 @@ Manfrotto PIXI Mini Tripod Kit with Smartphone Clamp, Black
 
 Алюминий, Технополимер
 
-#### Код видео YouTube:
-
-tNO7vX6l7sY
-
 #### Артикул:
 
 MKPIXICLAMP-BK
-
-#### Дополнительные изображения:
-
-225884 / 225885 / 225886 / 225887 / 225888 / 225889 / 225890 / 225891 / 225892 / 225893
 
 #### Цвет:
 
@@ -26425,18 +19393,6 @@ MKPIXICLAMP-BK
 #### Макс. несущая способность, kg:
 
 1
-
-#### KaspiQtyAlmaty:
-
-0
-
-#### KaspiQtyAstana:
-
-4
-
-#### Цена со скидкой:
-
-13800
 
 #### Порты и интерфейсы:
 
@@ -26458,15 +19414,15 @@ MKPIXICLAMP-BK
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.manfrotto.com/ru-ru/pixi-mini-tripod-black-mtpixi-b/
-
 #### Размеры (Ш×В×Г), cm:
 
 13.5
 
----
+
+
+
+
+
 
 ## Внешний SSD-диск SanDisk Extreme Pro 4TB 2000MB/s
 
@@ -26484,10 +19440,6 @@ https://drone.kz/product/vneshniy-ssd-disk-sandisk-extreme-pro-4tb-2000mb-s/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-619659184735
-
 #### Тип:
 
 SSD диск
@@ -26504,29 +19456,9 @@ SanDisk Extreme Pro 4TB Portable NVMe SSD, USB-C, up to 2000MB/s, Ruggedised and
 
 Ударопрочный полимер, Алюминий, IP55
 
-#### Код видео YouTube:
-
-yyFtUefPzuw
-
 #### Артикул:
 
 SDSSDE81-4T00-G25
-
-#### Дополнительные изображения:
-
-225895 / 225896 / 225897 / 225898 / 225899 / 225900 / 225901 / 225902 / 225903
-
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-2
-
-#### Цена со скидкой:
-
-518500
 
 #### Порты и интерфейсы:
 
@@ -26552,27 +19484,19 @@ USB Type-C
 
 Внешний SSD-диск SanDisk Extreme Pro 4TB 2000MB/s / Кабель USB-C/USB-A x 1 / Кабель USB-C/USB-C x 1 / Руководство
 
-#### Сертификаты:
-
-CE,FCC,RCM, BSMI, EAC, UKCA, ICES, BIS
-
 #### Срок гарантии производителя, m:
 
 12
-
-#### Спецификация:
-
-https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/sandisk/product/portable-drives/extreme-pro-usb-3-2-ssd/data-sheet-sandisk-extreme-pro-usb-3-2-ssd.pdf
-
-#### Страница товара на сайте производителя:
-
-https://www.westerndigital.com/ru-ru/products/portable-drives/sandisk-extreme-pro-usb-3-2-ssd#SDSSDE81-4T00-G25
 
 #### Размеры (Ш×В×Г), cm:
 
 10.9 x 5.8 x 1.0
 
----
+
+
+
+
+
 
 ## Аккумулятор Autel Robotics Battery for Smart Controller SE
 
@@ -26589,10 +19513,6 @@ https://www.westerndigital.com/ru-ru/products/portable-drives/sandisk-extreme-pr
 https://drone.kz/product/akkumulyator-autel-robotics-battery-for-smart-controller-se/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6924991106029
 
 #### Тип:
 
@@ -26614,25 +19534,9 @@ Battery for Smart Controller SE
 
 PT803254-2S
 
-#### Дополнительные изображения:
-
-225913
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-17
-
-#### KaspiQtyAstana:
-
-4
-
-#### Цена со скидкой:
-
-68000
 
 #### Входное напряжение (макс), V:
 
@@ -26650,19 +19554,15 @@ PT803254-2S
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.autelrobotics.com
-
-#### К этому товару подходят:
-
-Квадрокоптер DJI Mini 2 / Квадрокоптер DJI Mini 2 Fly More Combo / Кейс PGYTECH для DJI Mavic Mini/Mini 2
-
 #### Вес товара, г:
 
 200
 
----
+
+
+
+
+
 
 ## Монопод+трипод PGYTECH Extension Pole Tripod
 
@@ -26680,10 +19580,6 @@ https://drone.kz/product/monopod-tripod-pgytech-extension-pole-tripod/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970801339262
-
 #### Тип:
 
 монопод / трипод
@@ -26700,10 +19596,6 @@ Extension Pole Tripod
 
 P-GM-217
 
-#### Дополнительные изображения:
-
-225949 / 225950 / 225951 / 225952
-
 #### Цвет:
 
 черный
@@ -26711,18 +19603,6 @@ P-GM-217
 #### Макс. несущая способность, kg:
 
 1
-
-#### KaspiQtyAlmaty:
-
-8
-
-#### KaspiQtyAstana:
-
-4
-
-#### Цена со скидкой:
-
-12600
 
 #### Класс дрона:
 
@@ -26748,19 +19628,15 @@ P-GM-217
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.pgytech.com/
-
-#### К этому товару подходят:
-
-Держатель телефона PGYTECH Cold Shoe
-
 #### Размеры (Ш×В×Г), cm:
 
 17 х 3
 
----
+
+
+
+
+
 
 ## Рюкзак PGYTECH | Ronin 4D
 
@@ -26778,10 +19654,6 @@ https://drone.kz/product/ryukzak-pgytech-ronin-4d/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970801339835
-
 #### Тип:
 
 рюкзак
@@ -26798,37 +19670,17 @@ PGYTECH | Ronin 4D
 
 POLY+PU
 
-#### Код видео YouTube:
-
-226OBESn2gE
-
 #### Артикул:
 
 P-CB-245
-
-#### Дополнительные изображения:
-
-225954 / 225955 / 225956 / 225957 / 225958 / 225959 / 225960 / 225961 / 225962 / 225963
 
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 Ronin 4D
-
-#### Цена со скидкой:
-
-192800
 
 #### Рабочая температура, °C:
 
@@ -26846,15 +19698,11 @@ Ronin 4D
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.pgytech.com
 
-#### К этому товару подходят:
 
-DJI Ronin 4D
 
----
+
 
 ## Громкоговоритель Autel Robotics EVO II Loudspeaker for EVO II Dual/ Pro Drones
 
@@ -26872,10 +19720,6 @@ https://drone.kz/product/gromkogovoritel-autel-robotics-evo-ii-loudspeaker-for-e
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6924991102304
-
 #### Тип:
 
 громкоговоритель
@@ -26892,29 +19736,13 @@ EVO II Loudspeaker
 
 EVO II Loudspeaker
 
-#### Дополнительные изображения:
-
-225976 / 225977
-
 #### Цвет:
 
 оранжевый
 
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-1
-
 #### Совместимость:
 
 EVO II Dual/ Pro Drones
-
-#### Цена со скидкой:
-
-56500
 
 #### Коэффициент усиления UPLINK, dB:
 
@@ -26928,14 +19756,6 @@ EVO II Dual/ Pro Drones
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.autelrobotics.com/
-
-#### К этому товару подходят:
-
-Квадрокоптер Autel Robotics EVO II Pro / Квадрокоптер Autel Robotics EVO II Dual 640T / Стробоскоп Autel Robotics EVO II Enterprise Strobe
-
 #### Размеры (Ш×В×Г), cm:
 
 20 × 10 × 5
@@ -26944,7 +19764,11 @@ https://www.autelrobotics.com/
 
 100
 
----
+
+
+
+
+
 
 ## Прожектор Autel Robotics EVO II Spotlight for EVO II Pro/ Dual RTK & Enterprise Series
 
@@ -26962,10 +19786,6 @@ https://drone.kz/product/prozhektor-autel-robotics-evo-ii-spotlight-for-evo-ii-p
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6924991102328
-
 #### Тип:
 
 прожектор
@@ -26982,29 +19802,13 @@ EVO II Spotlight
 
 EVO II Spotlight
 
-#### Дополнительные изображения:
-
-225979 / 225980
-
 #### Цвет:
 
 оранжевый
 
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 EVO II Pro/ Dual RTK & Enterprise Series
-
-#### Цена со скидкой:
-
-68000
 
 #### Комплектация:
 
@@ -27014,14 +19818,6 @@ EVO II Pro/ Dual RTK & Enterprise Series
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.autelrobotics.com/
-
-#### К этому товару подходят:
-
-Квадрокоптер Autel Robotics EVO II Pro / Квадрокоптер Autel Robotics EVO II Dual 640T / Квадрокоптер Autel Robotics EVO II Dual 640T (V3) / Квадрокоптер Autel Robotics EVO II Dual 640T Enterprise / Громкоговоритель Autel Robotics EVO II Loudspeaker for EVO II Dual/ Pro Drones
-
 #### Размеры (Ш×В×Г), cm:
 
 20 × 10 × 5
@@ -27030,7 +19826,11 @@ https://www.autelrobotics.com/
 
 100
 
----
+
+
+
+
+
 
 ## Квадрокоптер Autel Robotics EVO II Dual 640T Rugged Bundle V2
 
@@ -27047,10 +19847,6 @@ https://www.autelrobotics.com/
 https://drone.kz/product/kvadrokopter-autel-robotics-evo-ii-dual-640t-rugged-bundle-v2/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6924991102083
 
 #### Тип:
 
@@ -27080,17 +19876,9 @@ EVO II Dual 640T Rugged Bundle V2
 
 11.55
 
-#### Код видео YouTube:
-
-Fd2MIh4lfp0
-
 #### Артикул:
 
 EVO II Dual 640T Rugged Bundle V2
-
-#### Дополнительные изображения:
-
-225988 / 225989 / 225990 / 225991 / 225992
 
 #### Разрешение видео:
 
@@ -27116,14 +19904,6 @@ EVO II Dual 640T Rugged Bundle V2
 
 72
 
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-0
-
 #### Навигация:
 
 GPS/GLONASS/VIO/ATTI
@@ -27131,10 +19911,6 @@ GPS/GLONASS/VIO/ATTI
 #### Датчики:
 
  Всенаправленная бинокулярная система обнаружения препятствий
-
-#### Цена со скидкой:
-
-2599900
 
 #### Возможности подключения:
 
@@ -27200,23 +19976,15 @@ Vertical: ± 0.02 m (when vision positioning is active) ± 0.2 m (with GPS posit
 
 12
 
-#### Руководство пользователя:
-
-https://www.autelrobotics.com/wp-content/themes/autel/userfiles/files/2021/10/26/EVO%20II%20User%20Manual.pdf
-
-#### Страница товара на сайте производителя:
-
-https://www.autelrobotics.com/productdetail/evo-ii-drones/
-
-#### К этому товару подходят:
-
-Аккумулятор Autel Robotics EVO II / Набор Autel Fly More Bundle for EVO II / Дополнительный комплект Autel Robotics для EVO II / Пульт управления Autel Robotics EVO II / Зарядный хаб Autel Robotics EVO II / Пропеллеры Autel Robotics EVO II / Зарядное устройство Autel Robotics EVO II / Громкоговоритель Autel Robotics EVO II Loudspeaker for EVO II Dual/ Pro Drones / Прожектор Autel Robotics EVO II Spotlight for EVO II Pro/ Dual RTK & Enterprise Series / Защита подвеса Autel Robotics для EVO II / Защита подвеса Autel Robotics для EVO II Pro / Стробоскоп Autel Robotics EVO II Enterprise Strobe / Модуль Autel Robotics EVO II Enterprise RTK Module / Смарт-контроллер Autel Robotics Smart Controller V3 / Карта памяти MicroSD ExAscend Catalyst SDXC I 512GB + SD adapter / Карта памяти MicroSD ExAscend Catalyst SDXC I 256GB + SD adapter
-
 #### Размеры (Ш×В×Г), cm:
 
 22.8 x 13.3 x 11.0
 
----
+
+
+
+
+
 
 ## Монопод Insta360 Selfie Stick 3m
 
@@ -27233,10 +20001,6 @@ https://www.autelrobotics.com/productdetail/evo-ii-drones/
 https://drone.kz/product/monopod-insta360-selfie-stick-3m/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970357850372
 
 #### Тип:
 
@@ -27262,29 +20026,13 @@ Selfie Stick 3m
 
 3
 
-#### Дополнительные изображения:
-
-226144 / 226145
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-53
-
-#### KaspiQtyAstana:
-
-1
-
 #### Совместимость:
 
 Insta360 X3, One RS (исключая 1-inch 360), One X2, One R, One X, EVO, One.
-
-#### Цена со скидкой:
-
-31400
 
 #### Порты и интерфейсы:
 
@@ -27298,10 +20046,6 @@ Insta360 X3, One RS (исключая 1-inch 360), One X2, One R, One X, EVO, On
 
 12
 
-#### К этому товару подходят:
-
-Панорамная экшн-камера Insta360 ONE X2 Standalone / Модульная экшн-камера Insta360 ONE RS 4K / Модульная экшн-камера Insta360 ONE R 1-Inch Edition
-
 #### Размеры (Ш×В×Г), cm:
 
 58-300 x 2.5 x 2.5
@@ -27310,7 +20054,11 @@ Insta360 X3, One RS (исключая 1-inch 360), One X2, One R, One X, EVO, On
 
 227
 
----
+
+
+
+
+
 
 ## Рюкзак Autel Robotics EVO Max Series Backpack
 
@@ -27327,10 +20075,6 @@ Insta360 X3, One RS (исключая 1-inch 360), One X2, One R, One X, EVO, On
 https://drone.kz/product/ryukzak-autel-robotics-evo-max-series-backpack/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6924991122289
 
 #### Тип:
 
@@ -27352,21 +20096,9 @@ EVO Max Series Backpack
 
 серый
 
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-1
-
 #### Совместимость:
 
 Дрон Autel Robotics EVO MAX 4T 
-
-#### Цена со скидкой:
-
-220900
 
 #### Комплектация:
 
@@ -27376,19 +20108,15 @@ EVO Max Series Backpack
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.autelrobotics.com/
-
-#### К этому товару подходят:
-
-Квадрокоптер Autel Robotics EVO Max 4T / Квадрокоптер Autel Robotics EVO II Rugged Bundle / Квадрокоптер Autel Robotics EVO II / Пропеллер Autel Robotics Propellers for EVO Max / Зарядное устройство для аккумулятора Autel Robotics Battery Charger with Cable for EVO Max Series 
-
 #### Вес товара, г:
 
 500
 
----
+
+
+
+
+
 
 ## Пропеллер Autel Robotics Propellers for EVO Max
 
@@ -27405,10 +20133,6 @@ https://www.autelrobotics.com/
 https://drone.kz/product/propeller-autel-robotics-propellers-for-evo-max/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6924991122296
 
 #### Тип:
 
@@ -27434,21 +20158,9 @@ Propellers for EVO Max
 
 черный
 
-#### KaspiQtyAlmaty:
-
-12
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 Дрон Autel Robotics EVO MAX 4T 
-
-#### Цена со скидкой:
-
-12600
 
 #### Комплектация:
 
@@ -27458,19 +20170,15 @@ Propellers for EVO Max
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.autelrobotics.com/
-
-#### К этому товару подходят:
-
-Квадрокоптер Autel Robotics EVO Max 4T / Квадрокоптер Autel Robotics EVO II Rugged Bundle / Квадрокоптер Autel Robotics EVO II / Рюкзак Autel Robotics EVO Max Series Backpack / Кейс Autel Robotics EVO Max Hard Rugged Case
-
 #### Вес товара, г:
 
 300
 
----
+
+
+
+
+
 
 ## Зарядное устройство для аккумулятора Autel Robotics Battery Charger with Cable for EVO Max Series 
 
@@ -27487,10 +20195,6 @@ https://www.autelrobotics.com/
 https://drone.kz/product/zaryadnoe-ustroystvo-dlya-akkumulyatora-autel-robotics-battery-charger-with-cable-for-evo-max-series/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6924991122500
 
 #### Тип:
 
@@ -27516,29 +20220,13 @@ Battery Charger with Cable for EVO Max Series
 
 Battery Charger with Cable for EVO Max Series 
 
-#### Дополнительные изображения:
-
-226167
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 Дрон Autel Robotics EVO MAX 4T 
-
-#### Цена со скидкой:
-
-66000
 
 #### Порты и интерфейсы:
 
@@ -27552,19 +20240,15 @@ Battery Charger with Cable for EVO Max Series
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.autelrobotics.com/
-
-#### К этому товару подходят:
-
-Квадрокоптер Autel Robotics EVO Max 4T / Квадрокоптер Autel Robotics EVO II Rugged Bundle / Квадрокоптер Autel Robotics EVO II / Интеллектуальная летная батарея Autel Robotics EVO Max Series Battery  / Рюкзак Autel Robotics EVO Max Series Backpack
-
 #### Вес товара, г:
 
 300
 
----
+
+
+
+
+
 
 ## Крышка подвеса Autel Robotics Gimbal Cover for EVO MAX 4T
 
@@ -27581,10 +20265,6 @@ https://www.autelrobotics.com/
 https://drone.kz/product/kryshka-podvesa-autel-robotics-gimbal-cover-for-evo-max-4t/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6924991122319
 
 #### Тип:
 
@@ -27606,21 +20286,9 @@ Gimbal Cover for EVO MAX 4T
 
 Gimbal Cover for EVO MAX 4T
 
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 Дрон Autel Robotics EVO MAX 4T 
-
-#### Цена со скидкой:
-
-10300
 
 #### Комплектация:
 
@@ -27630,19 +20298,15 @@ Gimbal Cover for EVO MAX 4T
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.autelrobotics.com/
-
-#### К этому товару подходят:
-
-Квадрокоптер Autel Robotics EVO Max 4T / Квадрокоптер Autel Robotics EVO II Rugged Bundle / Квадрокоптер Autel Robotics EVO II / Рюкзак Autel Robotics EVO Max Series Backpack / Пропеллер Autel Robotics Propellers for EVO Max
-
 #### Вес товара, г:
 
 50
 
----
+
+
+
+
+
 
 ## Кейс Autel Robotics EVO Max Hard Rugged Case
 
@@ -27659,10 +20323,6 @@ https://www.autelrobotics.com/
 https://drone.kz/product/keys-autel-robotics-evo-max-hard-rugged-case/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6924991122326
 
 #### Тип:
 
@@ -27684,21 +20344,9 @@ EVO Max Hard Rugged Case
 
 EVO Max Hard Rugged Case
 
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 Дрон Autel Robotics EVO MAX 4T 
-
-#### Цена со скидкой:
-
-227400
 
 #### Комплектация:
 
@@ -27708,19 +20356,15 @@ EVO Max Hard Rugged Case
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.autelrobotics.com/
-
-#### К этому товару подходят:
-
-Квадрокоптер Autel Robotics EVO Max 4T / Квадрокоптер Autel Robotics EVO II Rugged Bundle / Квадрокоптер Autel Robotics EVO II / Крышка подвеса Autel Robotics Gimbal Cover for EVO MAX 4T / Рюкзак Autel Robotics EVO Max Series Backpack
-
 #### Вес товара, г:
 
 1000
 
----
+
+
+
+
+
 
 ## Квадрокоптер iFlight Taurus X8 Pro 8S HD Cinelifter (TBS Crossfire Diversity NANO RX)
 
@@ -27738,10 +20382,6 @@ https://drone.kz/product/kvadrokopter-iflight-taurus-x8-pro-8s-hd-cinelifter-tbs
 
 ### Характеристики:
 
-#### Штрихкод:
-
-F013973
-
 #### Тип:
 
 квадрокоптер
@@ -27754,10 +20394,6 @@ iflight
 
 Taurus X8 Pro 8S HD Cinelifter (TBS Crossfire Diversity NANO RX ) 
 
-#### Код видео YouTube:
-
-YsJkJc8Z6bU
-
 #### Артикул:
 
 F012119
@@ -27765,10 +20401,6 @@ F012119
 #### Размер встроенной памяти, GB:
 
 0.5
-
-#### Дополнительные изображения:
-
-226445 / 226446 / 226447 / 226448 / 226449 / 226450 / 226451 / 226452 / 226453 / 226454 / 226455 / 226456 / 226457 / 226458
 
 #### Процессор:
 
@@ -27802,14 +20434,6 @@ F012119
 
 160
 
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-0
-
 #### Навигация:
 
 GPS module: iFlight M8Q-5883-GPS & Compass V2.0
@@ -27817,14 +20441,6 @@ GPS module: iFlight M8Q-5883-GPS & Compass V2.0
 #### Датчики:
 
 Barometer: DPS310 / Gyro: MPU6000
-
-#### Цена со скидкой:
-
-1369900
-
-#### Старая цена:
-
-1539900
 
 #### Порты и интерфейсы:
 
@@ -27858,14 +20474,6 @@ DJI FPV Air Unit Module + Camera / Контроллер полета BLITZ F7 Pr
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.iflight-rc.com/en-taurus-x8-pro.html
-
-#### К этому товару подходят:
-
-Кабель iFlight XT60H-Fem/BMPCC 4K/6K / Аккумулятор iFlight Fullsend 8S 5000mAh / Цифровые очки DJI Goggles 2 / Цифровые очки DJI FPV Goggles V2 / Рюкзак iFlight FPV Drone Backpack / Цифровые очки DJI Goggles Integra Motion Combo / Пульт iFlight Commando 8 (ELRS 868/915MHz RF 1000mW) / Карта памяти MicroSD ExAscend Catalyst SDXC I 512GB + SD adapter / Карта памяти MicroSD ExAscend Catalyst SDXC I 256GB + SD adapter / Рюкзак Manfrotto Advanced Gearpack для Mavic Pro / Рюкзак и сумка PGYTECH OneMo (черные сумерки) / Рюкзак+сумка PGYTECH OneMo 2 25l (Серый камуфляж)
-
 #### Размеры (Ш×В×Г), cm:
 
 42.8 х 24.9
@@ -27874,7 +20482,11 @@ https://www.iflight-rc.com/en-taurus-x8-pro.html
 
 2.3
 
----
+
+
+
+
+
 
 ## Кабель iFlight XT60H-Fem/BMPCC 4K/6K
 
@@ -27892,10 +20504,6 @@ https://drone.kz/product/kabel-iflight-xt60h-fem-bmpcc-4k-6k/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-C012510
-
 #### Тип:
 
 кабель
@@ -27911,22 +20519,6 @@ XT60H-Fem/BMPCC 4K/6K
 #### Артикул:
 
 C012510
-
-#### Дополнительные изображения:
-
-226460
-
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-17200
 
 #### Порты и интерфейсы:
 
@@ -27944,19 +20536,15 @@ XT60H-Fem / BMPCC
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.iflight-rc.com
-
-#### К этому товару подходят:
-
-Квадрокоптер iFlight Taurus X8 Pro 8S HD Cinelifter (TBS Crossfire Diversity NANO RX) / Квадрокоптер iFlight ProTek60 Pro 6S HD Cinelifter BMPCC (TBS NANO RX-O3)
-
 #### Размеры (Ш×В×Г), cm:
 
 15
 
----
+
+
+
+
+
 
 ## Аккумулятор iFlight Fullsend 8S 5000mAh
 
@@ -27973,10 +20561,6 @@ https://www.iflight-rc.com
 https://drone.kz/product/akkumulyator-iflight-fullsend-8s-5000mah/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-F012168
 
 #### Тип:
 
@@ -27998,22 +20582,6 @@ Fullsend 8S 5000mAh
 
 F012168
 
-#### Дополнительные изображения:
-
-226462 / 226463 / 226464
-
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-142000
-
 #### Порты и интерфейсы:
 
 Разъем для зарядки: Amass XT90-S Male / Разъем разрядки: JST-XHR-9P
@@ -28034,19 +20602,15 @@ F012168
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.iflight-rc.com
-
-#### К этому товару подходят:
-
-Квадрокоптер iFlight Taurus X8 Pro 8S HD Cinelifter (TBS Crossfire Diversity NANO RX)
-
 #### Размеры (Ш×В×Г), cm:
 
 16.6 х 4.8 х 6.2 
 
----
+
+
+
+
+
 
 ## Квадрокоптер iFlight ProTek60 Pro 6S HD Cinelifter BMPCC (TBS NANO RX-O3)
 
@@ -28064,10 +20628,6 @@ https://drone.kz/product/kvadrokopter-iflight-protek60-pro-6s-hd-cinelifter-bmpc
 
 ### Характеристики:
 
-#### Штрихкод:
-
-F014036
-
 #### Тип:
 
 квадрокоптер
@@ -28080,17 +20640,9 @@ iflight
 
 ProTek60 Pro 6S HD Cinelifter (TBS NANO RX-O3) BMPCC Version
 
-#### Код видео YouTube:
-
-QhcbT4rUB-g
-
 #### Артикул:
 
 F014036
-
-#### Дополнительные изображения:
-
-226482 / 226483 / 226484 / 226485 / 226486
 
 #### Разрешение видео:
 
@@ -28116,21 +20668,9 @@ F014036
 
 110
 
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-0
-
 #### Навигация:
 
 GNSS: GPS + Galileo + BeiDou
-
-#### Цена со скидкой:
-
-759900
 
 #### Возможности подключения:
 
@@ -28139,10 +20679,6 @@ GNSS: GPS + Galileo + BeiDou
 #### Радиус действия сигнала:
 
 Максимальное расстояние полета: 11,6 км
-
-#### Старая цена:
-
-912900
 
 #### Порты и интерфейсы:
 
@@ -28172,19 +20708,15 @@ USB-C
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.iflight-rc.com
-
-#### К этому товару подходят:
-
-Аккумулятор iFlight Fullsend 6S 4500mAh / Зарядное устройство HOTA D6 Pro / Кабель iFlight XT60H-Fem/BMPCC 4K/6K / Рюкзак iFlight FPV Drone Backpack / Пульт iFlight Commando 8 (ELRS 868/915MHz RF 1000mW) / Карта памяти MicroSD ExAscend Catalyst SDXC I 512GB + SD adapter / Карта памяти MicroSD ExAscend Catalyst SDXC I 256GB + SD adapter / Рюкзак Manfrotto Advanced Gearpack для Mavic Pro / Рюкзак и сумка PGYTECH OneMo (черные сумерки) / Рюкзак+сумка PGYTECH OneMo 2 25l (Серый камуфляж)
-
 #### Размеры (Ш×В×Г), cm:
 
 38.0 × 35.1 × 3.5
 
----
+
+
+
+
+
 
 ## Квадрокоптер iFlight Defender 25 4S HD (ELRS 868/915RX)
 
@@ -28202,10 +20734,6 @@ https://drone.kz/product/kvadrokopter-iflight-defender-25-4s-hd-elrs-868-915rx/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6112345673789
-
 #### Тип:
 
 квадрокоптер
@@ -28218,17 +20746,9 @@ iflight
 
 Defender 25 4S HD (ELRS 868/915MHz RX) 
 
-#### Код видео YouTube:
-
-Ns26MFAEPQE
-
 #### Артикул:
 
 C013644
-
-#### Дополнительные изображения:
-
-226507 / 226508 / 226509 / 226510 / 226511 / 226512 / 226513 / 226514
 
 #### Разрешение видео:
 
@@ -28241,18 +20761,6 @@ C013644
 #### Скорость, km/h:
 
 100
-
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-2
-
-#### Цена со скидкой:
-
-199900
 
 #### Возможности подключения:
 
@@ -28290,19 +20798,15 @@ USB-C / microSD
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.iflight-rc.com
-
-#### К этому товару подходят:
-
-Адаптер iFlight Charging Board | Defender 25 / Аккумулятор iFlight Defender 900mAh / Зарядное устройство iFlight M4 AC 30W 1-4S / XT30-EU / Зарядное устройство HOTA D6 Pro / Цифровые очки DJI Goggles 2 / Цифровые очки DJI FPV Goggles V2 / Рюкзак iFlight FPV Drone Backpack / Цифровые очки DJI Goggles Integra / Цифровые очки DJI Goggles Integra Motion Combo / Пульт iFlight Commando 8 (ELRS 868/915MHz RF 1000mW) / Карта памяти MicroSD ExAscend Catalyst SDXC I 512GB + SD adapter / Карта памяти MicroSD ExAscend Catalyst SDXC I 256GB + SD adapter / Рюкзак Manfrotto Advanced Gearpack для Mavic Pro / Рюкзак и сумка PGYTECH OneMo (черные сумерки) / Рюкзак+сумка PGYTECH OneMo 2 25l (Серый камуфляж)
-
 #### Размеры (Ш×В×Г), cm:
 
 15.8 x 15.5 x 6.9
 
----
+
+
+
+
+
 
 ## Адаптер iFlight Charging Board | Defender 25
 
@@ -28320,10 +20824,6 @@ https://drone.kz/product/adapter-iflight-charging-board-defender-25/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-B013864
-
 #### Тип:
 
 адаптер
@@ -28340,22 +20840,6 @@ Charging Adapter Board
 
 B013864
 
-#### Дополнительные изображения:
-
-226516 / 226517 / 226518 / 226519
-
-#### KaspiQtyAlmaty:
-
-12
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-14900
-
 #### Порты и интерфейсы:
 
 XT30 / XT60
@@ -28368,15 +20852,11 @@ XT30 / XT60
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.iflight-rc.com
 
-#### К этому товару подходят:
 
-Квадрокоптер iFlight Defender 25 4S HD (ELRS 868/915RX) / Аккумулятор iFlight Defender 900mAh
 
----
+
 
 ## Аккумулятор iFlight Defender 900mAh
 
@@ -28393,10 +20873,6 @@ https://www.iflight-rc.com
 https://drone.kz/product/akkumulyator-iflight-defender-900mah/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-F013579
 
 #### Тип:
 
@@ -28418,22 +20894,6 @@ Defender 900mAh
 
 F013579
 
-#### Дополнительные изображения:
-
-226521
-
-#### KaspiQtyAlmaty:
-
-9
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-24200
-
 #### Порты и интерфейсы:
 
 XT30
@@ -28450,19 +20910,15 @@ XT30
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.iflight-rc.com
-
-#### К этому товару подходят:
-
-Квадрокоптер iFlight Defender 25 4S HD (ELRS 868/915RX) / Зарядное устройство iFlight M4 AC 30W 1-4S / XT30-EU / Зарядное устройство HOTA D6 Pro / Адаптер iFlight Charging Board | Defender 25
-
 #### Размеры (Ш×В×Г), cm:
 
 10.5 х 3.5 х 3.1
 
----
+
+
+
+
+
 
 ## Зарядное устройство iFlight M4 AC 30W 1-4S / XT30-EU
 
@@ -28480,10 +20936,6 @@ https://drone.kz/product/zaryadnoe-ustroystvo-iflight-m4-ac-30w-1-4s-xt30-eu-/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6972969830025
-
 #### Тип:
 
 зарядное устройство
@@ -28500,25 +20952,9 @@ M4 AC 30W 1-4S / XT30-EU
 
 B010384
 
-#### Дополнительные изображения:
-
-226523 / 226524 / 226525
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-20800
 
 #### Порты и интерфейсы:
 
@@ -28544,19 +20980,15 @@ EU Plug / XT30
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.iflight-rc.com
-
-#### К этому товару подходят:
-
-Квадрокоптер iFlight Defender 25 4S HD (ELRS 868/915RX) / Аккумулятор iFlight Defender 900mAh / Зарядное устройство HOTA D6 Pro
-
 #### Размеры (Ш×В×Г), cm:
 
 7.5 х 5.4 х 3.0
 
----
+
+
+
+
+
 
 ## Аккумулятор iFlight Fullsend 6S 1400mAh 150C
 
@@ -28573,10 +21005,6 @@ https://www.iflight-rc.com
 https://drone.kz/product/akkumulyator-iflight-fullsend-6s-1400mah-150c/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6112345673604
 
 #### Тип:
 
@@ -28598,22 +21026,6 @@ Fullsend 6S 1400mAh 150C
 
 F013138
 
-#### Дополнительные изображения:
-
-226527 / 226528
-
-#### KaspiQtyAlmaty:
-
-0
-
-#### KaspiQtyAstana:
-
-3
-
-#### Цена со скидкой:
-
-43800
-
 #### Порты и интерфейсы:
 
 Amass XT90
@@ -28634,19 +21046,15 @@ Amass XT90
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.iflight-rc.com
-
-#### К этому товару подходят:
-
-Зарядное устройство HOTA D6 Pro / Квадрокоптер iFlight ProTek35 6S HD (ELRS 868/915RX) / Квадрокоптер iFlight AOS 5 O3 6S HD (ELRS 868/915RX)
-
 #### Размеры (Ш×В×Г), cm:
 
 4 x 3.8 x 8.0 
 
----
+
+
+
+
+
 
 ## Зарядное устройство HOTA D6 Pro
 
@@ -28664,10 +21072,6 @@ https://drone.kz/product/zaryadnoe-ustroystvo-hota-d6-pro/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6201804002-0
-
 #### Тип:
 
 зарядное устройство
@@ -28684,25 +21088,9 @@ D6 Pro
 
 BC06392
 
-#### Дополнительные изображения:
-
-226530 / 226531
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-5
-
-#### KaspiQtyAstana:
-
-2
-
-#### Цена со скидкой:
-
-88800
 
 #### Порты и интерфейсы:
 
@@ -28736,15 +21124,15 @@ EU Plug / USB-выход: 5 В/2,1 А / Беспроводная зарядка
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.iflight-rc.com
-
 #### Размеры (Ш×В×Г), cm:
 
 10.8 х 10.5 х 7.6
 
----
+
+
+
+
+
 
 ## Пропеллеры iFlight Nazgul 3535
 
@@ -28761,10 +21149,6 @@ https://www.iflight-rc.com
 https://drone.kz/product/propellery-iflight-nazgul-3535-3set/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-NP09139
 
 #### Тип:
 
@@ -28786,25 +21170,9 @@ Nazgul Cine 3535
 
 NP09139
 
-#### Дополнительные изображения:
-
-248241 / 248242
-
 #### Цвет:
 
 серый
-
-#### KaspiQtyAlmaty:
-
-5
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-8000
 
 #### Дополнительные возможности:
 
@@ -28818,19 +21186,15 @@ NP09139
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.iflight-rc.com/en-taurus-x8-pro.html
-
-#### К этому товару подходят:
-
-Квадрокоптер iFlight ProTek35 6S HD (ELRS 868/915RX)
-
 #### Размеры (Ш×В×Г), cm:
 
 8.2 х 0.6
 
----
+
+
+
+
+
 
 ## Пропеллеры iFlight Nazgul R5 V2 Tri-Blade Grey
 
@@ -28847,10 +21211,6 @@ https://www.iflight-rc.com/en-taurus-x8-pro.html
 https://drone.kz/product/propellery-iflight-nazgul-r5-v2-tri-blade-grey/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-16523
 
 #### Тип:
 
@@ -28872,25 +21232,9 @@ Nazgul R5 V2 Tri-blade Prop-Transparent Grey
 
 OB12553
 
-#### Дополнительные изображения:
-
-248246 / 248247
-
 #### Цвет:
 
 серый
-
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-8000
 
 #### Дополнительные возможности:
 
@@ -28904,10 +21248,6 @@ OB12553
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.iflight-rc.com
-
 #### Размеры (Ш×В×Г), cm:
 
 12.9 х 0.6
@@ -28916,7 +21256,11 @@ https://www.iflight-rc.com
 
 4.2
 
----
+
+
+
+
+
 
 ## Квадрокоптер iFlight ProTek35 6S HD (ELRS 868/915RX)
 
@@ -28934,10 +21278,6 @@ https://drone.kz/product/kvadrokopter-iflight-protek35-6s-hd-elrs-868-915rx/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-C013815
-
 #### Тип:
 
 квадрокоптер
@@ -28950,17 +21290,9 @@ iflight
 
 ProTek35 6S HD (ELRS 868/915MHz RX)
 
-#### Код видео YouTube:
-
-_z8k8Na_5So
-
 #### Артикул:
 
 C012536
-
-#### Дополнительные изображения:
-
-226539 / 226540 / 226541 / 226542 / 226543 / 226544 / 226545 / 226546 / 226547
 
 #### Разрешение видео:
 
@@ -28970,18 +21302,6 @@ HD@120fps
 
 70
 
-#### KaspiQtyAlmaty:
-
-0
-
-#### KaspiQtyAstana:
-
-1
-
-#### Цена со скидкой:
-
-169900
-
 #### Возможности подключения:
 
 915 МГц: FCC: 30 дБм; СЕ: &lt;14 дБм; SRRC: &lt;19 дБм
@@ -28989,10 +21309,6 @@ HD@120fps
 #### Радиус действия сигнала:
 
 Максимальное расстояние полета: 3 км
-
-#### Старая цена:
-
-243000
 
 #### Порты и интерфейсы:
 
@@ -29018,19 +21334,15 @@ USB-C
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.iflight-rc.com
-
-#### К этому товару подходят:
-
-Пропеллеры iFlight Nazgul 3535 / Аккумулятор iFlight Fullsend 6S 1400mAh 150C / Зарядное устройство HOTA D6 Pro / Цифровые очки DJI FPV Goggles V2 / Рюкзак iFlight FPV Drone Backpack / Пульт iFlight Commando 8 (ELRS 868/915MHz RF 1000mW) / Карта памяти MicroSD ExAscend Catalyst SDXC I 512GB + SD adapter / Карта памяти MicroSD ExAscend Catalyst SDXC I 256GB + SD adapter / Рюкзак Manfrotto Advanced Gearpack для Mavic Pro / Рюкзак и сумка PGYTECH OneMo (черные сумерки) / Рюкзак+сумка PGYTECH OneMo 2 25l (Серый камуфляж)
-
 #### Размеры (Ш×В×Г), cm:
 
 14.3 ×15.8 × 3.0
 
----
+
+
+
+
+
 
 ## Полетный констроллер iFlight BLITZ Whoop F7 AIO
 
@@ -29047,10 +21359,6 @@ https://www.iflight-rc.com
 https://drone.kz/product/poletnyy-konstroller-iflight-blitz-whoop-f7-aio/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-B014032
 
 #### Тип:
 
@@ -29076,29 +21384,13 @@ B014032
 
 16
 
-#### Дополнительные изображения:
-
-226549 / 226550 / 226551 / 226552 / 226553
-
 #### Процессор:
 
 Микроконтроллер: BGA-STM32F745, 216 МГц / Микроконтроллер: BGA-STM32F745
 
-#### KaspiQtyAlmaty:
-
-5
-
-#### KaspiQtyAstana:
-
-0
-
 #### Датчики:
 
 Гироскоп: DPS310 / Гироскоп: BMI270 / Барометр: DPS310
-
-#### Цена со скидкой:
-
-96900
 
 #### Порты и интерфейсы:
 
@@ -29120,15 +21412,15 @@ B014032
 
 12
 
-#### К этому товару подходят:
-
-Квадрокоптер iFlight ProTek35 6S HD (ELRS 868/915RX)
-
 #### Размеры (Ш×В×Г), cm:
 
  32.5 х 32.5
 
----
+
+
+
+
+
 
 ## Рюкзак iFlight FPV Drone Backpack
 
@@ -29145,10 +21437,6 @@ B014032
 https://drone.kz/product/ryukzak-iflight-fpv-drone-backpack/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-F010370
 
 #### Тип:
 
@@ -29170,33 +21458,13 @@ FPV Drone Backpack
 
 33
 
-#### Код видео YouTube:
-
-R7OvanG9_SA
-
 #### Артикул:
 
 F010370
 
-#### Дополнительные изображения:
-
-226555 / 226556 / 226557 / 226558
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-0
-
-#### KaspiQtyAstana:
-
-1
-
-#### Цена со скидкой:
-
-121200
 
 #### Дополнительные возможности:
 
@@ -29210,15 +21478,15 @@ F010370
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.iflight-rc.com/en-taurus-x8-pro.html
-
 #### Размеры (Ш×В×Г), cm:
 
 Внутренние размеры: 50 х 32 х 24 см / Внешние размеры: 53 х 34 х 26 см
 
----
+
+
+
+
+
 
 ## Луч SpeedyBee Master 5 Arm
 
@@ -29235,10 +21503,6 @@ https://www.iflight-rc.com/en-taurus-x8-pro.html
 https://drone.kz/product/kronshteyn-speedybee-master-5-arm/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6112345673550
 
 #### Тип:
 
@@ -29260,21 +21524,9 @@ SB-M5-ARM
 
 черный
 
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 Master 5
-
-#### Цена со скидкой:
-
-5700
 
 #### Комплектация:
 
@@ -29284,14 +21536,6 @@ Master 5
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.speedybee.com/
-
-#### К этому товару подходят:
-
-Ремешок Speedy Bee Tie Down Strap for Lipo Battery small / Ремешок Speedy Bee Tie Down Strap for Lipo Battery big / Полетный контроллер Speedy Bee F7 AIO Flight Controller
-
 #### Размеры (Ш×В×Г), cm:
 
 11.5×2×0.5
@@ -29300,7 +21544,11 @@ https://www.speedybee.com/
 
 10
 
----
+
+
+
+
+
 
 ## Луч SpeedyBee Master 5 HD Arm
 
@@ -29317,10 +21565,6 @@ https://www.speedybee.com/
 https://drone.kz/product/kronshteyn-speedybee-master-5-hd-arm/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-SB-M5-HD-ARM
 
 #### Тип:
 
@@ -29342,21 +21586,9 @@ SB-M5-HD-ARM
 
 черный
 
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 Master 5 HD 
-
-#### Цена со скидкой:
-
-5700
 
 #### Комплектация:
 
@@ -29366,14 +21598,6 @@ Master 5 HD
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.speedybee.com/
-
-#### К этому товару подходят:
-
-Ремешок Speedy Bee Tie Down Strap for Lipo Battery small / Ремешок Speedy Bee Tie Down Strap for Lipo Battery big / Полетный контроллер Speedy Bee F7 AIO Flight Controller
-
 #### Размеры (Ш×В×Г), cm:
 
 11.5×2×0.5
@@ -29382,7 +21606,11 @@ https://www.speedybee.com/
 
 10
 
----
+
+
+
+
+
 
 ## Цифровая камера RunCam Wasp
 
@@ -29399,10 +21627,6 @@ https://www.speedybee.com/
 https://drone.kz/product/kamera-runcam-wasp/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-612967822021
 
 #### Тип:
 
@@ -29423,10 +21647,6 @@ Wasp
 #### Артикул:
 
 RUNCAM-WASP
-
-#### Дополнительные изображения:
-
-226562
 
 #### Разрешение видео:
 
@@ -29452,21 +21672,9 @@ RUNCAM-WASP
 
 черный
 
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 FPV камера
-
-#### Цена со скидкой:
-
-38000
 
 #### Наличие камеры:
 
@@ -29508,14 +21716,6 @@ HD (1280×720)
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.runcam.com/
-
-#### К этому товару подходят:
-
-FPV видео-очки SwellPro GL1 / Цифровые очки DJI FPV Goggles V2 / Аналоговая HD камера RunCam Hybrid 4k
-
 #### Размеры (Ш×В×Г), cm:
 
 1.9×1.9×1.9 
@@ -29528,7 +21728,11 @@ FPV видео-очки SwellPro GL1 / Цифровые очки DJI FPV Goggles
 
 microSD
 
----
+
+
+
+
+
 
 ## Цифровой видеопередатчик RunCam Link
 
@@ -29545,10 +21749,6 @@ microSD
 https://drone.kz/product/tsifrovaya-fpv-ustanovka-runcam-link/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-62116102024
 
 #### Тип:
 
@@ -29574,25 +21774,9 @@ RUNCAM-LINK
 
 5.725-5.85
 
-#### Дополнительные изображения:
-
-226564 / 226565 / 226566
-
 #### Цвет:
 
 серый
-
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-84200
 
 #### Порты и интерфейсы:
 
@@ -29610,10 +21794,6 @@ RUNCAM-LINK
 
 12
 
-#### К этому товару подходят:
-
-Аналоговая HD камера RunCam Split 3 Nano / HD камера RunCam 2 / Аналоговая HD камера RunCam Split 4 / Аналоговая HD камера RunCam Hybrid 4k
-
 #### Размеры (Ш×В×Г), cm:
 
 2.9× 2.9 × 1.3
@@ -29622,7 +21802,11 @@ RUNCAM-LINK
 
 18.8
 
----
+
+
+
+
+
 
 ## Квадрокоптер SpeedyBee Flex25 HD TBS
 
@@ -29639,10 +21823,6 @@ RUNCAM-LINK
 https://drone.kz/product/kvadrokopter-speedybee-flex25-hd-falcon-120fps-cinewhoop-flex25-hd-tbs/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-FLEX25-HD-TBS
 
 #### Тип:
 
@@ -29672,21 +21852,9 @@ FLEX25-HD-TBS
 
 черный
 
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-1
-
 #### Датчики:
 
 нижний ИК-сенсор
-
-#### Цена со скидкой:
-
-199700
 
 #### Наличие камеры:
 
@@ -29712,14 +21880,6 @@ DJI ISP& 4:3
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.speedybee.com/
-
-#### К этому товару подходят:
-
-Ремешок Speedy Bee Tie Down Strap for Lipo Battery big / Ремешок Speedy Bee Tie Down Strap for Lipo Battery small / Полетный контроллер Speedy Bee F7 AIO Flight Controller / Карта памяти MicroSD ExAscend Catalyst SDXC I 512GB + SD adapter / Карта памяти MicroSD ExAscend Catalyst SDXC I 256GB + SD adapter / Рюкзак Manfrotto Advanced Gearpack для Mavic Pro / Рюкзак и сумка PGYTECH OneMo (черные сумерки) / Рюкзак+сумка PGYTECH OneMo 2 25l (Серый камуфляж)
-
 #### Размеры (Ш×В×Г), cm:
 
 13.6×13.6×3.5
@@ -29732,7 +21892,11 @@ https://www.speedybee.com/
 
 120
 
----
+
+
+
+
+
 
 ## Квадрокоптер SpeedyBee Flex25 HD PNP
 
@@ -29749,10 +21913,6 @@ https://www.speedybee.com/
 https://drone.kz/product/kvadrokopter-speedybee-flex25-hd-falcon-120fps-cinewhoop-flex25-hd-pnp/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-FLEX25-HD-PNP
 
 #### Тип:
 
@@ -29778,29 +21938,13 @@ Flex25 HD Falcon 120fps Cinewhoop
 
 FLEX25-HD-PNP
 
-#### Дополнительные изображения:
-
-226569 / 226570 / 226571
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-0
-
-#### KaspiQtyAstana:
-
-1
-
 #### Датчики:
 
 нижний ИК-сенсор
-
-#### Цена со скидкой:
-
-79900
 
 #### Наличие камеры:
 
@@ -29809,10 +21953,6 @@ FLEX25-HD-PNP
 #### Класс дрона:
 
 любительский
-
-#### Старая цена:
-
-186900
 
 #### Сенсор:
 
@@ -29830,14 +21970,6 @@ DJI ISP& 4:3
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.speedybee.com/
-
-#### К этому товару подходят:
-
-Ремешок Speedy Bee Tie Down Strap for Lipo Battery big / Ремешок Speedy Bee Tie Down Strap for Lipo Battery small / Полетный контроллер Speedy Bee F7 AIO Flight Controller / Карта памяти MicroSD ExAscend Catalyst SDXC I 512GB + SD adapter / Карта памяти MicroSD ExAscend Catalyst SDXC I 256GB + SD adapter / Рюкзак Manfrotto Advanced Gearpack для Mavic Pro / Рюкзак и сумка PGYTECH OneMo (черные сумерки) / Рюкзак+сумка PGYTECH OneMo 2 25l (Серый камуфляж)
-
 #### Размеры (Ш×В×Г), cm:
 
 13.6×13.6×3.5
@@ -29850,7 +21982,11 @@ https://www.speedybee.com/
 
 120
 
----
+
+
+
+
+
 
 ## Аналоговая камера RunCam Racer Nano 2 V2
 
@@ -29868,10 +22004,6 @@ https://drone.kz/product/analogovaya-kamera-runcam-racer-nano-2-v2/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6112345673710
-
 #### Тип:
 
 аналоговая камера
@@ -29888,25 +22020,9 @@ Racer Nano 2 V2
 
 RACERNANO2-L21-V2
 
-#### Дополнительные изображения:
-
-226573 / 226574
-
 #### Цвет:
 
 оранжевый
-
-#### KaspiQtyAlmaty:
-
-4
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-24200
 
 #### Питание:
 
@@ -29932,14 +22048,6 @@ Super WDR CMOS
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.runcam.com
-
-#### К этому товару подходят:
-
-Аналоговая HD камера RunCam Split 3 Nano / 4К камера RunCam 2 / 4k камера RunCam 5 Orange
-
 #### Размеры (Ш×В×Г), cm:
 
 1.4 х 1.4 х 1.6
@@ -29948,7 +22056,11 @@ https://www.runcam.com
 
 3.6
 
----
+
+
+
+
+
 
 ## Рама SpeedyBee Master 5 HD Frame
 
@@ -29966,10 +22078,6 @@ https://drone.kz/product/ramka-speedybee-master-5-hd-frame/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6112345673932
-
 #### Тип:
 
 рама
@@ -29986,25 +22094,9 @@ Master 5 Frame
 
 SB-MASTER5
 
-#### Дополнительные изображения:
-
-226576 / 226577
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-50700
 
 #### Комплектация:
 
@@ -30014,14 +22106,6 @@ SB-MASTER5
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.speedybee.com/
-
-#### К этому товару подходят:
-
-Ремешок Speedy Bee Tie Down Strap for Lipo Battery big / Ремешок Speedy Bee Tie Down Strap for Lipo Battery small / Полетный контроллер Speedy Bee F7 AIO Flight Controller
-
 #### Размеры (Ш×В×Г), cm:
 
 5×17.5×17.5
@@ -30030,7 +22114,11 @@ https://www.speedybee.com/
 
 143
 
----
+
+
+
+
+
 
 ## Установочный комплект SpeedyBee Master 5 O3 installation kit
 
@@ -30047,10 +22135,6 @@ https://www.speedybee.com/
 https://drone.kz/product/ustanovochnyy-komplekt-speedybee-master-5-o3-installation-kit/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6112345673666
 
 #### Тип:
 
@@ -30072,21 +22156,9 @@ SB-A-MASTER5-O3-KIT
 
 черный
 
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 Master 5
-
-#### Цена со скидкой:
-
-5700
 
 #### Комплектация:
 
@@ -30096,19 +22168,15 @@ Master 5
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.speedybee.com/
-
-#### К этому товару подходят:
-
-Ремешок Speedy Bee Tie Down Strap for Lipo Battery big / Ремешок Speedy Bee Tie Down Strap for Lipo Battery small / Полетный контроллер Speedy Bee F7 AIO Flight Controller
-
 #### Вес товара, г:
 
 20
 
----
+
+
+
+
+
 
 ## Крепление SpeedyBee Insta Go 2 для Flex25
 
@@ -30125,10 +22193,6 @@ https://www.speedybee.com/
 https://drone.kz/product/kreplenie-speedybee-insta-go-2-dlya-flex25/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-SB-INSTAGO2-3DMOUNT
 
 #### Тип:
 
@@ -30150,33 +22214,13 @@ speedy-bee
 
 SB-INSTAGO2-3DMOUNT
 
-#### Дополнительные изображения:
-
-226583 / 226584
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-10
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
  GoPro 6/7/8, RunCam Thumb, Insta Go 2, Flex25
-
-#### Цена со скидкой:
-
-2700
-
-#### Старая цена:
-
-5400
 
 #### Комплектация:
 
@@ -30186,19 +22230,15 @@ SB-INSTAGO2-3DMOUNT
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.speedybee.com/
-
-#### К этому товару подходят:
-
-Ремешок Speedy Bee Tie Down Strap for Lipo Battery big / Ремешок Speedy Bee Tie Down Strap for Lipo Battery small / Полетный контроллер Speedy Bee F7 AIO Flight Controller
-
 #### Вес товара, г:
 
 4.8
 
----
+
+
+
+
+
 
 ## Регулятор SpeedyBee 35A BLHeli_S Mini 4-in-1 ESC
 
@@ -30216,10 +22256,6 @@ https://drone.kz/product/regulyator-speedybee-35a-blheli-s-mini-4-in-1-esc/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6112345678838
-
 #### Тип:
 
 регулятор оборотов(ESC)
@@ -30236,25 +22272,9 @@ SPEEDYBEE-35AMINI
 
 SPEEDYBEE-35AMINI
 
-#### Дополнительные изображения:
-
-226586
-
 #### Цвет:
 
 синий
-
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-39200
 
 #### Комплектация:
 
@@ -30264,14 +22284,6 @@ SPEEDYBEE-35AMINI
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.speedybee.com/
-
-#### К этому товару подходят:
-
-Ремешок Speedy Bee Tie Down Strap for Lipo Battery big / Полетный контроллер Speedy Bee F7 AIO Flight Controller / Ремешок Speedy Bee Tie Down Strap for Lipo Battery small
-
 #### Размеры (Ш×В×Г), cm:
 
 3.5х3.5х5.5
@@ -30280,7 +22292,11 @@ https://www.speedybee.com/
 
 7
 
----
+
+
+
+
+
 
 ## Полетный контроллер SpeedyBee F7 Mini Flight Controller
 
@@ -30298,10 +22314,6 @@ https://drone.kz/product/plata-speedybee-f7-mini-flight-controller/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6112345678807
-
 #### Тип:
 
 полетный контроллер(FC)
@@ -30318,25 +22330,9 @@ F7 Mini Flight Controller
 
 SPEEDYBEE-F7MINI
 
-#### Дополнительные изображения:
-
-226588
-
 #### Цвет:
 
 синий
-
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-40300
 
 #### Порты и интерфейсы:
 
@@ -30350,14 +22346,6 @@ SPEEDYBEE-F7MINI
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.speedybee.com/
-
-#### К этому товару подходят:
-
-Ремешок Speedy Bee Tie Down Strap for Lipo Battery big / Полетный контроллер Speedy Bee F7 AIO Flight Controller / Ремешок Speedy Bee Tie Down Strap for Lipo Battery small
-
 #### Размеры (Ш×В×Г), cm:
 
 3×3×7.5
@@ -30366,7 +22354,11 @@ https://www.speedybee.com/
 
 5.7
 
----
+
+
+
+
+
 
 ## Защита пропеллеров Speedy Bee Flex25 Propeller Protection Duct Blue
 
@@ -30384,10 +22376,6 @@ https://drone.kz/product/zashchita-propellerov-speedy-bee-flex25-propeller-prote
 
 ### Характеристики:
 
-#### Штрихкод:
-
-FLEX25-RING-B
-
 #### Тип:
 
 защита пропеллеров
@@ -30404,25 +22392,9 @@ Flex25
 
 FLEX25-RING-B
 
-#### Дополнительные изображения:
-
-226590
-
 #### Цвет:
 
 синий
-
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-6800
 
 #### Комплектация:
 
@@ -30432,14 +22404,6 @@ FLEX25-RING-B
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.speedybee.com/
-
-#### К этому товару подходят:
-
-Ремешок Speedy Bee Tie Down Strap for Lipo Battery small / Ремешок Speedy Bee Tie Down Strap for Lipo Battery big / Полетный контроллер Speedy Bee F7 AIO Flight Controller
-
 #### Размеры (Ш×В×Г), cm:
 
 13.6×13.6×1.3
@@ -30448,7 +22412,11 @@ https://www.speedybee.com/
 
 5
 
----
+
+
+
+
+
 
 ## Защита пропеллеров Speedy Bee Flex25 Propeller Protection Duct Yellow
 
@@ -30466,10 +22434,6 @@ https://drone.kz/product/zashchita-propellerov-speedy-bee-flex25-propeller-prote
 
 ### Характеристики:
 
-#### Штрихкод:
-
-FLEX25-RING-Y
-
 #### Тип:
 
 защита пропеллеров
@@ -30486,25 +22450,9 @@ Flex25
 
 FLEX25-RING-Y
 
-#### Дополнительные изображения:
-
-226592
-
 #### Цвет:
 
 желтый
-
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-6800
 
 #### Комплектация:
 
@@ -30514,14 +22462,6 @@ FLEX25-RING-Y
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.speedybee.com/
-
-#### К этому товару подходят:
-
-Ремешок Speedy Bee Tie Down Strap for Lipo Battery small / Ремешок Speedy Bee Tie Down Strap for Lipo Battery big / Полетный контроллер Speedy Bee F7 AIO Flight Controller
-
 #### Размеры (Ш×В×Г), cm:
 
 13.6×13.6×1.3
@@ -30530,7 +22470,11 @@ https://www.speedybee.com/
 
 5
 
----
+
+
+
+
+
 
 ## Светодиодная лента Speedy Bee LED Strip with BEC Green
 
@@ -30547,10 +22491,6 @@ https://www.speedybee.com/
 https://drone.kz/product/svetodiodnaya-lenta-speedy-bee-led-strip-with-bec-green/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-FLEX25-LED-GREEN
 
 #### Тип:
 
@@ -30572,21 +22512,9 @@ FLEX25-LED-GREEN
 
 зеленый
 
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 Flex25
-
-#### Цена со скидкой:
-
-6800
 
 #### Комплектация:
 
@@ -30596,19 +22524,15 @@ Flex25
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.speedybee.com/
-
-#### К этому товару подходят:
-
-Ремешок Speedy Bee Tie Down Strap for Lipo Battery small / Ремешок Speedy Bee Tie Down Strap for Lipo Battery big / Полетный контроллер Speedy Bee F7 AIO Flight Controller
-
 #### Размеры (Ш×В×Г), cm:
 
 45×0.4
 
----
+
+
+
+
+
 
 ## Светодиодная лента Speedy Bee LED Strip with BEC Blue
 
@@ -30625,10 +22549,6 @@ https://www.speedybee.com/
 https://drone.kz/product/svetodiodnaya-lenta-speedy-bee-led-strip-with-bec-blue/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-FLEX25-LED-BLUE
 
 #### Тип:
 
@@ -30650,21 +22570,9 @@ FLEX25-LED-BLUE
 
 синий
 
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 Flex25
-
-#### Цена со скидкой:
-
-6800
 
 #### Комплектация:
 
@@ -30674,19 +22582,15 @@ Flex25
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.speedybee.com/
-
-#### К этому товару подходят:
-
-Ремешок Speedy Bee Tie Down Strap for Lipo Battery small / Ремешок Speedy Bee Tie Down Strap for Lipo Battery big / Полетный контроллер Speedy Bee F7 AIO Flight Controller
-
 #### Размеры (Ш×В×Г), cm:
 
 45×0.4
 
----
+
+
+
+
+
 
 ## Антенна Speedy Bee 5.8 GHz Antenna V2 MMCX-Straight
 
@@ -30703,10 +22607,6 @@ https://www.speedybee.com/
 https://drone.kz/product/antenna-speedy-bee-5-8-ghz-antenna-v2-mmcx-straight/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6112345678777
 
 #### Тип:
 
@@ -30728,18 +22628,6 @@ SBANT2-RMMCXS-D
 
 желтый
 
-#### KaspiQtyAlmaty:
-
-5
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-13800
-
 #### Комплектация:
 
 Антенна Speedy Bee 5.8 GHz Antenna V2 MMCX-Straight / Документация
@@ -30747,14 +22635,6 @@ SBANT2-RMMCXS-D
 #### Срок гарантии производителя, m:
 
 12
-
-#### Страница товара на сайте производителя:
-
-https://www.speedybee.com/
-
-#### К этому товару подходят:
-
-Ремешок Speedy Bee Tie Down Strap for Lipo Battery small / Полетный контроллер Speedy Bee F7 AIO Flight Controller / Ремешок Speedy Bee Tie Down Strap for Lipo Battery big
 
 #### Размеры (Ш×В×Г), cm:
 
@@ -30764,7 +22644,11 @@ https://www.speedybee.com/
 
 4.27
 
----
+
+
+
+
+
 
 ## Стабилизатор для смартфона Insta360 Flow Standalone Stone Gray
 
@@ -30781,10 +22665,6 @@ https://www.speedybee.com/
 https://drone.kz/product/stabilizator-dlya-smartfona-insta360-flow-standalone-stone-gray/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970357855261
 
 #### Тип:
 
@@ -30810,17 +22690,9 @@ Flow Standalone Stone Gray
 
 5
 
-#### Код видео YouTube:
-
-5IdZJdvyWkk
-
 #### Артикул:
 
 Flow Standalone Stone Gray
-
-#### Дополнительные изображения:
-
-226597 / 226598 / 226599 / 226600
 
 #### Макс. угол обзора по горизонтали,°:
 
@@ -30841,18 +22713,6 @@ Flow Standalone Stone Gray
 #### Цвет:
 
 серый
-
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-85400
 
 #### Порты и интерфейсы:
 
@@ -30878,10 +22738,6 @@ Flow Standalone Stone Gray
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://insta360.com/
-
 #### Размеры (Ш×В×Г), cm:
 
 79.6x162.1x36
@@ -30890,7 +22746,11 @@ https://insta360.com/
 
 0.369
 
----
+
+
+
+
+
 
 ## Стабилизатор для смартфона Insta360 Flow Creator Kit Stone Gray
 
@@ -30907,10 +22767,6 @@ https://insta360.com/
 https://drone.kz/product/stabilizator-dlya-smartfona-insta360-flow-creator-kit-stone-gray/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970357855278
 
 #### Тип:
 
@@ -30936,17 +22792,9 @@ Flow Creator Kit Stone Gray
 
 5
 
-#### Код видео YouTube:
-
-8g0mMOl4PPg
-
 #### Артикул:
 
 Flow Creator Kit Stone Gray
-
-#### Дополнительные изображения:
-
-226607 / 226608 / 226609 / 226610
 
 #### Макс. угол обзора по горизонтали,°:
 
@@ -30967,22 +22815,6 @@ Flow Creator Kit Stone Gray
 #### Цвет:
 
 серый
-
-#### KaspiQtyAlmaty:
-
-0
-
-#### KaspiQtyAstana:
-
-1
-
-#### Цена со скидкой:
-
-118900
-
-#### Старая цена:
-
-113200
 
 #### Порты и интерфейсы:
 
@@ -31008,10 +22840,6 @@ Flow Creator Kit Stone Gray
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://insta360.com/
-
 #### Размеры (Ш×В×Г), cm:
 
 79.6x162.1x36
@@ -31020,7 +22848,11 @@ https://insta360.com/
 
 0.369
 
----
+
+
+
+
+
 
 ## Комплект DJI Mavic 3 Fly More Kit
 
@@ -31037,10 +22869,6 @@ https://insta360.com/
 https://drone.kz/product/komplekt-dji-mavic-3-fly-more-kit/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6941565948434
 
 #### Тип:
 
@@ -31066,25 +22894,9 @@ Mavic 3 Fly More Kit
 
 Mavic
 
-#### Дополнительные изображения:
-
-226634 / 226635 / 226636
-
 #### Цвет:
 
 серый
-
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-339000
 
 #### Тип аккумулятора:
 
@@ -31094,19 +22906,15 @@ Mavic
 
 Комплект DJI Mavic 3 Fly More Kit / Автомобильное зарядное устройство - 1 шт / Концентратор для зарядки аккумулятора -  1 шт / Интеллектуальная батарея - 2 шт / Пропеллеры с пониженным уровнем шума - 2 пары / Сумка для переноски -1 шт / Документация
 
-#### Страница товара на сайте производителя:
-
-https://dji.com/
-
-#### К этому товару подходят:
-
-Квадрокоптер DJI Mavic 3 / Пропеллеры DJI Mavic 3 Enterprise Series Propellers (PART 03)
-
 #### Вес товара, г:
 
 800
 
----
+
+
+
+
+
 
 ## ND-фильтры (ND4/8/16/32) DJI AIR 2S
 
@@ -31123,10 +22931,6 @@ ND-фильтры (ND4/8/16/32) DJI AIR 2S – это набор светофи�
 https://drone.kz/product/nd-filtry-nd4-8-16-32-dji-air-2s/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6941565913548
 
 #### Тип:
 
@@ -31148,25 +22952,9 @@ AIR 2S ND Filters Set (ND4/8/16/32)
 
 273391
 
-#### Дополнительные изображения:
-
-226651 / 226652 / 226653
-
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 DJI Air 2S
-
-#### Цена со скидкой:
-
-50700
 
 #### Дополнительные возможности:
 
@@ -31180,19 +22968,15 @@ ND-фильтры (ND4/8/16/32) DJI AIR 2S: / ND4 Filter × 1 / ND8 Filter × 1 
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.dji.com/
-
-#### К этому товару подходят:
-
-Квадрокоптер DJI AIR 2S
-
 #### Размеры (Ш×В×Г), cm:
 
 2.2 × 1.8
 
----
+
+
+
+
+
 
 ## Автокрепление PGYTECH Smartphone Adhesive Mount
 
@@ -31209,10 +22993,6 @@ https://www.dji.com/
 https://drone.kz/product/avtokreplenie-pgytech-smartphone-adhesive-mount/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970801338937
 
 #### Тип:
 
@@ -31234,25 +23014,9 @@ Nylon+fiberglass, aluminum-alloy
 
 P-PG-003
 
-#### Дополнительные изображения:
-
-226661 / 226662 / 226663 / 226664 / 226665 / 226666 / 226667 / 226668
-
 #### Цвет:
 
 серый
-
-#### KaspiQtyAlmaty:
-
-4
-
-#### KaspiQtyAstana:
-
-8
-
-#### Цена со скидкой:
-
-19500
 
 #### Дополнительные возможности:
 
@@ -31266,10 +23030,6 @@ P-PG-003
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.pgytech.com
-
 #### Размер упаковки (Ш×В×Г), cm:
 
 6.7 x 14.7 x 18.6
@@ -31278,7 +23038,11 @@ https://www.pgytech.com
 
 289
 
----
+
+
+
+
+
 
 ## Крепление PGYTECH Action Camera Magnetic Mount
 
@@ -31296,10 +23060,6 @@ https://drone.kz/product/kreplenie-pgytech-action-camera-magnetic-mount/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970801338876
-
 #### Тип:
 
 крепление
@@ -31316,33 +23076,13 @@ PGYTECH Action Camera Magnetic Mount
 
 PA66+GF, TPU, aluminum-alloy
 
-#### Код видео YouTube:
-
-wDE9kEQOrIA
-
 #### Артикул:
 
 P-GM-155
 
-#### Дополнительные изображения:
-
-226670 / 226671 / 226672 / 226673 / 226674 / 226675 / 226676
-
 #### Цвет:
 
 серый
-
-#### KaspiQtyAlmaty:
-
-35
-
-#### KaspiQtyAstana:
-
-12
-
-#### Цена со скидкой:
-
-19500
 
 #### Рабочая температура, °C:
 
@@ -31356,15 +23096,15 @@ P-GM-155
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.pgytech.com
-
 #### Размеры (Ш×В×Г), cm:
 
 11.9 х φ6.4
 
----
+
+
+
+
+
 
 ## Аккумулятор DJI TB51
 
@@ -31381,10 +23121,6 @@ https://www.pgytech.com
 https://drone.kz/product/akkumulyator-dji-tb51/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6941565956002
 
 #### Тип:
 
@@ -31414,25 +23150,9 @@ DJITB51
 
 Inspire 2
 
-#### Дополнительные изображения:
-
-226739 / 226740 / 226741 / 226742 / 226743
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-290300
 
 #### Рабочая температура, °C:
 
@@ -31454,15 +23174,11 @@ Inspire 2
 
 12
 
-#### Страница товара на сайте производителя:
 
-http://www.dji.com/
 
-#### К этому товару подходят:
 
-Квадрокоптер DJI Inspire 3 / Зарядный хаб DJI TB51
 
----
+
 
 ## Высокогорные пропеллеры DJI Inspire 3 (Pair)
 
@@ -31479,10 +23195,6 @@ http://www.dji.com/
 https://drone.kz/product/vysokogornye-propellery-dji-inspire-3-pair/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6941565956248
 
 #### Тип:
 
@@ -31504,33 +23216,13 @@ I3FQRPHA
 
 Inspire 2
 
-#### Дополнительные изображения:
-
-226745 / 226746 / 226747 / 226748
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-8
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 DJI Inspire 3
-
-#### Цена со скидкой:
-
-62300
-
-#### Старая цена:
-
-9000
 
 #### Порты и интерфейсы:
 
@@ -31548,15 +23240,11 @@ DJI Inspire 3
 
 12
 
-#### Страница товара на сайте производителя:
 
-http://dji.com/
 
-#### К этому товару подходят:
 
-Пропеллеры DJI Inspire 3 Standart (Pair) / Квадрокоптер DJI Inspire 3
 
----
+
 
 ## Шейное крепление DJI Osmo Action Hanging Neck
 
@@ -31574,10 +23262,6 @@ https://drone.kz/product/sheynoe-kreplenie-dji-osmo-action-hanging-neck/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6941565962430
-
 #### Тип:
 
 крепление
@@ -31594,25 +23278,9 @@ Osmo Action Hanging Neck Mount
 
 DJIOSAHNM
 
-#### Дополнительные изображения:
-
-226991 / 226992 / 226993 / 226994 / 226995
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-17200
 
 #### Комплектация:
 
@@ -31622,15 +23290,11 @@ DJIOSAHNM
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.dji.com
 
-#### К этому товару подходят:
 
-Экшн-камера DJI Osmo Action / Экшн-камера DJI Osmo Action 3 / Экшн-камера DJI Action 2 Power Combo
 
----
+
 
 ## UV-фильтр (Pro) PGYTECH | Mavic 3 Pro
 
@@ -31647,10 +23311,6 @@ UV-фильтр (Pro) PGYTECH | Mavic 3 Pro – это светофильтр, �
 https://drone.kz/product/uv-filtr-pro-pgytech-mavic-3-pro/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6976100482272
 
 #### Тип:
 
@@ -31672,25 +23332,9 @@ Alu
 
 P-43A-030
 
-#### Дополнительные изображения:
-
-227039
-
-#### KaspiQtyAlmaty:
-
-5
-
-#### KaspiQtyAstana:
-
-4
-
 #### Совместимость:
 
 Mavic 3 Pro
-
-#### Цена со скидкой:
-
-12600
 
 #### Комплектация:
 
@@ -31699,14 +23343,6 @@ UV-фильтр (Pro) PGYTECH | Mavic 3 Pro / Руководство
 #### Срок гарантии производителя, m:
 
 12
-
-#### Страница товара на сайте производителя:
-
-pgytech.com
-
-#### К этому товару подходят:
-
-Квадрокоптер DJI Mavic 3 Pro (DJI RC) / Квадрокоптер DJI Mavic 3 Pro Fly More Combo (DJI RC) / Квадрокоптер DJI Mavic 3 Pro Fly More Combo (DJI RC Pro) / Квадрокоптер DJI Mavic 3 Pro Cine Premium Combo (DJI RC Pro) / CPL-фильтр (Pro) PGYTECH | Mavic 3 Pro
 
 #### Размеры (Ш×В×Г), cm:
 
@@ -31720,7 +23356,11 @@ pgytech.com
 
 6.5
 
----
+
+
+
+
+
 
 ## CPL-фильтр (Pro) PGYTECH | Mavic 3 Pro
 
@@ -31737,10 +23377,6 @@ CPL-фильтр (Pro) PGYTECH | Mavic 3 Pro – это поляризацион
 https://drone.kz/product/cpl-filtr-pro-pgytech-mavic-3-pro/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6976100482289
 
 #### Тип:
 
@@ -31762,25 +23398,9 @@ Alu
 
 P-43A-031
 
-#### Дополнительные изображения:
-
-227041
-
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-4
-
 #### Совместимость:
 
 Mavic 3 Pro
-
-#### Цена со скидкой:
-
-14900
 
 #### Комплектация:
 
@@ -31790,14 +23410,6 @@ CPL-фильтр (Pro) PGYTECH | Mavic 3 Pro / Руководство
 
 12
 
-#### Страница товара на сайте производителя:
-
-pgytech.com
-
-#### К этому товару подходят:
-
-Квадрокоптер DJI Mavic 3 Pro (DJI RC) / Квадрокоптер DJI Mavic 3 Pro Fly More Combo (DJI RC) / Квадрокоптер DJI Mavic 3 Pro Fly More Combo (DJI RC Pro) / Квадрокоптер DJI Mavic 3 Pro Cine Premium Combo (DJI RC Pro) / NDPL-фильтры (Pro 8 16 32 64) PGYTECH | Mavic 3 Pro / UV-фильтр (Pro) PGYTECH | Mavic 3 Pro
-
 #### Размер упаковки (Ш×В×Г), cm:
 
 10.0 x 9.5 x 3.0
@@ -31806,7 +23418,11 @@ pgytech.com
 
 8.5
 
----
+
+
+
+
+
 
 ## NDPL-фильтры (Pro 8 16 32 64) PGYTECH | Mavic 3 Pro
 
@@ -31823,10 +23439,6 @@ NDPL-фильтры (Pro 8 16 32 64) PGYTECH | Mavic 3 Pro – это набор
 https://drone.kz/product/ndpl-filtry-pro-8-16-32-64-pgytech-mavic-3-pro/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6976100482296
 
 #### Тип:
 
@@ -31848,25 +23460,9 @@ Alu
 
 P-43A-034
 
-#### Дополнительные изображения:
-
-227043 / 227044 / 227045
-
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-2
-
 #### Совместимость:
 
 Mavic 3 Pro
-
-#### Цена со скидкой:
-
-36900
 
 #### Комплектация:
 
@@ -31876,19 +23472,15 @@ NDPL-фильтры (Pro 8 16 32 64) PGYTECH | Mavic 3 Pro: / NDPL-8 х 1 / NDPL
 
 12
 
-#### Страница товара на сайте производителя:
-
-pgytech.com
-
-#### К этому товару подходят:
-
-Квадрокоптер DJI Mavic 3 Pro (DJI RC) / Квадрокоптер DJI Mavic 3 Pro Fly More Combo (DJI RC) / Квадрокоптер DJI Mavic 3 Pro Fly More Combo (DJI RC Pro) / Квадрокоптер DJI Mavic 3 Pro Cine Premium Combo (DJI RC Pro) / CPL-фильтр (Pro) PGYTECH | Mavic 3 Pro / UV-фильтр (Pro) PGYTECH | Mavic 3 Pro
-
 #### Вес товара, г:
 
 8.5
 
----
+
+
+
+
+
 
 ## Перчатки The Heat Company Merino PRO Liner 10-11
 
@@ -31906,10 +23498,6 @@ https://drone.kz/product/perchatki-the-heat-company-merino-pro-liner/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-9006746330624
-
 #### Тип:
 
 Перчатки
@@ -31926,29 +23514,13 @@ the-heat-company
 
 U33062
 
-#### Дополнительные изображения:
-
-227086 / 227087 / 227088 / 227089
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-0
-
 #### Размер перчаток:
 
 M (10; 18,5-19,5) / L (11; 19,5-20,5)
-
-#### Цена со скидкой:
-
-42600
 
 #### Дополнительные возможности:
 
@@ -31962,15 +23534,11 @@ M (10; 18,5-19,5) / L (11; 19,5-20,5)
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.theheatcompany.com/int/gloves/polartec-merino-liner-power-wool
 
-#### К этому товару подходят:
 
-Грелки для рук The Heat Company Handwarmer - 12H / Рукавицы The Heat Company Shell tarmac / Рукавицы The Heat Company Shell Full Leather 11
 
----
+
 
 ## Перчатки The Heat Company Durable Liner Pro 6
 
@@ -31988,10 +23556,6 @@ https://drone.kz/product/perchatki-the-heat-company-durable-pro-liner/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-9006746330709
-
 #### Тип:
 
 Перчатки
@@ -32008,29 +23572,13 @@ Durable PRO Liner
 
 U33070
 
-#### Дополнительные изображения:
-
-227091 / 227092 / 227093 / 227094 / 227095 / 227096 / 227097
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 SHELL
-
-#### Цена со скидкой:
-
-63400
 
 #### Дополнительные возможности:
 
@@ -32044,15 +23592,11 @@ SHELL
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.theheatcompany.com/int/gloves/durable-liner-pro
 
-#### К этому товару подходят:
 
-Рукавицы The Heat Company Shell black 10-11 / Грелки для рук The Heat Company Handwarmer - 12H / Бальзам для кожаных изделий The Heat Company Leather Balm
 
----
+
 
 ## Грелки для рук The Heat Company Handwarmer - 12H
 
@@ -32070,10 +23614,6 @@ https://drone.kz/product/grelki-dlya-ruk-the-heat-company-handwarmer-12h/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-9006746120010
-
 #### Тип:
 
 грелка
@@ -32086,29 +23626,9 @@ the-heat-company
 
 Handwarmer - 12H
 
-#### Код видео YouTube:
-
-3B5-wimT364
-
 #### Артикул:
 
 U12001
-
-#### Дополнительные изображения:
-
-227120 / 227121 / 227122 / 227123 / 227124 / 227125 / 227126 / 227127 / 227128 / 227129 / 227130 / 227131 / 227132
-
-#### KaspiQtyAlmaty:
-
-71
-
-#### KaspiQtyAstana:
-
-39
-
-#### Цена со скидкой:
-
-4500
 
 #### Дополнительные возможности:
 
@@ -32122,19 +23642,15 @@ U12001
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.theheatcompany.com/
-
-#### К этому товару подходят:
-
-Перчатки The Heat Company Tactility Liner 10 / Перчатки The Heat Company Merino Liner / Перчатки The Heat Company Durable Liner Pro 6 / Перчатки The Heat Company Merino PRO Liner 10-11
-
 #### Размеры (Ш×В×Г), cm:
 
 9 x 5
 
----
+
+
+
+
+
 
 ## Грелки для ног The Heat Company Toewarmers 8h (15 pairs)
 
@@ -32152,10 +23668,6 @@ https://drone.kz/product/grelki-dlya-nog-the-heat-company-toewarmers-8h-15-pairs
 
 ### Характеристики:
 
-#### Штрихкод:
-
-9006746121154
-
 #### Тип:
 
 грелка
@@ -32168,29 +23680,9 @@ the-heat-company
 
 Toewarmers 8h (15 pairs)
 
-#### Код видео YouTube:
-
-6PgSq5E_pWo
-
 #### Артикул:
 
 U12115
-
-#### Дополнительные изображения:
-
-227134 / 227135 / 227136 / 227137 / 227138 / 227139 / 227140 / 227141 / 227142 / 227143 / 227144 / 227145 / 227146 / 227147
-
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-1
-
-#### Цена со скидкой:
-
-25300
 
 #### Дополнительные возможности:
 
@@ -32204,19 +23696,15 @@ U12115
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.theheatcompany.com/
-
-#### К этому товару подходят:
-
-Грелки для ног The Heat Company Toewarmers 8h (1 pair)
-
 #### Размеры (Ш×В×Г), cm:
 
 9 х 7
 
----
+
+
+
+
+
 
 ## Грелки для ног The Heat Company Toewarmers 8h (1 pair)
 
@@ -32234,10 +23722,6 @@ https://drone.kz/product/grelki-dlya-nog-the-heat-company-toewarmers-8h-1-pair/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-9006746121017
-
 #### Тип:
 
 грелка
@@ -32250,29 +23734,9 @@ the-heat-company
 
 Toewarmers 8h (15 pairs)
 
-#### Код видео YouTube:
-
-6PgSq5E_pWo
-
 #### Артикул:
 
 U12101
-
-#### Дополнительные изображения:
-
-227149 / 227150 / 227151 / 227152 / 227153 / 227154 / 227155 / 227156 / 227157 / 227158 / 227159 / 227160
-
-#### KaspiQtyAlmaty:
-
-70
-
-#### KaspiQtyAstana:
-
-38
-
-#### Цена со скидкой:
-
-4500
 
 #### Дополнительные возможности:
 
@@ -32286,14 +23750,6 @@ U12101
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.theheatcompany.com/
-
-#### К этому товару подходят:
-
-Грелки для ног The Heat Company Toewarmers 8h (15 pairs)
-
 #### Размеры (Ш×В×Г), cm:
 
 9 х 7
@@ -32302,7 +23758,11 @@ https://www.theheatcompany.com/
 
 Грелки для ног The Heat Company Toewarmers 8h (15 pairs) / Стельки самонагревающиеся The Heat Company Insole Footwarmers S / Стельки самонагревающиеся The Heat Company Insole Footwarmers Adhesive
 
----
+
+
+
+
+
 
 ## Стельки самонагревающиеся The Heat Company Insole Footwarmers S
 
@@ -32320,10 +23780,6 @@ https://drone.kz/product/stelki-samonagrevayushchiesya-the-heat-company-insole-f
 
 ### Характеристики:
 
-#### Штрихкод:
-
-9006746122144
-
 #### Тип:
 
 стельки
@@ -32340,25 +23796,9 @@ Insole Footwarmers
 
 U12214
 
-#### Дополнительные изображения:
-
-227162 / 227163 / 227164 / 227165 / 227166 / 227167 / 227168 / 227169 / 227170 / 227171 / 227172
-
 #### Цвет:
 
 белый
-
-#### KaspiQtyAlmaty:
-
-60
-
-#### KaspiQtyAstana:
-
-56
-
-#### Цена со скидкой:
-
-5700
 
 #### Дополнительные возможности:
 
@@ -32372,11 +23812,11 @@ U12214
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.theheatcompany.com/
 
----
+
+
+
 
 ## Стельки самонагревающиеся The Heat Company Insole Footwarmers Adhesive
 
@@ -32394,10 +23834,6 @@ https://drone.kz/product/stelki-samonagrevayushchiesya-the-heat-company-insole-f
 
 ### Характеристики:
 
-#### Штрихкод:
-
-9006746122052
-
 #### Тип:
 
 стельки
@@ -32414,25 +23850,9 @@ Insole Footwarmers Adhesive
 
 U12205
 
-#### Дополнительные изображения:
-
-227174 / 227175 / 227176 / 227177 / 227178 / 227179 / 227180 / 227181
-
 #### Цвет:
 
 белый
-
-#### KaspiQtyAlmaty:
-
-60
-
-#### KaspiQtyAstana:
-
-55
-
-#### Цена со скидкой:
-
-5700
 
 #### Дополнительные возможности:
 
@@ -32446,11 +23866,11 @@ U12205
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.theheatcompany.com/
 
----
+
+
+
 
 ## Грелка для тела The Heat Company Bodywarmer
 
@@ -32468,10 +23888,6 @@ https://drone.kz/product/grelka-dlya-tela-the-heat-company-bodywarmer/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-9006746123011
-
 #### Тип:
 
 грелка
@@ -32484,33 +23900,13 @@ the-heat-company
 
 Bodywarmer
 
-#### Код видео YouTube:
-
-AE_o0OKLtMA
-
 #### Артикул:
 
 U12301
 
-#### Дополнительные изображения:
-
-227183 / 227184 / 227185 / 227186 / 227187 / 227188 / 227189 / 227190 / 227191
-
 #### Цвет:
 
 белый
-
-#### KaspiQtyAlmaty:
-
-80
-
-#### KaspiQtyAstana:
-
-40
-
-#### Цена со скидкой:
-
-4500
 
 #### Дополнительные возможности:
 
@@ -32524,15 +23920,15 @@ U12301
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.theheatcompany.com/
-
 #### Размеры (Ш×В×Г), cm:
 
 9 x 13
 
----
+
+
+
+
+
 
 ## Грелка для поясницы The Heat Company Heat Wraps (3 pcs)
 
@@ -32550,10 +23946,6 @@ https://drone.kz/product/grelka-dlya-poyasnitsy-the-heat-company-heat-wraps-3-pc
 
 ### Характеристики:
 
-#### Штрихкод:
-
-9006746127033
-
 #### Тип:
 
 грелка
@@ -32570,25 +23962,9 @@ Heat Wraps (3 pcs)
 
 U12703
 
-#### Дополнительные изображения:
-
-227193 / 227194 / 227195 / 227196 / 227197 / 227198
-
 #### Цвет:
 
 белый
-
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-1
-
-#### Цена со скидкой:
-
-19500
 
 #### Дополнительные возможности:
 
@@ -32602,11 +23978,11 @@ U12703
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.theheatcompany.com/
 
----
+
+
+
 
 ## Грелка для плеч The Heat Company Shoulderwarmer (8 pcs)
 
@@ -32624,10 +24000,6 @@ https://drone.kz/product/grelka-dlya-plech-the-heat-company-shoulderwarmer-8-pcs
 
 ### Характеристики:
 
-#### Штрихкод:
-
-9006746136080
-
 #### Тип:
 
 грелка
@@ -32644,25 +24016,9 @@ Shoulderwarmer (8 pcs)
 
 U13608
 
-#### Дополнительные изображения:
-
-227200 / 227201 / 227202 / 227203 / 227204
-
 #### Цвет:
 
 белый
-
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-1
-
-#### Цена со скидкой:
-
-34500
 
 #### Дополнительные возможности:
 
@@ -32676,11 +24032,11 @@ U13608
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.theheatcompany.com/
 
----
+
+
+
 
 ## Грелка для шеи The Heat Company Neckwarmer (3 pcs)
 
@@ -32698,10 +24054,6 @@ https://drone.kz/product/grelka-dlya-shei-the-heat-company-neckwarmer-3-pcs/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-9006746135038
-
 #### Тип:
 
 грелка
@@ -32718,25 +24070,9 @@ Neckwarmer (3 pcs)
 
 U13503
 
-#### Дополнительные изображения:
-
-227206 / 227207 / 227208 / 227209 / 227210 / 227211 / 227212 / 227213
-
 #### Цвет:
 
 белый
-
-#### KaspiQtyAlmaty:
-
-8
-
-#### KaspiQtyAstana:
-
-5
-
-#### Цена со скидкой:
-
-12600
 
 #### Дополнительные возможности:
 
@@ -32750,15 +24086,15 @@ U13503
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.theheatcompany.com/
-
 #### Размеры (Ш×В×Г), cm:
 
 10 х 13
 
----
+
+
+
+
+
 
 ## Грелка для спины The Heat Company Backwarmer (XL 3 pcs)
 
@@ -32776,10 +24112,6 @@ https://drone.kz/product/grelka-dlya-spiny-the-heat-company-backwarmer-xl-3-pcs/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-9006746136035
-
 #### Тип:
 
 грелка
@@ -32796,25 +24128,9 @@ Backwarmer (XL 3 pcs)
 
 U13603
 
-#### Дополнительные изображения:
-
-227215 / 227216 / 227217 / 227218 / 227219 / 227220 / 227221 / 227222 / 227223 / 227224
-
 #### Цвет:
 
 белый
-
-#### KaspiQtyAlmaty:
-
-4
-
-#### KaspiQtyAstana:
-
-3
-
-#### Цена со скидкой:
-
-18400
 
 #### Дополнительные возможности:
 
@@ -32828,15 +24144,15 @@ U13603
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.theheatcompany.com/
-
 #### Размеры (Ш×В×Г), cm:
 
 20 х 13
 
----
+
+
+
+
+
 
 ## Мультигрелка The Heat Company Multiwarmer
 
@@ -32854,10 +24170,6 @@ https://drone.kz/product/multigrelka-the-heat-company-multiwarmer/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-9006746124018
-
 #### Тип:
 
 грелка
@@ -32874,25 +24186,9 @@ Multiwarmer
 
 U12401
 
-#### Дополнительные изображения:
-
-227226 / 227227 / 227228 / 227229 / 227230 / 227231
-
 #### Цвет:
 
 белый
-
-#### KaspiQtyAlmaty:
-
-80
-
-#### KaspiQtyAstana:
-
-34
-
-#### Цена со скидкой:
-
-5700
 
 #### Дополнительные возможности:
 
@@ -32906,15 +24202,15 @@ U12401
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.theheatcompany.com/
-
 #### Размеры (Ш×В×Г), cm:
 
 10 х 13
 
----
+
+
+
+
+
 
 ## Грелки для стелек The Heat Company Footwarmers for Insoles
 
@@ -32932,10 +24228,6 @@ https://drone.kz/product/grelki-dlya-stelek-the-heat-company-footwarmers-for-ins
 
 ### Характеристики:
 
-#### Штрихкод:
-
-9006746122014
-
 #### Тип:
 
 грелка
@@ -32952,25 +24244,9 @@ Footwarmers for Insoles
 
 U12201
 
-#### Дополнительные изображения:
-
-227233 / 227234 / 227235 / 227236 / 227237
-
 #### Цвет:
 
 белый
-
-#### KaspiQtyAlmaty:
-
-80
-
-#### KaspiQtyAstana:
-
-38
-
-#### Цена со скидкой:
-
-5700
 
 #### Дополнительные возможности:
 
@@ -32984,19 +24260,15 @@ U12201
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.theheatcompany.com/
-
-#### К этому товару подходят:
-
-Женские стельки The Heat Company YETI SPORT EU 36-41 / Женские стельки The Heat Company YETI KORK EU 36-41 / Стельки The Heat Company YETI ORTHO S
-
 #### Размеры (Ш×В×Г), cm:
 
 9 х 5
 
----
+
+
+
+
+
 
 ## Супергрелка The Heat Company Ultrawarmer (3 pcs)
 
@@ -33014,10 +24286,6 @@ https://drone.kz/product/supergrelka-the-heat-company-ultrawarmer-3-pcs/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-9006746124087
-
 #### Тип:
 
 грелка
@@ -33034,25 +24302,9 @@ Ultrawarmer (3 pcs)
 
 U12408
 
-#### Дополнительные изображения:
-
-227239 / 227240 / 227241
-
 #### Цвет:
 
 белый
-
-#### KaspiQtyAlmaty:
-
-20
-
-#### KaspiQtyAstana:
-
-12
-
-#### Цена со скидкой:
-
-13800
 
 #### Дополнительные возможности:
 
@@ -33066,15 +24318,15 @@ U12408
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.theheatcompany.com/
-
 #### Размеры (Ш×В×Г), cm:
 
 16 х 12
 
----
+
+
+
+
+
 
 ## Женские стельки The Heat Company YETI SPORT EU 36-41
 
@@ -33092,10 +24344,6 @@ https://drone.kz/product/zhenskie-stelki-the-heat-company-yeti-sport-eu-36-41/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-9006746221014
-
 #### Тип:
 
 стельки
@@ -33112,25 +24360,9 @@ YETI SPORT EU 36-41
 
 U22101
 
-#### Дополнительные изображения:
-
-227243 / 227244
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-1
-
-#### Цена со скидкой:
-
-11400
 
 #### Дополнительные возможности:
 
@@ -33144,15 +24376,11 @@ U22101
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.theheatcompany.com/
 
-#### К этому товару подходят:
 
-Грелки для стелек The Heat Company Footwarmers for Insoles / Грелки для рук The Heat Company Handwarmer - 12H
 
----
+
 
 ## Женские стельки The Heat Company YETI KORK EU 36-41
 
@@ -33170,10 +24398,6 @@ https://drone.kz/product/zhenskie-stelki-the-heat-company-yeti-kork-eu-36-41/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-9006746211015
-
 #### Тип:
 
 стельки
@@ -33190,25 +24414,9 @@ YETI KORK EU 36-41
 
 U21101
 
-#### Дополнительные изображения:
-
-227246 / 227247 / 227248 / 227249
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-1
-
-#### Цена со скидкой:
-
-14900
 
 #### Дополнительные возможности:
 
@@ -33222,15 +24430,11 @@ U21101
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.theheatcompany.com/
 
-#### К этому товару подходят:
 
-Грелки для стелек The Heat Company Footwarmers for Insoles / Грелки для рук The Heat Company Handwarmer - 12H
 
----
+
 
 ## Стельки The Heat Company YETI ORTHO S
 
@@ -33248,10 +24452,6 @@ https://drone.kz/product/stelki-the-heat-company-yeti-ortho/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-9006746212012
-
 #### Тип:
 
 стельки
@@ -33268,25 +24468,9 @@ YETI ORTHO
 
 U21201
 
-#### Дополнительные изображения:
-
-227251 / 227252 / 227253 / 227254
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-1
-
-#### Цена со скидкой:
-
-18400
 
 #### Дополнительные возможности:
 
@@ -33300,15 +24484,11 @@ U21201
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.theheatcompany.com/
 
-#### К этому товару подходят:
 
-Грелки для стелек The Heat Company Footwarmers for Insoles
 
----
+
 
 ## Пробковые стельки The Heat Company YUKON L
 
@@ -33326,10 +24506,6 @@ https://drone.kz/product/probkovye-stelki-the-heat-company-yukon/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-9006746213033
-
 #### Тип:
 
 стельки
@@ -33346,25 +24522,9 @@ CORK INSOLE YUKON
 
 U21303
 
-#### Дополнительные изображения:
-
-227256 / 227257
-
 #### Цвет:
 
 песочный
-
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-1
-
-#### Цена со скидкой:
-
-21800
 
 #### Дополнительные возможности:
 
@@ -33378,15 +24538,11 @@ U21303
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.theheatcompany.com/
 
-#### К этому товару подходят:
 
-Грелки для рук The Heat Company Handwarmer - 12H / Грелки для ног The Heat Company Toewarmers 8h (15 pairs)
 
----
+
 
 ## Бальзам для кожаных изделий The Heat Company Leather Balm
 
@@ -33404,10 +24560,6 @@ https://drone.kz/product/balzam-dlya-kozhanykh-izdeliy-the-heat-company-leather-
 
 ### Характеристики:
 
-#### Штрихкод:
-
-9006746330013
-
 #### Тип:
 
 Перчатки
@@ -33424,22 +24576,6 @@ Leather Balm
 
 U33001
 
-#### Дополнительные изображения:
-
-227266 / 227267
-
-#### KaspiQtyAlmaty:
-
-5
-
-#### KaspiQtyAstana:
-
-4
-
-#### Цена со скидкой:
-
-11400
-
 #### Дополнительные возможности:
 
 Не подходит для необработанной кожи, нубука или велюра / Ингредиенты: Пчелиный воск/Масло жожоба/Канделильский воск/Карнаубский воск/Масло авокадо/Петролатум (вазелин)/Ланолин
@@ -33452,15 +24588,11 @@ U33001
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.theheatcompany.com/
 
-#### К этому товару подходят:
 
-Рукавицы The Heat Company Shell black 10-11 / Перчатки The Heat Company Durable Liner Pro 6
 
----
+
 
 ## Осветитель Insta360 Flow Spotlight
 
@@ -33478,10 +24610,6 @@ https://drone.kz/product/osvetitel-insta360-flow-spotlight/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970357854585
-
 #### Тип:
 
 лампа освещения
@@ -33498,29 +24626,13 @@ Insta360 Flow Spotlight
 
 INST2187
 
-#### Дополнительные изображения:
-
-227348 / 227349 / 227350 / 227351 / 227352 / 227353 / 227354 / 227355 / 227356
-
 #### Цвет:
 
 белый
 
-#### KaspiQtyAlmaty:
-
-14
-
-#### KaspiQtyAstana:
-
-1
-
 #### Совместимость:
 
 Flow
-
-#### Цена со скидкой:
-
-19500
 
 #### Порты и интерфейсы:
 
@@ -33546,19 +24658,15 @@ USB-C
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://insta360.com/
-
-#### К этому товару подходят:
-
-Стабилизатор для смартфона Insta360 Flow Standalone Stone Gray / Стабилизатор для смартфона Insta360 Flow Standalone Summit White / Стабилизатор для смартфона Insta360 Flow Creator Kit Stone Gray / Стабилизатор для смартфона Insta360 Flow Pro Tripod Kit Stone Gray / Стабилизатор для смартфона Insta360 Flow Creator Kit Summit White / Стабилизатор для смартфона Insta360 Flow Pro Tripod Kit Summit White
-
 #### Размеры (Ш×В×Г), cm:
 
 3.8 x 1.6 x 23.5
 
----
+
+
+
+
+
 
 ## Мультифункциональный селфи-стик Insta360 Multi Mount
 
@@ -33576,10 +24684,6 @@ https://drone.kz/product/multifunktsionalnyy-selfi-stik-insta360-multi-mount/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970357853915
-
 #### Тип:
 
 штатив / монопод
@@ -33596,29 +24700,13 @@ Multi Mount
 
 INST2354
 
-#### Дополнительные изображения:
-
-227358 / 227359 / 227360 / 227361 / 227362 / 227363 / 227364
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-16
-
-#### KaspiQtyAstana:
-
-5
-
 #### Совместимость:
 
 ONE R/GO/Link/ONE RS/GO 2
-
-#### Цена со скидкой:
-
-35700
 
 #### Порты и интерфейсы:
 
@@ -33636,19 +24724,15 @@ ONE R/GO/Link/ONE RS/GO 2
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://insta360.com/
-
-#### К этому товару подходят:
-
-Панорамная экшн-камера Insta360 ONE X2 Standalone / Экшн-камера Insta360 GO 2 Standalone / Модульная экшн-камера Insta360 ONE R 1-Inch Edition
-
 #### Размеры (Ш×В×Г), cm:
 
 Длина в сложенном состоянии: 21 см / Длина в разложенном состоянии: 51 
 
----
+
+
+
+
+
 
 ## Крепление Insta360 Third-Person Bike Tail
 
@@ -33666,10 +24750,6 @@ https://drone.kz/product/kreplenie-insta360-third-person-bike-tail/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970357854219
-
 #### Тип:
 
 крепление
@@ -33686,29 +24766,13 @@ Third-Person Bike Tail Mount
 
 INST2142
 
-#### Дополнительные изображения:
-
-227386 / 227387 / 227388
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-19
-
-#### KaspiQtyAstana:
-
-5
-
 #### Совместимость:
 
 Insta 360 X3/ONE RS (кроме 1-inch 360)/ONE-X2
-
-#### Цена со скидкой:
-
-26690
 
 #### Дополнительные возможности:
 
@@ -33722,19 +24786,15 @@ Insta 360 X3/ONE RS (кроме 1-inch 360)/ONE-X2
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://insta360.com/
-
-#### К этому товару подходят:
-
-Панорамная камера Insta360 X3 / Панорамная экшн-камера Insta360 ONE X2 Standalone
-
 #### Размеры (Ш×В×Г), cm:
 
 12.0 х 6.6 х 5.8
 
----
+
+
+
+
+
 
 ## Лицевая накладка DJI Goggles Integra
 
@@ -33752,10 +24812,6 @@ https://drone.kz/product/litsevaya-nakladka-dji-goggles-integra/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6941565952349
-
 #### Тип:
 
 подкладка оголовья
@@ -33772,29 +24828,13 @@ dji
 
 DJIGFPIN2
 
-#### Дополнительные изображения:
-
-227390 / 227391 / 227392 / 227393 / 227394
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-4
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 DJI Goggles Integra
-
-#### Цена со скидкой:
-
-10300
 
 #### Комплектация:
 
@@ -33804,15 +24844,11 @@ DJI Goggles Integra
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.dji.com/
 
-#### К этому товару подходят:
 
-Цифровые очки DJI Goggles Integra / Цифровые очки DJI Goggles Integra Motion Combo
 
----
+
 
 ## Аккумулятор TB65 DJI Matrice 350
 
@@ -33829,10 +24865,6 @@ https://www.dji.com/
 https://drone.kz/product/akkumulyator-tb65-dji-matrice-350/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6941565960146
 
 #### Тип:
 
@@ -33858,29 +24890,13 @@ TB65 Intelligent Flight Battery
 
 DJITB65
 
-#### Дополнительные изображения:
-
-227457 / 227458 / 227459
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-1
-
 #### Совместимость:
 
 Matrice 350 RTK, Matrice 300 RTK
-
-#### Цена со скидкой:
-
-578500
 
 #### Рабочая температура, °C:
 
@@ -33898,19 +24914,15 @@ Matrice 350 RTK, Matrice 300 RTK
 
 12
 
-#### Страница товара на сайте производителя:
-
-http://www.dji.com/
-
-#### К этому товару подходят:
-
-Квадрокоптер DJI Matrice 350 RTK / Квадрокоптер DJI Matrice 300 RTK / Зарядная станция BS65 DJI Matrice 350
-
 #### Вес товара, кг:
 
 1.35
 
----
+
+
+
+
+
 
 ## ND-фильтры ND8/16/32/64 DJI Air 3
 
@@ -33928,10 +24940,6 @@ https://drone.kz/product/nd-filtry-nd8-16-32-64-dji-air-3/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6941565965448
-
 #### Тип:
 
 светофильтр
@@ -33948,25 +24956,9 @@ Air 3 ND Filters Set (ND8/16/32/64)
 
 Air 3 ND Filters Set
 
-#### Дополнительные изображения:
-
-227605 / 227606 / 227607 / 227608 / 227609
-
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 Air 3
-
-#### Цена со скидкой:
-
-52700
 
 #### Комплектация:
 
@@ -33976,15 +24968,11 @@ ND-фильтры ND8/16/32/64 DJI Air 3: / Фильтр ND8 × 1 / Фильтр
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.dji.com
 
-#### К этому товару подходят:
 
-Квадрокоптер DJI Air 3 (DJI RC-N2) / Квадрокоптер DJI Air 3 Fly More Combo (DJI RC-N2) / Квадрокоптер DJI Air 3 Fly More Combo (DJI RC 2)
 
----
+
 
 ## Зарядный хаб DJI Air 3
 
@@ -34002,10 +24990,6 @@ https://drone.kz/product/zaryadnyy-khab-dji-air-3/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6941565965455
-
 #### Тип:
 
 зарядный хаб
@@ -34018,33 +25002,13 @@ dji
 
 CHX233-100
 
-#### Код видео YouTube:
-
-p0MoXmz53Ls
-
 #### Артикул:
 
 CHX233-100
 
-#### Дополнительные изображения:
-
-227611 / 227612 / 227613 / 227614
-
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 Air 3, BWX233-4241-14.76
-
-#### Цена со скидкой:
-
-41900
 
 #### Комплектация:
 
@@ -34054,23 +25018,15 @@ Air 3, BWX233-4241-14.76
 
 12
 
-#### Руководство пользователя:
-
-https://dl.djicdn.com/downloads/DJI_Air_3/AC/DJI_Air_3_Battery_Charging_Hub_User_Guide_multi.pdf
-
-#### Страница товара на сайте производителя:
-
-https://www.dji.com
-
-#### К этому товару подходят:
-
-Квадрокоптер DJI Air 3 (DJI RC-N2) / Аккумулятор DJI Air 3 / Зарядное устройство DJI 100W USB-C (EU)
-
 #### Размеры (Ш×В×Г), cm:
 
 17.0×4.8×11.3
 
----
+
+
+
+
+
 
 ## Пропеллеры Low-Noise DJI Air 3
 
@@ -34088,10 +25044,6 @@ https://drone.kz/product/propellery-low-noise-dji-air-3/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6941565965424
-
 #### Тип:
 
 пропеллеры
@@ -34108,18 +25060,6 @@ dji
 
 Air 3 Low-Noise Propellers
 
-#### Дополнительные изображения:
-
-227619 / 227620 / 227621 / 227622 / 227623
-
-#### KaspiQtyAlmaty:
-
-6
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 Air 3
@@ -34127,10 +25067,6 @@ Air 3
 #### Аксессуары в комплекте:
 
 Пульт ДУ
-
-#### Цена со скидкой:
-
-9800
 
 #### Дополнительные возможности:
 
@@ -34144,15 +25080,11 @@ Air 3
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.dji.com
 
-#### К этому товару подходят:
 
-Квадрокоптер DJI Air 3 (DJI RC-N2) / Квадрокоптер DJI Air 3 Fly More Combo (DJI RC-N2) / Квадрокоптер DJI Air 3 Fly More Combo (DJI RC 2)
 
----
+
 
 ## Набор аксессуаров DJI Osmo Action Road Cycling
 
@@ -34170,10 +25102,6 @@ https://drone.kz/product/nabor-aksessuarov-dji-osmo-action-road-cycling/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6941565965493
-
 #### Тип:
 
 крепление / комплект
@@ -34186,33 +25114,13 @@ dji
 
 Osmo Action Road Cycling
 
-#### Код видео YouTube:
-
-ggNLIva06xc
-
 #### Артикул:
 
 Osmo Action Road Cycling
 
-#### Дополнительные изображения:
-
-227631 / 227632 / 227633
-
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 Osmo Action 3,  Osmo Action 4
-
-#### Цена со скидкой:
-
-39200
 
 #### Комплектация:
 
@@ -34222,14 +25130,6 @@ Osmo Action 3,  Osmo Action 4
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.dji.com
-
-#### К этому товару подходят:
-
-Экшн-камера DJI Osmo Action 4 Standard Combo / Экшн-камера DJI Osmo Action 3 Adventure Combo
-
 #### Размеры (Ш×В×Г), cm:
 
 Крепление на рейку сиденья Osmo Action Bike: Размеры: 63,14×19,71×32,51 мм (Д×Ш×В) | Крепление на руль Osmo Action Mini: Размеры: 59,7×59,7×27,81 мм (Д×Ш×В) | Ремешок на запястье Osmo Action 360°: Размеры: 53,98×51,11×45,94 мм (Д×Ш×В) | Адаптер Osmo Action Quick-Release: Размеры: 40,2×21×34,2 мм (Д×Ш×В) | Стопорный винт Осмо: Размеры: 55,6×23×13,3 мм (Д×Ш×В)
@@ -34238,7 +25138,11 @@ https://www.dji.com
 
 0
 
----
+
+
+
+
+
 
 ## 4-лопастные пропеллеры BetaFPV Gemfan 31mm/0.8mm
 
@@ -34256,10 +25160,6 @@ https://drone.kz/product/4-lopastnye-propellery-betafpv-gemfan-31mm-0-8mm/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-728314135279
-
 #### Тип:
 
 пропеллеры
@@ -34276,25 +25176,9 @@ Gemfan 31mm 4-blade Micro Whoop Propellers
 
 Gemfan 31mm 4-blade
 
-#### Дополнительные изображения:
-
-227694 / 227695 / 227696
-
-#### KaspiQtyAlmaty:
-
-16
-
-#### KaspiQtyAstana:
-
-4
-
 #### Совместимость:
 
 Дрон: Beta65S Lite Brushed V3, Рама: матовая рама Beta65S Lite, Двигатель: щеточные двигатели 7x16 мм
-
-#### Цена со скидкой:
-
-3400
 
 #### Порты и интерфейсы:
 
@@ -34304,15 +25188,15 @@ Gemfan 31mm 4-blade
 
 4-лопастные пропеллеры BetaFPV Gemfan 31mm/0.8mm: / CW 31 мм 4-лопастные пропеллеры Micro Whoop (вал 0,8 мм) х 2 / CCW 31 мм 4-лопастные пропеллеры Micro Whoop (вал 0,8 мм) х 2 / Документация
 
-#### Страница товара на сайте производителя:
-
-https://betafpv.com/
-
 #### Размеры (Ш×В×Г), cm:
 
 3.1
 
----
+
+
+
+
+
 
 ## 3-лопастные пропеллеры BetaFPV Gemfan 40mm/1.5mm (Black)
 
@@ -34330,10 +25214,6 @@ https://drone.kz/product/3-lopastnye-propellery-betafpv-gemfan-40mm-1-5mm-black/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-728314136085
-
 #### Тип:
 
 пропеллеры
@@ -34350,29 +25230,13 @@ Gemfan 40mm 3-Blade Propellers (1.5mm Shaft)
 
 Gemfan 40mm 3-Blade (1.5mm Shaft)
 
-#### Дополнительные изображения:
-
-227698 / 227699
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-9
-
-#### KaspiQtyAstana:
-
-8
-
 #### Совместимость:
 
 Рама Beta75X. Мотор: 1204,110X
-
-#### Цена со скидкой:
-
-3400
 
 #### Порты и интерфейсы:
 
@@ -34382,15 +25246,15 @@ Gemfan 40mm 3-Blade (1.5mm Shaft)
 
 3-лопастные пропеллеры BetaFPV Gemfan 40mm/1.5mm (Black): / CW 3-лопастные пропеллеры 40-мм (вал 1,5 мм) х 2 / CCW 3-лопастные пропеллеры 40-мм (вал 1,5 мм) х 2 / Документация
 
-#### Страница товара на сайте производителя:
-
-https://betafpv.com/
-
 #### Размеры (Ш×В×Г), cm:
 
 4.0
 
----
+
+
+
+
+
 
 ## 2-лопастные пропеллеры BetaFPV Gemfan 45mm/1.5mm (Grey)
 
@@ -34408,10 +25272,6 @@ https://drone.kz/product/2-lopastnye-propellery-betafpv-gemfan-45mm-1-5mm-grey/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-735133996134
-
 #### Тип:
 
 пропеллеры
@@ -34428,29 +25288,13 @@ Gemfan 45mm 2-Blade&3-Blade Propellers (1.5mm Shaft)
 
 Gemfan 45mm 2-Blade (1.5mm Shaft)
 
-#### Дополнительные изображения:
-
-227701 / 227702 / 227703
-
 #### Цвет:
 
 серый
 
-#### KaspiQtyAlmaty:
-
-36
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 Meteor75 Pro, Рекомендуемая рама: Meteor75 Pro / Рекомендуемый двигатель 1102
-
-#### Цена со скидкой:
-
-3400
 
 #### Порты и интерфейсы:
 
@@ -34460,19 +25304,15 @@ Meteor75 Pro, Рекомендуемая рама: Meteor75 Pro / Рекомен
 
 2-лопастные пропеллеры BetaFPV Gemfan 45mm/1.5mm (Grey): / Пропеллеры CW Gemfan 45 мм (вал 1,5 мм.) x 2 / Пропеллеры CCW Gemfan 45 мм (вал 1,5 мм) x 2 / Документация
 
-#### Страница товара на сайте производителя:
-
-https://betafpv.com/
-
-#### К этому товару подходят:
-
-Рама BetaFPV Meteor75 Pro Brushless Whoop (Black)
-
 #### Размеры (Ш×В×Г), cm:
 
 4.5
 
----
+
+
+
+
+
 
 ## Квадрокоптер BetaFPV Cetus X Frsky D8 (Cetus firmware)
 
@@ -34490,10 +25330,6 @@ https://drone.kz/product/kvadrokopter-betafpv-cetus-x-frsky-d8-cetus-firmware/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-738156453677
-
 #### Тип:
 
 квадрокоптер
@@ -34506,33 +25342,13 @@ betafpv
 
 Cetus X Brushless Quadcopter-Frsky D8 (Cetus firmware) Frsky D8
 
-#### Код видео YouTube:
-
-UNuFLtA8Rok
-
 #### Артикул:
 
 01010016_2
 
-#### Дополнительные изображения:
-
-227705 / 227706 / 227707 / 227708 / 227709 / 227710 / 227711 / 227712 / 227713 / 227714
-
 #### Цвет:
 
 белый
-
-#### KaspiQtyAlmaty:
-
-17
-
-#### KaspiQtyAstana:
-
-2
-
-#### Цена со скидкой:
-
-102700
 
 #### Дополнительные возможности:
 
@@ -34550,19 +25366,15 @@ UNuFLtA8Rok
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://betafpv.com/
-
-#### К этому товару подходят:
-
-Зарядное устройство BetaFPV 6 Ports 1S Battery Charger & Adapter V2-US / Пульт управления BetaFPV LiteRadio 3 Pro Radio Transmitter Frsky / Пульт управления BetaFPV LiteRadio 2 SE Frsky / Очки BetaFPV VR02 FPV / Аккумулятор BetaFPV 450mAh 1S 30C (BT2.0) 1 шт. / Аккумулятор BetaFPV 450mAh 1S 30C (BT2.0) / 4-лопастные пропеллеры BetaFPV Gemfan 2020 / 4-лопастные пропеллеры BetaFPV Gemfan 2020
-
 #### Размеры (Ш×В×Г), cm:
 
 9.5
 
----
+
+
+
+
+
 
 ## Рама BetaFPV Meteor75 Pro Brushless Whoop (Black)
 
@@ -34580,10 +25392,6 @@ https://drone.kz/product/rama-betafpv-meteor75-pro-brushless-whoop-black/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-735133996202
-
 #### Тип:
 
 рама
@@ -34600,29 +25408,13 @@ Meteor75 Pro Brushless Whoop Frame
 
 Meteor75 Pro Brushless Whoop Frame
 
-#### Дополнительные изображения:
-
-227738 / 227739 / 227740 / 227741 / 227742 / 227743
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-35
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
  Meteor75 Pro, бесщеточные двигатели 1102/0802SE, контроллер F4 1S 5A
-
-#### Цена со скидкой:
-
-4500
 
 #### Порты и интерфейсы:
 
@@ -34636,15 +25428,15 @@ Meteor75 Pro Brushless Whoop Frame
 
 12
 
-#### К этому товару подходят:
-
-Бесколлекторный квадрокоптер BetaFPV Meteor65 Pro / Бесколлекторный квадрокоптер BetaFPV Meteor65 ELRS 2.4G / Бесколлекторный квадрокоптер BetaFPV Meteor65 Acro / Бесколлекторный квадрокоптер BetaFPV Meteor75 ELRS 2.4G / Бесколлекторный квадрокоптер BetaFPV Meteor75 / Квадрокоптер BetaFPV Meteor75 (ELRS 2.4G) / 2-лопастные пропеллеры BetaFPV Gemfan 45mm/1.5mm (Grey)
-
 #### Размеры (Ш×В×Г), cm:
 
 Расстояние между двигателями по диагонали 8.08
 
----
+
+
+
+
+
 
 ## Квадрокоптер DJI Inspire 3 Combo with X9 (Lens Excluded)
 
@@ -34661,10 +25453,6 @@ Meteor75 Pro Brushless Whoop Frame
 https://drone.kz/product/kvadrokopter-dji-inspire-3-combo-with-x9-lens-excluded/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6941565948625
 
 #### Тип:
 
@@ -34686,17 +25474,9 @@ T740 Inspire 3 Combo with X9 (Lens Excluded)
 
 26.4
 
-#### Код видео YouTube:
-
-Df5n7U3u7PY
-
 #### Артикул:
 
 Inspire 3 Combo with X9 (Lens Excluded)
-
-#### Дополнительные изображения:
-
-227814 / 227815 / 227816 / 227817 / 227818 / 227819
 
 #### Разрешение видео:
 
@@ -34718,14 +25498,6 @@ Inspire 3 Combo with X9 (Lens Excluded)
 
 94
 
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-0
-
 #### Навигация:
 
 GPS, BeiDou, Galileo
@@ -34737,10 +25509,6 @@ GPS, BeiDou, Galileo
 #### Объем памяти:
 
 1 ТБ
-
-#### Цена со скидкой:
-
-9089700
 
 #### Возможности подключения:
 
@@ -34802,26 +25570,6 @@ microSD / Слот SSD / USB-C / HDMI
 
 12
 
-#### Спецификация:
-
-https://www.dji.com/inspire-3/specs
-
-#### Руководство пользователя:
-
-https://dl.djicdn.com/downloads/inspire_3/20230524UM/DJI_Inspire_3_User_Manual_V1.0_ENI.pdf
-
-#### Руководство по быстрому старту:
-
-https://dl.djicdn.com/downloads/inspire_3/DJI_Inspire_3_Quick_Start_Guide.pdf
-
-#### Страница товара на сайте производителя:
-
-https://www.dji.com/inspire-3
-
-#### К этому товару подходят:
-
-Система DJI Transmission (Standard Combo) / Система DJI Transmission (High-Bright Monitor Combo) / Ресивер DJI Video Receiver / Трансмиттер DJI Video Transmitter / ND-фильтры DJI DL Lens / Лицензия DJI Inspire 3 RAW / Зарядный хаб DJI TB51 / Аккумулятор DJI TB51 / Высокогорные пропеллеры DJI Inspire 3 (Pair) / Пропеллеры DJI Inspire 3 Standart (Pair) / Разгрузочный подвес DJI RC Plus / Объектив DJI Zenmuse X7 DL-S 16mm F2.8 ND / Объектив DJI Zenmuse X7/X9 DL 24mm F2.8 LS / Объектив DJI Zenmuse X7/X9 DL 35mm F2.8 LS / Объектив DJI Zenmuse X7/X9 DL 50mm F2.8 LS / Система управления DJI Master Wheels / Мобильная станция DJI D-RTK 2 / Пульт DJI RC Plus | Inspire 3 / Карта памяти MicroSD ExAscend Catalyst SDXC I 512GB + SD adapter / Карта памяти MicroSD ExAscend Catalyst SDXC I 256GB + SD adapter
-
 #### Размеры (Ш×В×Г), cm:
 
 Размеры по диагонали : При поднятых шасси: 69.5 / При опущенных шасси: 68.5 Размеры в режиме транспортировки В * Ш * Д: 17.6 * 70.9 * 50.0
@@ -34830,7 +25578,11 @@ https://www.dji.com/inspire-3
 
 3995
 
----
+
+
+
+
+
 
 ## Дождевик PolarPro Boreal 50L
 
@@ -34848,10 +25600,6 @@ https://drone.kz/product/dozhdevik-polarpro-boreal-50l/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-817465027691
-
 #### Тип:
 
 чехол
@@ -34868,33 +25616,13 @@ Rain Fly | Boreal
 
  6800 PU 1500MM
 
-#### Код видео YouTube:
-
-ti-3H9bl8uw
-
 #### Артикул:
 
 BREL-50L-BLK-RNFLY
 
-#### Дополнительные изображения:
-
-227821
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-13800
 
 #### Комплектация:
 
@@ -34904,15 +25632,11 @@ BREL-50L-BLK-RNFLY
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.polarpro.com
 
-#### К этому товару подходят:
 
-Рюкзак PolarPro Boreal 50L
 
----
+
 
 ## CPL-фильтр PolarPro | GoPro HERO9/10/11
 
@@ -34930,10 +25654,6 @@ https://drone.kz/product/cpl-filtr-polarpro-gopro-hero9-10-11/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-817465028995
-
 #### Тип:
 
 светофильтр
@@ -34946,29 +25666,9 @@ polarpro
 
 CP Filter | GoPro HERO9/10/11 Black
 
-#### Код видео YouTube:
-
-XCBDkzmQ__E
-
 #### Артикул:
 
 H9-CP
-
-#### Дополнительные изображения:
-
-227823 / 227824 / 227825
-
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-19500
 
 #### Дополнительные возможности:
 
@@ -34982,15 +25682,11 @@ CPL-фильтр PolarPro | GoPro HERO9/10/11 / Кейс / Руководств�
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.polarpro.com
 
-#### К этому товару подходят:
 
-Экшн-камера GoPro HERO9 Black / Экшн-камера GoPro HERO10 Black / Экшн-камера GoPro HERO11 Black
 
----
+
 
 ## Фильтры PolarPro FX | GoPro HERO9/10/11
 
@@ -35008,10 +25704,6 @@ https://drone.kz/product/filtry-polarpro-fx-gopro-hero9-10-11/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-817465028988
-
 #### Тип:
 
 светофильтр
@@ -35024,29 +25716,9 @@ polarpro
 
 Фильтры PolarPro FX | GoPro HERO9/10/11
 
-#### Код видео YouTube:
-
-53FA4WlXKTQ
-
 #### Артикул:
 
 H9-FX-3PACK
-
-#### Дополнительные изображения:
-
-227827 / 227828 / 227829
-
-#### KaspiQtyAlmaty:
-
-0
-
-#### KaspiQtyAstana:
-
-1
-
-#### Цена со скидкой:
-
-38000
 
 #### Дополнительные возможности:
 
@@ -35060,15 +25732,11 @@ CinemaSeries™ Glass
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.polarpro.com
 
-#### К этому товару подходят:
 
-Экшн-камера GoPro HERO9 Black / Экшн-камера GoPro HERO10 Black / Экшн-камера GoPro HERO11 Black
 
----
+
 
 ## ND-фильтры PolarPro | Mavic 3 Classic
 
@@ -35086,10 +25754,6 @@ https://drone.kz/product/nd-filtry-polarpro-mavic-3-classic/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-817465028766
-
 #### Тип:
 
 светофильтр
@@ -35106,22 +25770,6 @@ ND-фильтры PolarPro | Mavic 3 Classic
 
 M3C-SHUTTER
 
-#### Дополнительные изображения:
-
-227831 / 227832 / 227833
-
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-43800
-
 #### Дополнительные возможности:
 
 CinemaSeries™ Glass
@@ -35134,15 +25782,11 @@ ND-фильтры PolarPro | Mavic 3 Classic: / ND8 х 1 / ND16 х 1 / ND32 х 1
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.polarpro.com
 
-#### К этому товару подходят:
 
-Квадрокоптер DJI Mavic 3 Classic (DJI RC) / Квадрокоптер DJI Mavic 3 Classic (Drone Only) / Квадрокоптер DJI Mavic 3 Classic  (DJI RC-N1)
 
----
+
 
 ## Стабилизатор Osmo Mobile 6 Platinum Gray
 
@@ -35159,10 +25803,6 @@ https://www.polarpro.com
 https://drone.kz/product/stabilizator-osmo-mobile-6-platinum-gray/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6941565965387
 
 #### Тип:
 
@@ -35184,10 +25824,6 @@ Osmo Mobile 6 Platinum Gray
 
 84
 
-#### Код видео YouTube:
-
-fVXMzFLtLwo
-
 #### Артикул:
 
 Osmo Mobile 6 Platinum Gray
@@ -35195,10 +25831,6 @@ Osmo Mobile 6 Platinum Gray
 #### Модель:
 
 OSMO
-
-#### Дополнительные изображения:
-
-227841 / 227842 / 227843 / 227844 / 227845 / 227846 / 227847
 
 #### Время работы, h:
 
@@ -35208,21 +25840,9 @@ OSMO
 
 черный
 
-#### KaspiQtyAlmaty:
-
-4
-
-#### KaspiQtyAstana:
-
-2
-
 #### Совместимость:
 
 iOS, Android
-
-#### Цена со скидкой:
-
-69900
 
 #### Порты и интерфейсы:
 
@@ -35244,22 +25864,6 @@ iOS, Android
 
 12
 
-#### Руководство пользователя:
-
-https://dl.djicdn.com/downloads/DJI_Osmo_Mobile_6/Osmo_Mobile_6_User_Manual_v1.0_ru.pdf
-
-#### Руководство по быстрому старту:
-
-https://dl.djicdn.com/downloads/DJI_Osmo_Mobile_6/Osmo_Mobile_6_Quick_Start_Guide.pdf
-
-#### Страница товара на сайте производителя:
-
-https://www.dji.com/
-
-#### К этому товару подходят:
-
-Кейс DJI Osmo Carrying Case / Зажим с подсветкой DJI OM
-
 #### Размеры (Ш×В×Г), cm:
 
 8.45х4.4х18.9
@@ -35268,7 +25872,11 @@ https://www.dji.com/
 
 340
 
----
+
+
+
+
+
 
 ## Водозащитный кейс Insta360 X3 Invisible Dive Case
 
@@ -35286,10 +25894,6 @@ https://drone.kz/product/vodozashchitnyy-keys-insta360-x3-invisible-dive-case/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970357855810
-
 #### Тип:
 
 подводный кейс
@@ -35302,29 +25906,9 @@ insta360
 
 X3 Invisible Dive Case
 
-#### Код видео YouTube:
-
-Qpkv0Fq6kb4
-
 #### Артикул:
 
 X3 Invisible Dive Case
-
-#### Дополнительные изображения:
-
-209491 / 209492 / 209493 / 209494 / 209495 / 209496 / 209497 / 209498
-
-#### KaspiQtyAlmaty:
-
-10
-
-#### KaspiQtyAstana:
-
-4
-
-#### Цена со скидкой:
-
-73800
 
 #### Дополнительные возможности:
 
@@ -35338,19 +25922,15 @@ X3 Invisible Dive Case
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.insta360.com/
-
-#### К этому товару подходят:
-
-Панорамная камера Insta360 X3
-
 #### Размеры (Ш×В×Г), cm:
 
 15.4 x 8.4 x 8.4
 
----
+
+
+
+
+
 
 ## Зарядная док-станция KEYi Loona Smart
 
@@ -35368,10 +25948,6 @@ https://drone.kz/product/zaryadnaya-dok-stantsiya-keyi-loona-smart/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6975062112067
-
 #### Тип:
 
 автоматическая зарядная станция 
@@ -35384,33 +25960,13 @@ keyi
 
 Keyi Charging Station for Loona Robot
 
-#### Код видео YouTube:
-
-sUrsfSZiYeY
-
 #### Артикул:
 
 Keyi Charging Station for Loona Robot
 
-#### Дополнительные изображения:
-
-227904 / 227905 / 227906 / 227907
-
 #### Цвет:
 
 серый
-
-#### KaspiQtyAlmaty:
-
-11
-
-#### KaspiQtyAstana:
-
-1
-
-#### Цена со скидкой:
-
-20000
 
 #### Порты и интерфейсы:
 
@@ -35424,15 +25980,15 @@ USB-C
 
 12
 
-#### К этому товару подходят:
-
-Робот-питомец KEYi Loona Smart
-
 #### Размеры (Ш×В×Г), cm:
 
 32 x 26 x 11
 
----
+
+
+
+
+
 
 ## Монопод Insta360 Invisible 114cm
 
@@ -35450,10 +26006,6 @@ https://drone.kz/product/celfi-stik-insta360-invisible-114cm/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970357854684
-
 #### Тип:
 
 монопод
@@ -35466,37 +26018,17 @@ insta360
 
 Invisible Selfie Stick 114 см
 
-#### Код видео YouTube:
-
-AQqVle4uops
-
 #### Артикул:
 
 CINSAAVF
-
-#### Дополнительные изображения:
-
-227909 / 227910 / 227911 / 227912
 
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-0
-
-#### KaspiQtyAstana:
-
-5
-
 #### Совместимость:
 
 GO 3/X3/ONE RS/GO 2/ONE X2/ONE R/ONE X
-
-#### Цена со скидкой:
-
-12600
 
 #### Порты и интерфейсы:
 
@@ -35510,10 +26042,6 @@ Cелфи-стик Insta360 Invisible 114cm / Руководство
 
 12
 
-#### К этому товару подходят:
-
-Панорамная экшн-камера Insta360 ONE X2 Standalone / Экшн-камера Insta360 GO 2 Standalone / Экшн-камера Insta360 GO 3 (32GB) Standalone / Модульная экшн-камера Insta360 ONE RS / Панорамная камера Insta360 X3 / Шнур Insta360 Bullet Time Cord (One X2) / Рукоятка-штатив Insta360 Bullet Time Handle
-
 #### Размеры (Ш×В×Г), cm:
 
 23.3/120
@@ -35522,7 +26050,11 @@ Cелфи-стик Insta360 Invisible 114cm / Руководство
 
 0.118
 
----
+
+
+
+
+
 
 ## Цифровые очки Walksnail Avatar HD Goggles
 
@@ -35540,10 +26072,6 @@ https://drone.kz/product/fpv-ochki-walksnail-avatar-hd-goggles/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-19047
-
 #### Тип:
 
  FPV очки
@@ -35556,17 +26084,9 @@ walksnail
 
 Avatar Goggles
 
-#### Код видео YouTube:
-
-EMFxl6iSDQ8
-
 #### Артикул:
 
 WN02-FP002
-
-#### Дополнительные изображения:
-
-227934 / 227935 / 227936 / 227937 / 227938 / 227939 / 227940 / 227941 / 227942 / 227943 / 227944 / 227945 / 227946 / 227947
 
 #### Разрешение видео:
 
@@ -35579,18 +26099,6 @@ WN02-FP002
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-1
-
-#### Цена со скидкой:
-
-199900
 
 #### Возможности подключения:
 
@@ -35620,19 +26128,11 @@ FPV-очки Walksnail Avatar HD Goggles / Чехол для переноски 
 
 12
 
-#### Руководство пользователя:
 
-https://drive.google.com/file/d/1O1VdxW3OkGiShLsaflZ_rf5Y4di_XnYj/view
 
-#### Страница товара на сайте производителя:
 
-https://caddxfpv.com/
 
-#### К этому товару подходят:
 
-Цифровая система Walksnail Avatar Mini 1S Kit (+5.5cm cable) / Цифровая Walksnail Avatar HD Pro Kit 32G Gyroflow / Цифровой видеопередатчик Walksnail Avatar HD VTX V2 Unit 32G
-
----
 
 ## Цифровой комплект Walksnail Avatar Digital HD FPV Goggles Ultimate Bundle
 
@@ -35662,17 +26162,9 @@ walksnail
 
 Avatar Goggles
 
-#### Код видео YouTube:
-
-EMFxl6iSDQ8
-
 #### Артикул:
 
 C0CA-TZ018
-
-#### Дополнительные изображения:
-
-227949 / 227950 / 227951 / 227952 / 227953 / 227954 / 227955
 
 #### Разрешение видео:
 
@@ -35685,18 +26177,6 @@ C0CA-TZ018
 #### Кол-во мегапикселей:
 
 8 MP
-
-#### KaspiQtyAlmaty:
-
-0
-
-#### KaspiQtyAstana:
-
-1
-
-#### Цена со скидкой:
-
-350900
 
 #### Возможности подключения:
 
@@ -35742,15 +26222,11 @@ FPV-очки Walksnail Avatar HD Goggles / Цифровая FPV-система W
 
 12
 
-#### Руководство пользователя:
 
-https://drive.google.com/file/d/1O1VdxW3OkGiShLsaflZ_rf5Y4di_XnYj/view
 
-#### Страница товара на сайте производителя:
 
-https://caddxfpv.com/
 
----
+
 
 ## Цифровая Walksnail Avatar HD Pro Kit 32G Gyroflow
 
@@ -35780,17 +26256,9 @@ walksnail
 
 Avatar HD Pro Kit
 
-#### Код видео YouTube:
-
-XT62KI_Q1c8
-
 #### Артикул:
 
 WN08-3014B
-
-#### Дополнительные изображения:
-
-227957 / 227958 / 227959 / 227960 / 227961 / 227962 / 227963 / 227964
 
 #### Разрешение видео:
 
@@ -35808,14 +26276,6 @@ WN08-3014B
 
 черный
 
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 Avatar HD Goggles
@@ -35823,10 +26283,6 @@ Avatar HD Goggles
 #### Объем памяти:
 
 32
-
-#### Цена со скидкой:
-
-118900
 
 #### Возможности подключения:
 
@@ -35868,19 +26324,11 @@ Aperture	F1.6 / Rolling shutter
 
 12
 
-#### Руководство пользователя:
 
-https://drive.google.com/file/d/1VPHWIoStc4eMIIqOpAT40DzUT0GrWJZw/view
 
-#### Страница товара на сайте производителя:
 
-https://caddxfpv.com
 
-#### К этому товару подходят:
 
-Цифровые очки Walksnail Avatar HD Goggles
-
----
 
 ## Цифровая система Walksnail Avatar Mini 1S Kit (+5.5cm cable)
 
@@ -35910,17 +26358,9 @@ walksnail
 
 Цифровая FPV-система Walksnail Avatar Mini 1S Kit (+5.5cm cable)
 
-#### Код видео YouTube:
-
-hLEUJ0IgPmA
-
 #### Артикул:
 
 WN04-1004S
-
-#### Дополнительные изображения:
-
-227966 / 227967 / 227968 / 227969 / 227970 / 227971
 
 #### Разрешение видео:
 
@@ -35934,14 +26374,6 @@ WN04-1004S
 
 черный
 
-#### KaspiQtyAlmaty:
-
-4
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 Avatar HD Goggles
@@ -35949,10 +26381,6 @@ Avatar HD Goggles
 #### Объем памяти:
 
 8
-
-#### Цена со скидкой:
-
-91100
 
 #### Возможности подключения:
 
@@ -35990,23 +26418,15 @@ Aperture	F2.0 / Lens 2.1mm / Rolling shutter
 
 12
 
-#### Руководство пользователя:
-
-https://drive.google.com/file/d/1tUm8GoYHP5vFwvvWtVb2KQg3DSx_9IM9/view?usp=sharing
-
-#### Страница товара на сайте производителя:
-
-https://caddxfpv.com
-
-#### К этому товару подходят:
-
-Цифровые очки Walksnail Avatar HD Goggles
-
 #### Размеры (Ш×В×Г), cm:
 
 Передатчик 3.0 x 3.0 x 0.6 / камера 1.4 x 1.4 x 1.7
 
----
+
+
+
+
+
 
 ## Цифровой видеопередатчик Walksnail Avatar HD VTX V2 Unit 32G
 
@@ -36024,10 +26444,6 @@ https://drone.kz/product/videoperedatchik-walksnail-avatar-hd-vtx-v2-unit-32g/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-WN01-FP032
-
 #### Тип:
 
 видеопередатчик
@@ -36040,17 +26456,9 @@ walksnail
 
 Avatar HD VTX V2 unit 32G
 
-#### Код видео YouTube:
-
-hLEUJ0IgPmA
-
 #### Артикул:
 
 WN01-FP032
-
-#### Дополнительные изображения:
-
-227973 / 227974 / 227975 / 227976 / 227977 / 227978
 
 #### Разрешение видео:
 
@@ -36059,14 +26467,6 @@ WN01-FP032
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-5
-
-#### KaspiQtyAstana:
-
-0
 
 #### Совместимость:
 
@@ -36079,10 +26479,6 @@ Avatar HD Goggles
 #### Объем памяти:
 
 32
-
-#### Цена со скидкой:
-
-85400
 
 #### Возможности подключения:
 
@@ -36116,23 +26512,15 @@ Full HD (1920×1080)
 
 12
 
-#### Руководство пользователя:
-
-https://drive.google.com/file/d/1VPHWIoStc4eMIIqOpAT40DzUT0GrWJZw/view?usp=share_link
-
-#### Страница товара на сайте производителя:
-
-https://caddxfpv.com
-
-#### К этому товару подходят:
-
-Цифровые очки Walksnail Avatar HD Goggles
-
 #### Размеры (Ш×В×Г), cm:
 
 3.3 x 3.3 x 1.0
 
----
+
+
+
+
+
 
 ## Аналоговая камера Caddx Ant (Black 4:3)
 
@@ -36150,10 +26538,6 @@ https://drone.kz/product/analogovaya-fpv-kamera-caddx-ant-black-4-3/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6112345673697
-
 #### Тип:
 
 аналоговая камера
@@ -36166,17 +26550,9 @@ caddx
 
 CADDXFPV Ant Analog Camera
 
-#### Код видео YouTube:
-
-dk7LY1uN0qM
-
 #### Артикул:
 
 MN06-00B43
-
-#### Дополнительные изображения:
-
-227980 / 227981 / 227982
 
 #### Разрешение видео:
 
@@ -36185,18 +26561,6 @@ MN06-00B43
 #### Угол обзора объектива, град.:
 
 165
-
-#### KaspiQtyAlmaty:
-
-16
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-12600
 
 #### Рабочая температура, °C:
 
@@ -36230,19 +26594,15 @@ OSD
 
 12
 
-#### Руководство пользователя:
-
-https://cdn.shopify.com/s/files/1/0036/3921/4169/files/ANT.jpg?v=1610000957
-
-#### Страница товара на сайте производителя:
-
-https://caddxfpv.com
-
 #### Размеры (Ш×В×Г), cm:
 
 1.4 х 1.4
 
----
+
+
+
+
+
 
 ## Аналоговая камера Caddx Ratel 2 (Black)
 
@@ -36276,10 +26636,6 @@ caddx
 
 MN01-2000B
 
-#### Дополнительные изображения:
-
-227984 / 227985 / 227986 / 227987
-
 #### Разрешение видео:
 
 1200TVL / NTSC/PAL / Формат CVBS / Super WDR / 3DNR
@@ -36287,18 +26643,6 @@ MN01-2000B
 #### Угол обзора объектива, град.:
 
 165
-
-#### KaspiQtyAlmaty:
-
-19
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-20700
 
 #### Рабочая температура, °C:
 
@@ -36336,19 +26680,15 @@ OSD
 
 12
 
-#### Руководство пользователя:
-
-https://cdn.shopify.com/s/files/1/0036/3921/4169/files/ANT.jpg?v=1610000957
-
-#### Страница товара на сайте производителя:
-
-https://caddxfpv.com
-
 #### Размеры (Ш×В×Г), cm:
 
 1.9 х 1.9 х 2.0
 
----
+
+
+
+
+
 
 ## Аккумулятор GaoNeng 550mah 1S1P 3.8V MV
 
@@ -36365,10 +26705,6 @@ https://caddxfpv.com
 https://drone.kz/product/akkumulyator-gaoneng-550mah-1s1p-3-8v-mv/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6992345673604
 
 #### Тип:
 
@@ -36394,25 +26730,9 @@ GNB5501S100PHV
 
 GNB5501S100PHV
 
-#### Дополнительные изображения:
-
-227989 / 227990 / 227991 / 227992
-
-#### KaspiQtyAlmaty:
-
-7
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 Emax Tinyhawk S, NanoHawk, EZ Pilot Pro, Kingkong LDARC, BetaFPV Beta75X, Happymodel Mobula6 Mobula7 Snapper, GEPRC Cinewhoop, Yinywhoop Tiny7, NewBeeDrone Cockroach, HGLRC Petrel 75Whoop, Crazypony Moblite7
-
-#### Цена со скидкой:
-
-3400
 
 #### Порты и интерфейсы:
 
@@ -36430,15 +26750,15 @@ LiHV / Скорость разряда: 100C / Скорость зарядки: 
 
 12
 
-#### Страница товара на сайте производителя:
-
-http://www.gaonengbattery.com/
-
 #### Размер упаковки (Ш×В×Г), cm:
 
 0.6 х 1.8 х 6.5
 
----
+
+
+
+
+
 
 ## Аккумулятор GaoNeng 660mah 3S1P 11.4V HV 90C
 
@@ -36455,10 +26775,6 @@ http://www.gaonengbattery.com/
 https://drone.kz/product/akkumulyator-gaoneng-660mah-3s1p-11-4v-hv-90c/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6992345673606
 
 #### Тип:
 
@@ -36484,22 +26800,6 @@ GNB6603S90AHV
 
 GNB6603S90AHV
 
-#### Дополнительные изображения:
-
-227994 / 227995 / 227996
-
-#### KaspiQtyAlmaty:
-
-15
-
-#### KaspiQtyAstana:
-
-5
-
-#### Цена со скидкой:
-
-6000
-
 #### Порты и интерфейсы:
 
 Силовой разъём:	XT30
@@ -36516,15 +26816,15 @@ GaoNeng 660mah 3S1P 11.4V HV 90C
 
 12
 
-#### Страница товара на сайте производителя:
-
-http://www.gaonengbattery.com/
-
 #### Размер упаковки (Ш×В×Г), cm:
 
 6.5 x 2.4 x 1.7
 
----
+
+
+
+
+
 
 ## Аккумулятор GaoNeng 1300mah 6S1P 22.8V HV 120C
 
@@ -36541,10 +26841,6 @@ http://www.gaonengbattery.com/
 https://drone.kz/product/akkumulyator-gaoneng-1300mah-6s1p-22-8v-hv-120c/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6112345673918
 
 #### Тип:
 
@@ -36570,25 +26866,9 @@ GNB13006S120AHV
 
 GNB13006S120AHV
 
-#### Дополнительные изображения:
-
-227998 / 227999 / 228000 / 228001 / 228002
-
-#### KaspiQtyAlmaty:
-
-8
-
-#### KaspiQtyAstana:
-
-7
-
 #### Совместимость:
 
 GEPRC MARK5, MARK4, Crocodile5 Baby, DJI FPV, Nazgul5, TITAN XL5, Chimera5, Evoque F5D/F5X, Nazgul Evoque F6X/F6D, Racing Pilot FPV
-
-#### Цена со скидкой:
-
-17200
 
 #### Порты и интерфейсы:
 
@@ -36606,15 +26886,15 @@ LiHV / Конфигурация ячеек: 6S1P / Скорость разряд
 
 12
 
-#### Страница товара на сайте производителя:
-
-http://www.gaonengbattery.com/
-
 #### Размер упаковки (Ш×В×Г), cm:
 
 3.4 х 3.8 х 8.0
 
----
+
+
+
+
+
 
 ## Мотор GEPRC GR2004 1750kv
 
@@ -36632,10 +26912,6 @@ https://drone.kz/product/motor-geprc-gr2004-1750kv/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-GP104587
-
 #### Тип:
 
 мотор
@@ -36652,22 +26928,6 @@ GR2004
 
 (GP104587)GEP-GR2004-1750KV-1PCS (1.5MM Shaft)
 
-#### Дополнительные изображения:
-
-228047 / 228048 / 228049
-
-#### KaspiQtyAlmaty:
-
-20
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-11400
-
 #### Порты и интерфейсы:
 
 Диаметр вала: Φ1,5 мм (1750 кВ/2550 кВ)
@@ -36680,15 +26940,15 @@ GR2004
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://geprc.com/
-
 #### Размеры (Ш×В×Г), cm:
 
 Φ1.5 х 1.4
 
----
+
+
+
+
+
 
 ## Мотор GEPRC SPEEDX2 2105.5 2650KV
 
@@ -36706,10 +26966,6 @@ https://drone.kz/product/motor-geprc-speedx2-2105-5-2650kv/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-GP105427
-
 #### Тип:
 
 мотор
@@ -36726,22 +26982,6 @@ SPEEDX2 2105.5
 
 (GP105425)SPEEDX2 2105.5 2650KV Motor
 
-#### Дополнительные изображения:
-
-228051 / 228052 / 228053 / 228054 / 228055 / 228056 / 228057 / 228058 / 228059 / 228060
-
-#### KaspiQtyAlmaty:
-
-18
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-14900
-
 #### Порты и интерфейсы:
 
 Диаметр вала: Φ3,0 мм (внутри) Φ1,5 (выход) / Монтажные отверстия: 12 мм x 12 мм (винт M2)
@@ -36754,19 +26994,15 @@ SPEEDX2 2105.5
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://geprc.com/
-
-#### К этому товару подходят:
-
-Квадрокоптер GEPRC CineLog35 V2 HD O3 FPV 6s TBS / Квадрокоптер GEPRC CineLog35 V2 HD O3 FPV 6s ELRS / Квадрокоптер GEPRC Cinelog35 Analog FPV ELRS
-
 #### Размеры (Ш×В×Г), cm:
 
 Φ2.6 х 1.6
 
----
+
+
+
+
+
 
 ## 2-лопастные пропеллеры Gemfan 4024-2 4&quot; T1.5MM
 
@@ -36784,10 +27020,6 @@ https://drone.kz/product/2-lopastnye-propellery-gemfan-4024-2-4-t1-5mm/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6936572275772
-
 #### Тип:
 
 пропеллеры
@@ -36804,22 +27036,6 @@ GEMFAN 4024-2 4&quot; T1.5MM PROP
 
 Gemfan 4024-2 4&quot; T1.5MM
 
-#### Дополнительные изображения:
-
-228062 / 228063 / 228064 / 228065 / 228066 / 228067
-
-#### KaspiQtyAlmaty:
-
-10
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-4500
-
 #### Порты и интерфейсы:
 
 Диаметр центрального отверстия: 1,5 мм, 3 отверстия
@@ -36832,10 +27048,6 @@ Gemfan 4024-2 4&quot; T1.5MM
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.gemfanhobby.com/
-
 #### Размеры (Ш×В×Г), cm:
 
 10.2
@@ -36844,7 +27056,11 @@ https://www.gemfanhobby.com/
 
 1.61
 
----
+
+
+
+
+
 
 ## 2-лопастные пропеллеры DALProp 7040
 
@@ -36861,10 +27077,6 @@ https://www.gemfanhobby.com/
 https://drone.kz/product/2-lopastnye-propellery-dalprop-7040/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-MR1649
 
 #### Тип:
 
@@ -36886,22 +27098,6 @@ DALProp 7040 2-Blade Propeller
 
 DALProp 7040 2-Blade Propeller
 
-#### Дополнительные изображения:
-
-228069 / 228070 / 228071 / 228072
-
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-4500
-
 #### Порты и интерфейсы:
 
 Диаметр ступицы: 5 мм / Высота ступицы: 7мм
@@ -36914,10 +27110,6 @@ DALProp 7040 2-Blade Propeller
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.gemfanhobby.com/
-
 #### Размеры (Ш×В×Г), cm:
 
 17.8
@@ -36926,7 +27118,11 @@ https://www.gemfanhobby.com/
 
 5.7
 
----
+
+
+
+
+
 
 ## 3-лопастные пропеллеры HQProp DT90MMX3 3.5
 
@@ -36944,10 +27140,6 @@ https://drone.kz/product/3-lopastnye-propellery-hqprop-dt90mmx3-3-5/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-760625797159
-
 #### Тип:
 
 пропеллеры
@@ -36963,22 +27155,6 @@ HQProp DT90MMX3 3.5 Propeller
 #### Артикул:
 
 (GP105506)HQProp DT90MMX3 Propellers
-
-#### Дополнительные изображения:
-
-228074
-
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-4500
 
 #### Порты и интерфейсы:
 
@@ -36996,14 +27172,6 @@ HQProp DT90MMX3 3.5 Propeller
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://geprc.com/
-
-#### К этому товару подходят:
-
-Квадрокоптер GEPRC CineLog35 V2 HD O3 FPV 6s TBS / Квадрокоптер GEPRC Cinelog35 Analog FPV ELRS / Квадрокоптер GEPRC CineLog35 V2 HD O3 FPV 6s ELRS
-
 #### Размеры (Ш×В×Г), cm:
 
 9
@@ -37012,7 +27180,11 @@ https://geprc.com/
 
 2.35
 
----
+
+
+
+
+
 
 ## Антенна GEPRC 915MHz T
 
@@ -37030,10 +27202,6 @@ https://drone.kz/product/antenna-geprc-915mhz-t/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-*GP105056*
-
 #### Тип:
 
 антенна
@@ -37050,25 +27218,9 @@ GEPRC 915MHz T Antenna
 
 (GP105056)915MHz T Antenna
 
-#### Дополнительные изображения:
-
-228076 / 228077 / 228078
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-18
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-5700
 
 #### Возможности подключения:
 
@@ -37090,15 +27242,15 @@ IPEX1
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://geprc.com/
-
 #### Размеры (Ш×В×Г), cm:
 
 15.1 х 7.5
 
----
+
+
+
+
+
 
 ## Антенна GEPRC 2.4GHz T Mini
 
@@ -37116,10 +27268,6 @@ https://drone.kz/product/antenna-geprc-2-4ghz-t-mini/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-RUSHPARTS0010
-
 #### Тип:
 
 антенна
@@ -37136,25 +27284,9 @@ GEPRC 2.4GHz T Antenna Mini
 
 GP105399
 
-#### Дополнительные изображения:
-
-228083
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-39
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-5700
 
 #### Возможности подключения:
 
@@ -37176,15 +27308,15 @@ IPEX1
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://geprc.com/
-
 #### Размеры (Ш×В×Г), cm:
 
 5.1 х 3.5
 
----
+
+
+
+
+
 
 ## Защита пропеллеров GEPRC GEP-CL35 V2
 
@@ -37202,10 +27334,6 @@ https://drone.kz/product/zashchita-propellerov-geprc-gep-cl35-v2/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6112345673925
-
 #### Тип:
 
 защита пропеллеров
@@ -37222,25 +27350,9 @@ GEP-CL35 V2 propeller guards
 
 GP105911
 
-#### Дополнительные изображения:
-
-228085 / 228086 / 228087 / 228088 / 228089
-
-#### KaspiQtyAlmaty:
-
-6
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 CineLog35 V2
-
-#### Цена со скидкой:
-
-6800
 
 #### Комплектация:
 
@@ -37250,19 +27362,15 @@ CineLog35 V2
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://geprc.com
-
-#### К этому товару подходят:
-
-Квадрокоптер GEPRC CineLog35 V2 HD O3 FPV 6s TBS / Квадрокоптер GEPRC CineLog35 V2 HD O3 FPV 6s ELRS / Квадрокоптер GEPRC Cinelog35 Analog FPV ELRS
-
 #### Размеры (Ш×В×Г), cm:
 
 20.3  х 20.3 
 
----
+
+
+
+
+
 
 ## Рама GEPRC GEP-CL35 V2
 
@@ -37280,10 +27388,6 @@ https://drone.kz/product/rama-geprc-gep-cl35-v2/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-GP105886
-
 #### Тип:
 
 рама
@@ -37300,22 +27404,6 @@ GEP-CL35 V2 Frame
 
 GP105886
 
-#### Дополнительные изображения:
-
-228091 / 228092 / 228093 / 228094 / 228095 / 228096 / 228097
-
-#### KaspiQtyAlmaty:
-
-8
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-73800
-
 #### Порты и интерфейсы:
 
 Монтажное отверстие FC: 25,5 x 25,5 мм / Монтажное отверстие VTX: 20 мм х 20 мм/25 мм х 25 мм / Монтажное отверстие двигателя: 12 мм x 12 мм / Место для установки камеры: 20 мм / Внутренний диаметр защиты пропеллера: 95 мм / Подходящий размер пропеллера: пропеллер 3,5 дюйма
@@ -37328,15 +27416,11 @@ GP105886
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://geprc.com
 
-#### К этому товару подходят:
 
-Квадрокоптер GEPRC CineLog35 V2 HD O3 FPV 6s TBS / Квадрокоптер GEPRC CineLog35 V2 HD O3 FPV 6s ELRS / Квадрокоптер GEPRC Cinelog35 Analog FPV ELRS / 3-лопастные пропеллеры HQProp DT90MMX3 3.5 / Мотор GEPRC SPEEDX2 2105.5 2650KV / Полетный контроллер GEPRC GEP-F722-45A AIO V2
 
----
+
 
 ## Приемник TBS Crossfire Nano RX (SE)
 
@@ -37354,10 +27438,6 @@ https://drone.kz/product/priemnik-tbs-crossfire-nano-rx-se/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-741587426158
-
 #### Тип:
 
 приемник
@@ -37373,22 +27453,6 @@ TBS CROSSFIRE NANO RX (SE)
 #### Артикул:
 
 8534000095
-
-#### Дополнительные изображения:
-
-228099 / 228100 / 228101 / 228102
-
-#### KaspiQtyAlmaty:
-
-28
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-29900
 
 #### Порты и интерфейсы:
 
@@ -37410,23 +27474,15 @@ SBUS / PPM / PWM  / CRSF / SmartAudio / MAVLInk / Serial Bridge / 2.54mm pitch f
 
 12
 
-#### Руководство пользователя:
-
-https://www.team-blacksheep.com/media/files/tbs-crossfire-nano-quickstart.pdf
-
-#### Страница товара на сайте производителя:
-
-https://www.team-blacksheep.com
-
-#### К этому товару подходят:
-
-Антенна TBS Crossfire Immortal T V2
-
 #### Размеры (Ш×В×Г), cm:
 
 1.1 х 1.8
 
----
+
+
+
+
+
 
 ## Антенна TBS Diamond
 
@@ -37444,10 +27500,6 @@ https://drone.kz/product/antenna-tbs-diamond/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-741587425847
-
 #### Тип:
 
 антенна
@@ -37463,22 +27515,6 @@ TBS Diamond Antenna
 #### Артикул:
 
 8517 70 11
-
-#### Дополнительные изображения:
-
-228104 / 228105 / 228106 / 228107 / 228108 / 228109 / 228110 / 228111 / 228112
-
-#### KaspiQtyAlmaty:
-
-20
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-25300
 
 #### Возможности подключения:
 
@@ -37504,7 +27540,11 @@ TBS Diamond Antenna
 
 13.5 х 12.0 
 
----
+
+
+
+
+
 
 ## Приемник TBS Crossfire 6ch PWM Nano RX
 
@@ -37522,10 +27562,6 @@ https://drone.kz/product/priemnik-tbs-crossfire-6ch-pwm-nano-rx/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-766234651585
-
 #### Тип:
 
 приемник
@@ -37541,22 +27577,6 @@ TBS Crossfire 6ch PWM Nano RX
 #### Артикул:
 
 8534 00 0095
-
-#### Дополнительные изображения:
-
-228114 / 228115 / 228116
-
-#### KaspiQtyAlmaty:
-
-9
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-32200
 
 #### Порты и интерфейсы:
 
@@ -37578,19 +27598,15 @@ SBUS / PPM / PWM  / CRSF / SmartAudio / MAVLInk / Serial Bridge / 2.54mm pitch f
 
 12
 
-#### Руководство пользователя:
-
-https://www.team-blacksheep.com/tbs-crossfire-nano-quickstart.pdf
-
-#### Страница товара на сайте производителя:
-
-https://www.team-blacksheep.com
-
 #### Размеры (Ш×В×Г), cm:
 
 2.7 x 2.0 x 0.6
 
----
+
+
+
+
+
 
 ## Аналоговый видеопередатчик TBS Unify Pro 5G8 V3 (RP-SMA)
 
@@ -37608,10 +27624,6 @@ https://drone.kz/product/videoperedatchik-tbs-unify-pro-5g8-v3-rp-sma/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-741587428022
-
 #### Тип:
 
 видеопередатчик
@@ -37628,25 +27640,9 @@ TBS Unify Pro 5G8 V3 (RP-SMA)
 
 8534 00 0095
 
-#### Дополнительные изображения:
-
-228118 / 228119 / 228120 / 228121 / 228122 / 228123 / 228124
-
 #### Разрешение видео:
 
 Формат видео: NTSC/PAL
-
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-1
-
-#### Цена со скидкой:
-
-36900
 
 #### Возможности подключения:
 
@@ -37668,15 +27664,11 @@ TBS Unify Pro 5G8 V3 (RP-SMA)
 
 12
 
-#### Руководство пользователя:
 
-https://www.team-blacksheep.com/tbs-unify-pro-5g8-manual.pdf
 
-#### Страница товара на сайте производителя:
 
-https://www.team-blacksheep.com
 
----
+
 
 ## Антенна TBS Crossfire Immortal T V2
 
@@ -37694,10 +27686,6 @@ https://drone.kz/product/antenna-tbs-crossfire-immortal-t-v2/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-741587432777
-
 #### Тип:
 
 антенна
@@ -37714,25 +27702,9 @@ TBS Crossfire Immortal T V2 Antenna
 
 Crossfire Immortal T V2
 
-#### Дополнительные изображения:
-
-228126 / 228127 / 228128
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-18
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-9100
 
 #### Порты и интерфейсы:
 
@@ -37746,15 +27718,15 @@ u.FL / IPX
 
 12
 
-#### К этому товару подходят:
-
-Приемник TBS Crossfire Nano RX (SE)
-
 #### Размеры (Ш×В×Г), cm:
 
 8 х 1.5
 
----
+
+
+
+
+
 
 ## Аналоговый видеопередатчик Rush Tank Plus PIT/25/200/500/800mW
 
@@ -37772,10 +27744,6 @@ https://drone.kz/product/videoperedatchik-rush-tank-plus-pit-25-200-500-800mw/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-RUSHTANK0006
-
 #### Тип:
 
 видеопередатчик
@@ -37791,22 +27759,6 @@ RUSH TANK PLUS PIT/25/200/500/800mW
 #### Артикул:
 
 DA08
-
-#### Дополнительные изображения:
-
-228130 / 228131 / 228132
-
-#### KaspiQtyAlmaty:
-
-4
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-27600
 
 #### Возможности подключения:
 
@@ -37832,19 +27784,15 @@ MMCX
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://rushfpv.net/
-
-#### К этому товару подходят:
-
-Переходник Rush MMCX-SMA Pigtail (Angle) For VTX / Кабель Rush FPV Video Transmitter 6 cm
-
 #### Размеры (Ш×В×Г), cm:
 
 3.4 х 2.3 х 0.4
 
----
+
+
+
+
+
 
 ## Аналоговый видеопередатчик Rush Tank Mini PIT/25/200/500/800mW
 
@@ -37862,10 +27810,6 @@ https://drone.kz/product/videoperedatchik-rush-tank-mini-pit-25-200-500-800mw/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-RUSHTANK0008
-
 #### Тип:
 
 видеопередатчик
@@ -37881,22 +27825,6 @@ RUSH TANK MINI PIT/25/200/500/800mW
 #### Артикул:
 
 DA10
-
-#### Дополнительные изображения:
-
-228134 / 228135 / 228136 / 228137 / 228138
-
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-27600
 
 #### Возможности подключения:
 
@@ -37922,19 +27850,15 @@ DA10
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://rushfpv.net/
-
-#### К этому товару подходят:
-
-Антенна Rush Cherry MMCX-J MMCX RHCP / Антенна Rush Cherry MMCX-JW Extended Edition Angle LHCP
-
 #### Размеры (Ш×В×Г), cm:
 
 2.8 х 2.8 х 0.3
 
----
+
+
+
+
+
 
 ## Переходник Rush MMCX-SMA Pigtail (Angle) For VTX
 
@@ -37968,25 +27892,9 @@ MMCX-SMA Pigtail (Angle) For VTX
 
 DAS01
 
-#### Дополнительные изображения:
-
-228140 / 228141
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-9
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-3400
 
 #### Порты и интерфейсы:
 
@@ -38000,15 +27908,15 @@ MMCX 90° / SMA
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://rushfpv.net
-
 #### Размеры (Ш×В×Г), cm:
 
 8
 
----
+
+
+
+
+
 
 ## Кабель Rush FPV Video Transmitter 6 cm
 
@@ -38042,22 +27950,6 @@ rushfpv
 
 DSA02
 
-#### Дополнительные изображения:
-
-228143 / 228144
-
-#### KaspiQtyAlmaty:
-
-10
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-2200
-
 #### Комплектация:
 
 Кабель Rush FPV Video Transmitter 6 cm
@@ -38066,15 +27958,15 @@ DSA02
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://rushfpv.net
-
 #### Размеры (Ш×В×Г), cm:
 
 6
 
----
+
+
+
+
+
 
 ## Антенна Rush Cherry MMCX-J MMCX RHCP
 
@@ -38092,10 +27984,6 @@ https://drone.kz/product/antenna-rush-cherry-mmcx-j-mmcx-RHCP/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-RUSHCHERRY0004
-
 #### Тип:
 
 антенна
@@ -38111,22 +27999,6 @@ Cherry Antenna MMCX-J MMCX Connector LHCP Transparent Red HCP
 #### Артикул:
 
 DC1R
-
-#### Дополнительные изображения:
-
-228146 / 228147
-
-#### KaspiQtyAlmaty:
-
-8
-
-#### KaspiQtyAstana:
-
-2
-
-#### Цена со скидкой:
-
-10300
 
 #### Возможности подключения:
 
@@ -38148,15 +28020,15 @@ MMCX
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://rushfpv.net
-
 #### Размеры (Ш×В×Г), cm:
 
 8.8
 
----
+
+
+
+
+
 
 ## Антенна Rush Cherry MMCX-JW Extended Edition Angle LHCP
 
@@ -38174,10 +28046,6 @@ https://drone.kz/product/antenna-rush-cherry-mmcx-jw-extended-edition-angle-LHCP
 
 ### Характеристики:
 
-#### Штрихкод:
-
-RUSHCHERRY0014
-
 #### Тип:
 
 антенна
@@ -38193,22 +28061,6 @@ Cherry Antenna MMCX-JW Extended Edition Angle MMCX Transparent Red
 #### Артикул:
 
 DC2L-2 / DC2R-2
-
-#### Дополнительные изображения:
-
-228150
-
-#### KaspiQtyAlmaty:
-
-8
-
-#### KaspiQtyAstana:
-
-1
-
-#### Цена со скидкой:
-
-10300
 
 #### Возможности подключения:
 
@@ -38230,15 +28082,15 @@ MMCX
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://rushfpv.net
-
 #### Размеры (Ш×В×Г), cm:
 
 15.5
 
----
+
+
+
+
+
 
 ## Антенна Rush Cherry SMA-J SMA LHCP
 
@@ -38256,10 +28108,6 @@ https://drone.kz/product/antenna-rush-cherry-sma-j-sma-LHCP/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-RUSHCHERRY0009
-
 #### Тип:
 
 антенна
@@ -38275,22 +28123,6 @@ Cherry Antenna SMA-J SMA Connector Transparent Red LHCP
 #### Артикул:
 
 DC3L / DC3R
-
-#### Дополнительные изображения:
-
-228153 / 228154
-
-#### KaspiQtyAlmaty:
-
-8
-
-#### KaspiQtyAstana:
-
-2
-
-#### Цена со скидкой:
-
-10300
 
 #### Возможности подключения:
 
@@ -38312,15 +28144,15 @@ SMA
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://rushfpv.net
-
 #### Размеры (Ш×В×Г), cm:
 
 7.5
 
----
+
+
+
+
+
 
 ## Антенна Rush Cherry SMA-JW Extended Edition Angle RHCP
 
@@ -38338,10 +28170,6 @@ https://drone.kz/product/antenna-rush-cherry-sma-jw-extended-edition-angle/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-RUSHCHERRY0003
-
 #### Тип:
 
 антенна
@@ -38357,22 +28185,6 @@ Cheery Antenna SMA-JW Extended Edition Angle SMA Connector Transparent Red
 #### Артикул:
 
 DC4L / DC4R
-
-#### Дополнительные изображения:
-
-228156
-
-#### KaspiQtyAlmaty:
-
-8
-
-#### KaspiQtyAstana:
-
-1
-
-#### Цена со скидкой:
-
-12600
 
 #### Возможности подключения:
 
@@ -38394,15 +28206,15 @@ SMA
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://rushfpv.net
-
 #### Размеры (Ш×В×Г), cm:
 
 10.5
 
----
+
+
+
+
+
 
 ## Антенна Rush Cherry UFL Extended Edition LHCP
 
@@ -38420,10 +28232,6 @@ https://drone.kz/product/antenna-rush-cherry-ufl-extended-edition-LHCP/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-RUSHCHERRY0016
-
 #### Тип:
 
 антенна
@@ -38439,18 +28247,6 @@ Cherry Antenna UFL Extended Edition Transparent Red https://drone.kz/product/ant
 #### Артикул:
 
 DC5L-2 / DC5R-2
-
-#### KaspiQtyAlmaty:
-
-5
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-10300
 
 #### Возможности подключения:
 
@@ -38472,15 +28268,15 @@ UFL
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://rushfpv.net
-
 #### Размеры (Ш×В×Г), cm:
 
 16.0
 
----
+
+
+
+
+
 
 ## Антенна Rush Cherry Stubby 5,8G LHCP BLACK
 
@@ -38498,10 +28294,6 @@ https://drone.kz/product/antenna-rush-cherry-stubby-5-8g-LHCP-BLACK/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-RUSHCHERRY0021
-
 #### Тип:
 
 антенна
@@ -38517,22 +28309,6 @@ Cherry STUBBY 5,8G Antenna For DJI VTX System LHCP BLACK
 #### Артикул:
 
 DC7L-B / DC7L-W / DC7R-B
-
-#### Дополнительные изображения:
-
-228160 / 228161 / 228163 / 228165
-
-#### KaspiQtyAlmaty:
-
-17
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-9100
 
 #### Возможности подключения:
 
@@ -38554,15 +28330,15 @@ SMA
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://rushfpv.net
-
 #### Размеры (Ш×В×Г), cm:
 
 2.0
 
----
+
+
+
+
+
 
 ## Антенна Rush Cherry II Y type UFL Connector RHCP
 
@@ -38580,10 +28356,6 @@ https://drone.kz/product/antenna-rush-cherry-ii-y-type-ufl-connector/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-RUSHCHERRY0024
-
 #### Тип:
 
 антенна
@@ -38599,22 +28371,6 @@ Cherry II Antenna Y type UFL Connector Transparent Red RHCP
 #### Артикул:
 
 DC13L / DC13R
-
-#### Дополнительные изображения:
-
-228168 / 228170 / 228171
-
-#### KaspiQtyAlmaty:
-
-8
-
-#### KaspiQtyAstana:
-
-2
-
-#### Цена со скидкой:
-
-18400
 
 #### Возможности подключения:
 
@@ -38636,15 +28392,15 @@ UFL (IPEX1)
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://rushfpv.net
-
 #### Размеры (Ш×В×Г), cm:
 
 8.7
 
----
+
+
+
+
+
 
 ## Антенна Rush Cherry II Y type MMCX-JW Angle RHCP
 
@@ -38662,10 +28418,6 @@ https://drone.kz/product/antenna-rush-cherry-ii-y-type-mmcx-jw-angle/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-RUSHCHERRY0023
-
 #### Тип:
 
 антенна
@@ -38681,22 +28433,6 @@ Cherry II Antenna Y type MMCX-JW Angle MMCX Transparent Red RHCP
 #### Артикул:
 
 DC14L / DC14R
-
-#### Дополнительные изображения:
-
-228173 / 228174 / 228175
-
-#### KaspiQtyAlmaty:
-
-8
-
-#### KaspiQtyAstana:
-
-2
-
-#### Цена со скидкой:
-
-18400
 
 #### Возможности подключения:
 
@@ -38718,15 +28454,15 @@ MMCX
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://rushfpv.net
-
 #### Размеры (Ш×В×Г), cm:
 
 8.3
 
----
+
+
+
+
+
 
 ## Антенна Rush Cherry II SMA Ultra Extended RHCP
 
@@ -38744,10 +28480,6 @@ https://drone.kz/product/antenna-rush-cherry-ii-sma-ultra-extended/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-RUSHCHERRY0041
-
 #### Тип:
 
 антенна
@@ -38763,22 +28495,6 @@ Cherry II Antenna SMA ULTRA EXTENDED Transparent Red RHCP
 #### Артикул:
 
 DC16L / DC16R
-
-#### Дополнительные изображения:
-
-228177 / 228178 / 228179
-
-#### KaspiQtyAlmaty:
-
-8
-
-#### KaspiQtyAstana:
-
-2
-
-#### Цена со скидкой:
-
-17200
 
 #### Возможности подключения:
 
@@ -38800,19 +28516,15 @@ SMA
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://rushfpv.net
-
-#### К этому товару подходят:
-
-Шайбы Rush SMA Antenna Anti-Skid
-
 #### Размеры (Ш×В×Г), cm:
 
 15.0
 
----
+
+
+
+
+
 
 ## Антенна Rush 915MHZ IPEX-1 Long
 
@@ -38830,10 +28542,6 @@ https://drone.kz/product/antenna-rush-915mhz-ipex-1-long/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-RUSHPARTS0009
-
 #### Тип:
 
 антенна
@@ -38849,22 +28557,6 @@ ANTENNA 915MHZ Ipex-1 Long
 #### Артикул:
 
 AT01
-
-#### Дополнительные изображения:
-
-228181 / 228182
-
-#### KaspiQtyAlmaty:
-
-39
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-3400
 
 #### Возможности подключения:
 
@@ -38886,15 +28578,15 @@ IPEX-1
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://rushfpv.net
-
 #### Размеры (Ш×В×Г), cm:
 
 8.0 x 1.5
 
----
+
+
+
+
+
 
 ## Антенна Rush Micro 915MHZ IPEX-1
 
@@ -38912,10 +28604,6 @@ https://drone.kz/product/antenna-rush-micro-915mhz-ipex-1/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-FPVANTENNA0070
-
 #### Тип:
 
 антенна
@@ -38931,22 +28619,6 @@ MICRO ANTENNA 915MHZ
 #### Артикул:
 
 AT02
-
-#### Дополнительные изображения:
-
-228184 / 228185 / 228186 / 228187 / 228188
-
-#### KaspiQtyAlmaty:
-
-16
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-3400
 
 #### Возможности подключения:
 
@@ -38964,15 +28636,15 @@ AT02
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://rushfpv.net
-
 #### Размеры (Ш×В×Г), cm:
 
 8.0 x 1.5
 
----
+
+
+
+
+
 
 ## Антенна Rush Micro 2.4G Mini T Type IPEX-4
 
@@ -38990,10 +28662,6 @@ https://drone.kz/product/antenna-rush-micro-2-4g-mini-t-type-ipex-4/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-RUSHPARTS0011
-
 #### Тип:
 
 антенна
@@ -39009,22 +28677,6 @@ MICRO ANTENNA 2.4G MINI T
 #### Артикул:
 
 AT05
-
-#### Дополнительные изображения:
-
-228190 / 228191 / 228192
-
-#### KaspiQtyAlmaty:
-
-20
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-3400
 
 #### Возможности подключения:
 
@@ -39042,15 +28694,15 @@ AT05
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://rushfpv.net
-
 #### Размеры (Ш×В×Г), cm:
 
 8.0 x 1.5
 
----
+
+
+
+
+
 
 ## Нескользящие наконечники стиков Rush Thumb Grippies 4mm (A)
 
@@ -39068,10 +28720,6 @@ https://drone.kz/product/neskolzyashchie-nakonechniki-stikov-rush-thumb-grippies
 
 ### Характеристики:
 
-#### Штрихкод:
-
-FPVPARTS00616
-
 #### Тип:
 
 стики
@@ -39088,22 +28736,6 @@ Thumb Grippies non-slip stick ends
 
 SP39-1-4
 
-#### Дополнительные изображения:
-
-246903 / 246904
-
-#### KaspiQtyAlmaty:
-
-4
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-10300
-
 #### Дополнительные возможности:
 
 Доступны 2 типоразмера 3/4 мм / Доступны 3 формы наконечника
@@ -39116,11 +28748,11 @@ SP39-1-4
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://rushfpv.net/
 
----
+
+
+
 
 ## Наконечники стиков Rush 3D color M3
 
@@ -39138,10 +28770,6 @@ https://drone.kz/product/nakonechniki-stikov-rush-3d/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-SP03
-
 #### Тип:
 
 стики
@@ -39158,22 +28786,6 @@ rushfpv
 
 SP03
 
-#### Дополнительные изображения:
-
-228210 / 228211 / 228212 / 228213 / 228214 / 228215 / 228216 / 228217
-
-#### KaspiQtyAlmaty:
-
-2
-
-#### KaspiQtyAstana:
-
-3
-
-#### Цена со скидкой:
-
-8000
-
 #### Дополнительные возможности:
 
 Доступны 2 типоразмера 3/4 мм / Доступны 4 цвета наконечника: Black/Red/Purple/Champagne
@@ -39186,11 +28798,11 @@ SP03
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://rushfpv.net/
 
----
+
+
+
 
 ## Ключ универсальный Rush All-in-One
 
@@ -39208,10 +28820,6 @@ https://drone.kz/product/klyuch-universalnyy-rush-all-in-one/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-STPTOOLS0058 
-
 #### Тип:
 
 инструмент
@@ -39228,22 +28836,6 @@ All-in-one wrench (red/blue/black/pink}
 
 SP18
 
-#### Дополнительные изображения:
-
-228224 / 228225
-
-#### KaspiQtyAlmaty:
-
-10
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-4500
-
 #### Дополнительные возможности:
 
 Доступны 4 цвета: red/blue/black/pink
@@ -39256,11 +28848,11 @@ SP18
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://rushfpv.net/
 
----
+
+
+
 
 ## Инструмент Rush Swash Plate Level (6mm)
 
@@ -39278,10 +28870,6 @@ https://drone.kz/product/instrument-rush-swash-plate-level/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-STPTOOLS0034
-
 #### Тип:
 
 инструмент
@@ -39298,22 +28886,6 @@ Swash plate level
 
 SP14
 
-#### Дополнительные изображения:
-
-228227 / 228228
-
-#### KaspiQtyAlmaty:
-
-4
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-8000
-
 #### Дополнительные возможности:
 
 Доступны 2 размера: 6/8 мм
@@ -39326,11 +28898,11 @@ SP14
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://rushfpv.net/
 
----
+
+
+
 
 ## Держатель для пайки Rush STP (With Magnifier)
 
@@ -39348,10 +28920,6 @@ https://drone.kz/product/derzhatel-dlya-payki-rush-stp-with-magnifier/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-STPTOOLS0070
-
 #### Тип:
 
 держатель
@@ -39368,22 +28936,6 @@ STP Soldering Station (With Magnifier)
 
 SP26
 
-#### Дополнительные изображения:
-
-228230 / 228231 / 228232
-
-#### KaspiQtyAlmaty:
-
-4
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-23000
-
 #### Комплектация:
 
 Держатель для пайки Rush STP (With Magnifier) / Руководство
@@ -39392,11 +28944,11 @@ SP26
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://rushfpv.net/
 
----
+
+
+
 
 ## Плата Rush Parallel S4/XT30-XT60 + XT60 Cable
 
@@ -39414,10 +28966,6 @@ https://drone.kz/product/plata-rush-parallel-s4-xt30-xt60-xt60-cable/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-STPTOOLS0077
-
 #### Тип:
 
 зарядное устройство
@@ -39433,22 +28981,6 @@ Parallel Battery Charger S4/XT30-XT60 with XT60 Cable
 #### Артикул:
 
 SP3S
-
-#### Дополнительные изображения:
-
-228234 / 228235
-
-#### KaspiQtyAlmaty:
-
-4
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-17200
 
 #### Порты и интерфейсы:
 
@@ -39466,19 +28998,15 @@ SP3S
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://rushfpv.net/
-
-#### К этому товару подходят:
-
-Зарядное устройство HOTA D6 Pro
-
 #### Размеры (Ш×В×Г), cm:
 
 6.0 х 10.0 х 2.0
 
----
+
+
+
+
+
 
 ## Шайбы Rush SMA Antenna Anti-Skid
 
@@ -39495,10 +29023,6 @@ https://rushfpv.net/
 https://drone.kz/product/shayby-rush-sma-antenna-anti-skid/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6112345673673
 
 #### Тип:
 
@@ -39520,25 +29044,9 @@ TPU
 
 AW-2
 
-#### Дополнительные изображения:
-
-228237 / 228238
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-59
-
-#### KaspiQtyAstana:
-
-1
-
-#### Цена со скидкой:
-
-4500
 
 #### Комплектация:
 
@@ -39548,15 +29056,11 @@ AW-2
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://rushfpv.net/
 
-#### К этому товару подходят:
 
-Антенна Rush Cherry SMA-J SMA LHCP / Антенна Rush Cherry SMA-JW Extended Edition Angle RHCP / Переходник Rush MMCX-SMA Pigtail (Angle) For VTX
 
----
+
 
 ## Крепление на верёвку Insta360 X3
 
@@ -39574,10 +29078,6 @@ https://drone.kz/product/kreplenie-na-veryevku-insta360-x3/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970357856237
-
 #### Тип:
 
 крепление
@@ -39594,37 +29094,17 @@ X3 Water Sports Rope Mount
 
 Alu
 
-#### Код видео YouTube:
-
-etuoFf2b9QQ
-
 #### Артикул:
 
 X3 Water Sports Rope Mount
-
-#### Дополнительные изображения:
-
-228240 / 228241 / 228242 / 228243 / 228244 / 228245 / 228246 / 228247 / 228248
 
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-32
-
-#### KaspiQtyAstana:
-
-4
-
 #### Совместимость:
 
 X3
-
-#### Цена со скидкой:
-
-46100
 
 #### Комплектация:
 
@@ -39634,10 +29114,6 @@ X3
 
 12
 
-#### К этому товару подходят:
-
-Панорамная камера Insta360 X3
-
 #### Размеры (Ш×В×Г), cm:
 
 1.6 х 9.0 х 2.3
@@ -39646,7 +29122,11 @@ X3
 
 74.5
 
----
+
+
+
+
+
 
 ## Квадрокоптер DJI Mini 4 Pro Fly More Combo Plus (RC 2)
 
@@ -39663,10 +29143,6 @@ X3
 https://drone.kz/product/kvadrokopter-dji-mini-4-pro-fly-more-combo-plus-rc-2/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6941565969002
 
 #### Тип:
 
@@ -39692,17 +29168,9 @@ DJI Mini 4 Pro Fly More Combo Plus (DJI RC 2)
 
 60
 
-#### Код видео YouTube:
-
-PEghEPs97O8
-
 #### Артикул:
 
 DJI Mini 4 Pro Fly More Combo Plus (DJI RC 2)
-
-#### Дополнительные изображения:
-
-228279 / 228280 / 228281 / 228282 / 228283 / 228284 / 228285
 
 #### Разрешение видео:
 
@@ -39724,14 +29192,6 @@ DJI Mini 4 Pro Fly More Combo Plus (DJI RC 2)
 
 57.6
 
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-1
-
 #### Навигация:
 
 GPS + GLONASS + Galileo
@@ -39739,10 +29199,6 @@ GPS + GLONASS + Galileo
 #### Датчики:
 
 Система всенаправленного бинокулярного зрения, дополненная 3D-инфракрасным датчиком в нижней части
-
-#### Цена со скидкой:
-
-699900
 
 #### Возможности подключения:
 
@@ -39763,10 +29219,6 @@ GPS + GLONASS + Galileo
 #### Макс. разрешение видеосъемки:
 
 4K (3840×2160)
-
-#### Старая цена:
-
-699900
 
 #### Модельная линейка:
 
@@ -39816,26 +29268,6 @@ DJI Mini
 
 12
 
-#### Спецификация:
-
-https://www.dji.com/mini-4-pro/specs
-
-#### Руководство пользователя:
-
-https://dl.djicdn.com/downloads/DJI_Mini_4_Pro/DJI_Mini_4_Pro_User_Manual_EN.pdf
-
-#### Руководство по быстрому старту:
-
-https://dl.djicdn.com/downloads/DJI_Mini_4_Pro/DJI_Mini_4_Pro_DJI_RC_N2_Quick_Start_Guide.pdf
-
-#### Страница товара на сайте производителя:
-
-https://www.dji.com/mini-4-pro
-
-#### К этому товару подходят:
-
-Аккумулятор DJI Mini 3 Pro (Plus) (traid-in) / Широкоугольный объектив DJI Mini 4 Pro / ND-фильтры DJI Mini 4 Pro / Посадочный коврик PGYTECH 110 / Посадочный коврик PGYTECH 75 / Карта памяти MicroSD ExAscend Catalyst SDXC I 512GB + SD adapter / Карта памяти MicroSD ExAscend Catalyst SDXC I 256GB + SD adapter / Рюкзак Manfrotto Advanced Gearpack для Mavic Pro / Рюкзак и сумка PGYTECH OneMo (черные сумерки) / Рюкзак+сумка PGYTECH OneMo 2 25l (Серый камуфляж) / Цифровые очки DJI Goggles 2 / Посадочный коврик PGYTECH 55 / Протектор пульта PGYTECH | DJI RC / Защита пульта управления PGYTECH DJI RC Protector / Защита пропеллеров для DJI Air 3 Propeller Guard / Поляризационный фильтр PGYTECH P-40B-011 | Mini 3/Mini 3 Pro / Коврик для дрона PGYTECH Drones Landing Pad Pro V2 / Кейс PGYTECH P-40B-030 | Mini 3/3 Pro / Защита пропеллеров 360° DJI Mini 4 Pro / Коврик посадочный PGYTECH 110cm (Weighted) / Защитный кейс PGYTECH для DJI Mavic Air 2/2S
-
 #### Размеры (Ш×В×Г), cm:
 
 В сложенном виде (без пропеллеров): 14.8×9.4×6.4 мм / В разложенном виде (с пропеллерами): 29.8×37.3×10.1 мм
@@ -39852,7 +29284,11 @@ https://www.dji.com/mini-4-pro
 
 microSDXC
 
----
+
+
+
+
+
 
 ## Мотор RCINPower 1002 19000KV Orange
 
@@ -39870,10 +29306,6 @@ https://drone.kz/product/motor-rcinpower-1002-19000kv/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-GTS V3 1002 19000KVOrange
-
 #### Тип:
 
 мотор
@@ -39889,22 +29321,6 @@ RCINPOWER 1002 19000kv
 #### Артикул:
 
 GTS V3 1002 19000KVOrange
-
-#### Дополнительные изображения:
-
-228287 / 228288 / 228289
-
-#### KaspiQtyAlmaty:
-
-20
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-10300
 
 #### Порты и интерфейсы:
 
@@ -39926,15 +29342,15 @@ GTS V3 1002 19000KVOrange
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.rcinpower.com/G-SERIES/2022/08-06/55.html
-
 #### Размеры (Ш×В×Г), cm:
 
 1.3 × 0.7
 
----
+
+
+
+
+
 
 ## Мотор RCINPower SmooX GTS V2 2306 Plus 1880 kv
 
@@ -39952,10 +29368,6 @@ https://drone.kz/product/motor-rcinpower-smoox-gts-v2-2306-1880plus/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6112345678333
-
 #### Тип:
 
 мотор
@@ -39971,22 +29383,6 @@ RCINPOWER SmooX 2306 Plus
 #### Артикул:
 
 SmooX GTS V2 2306 Plus
-
-#### Дополнительные изображения:
-
-228291 / 228292 / 228293 / 228294 / 228295
-
-#### KaspiQtyAlmaty:
-
-20
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-21800
 
 #### Порты и интерфейсы:
 
@@ -40008,15 +29404,15 @@ SmooX GTS V2 2306 Plus
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.rcinpower.com/SmooX/2020/10-13/35.html
-
 #### Размеры (Ш×В×Г), cm:
 
 2.9 x 3.0
 
----
+
+
+
+
+
 
 ## Мотор RCINPower SmooX 2806 Plus 1350kv Chrome (Gun Metal)
 
@@ -40034,10 +29430,6 @@ https://drone.kz/product/motor-rcinpower-smoox-2806-plus/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-SmooX 2806 Plus 1350kv
-
 #### Тип:
 
 мотор
@@ -40053,22 +29445,6 @@ RCINPOWER SmooX 2806 Plus
 #### Артикул:
 
 RCINPOWER SmooX 2806 Plus
-
-#### Дополнительные изображения:
-
-228297 / 228298 / 228299
-
-#### KaspiQtyAlmaty:
-
-20
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-25300
 
 #### Порты и интерфейсы:
 
@@ -40090,15 +29466,15 @@ RCINPOWER SmooX 2806 Plus
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.rcinpower.com/SmooX/2020/10-13/36.html
-
 #### Размеры (Ш×В×Г), cm:
 
 3.4 х 3.3
 
----
+
+
+
+
+
 
 ## Док-станция PUDU CC1
 
@@ -40116,10 +29492,6 @@ https://drone.kz/product/dok-stantsiya-pudu-cc1/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-2214000002214
-
 #### Тип:
 
 док-станция
@@ -40136,25 +29508,9 @@ CC1 Docking station
 
 11010-0000002
 
-#### Дополнительные изображения:
-
-228301 / 228302
-
-#### KaspiQtyAlmaty:
-
-5
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 CC1
-
-#### Цена со скидкой:
-
-790900
 
 #### Возможности подключения:
 
@@ -40180,14 +29536,6 @@ Bluetooth
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.pudurobotics.com/accessory/9
-
-#### К этому товару подходят:
-
-Робот для уборки помещений Pudu Robotics CC1
-
 #### Размеры (Ш×В×Г), cm:
 
 40.4 x 49.7 x 27.4
@@ -40196,7 +29544,11 @@ https://www.pudurobotics.com/accessory/9
 
 20
 
----
+
+
+
+
+
 
 ## Защита пропеллеров 360° DJI Mini 4 Pro
 
@@ -40214,10 +29566,6 @@ https://drone.kz/product/zashchita-propellerov-360-dji-mini-4-pro/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6941565971074
-
 #### Тип:
 
 защита
@@ -40234,37 +29582,17 @@ Mini 4 Pro 360° Propeller Guard
 
 Пластик
 
-#### Код видео YouTube:
-
-vwmVokhFmMk
-
 #### Артикул:
 
 Mini 4 Pro 360° Propeller Guard
-
-#### Дополнительные изображения:
-
-228403 / 228404 / 228405
 
 #### Цвет:
 
 серый
 
-#### KaspiQtyAlmaty:
-
-13
-
-#### KaspiQtyAstana:
-
-2
-
 #### Совместимость:
 
 Mini 4 Pro
-
-#### Цена со скидкой:
-
-17600
 
 #### Комплектация:
 
@@ -40274,19 +29602,15 @@ Mini 4 Pro
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.dji.com/
-
-#### К этому товару подходят:
-
-Квадрокоптер DJI Mini 4 Pro (RC-N2) / Квадрокоптер DJI Mini 4 Pro (RC 2) / Квадрокоптер DJI Mini 4 Pro Fly More Combo (RC 2) / Квадрокоптер DJI Mini 4 Pro Fly More Combo Plus (RC 2)
-
 #### Размеры (Ш×В×Г), cm:
 
 Размеры (после установки): 41.1 × 33.5 × 11.5
 
----
+
+
+
+
+
 
 ## ND-фильтры DJI Mini 4 Pro
 
@@ -40304,10 +29628,6 @@ https://drone.kz/product/nd-filtry-dji-mini-4-pro/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6941565969125
-
 #### Тип:
 
 светофильтр
@@ -40324,33 +29644,13 @@ DJI Mini 4 Pro ND Filters Set
 
 Алюминий, оптическое стекло
 
-#### Код видео YouTube:
-
-v7gos3ha9ok
-
 #### Артикул:
 
 DJI Mini 4 Pro ND Filters Set
 
-#### Дополнительные изображения:
-
-228412 / 228413 / 228414 / 228415 / 228416
-
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-1
-
 #### Совместимость:
 
 Mini 4 Pro
-
-#### Цена со скидкой:
-
-27000
 
 #### Дополнительные возможности:
 
@@ -40364,15 +29664,11 @@ ND-фильтры DJI Mini 4 Pro: / ND16 Filter × 1 / ND64 Filter × 1 / ND256 
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.dji.com
 
-#### К этому товару подходят:
 
-Квадрокоптер DJI Mini 4 Pro (RC-N2) / Квадрокоптер DJI Mini 4 Pro (RC 2) / Квадрокоптер DJI Mini 4 Pro Fly More Combo (RC 2) / Квадрокоптер DJI Mini 4 Pro Fly More Combo Plus (RC 2)
 
----
+
 
 ## Набор PGYTECH CapLock Action Camera Quick Release
 
@@ -40390,10 +29686,6 @@ https://drone.kz/product/nabor-pgytech-caplock-action-camera-quick-release/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6976100482302
-
 #### Тип:
 
 крепление / комплект
@@ -40410,33 +29702,13 @@ CAPLOCK ACTION CAMERA QUICK RELEASE SET
 
 Нейлон + Стекловолокно
 
-#### Код видео YouTube:
-
-1pz_7JoO888
-
 #### Артикул:
 
 P-CG-141
 
-#### Дополнительные изображения:
-
-228467 / 228468 / 228469 / 228470 / 228471 / 228472
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-0
-
-#### KaspiQtyAstana:
-
-4
-
-#### Цена со скидкой:
-
-6800
 
 #### Порты и интерфейсы:
 
@@ -40454,10 +29726,6 @@ P-CG-141
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.pgytech.com
-
 #### Размеры (Ш×В×Г), cm:
 
 3.2 х 3.7 х 1.5
@@ -40466,7 +29734,11 @@ https://www.pgytech.com
 
  9.1 х 9.4 х 3.5
 
----
+
+
+
+
+
 
 ## Набор PGYTECH CapLock Action Camera Ball-Head Quick Release
 
@@ -40484,10 +29756,6 @@ https://drone.kz/product/nabor-pgytech-caplock-action-camera-ball-head-quick-rel
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6976100482319
-
 #### Тип:
 
 крепление / комплект
@@ -40504,33 +29772,13 @@ CAPLOCK ACTION CAMERA BALL-HEAD QUICK RELEASE SET
 
 Нейлон + Стекловолокно
 
-#### Код видео YouTube:
-
-5w6ITjE_cyM
-
 #### Артикул:
 
 P-CG-145
 
-#### Дополнительные изображения:
-
-228474 / 228475 / 228476 / 228477 / 228478 / 228479 / 228480 / 228481 / 228482 / 228483
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-4
-
-#### Цена со скидкой:
-
-6800
 
 #### Порты и интерфейсы:
 
@@ -40548,10 +29796,6 @@ P-CG-145
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.pgytech.com
-
 #### Размеры (Ш×В×Г), cm:
 
 3.2 х 3.7 х 3.9
@@ -40560,7 +29804,11 @@ https://www.pgytech.com
 
 9.1 х 9.4 х 3.5
 
----
+
+
+
+
+
 
 ## Монопод PGYTECH CapLock Action Camera Extension Pole Tripod
 
@@ -40578,10 +29826,6 @@ https://drone.kz/product/monopod-pgytech-caplock-action-camera-extension-pole-tr
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6976100482326
-
 #### Тип:
 
 монопод
@@ -40598,17 +29842,9 @@ CAPLOCK ACTION CAMERA EXTENSION POLE TRIPOD
 
 Алюминиевый сплав, PA+GF, TPR
 
-#### Код видео YouTube:
-
-5w6ITjE_cyM
-
 #### Артикул:
 
 P-GM-218
-
-#### Дополнительные изображения:
-
-228485 / 228486 / 228487 / 228488 / 228489 / 228490 / 228491 / 228492 / 228493 / 228494 / 228495 / 228496 / 228497 / 228498 / 228499 / 228500 / 228501 / 228502
 
 #### Цвет:
 
@@ -40617,18 +29853,6 @@ P-GM-218
 #### Макс. несущая способность, kg:
 
 1
-
-#### KaspiQtyAlmaty:
-
-4
-
-#### KaspiQtyAstana:
-
-3
-
-#### Цена со скидкой:
-
-19500
 
 #### Порты и интерфейсы:
 
@@ -40646,10 +29870,6 @@ P-GM-218
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.pgytech.com
-
 #### Размеры (Ш×В×Г), cm:
 
 18.0 х 3.1 х 5.5
@@ -40658,7 +29878,11 @@ https://www.pgytech.com
 
 24.4 х 8.2 х 3.9
 
----
+
+
+
+
+
 
 ## Магнитное крепление PGYTECH CapLock Action Camera
 
@@ -40676,10 +29900,6 @@ https://drone.kz/product/magnitnoe-kreplenie-pgytech-caplock-action-camera/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6976100482340
-
 #### Тип:
 
 крепление
@@ -40696,10 +29916,6 @@ CAPLOCK ACTION CAMERA MAGNETIC MOUNT
 
 нейлон + стекловолокно, алюминиевый сплав, силикон
 
-#### Код видео YouTube:
-
-5w6ITjE_cyM
-
 #### Артикул:
 
 P-GM-220
@@ -40711,18 +29927,6 @@ P-GM-220
 #### Макс. несущая способность, kg:
 
 0.3
-
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-2
-
-#### Цена со скидкой:
-
-24200
 
 #### Порты и интерфейсы:
 
@@ -40740,10 +29944,6 @@ P-GM-220
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.pgytech.com
-
 #### Размеры (Ш×В×Г), cm:
 
  13.5 х φ6.4
@@ -40752,7 +29952,11 @@ https://www.pgytech.com
 
 9.9 х 15.4 х 4.6
 
----
+
+
+
+
+
 
 ## Крепление-присоска PGYTECH CapLock Action Camera
 
@@ -40770,10 +29974,6 @@ https://drone.kz/product/kreplenie-prisoska-pgytech-caplock-action-camera/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6976100482364
-
 #### Тип:
 
 крепление
@@ -40790,33 +29990,13 @@ CAPLOCK ACTION CAMERA SUCTION CUP MOUNT
 
 ПА, ТПУ, алюминиевый сплав, силикон
 
-#### Код видео YouTube:
-
-5w6ITjE_cyM
-
 #### Артикул:
 
 P-GM-223
 
-#### Дополнительные изображения:
-
-228513 / 228514 / 228515 / 228516 / 228517 / 228518 / 228519 / 228520 / 228521
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-23000
 
 #### Порты и интерфейсы:
 
@@ -40834,10 +30014,6 @@ P-GM-223
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.pgytech.com
-
 #### Размеры (Ш×В×Г), cm:
 
 15.5 х φ8.5
@@ -40846,7 +30022,11 @@ https://www.pgytech.com
 
  11.7 х 12.6 х 6.7
 
----
+
+
+
+
+
 
 ## Крепление-присоска PGYTECH CapLock Three-Arm
 
@@ -40864,10 +30044,6 @@ https://drone.kz/product/kreplenie-prisoska-pgytech-caplock-three-arm/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6976100482371
-
 #### Тип:
 
 крепление
@@ -40884,33 +30060,13 @@ CAPLOCK THREE-ARM SUCTION MOUNT
 
 Алюминиевый сплав, ПА, ТПУ
 
-#### Код видео YouTube:
-
-5w6ITjE_cyM
-
 #### Артикул:
 
 P-GM-224
 
-#### Дополнительные изображения:
-
-228523 / 228524 / 228525 / 228526 / 228527 / 228528 / 228529 / 228530 / 228531 / 228532
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-36900
 
 #### Порты и интерфейсы:
 
@@ -40928,10 +30084,6 @@ P-GM-224
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.pgytech.com
-
 #### Размеры (Ш×В×Г), cm:
 
 19.5 х 20.7 х 17.6
@@ -40940,7 +30092,11 @@ https://www.pgytech.com
 
 19.6 х 21.1 х 10.1
 
----
+
+
+
+
+
 
 ## Крепление на шлем PGYTECH CapLock Action Camera
 
@@ -40958,10 +30114,6 @@ https://drone.kz/product/kreplenie-na-shlem-pgytech-caplock-action-camera/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6976100482388
-
 #### Тип:
 
 крепление
@@ -40978,33 +30130,13 @@ CAPLOCK ACTION CAMERA HELMET MOUNT
 
 Алюминий, ПК+АБС, Силикон
 
-#### Код видео YouTube:
-
-5w6ITjE_cyM
-
 #### Артикул:
 
 P-GM-225
 
-#### Дополнительные изображения:
-
-228534 / 228535 / 228536 / 228537 / 228538 / 228539 / 228540 / 228541 / 228542 / 228543
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-2
-
-#### Цена со скидкой:
-
-24200
 
 #### Порты и интерфейсы:
 
@@ -41022,10 +30154,6 @@ P-GM-225
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.pgytech.com
-
 #### Размеры (Ш×В×Г), cm:
 
 13.4 х 4.8 х 4.3
@@ -41034,7 +30162,11 @@ https://www.pgytech.com
 
 19.2 х 9.6 х 4.3
 
----
+
+
+
+
+
 
 ## Крепление Insta360 Dual Suction Cup Car (Standart)
 
@@ -41052,10 +30184,6 @@ https://drone.kz/product/kreplenie-insta360-dual-suction-cup-car-standart/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970357856336
-
 #### Тип:
 
 крепление
@@ -41068,37 +30196,17 @@ insta360
 
 Dual Suction Cup Car Mount Standart
 
-#### Код видео YouTube:
-
-rQVxr1WDd70
-
 #### Артикул:
 
 Dual Suction Cup Car Mount Standart
-
-#### Дополнительные изображения:
-
-228586
 
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-6
-
-#### KaspiQtyAstana:
-
-1
-
 #### Совместимость:
 
 GO 3, X3, ONE RS, GO 2, ONE X2, ONE R, ONE X
-
-#### Цена со скидкой:
-
-177800
 
 #### Рабочая температура, °C:
 
@@ -41116,15 +30224,11 @@ GO 3, X3, ONE RS, GO 2, ONE X2, ONE R, ONE X
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://insta360.com
 
-#### К этому товару подходят:
 
-Экшн-камера Insta360 GO 3 (32GB) Standalone / Панорамная камера Insta360 X3 / Модульная экшн-камера Insta360 ONE RS / Экшн-камера Insta360 GO 2 Standalone / Панорамная экшн-камера Insta360 ONE X2 Standalone / Модульная экшн-камера Insta360 ONE R 1-Inch Edition
 
----
+
 
 ## Рюкзак PGYTECH OneMo FPV 30L (Space Black)
 
@@ -41141,10 +30245,6 @@ https://insta360.com
 https://drone.kz/product/ryukzak-pgytech-onemo-fpv-30l-space-black/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6976100482210
 
 #### Тип:
 
@@ -41166,33 +30266,13 @@ POLY+P
 
 30
 
-#### Код видео YouTube:
-
-APMPB1JxmVM
-
 #### Артикул:
 
 P-CB-118
 
-#### Дополнительные изображения:
-
-228590 / 228591 / 228592 / 228593 / 228594 / 228595 / 228596
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-1
-
-#### Цена со скидкой:
-
-115000
 
 #### Дополнительные возможности:
 
@@ -41206,14 +30286,6 @@ P-CB-118
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.pgytech.com
-
-#### К этому товару подходят:
-
-Зажим Pgytech Beetle Camera Clip
-
 #### Размеры (Ш×В×Г), cm:
 
 50.0 х 38.0 х 23.0
@@ -41222,7 +30294,11 @@ https://www.pgytech.com
 
 53.0 х 39.0 х 32.7
 
----
+
+
+
+
+
 
 ## Камера DJI Osmo Pocket 3 Creator Combo
 
@@ -41239,10 +30315,6 @@ https://www.pgytech.com
 https://drone.kz/product/kamera-dji-osmo-pocket-3-creator-combo/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6941565969903
 
 #### Тип:
 
@@ -41268,17 +30340,9 @@ Osmo Pocket 3 Creator Combo
 
 7.7
 
-#### Код видео YouTube:
-
-4-rUE7E6KFI
-
 #### Артикул:
 
 Osmo Pocket 3 Creator Combo
-
-#### Дополнительные изображения:
-
-228635 / 228636 / 228637 / 228638 / 228639 / 228640 / 228641 / 228642
 
 #### Разрешение видео:
 
@@ -41291,18 +30355,6 @@ Osmo Pocket 3 Creator Combo
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-7
-
-#### KaspiQtyAstana:
-
-3
-
-#### Цена со скидкой:
-
-389900
 
 #### Использование карт памяти:
 
@@ -41336,26 +30388,6 @@ Aperture: f/2.0 / Format Equivalent: 20 mm / Focus Range: 0.2 m to ∞
 
 12
 
-#### Спецификация:
-
-https://www.dji.com/osmo-pocket-3/specs
-
-#### Руководство пользователя:
-
-https://dl.djicdn.com/downloads/DJI_Osmo_Pocket_3/UM/20231020/DJI_Osmo_Pocket_3_User_Manual_v1.0_en.pdf
-
-#### Руководство по быстрому старту:
-
-https://dl.djicdn.com/downloads/DJI_Osmo_Pocket_3/QSG/DJI_Osmo_Pocket_3_Quick_Start_Guide_v1.0.pdf
-
-#### Страница товара на сайте производителя:
-
-https://www.dji.com/osmo-pocket-3
-
-#### К этому товару подходят:
-
-Адаптер расширения DJI Osmo Pocket 3 / Сумка DJI Osmo Pocket 3 Carrying Bag / Карта памяти MicroSD ExAscend Catalyst SDXC I 512GB + SD adapter / Карта памяти MicroSD ExAscend Catalyst SDXC I 256GB + SD adapter
-
 #### Размеры (Ш×В×Г), cm:
 
 14.0 × 4.2 × 3.3
@@ -41364,7 +30396,11 @@ https://www.dji.com/osmo-pocket-3
 
 0.179
 
----
+
+
+
+
+
 
 ## Аккумуляторная ручка DJI Osmo Pocket 3
 
@@ -41382,10 +30418,6 @@ https://drone.kz/product/akkumulyatornaya-ruchka-dji-osmo-pocket-3/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6941565969835
-
 #### Тип:
 
 аккумуляторная батарея
@@ -41402,37 +30434,17 @@ Osmo Pocket 3 Battery Handle
 
 950
 
-#### Код видео YouTube:
-
-1V2c2fslLpQ
-
 #### Артикул:
 
 Osmo Pocket 3 Battery Handle
-
-#### Дополнительные изображения:
-
-228644 / 228645 / 228646 / 228647
 
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-6
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 Osmo Pocket 3
-
-#### Цена со скидкой:
-
-48200
 
 #### Порты и интерфейсы:
 
@@ -41454,14 +30466,6 @@ USB-C / Резьба 1/4 дюйма
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://dji.com/
-
-#### К этому товару подходят:
-
-Камера DJI Osmo Pocket 3 / Камера DJI Osmo Pocket 3 Creator Combo
-
 #### Размеры (Ш×В×Г), cm:
 
 3.4 × 2.8 × 0.8
@@ -41470,7 +30474,11 @@ https://dji.com/
 
 64.6
 
----
+
+
+
+
+
 
 ## Рама 75mm V4 Moblite7/Mobula7 1S
 
@@ -41488,10 +30496,6 @@ https://drone.kz/product/rama-75mm-v4-moblite7-mobula7-1s/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-3S20139-B
-
 #### Тип:
 
 рама
@@ -41508,22 +30512,6 @@ Happymodel
 
 75mm V4 whoop frame for Moblite7 and Mobula7 1S
 
-#### Дополнительные изображения:
-
-228713 / 228714 / 228715 / 228716
-
-#### KaspiQtyAlmaty:
-
-7
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-3400
-
 #### Размер девайса, cm:
 
 0.75
@@ -41532,7 +30520,11 @@ Happymodel
 
 5.4
 
----
+
+
+
+
+
 
 ## Пластина Carbon fiber frame for Crux3
 
@@ -41550,10 +30542,6 @@ https://drone.kz/product/plastina-carbon-fiber-frame-for-crux3/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-3A20100-1
-
 #### Тип:
 
 рама
@@ -41570,27 +30558,15 @@ Carbon fiber frame for Crux3
 
 Carbon fiber frame for Crux3
 
-#### Дополнительные изображения:
-
-228718 / 228719
-
-#### KaspiQtyAlmaty:
-
-4
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-8000
-
 #### Вес товара, г:
 
 5
 
----
+
+
+
+
+
 
 ## Канопа Micro Camera 2022-Black
 
@@ -41608,10 +30584,6 @@ https://drone.kz/product/kanopa-micro-camera-2022-black/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-738156453448
-
 #### Тип:
 
 кронштейн
@@ -41628,27 +30600,15 @@ Micro Camera 2022-Black
 
 Навес для микрокамеры Canopy for Micro Camera 2022-Black
 
-#### Дополнительные изображения:
-
-228721 / 228722 / 228723 / 228724 / 228725
-
-#### KaspiQtyAlmaty:
-
-39
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-5700
-
 #### Вес товара, г:
 
 1.93
 
----
+
+
+
+
+
 
 ## Канопа Crux3
 
@@ -41666,10 +30626,6 @@ https://drone.kz/product/kanopa-crux3/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-3S20127
-
 #### Тип:
 
 кронштейн
@@ -41686,27 +30642,15 @@ Happymodel
 
 Крышка для камеры на дрон camera Canopy for Crux3
 
-#### Дополнительные изображения:
-
-228727 / 228728 / 228729 / 228730 / 228731
-
-#### KaspiQtyAlmaty:
-
-10
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-3400
-
 #### Вес товара, г:
 
 1
 
----
+
+
+
+
+
 
 ## Защитный кейс PGYTECH P-43A-010 | Mavic 3 Series
 
@@ -41723,10 +30667,6 @@ Happymodel
 https://drone.kz/product/zashchitnyy-keys-pgytech-p-43a-010-mavic-3-series/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6976100482197
 
 #### Тип:
 
@@ -41748,29 +30688,13 @@ P-43A-010
 
 P-43A-010
 
-#### Дополнительные изображения:
-
-228733
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 Mavic 3 Pro, Mavic 3, Mavic 3 Classic
-
-#### Цена со скидкой:
-
-61100
 
 #### Рабочая температура, °C:
 
@@ -41784,14 +30708,6 @@ Mavic 3 Pro, Mavic 3, Mavic 3 Classic
 
 12
 
-#### Страница товара на сайте производителя:
-
-pgytech.com
-
-#### К этому товару подходят:
-
-Квадрокоптер DJI Mavic 3 / Сумка-трансформер DJI Mavic 3 / Кейс PGYTECH P-26A-008 | Mavic 3 / Квадрокоптер DJI Mavic 3 Pro (DJI RC) / Квадрокоптер DJI Mavic 3 Classic (DJI RC)
-
 #### Размеры (Ш×В×Г), cm:
 
 41.0 x 33.0 x 16.5 
@@ -41804,7 +30720,11 @@ pgytech.com
 
 2.69
 
----
+
+
+
+
+
 
 ## Мотор RCINPower 1002 19000KV Pink
 
@@ -41822,10 +30742,6 @@ https://drone.kz/product/motor-rcinpower-1002-19000kv-pink/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6112345673758
-
 #### Тип:
 
 мотор
@@ -41841,22 +30757,6 @@ RCINPOWER 1002 19000kv
 #### Артикул:
 
 GTS V3 1002 19000KV Pink
-
-#### Дополнительные изображения:
-
-228751 / 228752 / 228753 / 228754
-
-#### KaspiQtyAlmaty:
-
-4
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-10300
 
 #### Порты и интерфейсы:
 
@@ -41878,15 +30778,15 @@ GTS V3 1002 19000KV Pink
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.rcinpower.com/G-SERIES/2022/08-06/55.html
-
 #### Размеры (Ш×В×Г), cm:
 
 1.3 × 0.7
 
----
+
+
+
+
+
 
 ## Кейс PGYTECH P-40B-030 | Mini 3/3 Pro
 
@@ -41903,10 +30803,6 @@ https://www.rcinpower.com/G-SERIES/2022/08-06/55.html
 https://drone.kz/product/keys-pgytech-p-40b-030-mini-3-3-pro/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970801339897
 
 #### Тип:
 
@@ -41928,21 +30824,9 @@ P-40B-030
 
 P-40B-030
 
-#### Дополнительные изображения:
-
-228735 / 228736 / 228737 / 228738 / 228739
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-13
-
-#### KaspiQtyAstana:
-
-5
 
 #### Совместимость:
 
@@ -41952,10 +30836,6 @@ P-40B-030
 
 Защитный корпус
 
-#### Цена со скидкой:
-
-18400
-
 #### Комплектация:
 
 Кейс PGYTECH P-40B-030 | Mini 3/3 Pro / Документация
@@ -41964,19 +30844,15 @@ P-40B-030
 
 12
 
-#### Спецификация:
-
-https://www.pgytech.com/
-
-#### К этому товару подходят:
-
-Квадрокоптер DJI Mini 3 Pro RC / Квадрокоптер DJI Mini 3 (RC) / Квадрокоптер DJI Mini 3 Fly More Combo (DJI RC)
-
 #### Размеры (Ш×В×Г), cm:
 
 30 × 21.5 × 9.1
 
----
+
+
+
+
+
 
 ## Мотор RCINPower SmooX 2806 Plus 1750kv Purple (Pink)
 
@@ -41994,10 +30870,6 @@ https://drone.kz/product/motor-rcinpower-smoox-2806-plus-1750kv-purple-pink/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6112345678896
-
 #### Тип:
 
 мотор
@@ -42013,22 +30885,6 @@ RCINPOWER SmooX 2806 Plus
 #### Артикул:
 
 SmooX 2806 Plus 1750kv
-
-#### Дополнительные изображения:
-
-228758 / 228759 / 228760
-
-#### KaspiQtyAlmaty:
-
-14
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-25300
 
 #### Порты и интерфейсы:
 
@@ -42050,15 +30906,15 @@ SmooX 2806 Plus 1750kv
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.rcinpower.com/SmooX/2020/10-13/36.html
-
 #### Размеры (Ш×В×Г), cm:
 
 3.4 х 3.3
 
----
+
+
+
+
+
 
 ## Коврик посадочный PGYTECH 110cm (Weighted)
 
@@ -42076,10 +30932,6 @@ https://drone.kz/product/kovrik-posadochnyy-pgytech-110cm-weighted/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6976100480001
-
 #### Тип:
 
 посадочный коврик
@@ -42096,22 +30948,6 @@ pgytech
 
 P-GM-165
 
-#### Дополнительные изображения:
-
-228741 / 228742 / 228743 / 228744 / 228745 / 228746 / 228747 / 228748 / 228749
-
-#### KaspiQtyAlmaty:
-
-5
-
-#### KaspiQtyAstana:
-
-3
-
-#### Цена со скидкой:
-
-24200
-
 #### Дополнительные возможности:
 
 Защищает подвес и оптику от грязи и помех, что подходит для использования на пересеченной местности / Легко складывается и переносится / Водонепроницаемый, устойчивый к погодным условиям и выцветанию / Поставляется с сумкой, облегчающей хранение и транспортировку
@@ -42124,14 +30960,6 @@ P-GM-165
 
 12
 
-#### Страница товара на сайте производителя:
-
-pgytech.com
-
-#### К этому товару подходят:
-
-Квадрокоптер DJI Matrice 300 RTK Combo / Квадрокоптер DJI Matrice 30 / Квадрокоптер DJI Matrice 350 RTK
-
 #### Размеры (Ш×В×Г), cm:
 
 110
@@ -42140,7 +30968,11 @@ pgytech.com
 
 φ45 х 6.5
 
----
+
+
+
+
+
 
 ## УФ-фильтр PGYTECH P-40B-010 | Mini 3/Mini3 Pro
 
@@ -42158,10 +30990,6 @@ https://drone.kz/product/uf-filtr-pgytech-p-40b-010-mini-3-mini3-pro/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970801339842
-
 #### Тип:
 
 светофильтр
@@ -42178,25 +31006,9 @@ DJI Mini 3/Mini3 Pro UV Filter
 
 P-40B-010
 
-#### Дополнительные изображения:
-
-229157
-
-#### KaspiQtyAlmaty:
-
-14
-
-#### KaspiQtyAstana:
-
-15
-
 #### Совместимость:
 
 Mini 3, Mini3 Pro
-
-#### Цена со скидкой:
-
-11400
 
 #### Комплектация:
 
@@ -42206,14 +31018,6 @@ Mini 3, Mini3 Pro
 
 12
 
-#### Страница товара на сайте производителя:
-
-pgytech.com
-
-#### К этому товару подходят:
-
-Квадрокоптер DJI Mini 3 Pro / Фильтры ND16/64/256 DJI Mini 3 Pro / CPL-фильтр Pro PGYTECH | Mini 3 Pro / Квадрокоптер DJI Mini 3 (RC)
-
 #### Размеры (Ш×В×Г), cm:
 
 2.45 х 2.41 х 0.36
@@ -42222,7 +31026,11 @@ pgytech.com
 
 3.3
 
----
+
+
+
+
+
 
 ## Поляризационный фильтр PGYTECH P-40B-011 | Mini 3/Mini 3 Pro
 
@@ -42240,10 +31048,6 @@ https://drone.kz/product/polyarizatsionnyy-filtr-pgytech-p-40b-011-mini-3-mini-3
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970801339859
-
 #### Тип:
 
 светофильтр
@@ -42260,25 +31064,9 @@ DJI Mini 3 /Mini 3 pro CPL Filter
 
 P-40B-011
 
-#### Дополнительные изображения:
-
-229160
-
-#### KaspiQtyAlmaty:
-
-11
-
-#### KaspiQtyAstana:
-
-15
-
 #### Совместимость:
 
 Mini 3, Mini 3 Pro
-
-#### Цена со скидкой:
-
-13800
 
 #### Комплектация:
 
@@ -42288,14 +31076,6 @@ Mini 3, Mini 3 Pro
 
 12
 
-#### Страница товара на сайте производителя:
-
-pgytech.com
-
-#### К этому товару подходят:
-
-Квадрокоптер DJI Mini 3 Pro / Фильтры ND16/64/256 DJI Mini 3 Pro / Квадрокоптер DJI Mini 3 (RC)
-
 #### Размеры (Ш×В×Г), cm:
 
 2.45 х 2.41 х 0.36
@@ -42304,7 +31084,11 @@ pgytech.com
 
 5.7
 
----
+
+
+
+
+
 
 ## ND-фильтры PGYTECH P-40B-012 | Mini 3/Mini 3 Pro
 
@@ -42321,10 +31105,6 @@ ND-фильтры PGYTECH P-40B-012 | Mini 3/Mini 3 Pro предназначен
 https://drone.kz/product/nd-filtry-pgytech-p-40b-012-mini-3-mini-3-pro/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970801339866
 
 #### Тип:
 
@@ -42350,21 +31130,9 @@ P-40B-012
 
 красный
 
-#### KaspiQtyAlmaty:
-
-9
-
-#### KaspiQtyAstana:
-
-9
-
 #### Совместимость:
 
 Mini 3, Mini 3 Pro
-
-#### Цена со скидкой:
-
-27600
 
 #### Комплектация:
 
@@ -42374,14 +31142,6 @@ ND-фильтры PGYTECH P-40B-012 | Mini 3/Mini 3 Pro / ND 16 - 1 шт / ND 64
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.pgytech.com/
-
-#### К этому товару подходят:
-
-Квадрокоптер DJI Mini 3 Pro / Квадрокоптер DJI Mini 3 (RC)
-
 #### Размеры (Ш×В×Г), cm:
 
 2.45 х 2.41 х 0.36
@@ -42390,7 +31150,11 @@ https://www.pgytech.com/
 
 28
 
----
+
+
+
+
+
 
 ## Мотор RCINPower SmooX GTS V2 2306 Plus 2580 kv
 
@@ -42408,10 +31172,6 @@ https://drone.kz/product/motor-rcinpower-smoox-gts-v2-2306-plus-2580-kv/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-SmooX GTS V2 2580kv Plus
-
 #### Тип:
 
 мотор
@@ -42427,22 +31187,6 @@ RCINPOWER SmooX 2306 Plus
 #### Артикул:
 
 SmooX GTS V2 2306 Plus
-
-#### Дополнительные изображения:
-
-228765 / 228766 / 228767 / 228768
-
-#### KaspiQtyAlmaty:
-
-16
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-21800
 
 #### Порты и интерфейсы:
 
@@ -42464,15 +31208,15 @@ SmooX GTS V2 2306 Plus
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.rcinpower.com/SmooX/2020/10-13/35.html
-
 #### Размеры (Ш×В×Г), cm:
 
 2.9 x 3.0
 
----
+
+
+
+
+
 
 ## Защитный кейс PGYTECH P-40B-020 | Mini 3/Mini 3 Pro
 
@@ -42489,10 +31233,6 @@ https://www.rcinpower.com/SmooX/2020/10-13/35.html
 https://drone.kz/product/zashchitnyy-keys-pgytech-p-40b-020-mini-3-mini-3-pro/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970801339880
 
 #### Тип:
 
@@ -42514,21 +31254,9 @@ DJI Mini 3/Mini 3 pro Safety Carrying Case
 
 P-40B-020
 
-#### Дополнительные изображения:
-
-228771 / 228772 / 228773 / 228774 / 228775 / 228776
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-7
-
-#### KaspiQtyAstana:
-
-3
 
 #### Совместимость:
 
@@ -42538,10 +31266,6 @@ Mini 3, Mini 3 Pro
 
 Защитный корпус
 
-#### Цена со скидкой:
-
-48400
-
 #### Комплектация:
 
 Защитный кейс PGYTECH P-40B-020 | Mini 3/Mini 3 Pro / Руководство
@@ -42549,14 +31273,6 @@ Mini 3, Mini 3 Pro
 #### Срок гарантии производителя, m:
 
 12
-
-#### Спецификация:
-
-https://www.pgytech.com/
-
-#### К этому товару подходят:
-
-Квадрокоптер DJI Mini 3 Pro RC / Квадрокоптер DJI Mini 3 (RC)
 
 #### Размеры (Ш×В×Г), cm:
 
@@ -42566,7 +31282,11 @@ https://www.pgytech.com/
 
 2
 
----
+
+
+
+
+
 
 ## iFlight XING 1404 3800KV 2-4S FPV
 
@@ -42584,10 +31304,6 @@ https://drone.kz/product/iflight-xing-1404-3800kv-2-4s-fpv/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-X013244
-
 #### Тип:
 
 мотор
@@ -42604,23 +31320,11 @@ iFlight XING 1404 3800KV
 
 iFlight XING 1404 3800KV
 
-#### Дополнительные изображения:
 
-228778 / 228779 / 228780 / 228781 / 228782
 
-#### KaspiQtyAlmaty:
 
-20
 
-#### KaspiQtyAstana:
 
-0
-
-#### Цена со скидкой:
-
-12600
-
----
 
 ## Мотор XING-E Pro 2207 1800KV 6S
 
@@ -42638,10 +31342,6 @@ https://drone.kz/product/motor-xing-e-pro-2207-1800kv-6s/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-X009865
-
 #### Тип:
 
 мотор
@@ -42658,27 +31358,15 @@ XING-E Pro 2207 1800KV 6S FPV Motor
 
 XING-E Pro 2207 1800KV 6S FPV Motor
 
-#### Дополнительные изображения:
-
-228784 / 228785 / 228786
-
-#### KaspiQtyAlmaty:
-
-8
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-12600
-
 #### Рабочая влажность,%:
 
 …
 
----
+
+
+
+
+
 
 ## Мотор XING-E Pro 2207 2450KV 4S
 
@@ -42696,10 +31384,6 @@ https://drone.kz/product/motor-xing-e-pro-2207-2450kv-4s/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-X009866
-
 #### Тип:
 
 мотор
@@ -42716,27 +31400,15 @@ XING-E Pro 2207 2450KV 4S FPV Motor
 
 XING-E Pro 2207 1800KV 6S FPV Motor
 
-#### Дополнительные изображения:
-
-228788 / 228789 / 228790
-
-#### KaspiQtyAlmaty:
-
-16
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-12600
-
 #### Рабочая влажность,%:
 
 …
 
----
+
+
+
+
+
 
 ## Мотор XING2 3110 900KV Black
 
@@ -42754,10 +31426,6 @@ https://drone.kz/product/motor-xing2-3110-900kv-black/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-X014375
-
 #### Тип:
 
 мотор
@@ -42774,27 +31442,15 @@ iflight
 
 X014375
 
-#### Дополнительные изображения:
-
-228799 / 228800 / 228801 / 228802 / 228803 / 228804 / 228805
-
-#### KaspiQtyAlmaty:
-
-8
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-33400
-
 #### Срок гарантии производителя, m:
 
 12
 
----
+
+
+
+
+
 
 ## Мотор Happymodel EX0802 19000kv
 
@@ -42812,10 +31468,6 @@ https://drone.kz/product/motor-happymodel-ex0802-19000kv/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-1H20025 CW
-
 #### Тип:
 
 мотор
@@ -42832,27 +31484,15 @@ EX0802
 
 EX0802
 
-#### Дополнительные изображения:
-
-228807 / 228808 / 228809 / 228810 / 228811
-
-#### KaspiQtyAlmaty:
-
-26
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-5700
-
 #### Рабочая влажность,%:
 
 …
 
----
+
+
+
+
+
 
 ## Мотор Happymodel EX1002 KV20000
 
@@ -42870,10 +31510,6 @@ https://drone.kz/product/motor-happymodel-ex1002-kv20000/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-1I30022ccw
-
 #### Тип:
 
 мотор
@@ -42890,23 +31526,15 @@ EX1002
 
 EX1002
 
-#### KaspiQtyAlmaty:
-
-20
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-8000
-
 #### Рабочая влажность,%:
 
 …
 
----
+
+
+
+
+
 
 ## Мотор Happymodel RS0802 KV20000
 
@@ -42924,10 +31552,6 @@ https://drone.kz/product/motor-happymodel-rs0802-kv20000-sht/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6112345678395
-
 #### Тип:
 
 мотор
@@ -42944,23 +31568,11 @@ RS0802
 
 1H20028
 
-#### Дополнительные изображения:
 
-228814 / 228815 / 228816 / 228817
 
-#### KaspiQtyAlmaty:
 
-39
 
-#### KaspiQtyAstana:
 
-0
-
-#### Цена со скидкой:
-
-6800
-
----
 
 ## Моторы для дрона Happymodel EX1202.5 11000kv
 
@@ -42978,10 +31590,6 @@ https://drone.kz/product/motory-dlya-drona-happymodel-ex1202-5-11000kv/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-2H20037 CW
-
 #### Тип:
 
 мотор
@@ -42998,27 +31606,15 @@ Happymodel
 
 EX1202.5
 
-#### Дополнительные изображения:
-
-228819 / 228820 / 228821 / 228822 / 228823 / 228824
-
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-8000
-
 #### Рабочая влажность,%:
 
 …
 
----
+
+
+
+
+
 
 ## Гаечный ключ Prop Removal Tool - 6mm/8mm Wrench
 
@@ -43036,10 +31632,6 @@ https://drone.kz/product/gaechnyy-klyuch-prop-removal-tool-6mm-8mm-wrench/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-17777
-
 #### Тип:
 
 инструмент
@@ -43056,27 +31648,15 @@ GetFPV
 
 6mm/8mm Wrench
 
-#### Дополнительные изображения:
-
-228827 / 228828
-
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-8000
-
 #### Срок гарантии производителя, m:
 
 12
 
----
+
+
+
+
+
 
 ## Набор крепежа - Flywoo M2 Hardware Pack
 
@@ -43094,10 +31674,6 @@ https://drone.kz/product/nabor-krepezha-flywoo-m2-hardware-pack/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-TOOL03
-
 #### Тип:
 
 комплект запчастей
@@ -43114,22 +31690,6 @@ Flywoo M2 Hardware Pack
 
 TOOL03 / 16161
 
-#### Дополнительные изображения:
-
-228830 / 228831 / 228832 / 228833
-
-#### KaspiQtyAlmaty:
-
-5
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-47300
-
 #### Рабочая влажность,%:
 
 …
@@ -43138,7 +31698,11 @@ TOOL03 / 16161
 
 12
 
----
+
+
+
+
+
 
 ## Набор крепежа - Flywoo M3 Hardware Pack
 
@@ -43156,10 +31720,6 @@ https://drone.kz/product/nabor-krepezha-flywoo-m3-hardware-pack/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-TOOL02
-
 #### Тип:
 
 комплект запчастей
@@ -43176,22 +31736,6 @@ Flywoo M2 Hardware Pack
 
 TOOL02 / 16162
 
-#### Дополнительные изображения:
-
-228835 / 228836 / 228837 / 228838
-
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-48400
-
 #### Рабочая влажность,%:
 
 …
@@ -43200,7 +31744,11 @@ TOOL02 / 16162
 
 12
 
----
+
+
+
+
+
 
 ## Стойки M3x20mm(6 шт) черные
 
@@ -43218,10 +31766,6 @@ https://drone.kz/product/stoyki-m3x20mm-6-sht-chernye/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-652118492293
-
 #### Тип:
 
 стойка
@@ -43238,27 +31782,15 @@ Lumenier
 
 19902
 
-#### Дополнительные изображения:
-
-228841
-
-#### KaspiQtyAlmaty:
-
-10
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-6800
-
 #### Рабочая влажность,%:
 
 …
 
----
+
+
+
+
+
 
 ## Стойки M3x28mm(6 шт) черные
 
@@ -43276,10 +31808,6 @@ https://drone.kz/product/stoyki-m3x28mm-6-sht-chernye/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6093
-
 #### Тип:
 
 стойка
@@ -43296,27 +31824,15 @@ Lumenier
 
 19903
 
-#### Дополнительные изображения:
-
-228843
-
-#### KaspiQtyAlmaty:
-
-10
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-6800
-
 #### Рабочая влажность,%:
 
 …
 
----
+
+
+
+
+
 
 ## Стойки M3x25mm(6 шт) фиолетовые
 
@@ -43334,10 +31850,6 @@ https://drone.kz/product/stoyki-m3x25mm-6-sht-fioletovye/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-7265
-
 #### Тип:
 
 стойка
@@ -43354,27 +31866,15 @@ Lumenier
 
 7265
 
-#### Дополнительные изображения:
-
-228854
-
-#### KaspiQtyAlmaty:
-
-10
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-3400
-
 #### Рабочая влажность,%:
 
 …
 
----
+
+
+
+
+
 
 ## Стойки M3x35mm(6 шт) черные
 
@@ -43392,10 +31892,6 @@ https://drone.kz/product/stoyki-m3x35mm-6-sht-chernye/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-603241731438
-
 #### Тип:
 
 стойка
@@ -43412,23 +31908,11 @@ Lumenier
 
 4369
 
-#### Дополнительные изображения:
 
-228856
 
-#### KaspiQtyAlmaty:
 
-10
 
-#### KaspiQtyAstana:
 
-0
-
-#### Цена со скидкой:
-
-6800
-
----
 
 ## Комплект гаек для пропеллеров Lumenier M4 Black
 
@@ -43445,10 +31929,6 @@ Lumenier
 https://drone.kz/product/komplekt-gaek-dlya-propellerov-lumenier-m4-black-/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-680138770817
 
 #### Тип:
 
@@ -43470,23 +31950,11 @@ Lumenier
 
 3004
 
-#### Дополнительные изображения:
 
-228858 / 228859 / 228860 / 228861
 
-#### KaspiQtyAlmaty:
 
-10
 
-#### KaspiQtyAstana:
 
-0
-
-#### Цена со скидкой:
-
-5700
-
----
 
 ## Комплект винтов M3x6мм STARK FPV(17шт)
 
@@ -43504,10 +31972,6 @@ https://drone.kz/product/komplekt-vintov-m3x6mm-stark-fpv-17sht/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-14063
-
 #### Тип:
 
 винты
@@ -43524,23 +31988,11 @@ M3x6mm Screws for STARK FPV Freestyle Frame
 
 14063
 
-#### Дополнительные изображения:
 
-228863
 
-#### KaspiQtyAlmaty:
 
-10
 
-#### KaspiQtyAstana:
 
-0
-
-#### Цена со скидкой:
-
-4500
-
----
 
 ## Кабельный канал для проводов 50 мм х 10 мм (10 шт.)
 
@@ -43558,10 +32010,6 @@ https://drone.kz/product/kabelnyy-kanal-dlya-provodov-50-mm-kh-10-mm-10-sht-/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-652118492293
-
 #### Тип:
 
 винты
@@ -43578,27 +32026,15 @@ Lumenier
 
 19902
 
-#### Дополнительные изображения:
-
-228865 / 228866 / 228867
-
-#### KaspiQtyAlmaty:
-
-10
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-6800
-
 #### Рабочая влажность,%:
 
 …
 
----
+
+
+
+
+
 
 ## Комплект кабелей - Ethix Quad-Builder Cable Set
 
@@ -43616,10 +32052,6 @@ https://drone.kz/product/komplekt-kabeley-ethix-quad-builder-cable-set/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-741587431039
-
 #### Тип:
 
 кабель
@@ -43636,27 +32068,15 @@ Ethix Quad-Builder Cable Set
 
 19902
 
-#### Дополнительные изображения:
-
-228869 / 228870 / 228871
-
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-0
-
-#### Цена со скидкой:
-
-19500
-
 #### Рабочая влажность,%:
 
 …
 
----
+
+
+
+
+
 
 ## Кейс PGYTECH P-43A-020 | Mavic 3 Series
 
@@ -43673,10 +32093,6 @@ Ethix Quad-Builder Cable Set
 https://drone.kz/product/keys-pgytech-p-43a-020-mavic-3-series/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6976100482203
 
 #### Тип:
 
@@ -43698,29 +32114,13 @@ PU，EVA
 
 P-43A-020
 
-#### Дополнительные изображения:
-
-229526
-
 #### Цвет:
 
 серый
 
-#### KaspiQtyAlmaty:
-
-6
-
-#### KaspiQtyAstana:
-
-3
-
 #### Совместимость:
 
 DJI Mavic 3 Series
-
-#### Цена со скидкой:
-
-31100
 
 #### Комплектация:
 
@@ -43730,14 +32130,6 @@ DJI Mavic 3 Series
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.pgytech.com
-
-#### К этому товару подходят:
-
-Квадрокоптер DJI Mavic 3 / Квадрокоптер DJI Mavic 3 Cine Premium Combo / Квадрокоптер DJI Mavic 3 Classic (DJI RC) / Квадрокоптер DJI Mavic 3 Pro (DJI RC) / Квадрокоптер DJI Mavic 3 Enterprise / Квадрокоптер DJI Mavic 3M
-
 #### Размеры (Ш×В×Г), cm:
 
 9.5 х 6.5 х 4.5
@@ -43746,7 +32138,11 @@ https://www.pgytech.com
 
 12.0 х 8.1 х 5.5
 
----
+
+
+
+
+
 
 ## Подводный дрон Chasing M2 S Lite
 
@@ -43764,10 +32160,6 @@ https://drone.kz/product/podvodnyy-dron-chasing-m2-s-lite/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6971636384175
-
 #### Тип:
 
 подводный  дрон
@@ -43784,17 +32176,9 @@ M2 S Lite
 
 1.5
 
-#### Код видео YouTube:
-
-u2yS65AwmkQ
-
 #### Артикул:
 
 M2 S Lite
-
-#### Дополнительные изображения:
-
-230266 / 230267 / 230268 / 230269 / 230270 / 230271
 
 #### Разрешение видео:
 
@@ -43812,21 +32196,9 @@ UHD: 3840 x 2160 (4K) 30fps FHD: 1920 x 1080 (1080P) 30/60/120 fps / Slow Motion
 
 серый
 
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-0
-
 #### Датчики:
 
 IMU: axis gyro/accelerometer/compass / Датчик глубины ＜±0.25m / Датчик температуры ＜±2℃
-
-#### Цена со скидкой:
-
-1501400
 
 #### Наличие камеры:
 
@@ -43880,22 +32252,6 @@ Aperture  F2.8 / Focal Length  1m
 
 12
 
-#### Спецификация:
-
-https://www.chasing.com/en/chasing-m2s-specs.html
-
-#### Руководство пользователя:
-
-https://web.file.chasing.com/lktcYhgYtb_AnRONmUwiE0qEb2OJ
-
-#### Страница товара на сайте производителя:
-
-https://www.chasing.com/en/chasing-m2s-overview.html
-
-#### К этому товару подходят:
-
-Катушка с приводом Chasing E-Reel (без кабеля) / Манипулятор Chasing Grabber Claw A / Роботизированная рука Chasing Grabber Arm 2 Two-jaw clam / Захват CHASING Salvage Circular Claw | M2 Pro / Роботизированная рука Chasing Grabber Arm 2 Sediment sampler / Лазерный измеритель Chasing M2/M2 Pro / Дистанционный сонар Chasing / Прожектор CHASING Floodlight 2 | M2 Pro / Прожектор Chasing Floodlight / Кабель Chasing M2 PRO 200 м / Кабель Chasing M2 300 м / Кабель Chasing M2 400 м / Пульт CHASING WSRC | M2/Pro / Захват Chasing Circular Claw / Карта памяти MicroSD ExAscend Catalyst SDXC I 512GB + SD adapter / Карта памяти MicroSD ExAscend Catalyst SDXC I 256GB + SD adapter
-
 #### Размеры (Ш×В×Г), cm:
 
 38.0 х 26.7 х 16.5 
@@ -43904,7 +32260,11 @@ https://www.chasing.com/en/chasing-m2s-overview.html
 
 4.5
 
----
+
+
+
+
+
 
 ## Пульт Insta360 GPS Preview Remote
 
@@ -43921,10 +32281,6 @@ https://www.chasing.com/en/chasing-m2s-overview.html
 https://drone.kz/product/pult-insta360-gps-preview-remote/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970357854714
 
 #### Тип:
 
@@ -43950,21 +32306,9 @@ IP68 (до 1,5 м/4,9 фута в течение 30 минут)
 
 CINSAAVG
 
-#### Дополнительные изображения:
-
-230470 / 230471
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-0
-
-#### KaspiQtyAstana:
-
-1
 
 #### Совместимость:
 
@@ -43973,10 +32317,6 @@ Ace Pro & Ace
 #### Навигация:
 
 GPS/BeiDou/Galileo/GLONASS
-
-#### Цена со скидкой:
-
-91200
 
 #### Возможности подключения:
 
@@ -44010,15 +32350,11 @@ Bluetooth 5.0 / USB-C
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://insta360.com/
 
-#### К этому товару подходят:
 
-Экшн-камера Insta360 Ace Pro  
 
----
+
 
 ## Защита экрана Insta360 Ace Pro
 
@@ -44036,10 +32372,6 @@ https://drone.kz/product/zashchita-ekrana-insta360-ace-pro/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970357856350
-
 #### Тип:
 
 защита
@@ -44056,25 +32388,9 @@ Ace Pro Screen Protector
 
 CINSBAJC
 
-#### Дополнительные изображения:
-
-230474 / 244217
-
-#### KaspiQtyAlmaty:
-
-8
-
-#### KaspiQtyAstana:
-
-4
-
 #### Совместимость:
 
 Ace Pro
-
-#### Цена со скидкой:
-
-7200
 
 #### Комплектация:
 
@@ -44084,15 +32400,11 @@ Ace Pro
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.insta360.com/
 
-#### К этому товару подходят:
 
-Экшн-камера Insta360 Ace Pro  
 
----
+
 
 ## Кейс Insta360 Ace Pro & Ace
 
@@ -44110,10 +32422,6 @@ https://drone.kz/product/keys-insta360-ace-pro-ace/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970357855704
-
 #### Тип:
 
 кейс
@@ -44130,29 +32438,13 @@ Ace Pro & Ace Carry Case
 
 CINSAAXN
 
-#### Дополнительные изображения:
-
-230476 / 230477 / 230478
-
 #### Цвет:
 
 серый
 
-#### KaspiQtyAlmaty:
-
-7
-
-#### KaspiQtyAstana:
-
-1
-
 #### Совместимость:
 
 Ace Pro & Ace
-
-#### Цена со скидкой:
-
-15600
 
 #### Комплектация:
 
@@ -44162,19 +32454,15 @@ Ace Pro & Ace
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.insta360.com/
-
-#### К этому товару подходят:
-
-Экшн-камера Insta360 Ace Pro  
-
 #### Размеры (Ш×В×Г), cm:
 
 25.5 x 17.5 x 7.0
 
----
+
+
+
+
+
 
 ## Аккумулятор Insta360 Ace Pro & Ace (1650mAh)
 
@@ -44191,10 +32479,6 @@ https://www.insta360.com/
 https://drone.kz/product/akkumulyator-insta360-ace-pro-ace/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970357855056
 
 #### Тип:
 
@@ -44216,29 +32500,13 @@ Ace Pro & Ace Battery
 
 CINSBAJA
 
-#### Дополнительные изображения:
-
-230480 / 230481 / 230540
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-4
-
-#### KaspiQtyAstana:
-
-2
-
 #### Совместимость:
 
 Ace Pro & Ace
-
-#### Цена со скидкой:
-
-17700
 
 #### Тип аккумулятора:
 
@@ -44252,15 +32520,11 @@ Ace Pro & Ace
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://insta360.ru/
 
-#### К этому товару подходят:
 
-Зарядный хаб Insta360 Ace Pro & Ace / Экшн-камера Insta360 Ace Pro  
 
----
+
 
 ## Адаптер Insta360 Ace Pro/Ace Mic Adapter
 
@@ -44278,10 +32542,6 @@ https://drone.kz/product/mikrofonnyy-adapter-insta360-ace-pro-ace/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970357855070
-
 #### Тип:
 
 адаптер
@@ -44298,29 +32558,13 @@ Ace Pro & Ace Mic Adapter
 
 CINSAAXD
 
-#### Дополнительные изображения:
-
-230485 / 230486 / 230487
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-0
-
 #### Совместимость:
 
 Ace Pro & Ace
-
-#### Цена со скидкой:
-
-16100
 
 #### Порты и интерфейсы:
 
@@ -44334,15 +32578,15 @@ UCB-C / Jack 3.5
 
 12
 
-#### К этому товару подходят:
-
-Экшн-камера Insta360 Ace Pro   / Экшн-камера Insta360 Ace Pro Creator Kit / Экшн-камера Insta360 Ace Pro Motorcycle Kit / Экшн-камера Insta360 Ace Pro Splash Kit / Экшн-камера Insta360 Ace Pro Winter Kit / Экшн-камера Insta360 Ace Pro Cycling Kit
-
 #### Размеры (Ш×В×Г), cm:
 
 2.8 x 2.8 x 1.8
 
----
+
+
+
+
+
 
 ## Интерфейс Insta360 Ace Pro & Ace Cold Shoe
 
@@ -44359,10 +32603,6 @@ UCB-C / Jack 3.5
 https://drone.kz/product/interfeys-insta360-ace-pro-ace-cold-shoe/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970357855698
 
 #### Тип:
 
@@ -44384,21 +32624,9 @@ Ace Pro & Ace Cold Shoe
 
 CINSAAXM
 
-#### Дополнительные изображения:
-
-230489 / 230490 / 230491 / 230492
-
 #### Цвет:
 
 черный
-
-#### KaspiQtyAlmaty:
-
-3
-
-#### KaspiQtyAstana:
-
-2
 
 #### Совместимость:
 
@@ -44408,10 +32636,6 @@ Ace Pro & Ace, Quick Release New
 
 https://drone.kz/catalog/aksessuary-dlya-insta360/
 
-#### Цена со скидкой:
-
-13500
-
 #### Комплектация:
 
 Интерфейс Insta360 Ace Pro & Ace Cold Shoe / Документация
@@ -44419,14 +32643,6 @@ https://drone.kz/catalog/aksessuary-dlya-insta360/
 #### Срок гарантии производителя, m:
 
 12
-
-#### Страница товара на сайте производителя:
-
-https://insta360.ru/
-
-#### К этому товару подходят:
-
-Экшн-камера Insta360 Ace Pro Splash Kit / Экшн-камера Insta360 Ace Pro Motorcycle Kit / Экшн-камера Insta360 Ace Pro Winter Kit / Экшн-камера Insta360 Ace Pro Creator Kit / Экшн-камера Insta360 Ace Pro Cycling Kit / Экшн-камера Insta360 Ace Pro   / Крепление Insta360 Quick Release New
 
 #### Размеры (Ш×В×Г), cm:
 
@@ -44436,7 +32652,11 @@ https://insta360.ru/
 
 Вход для микрофона
 
----
+
+
+
+
+
 
 ## Крепление Insta360 Ace Pro & Ace Standard Mount
 
@@ -44453,10 +32673,6 @@ https://insta360.ru/
 https://drone.kz/product/kreplenie-insta360-ace-pro-ace-standard-mount/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970357855827
 
 #### Тип:
 
@@ -44478,29 +32694,13 @@ Alu
 
 Ace Pro & Ace Standard Mount
 
-#### Дополнительные изображения:
-
-230494 / 230495 / 230496
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-5
-
-#### KaspiQtyAstana:
-
-3
-
 #### Совместимость:
 
 Ace Pro & Ace
-
-#### Цена со скидкой:
-
-13800
 
 #### Порты и интерфейсы:
 
@@ -44514,15 +32714,11 @@ Ace Pro & Ace
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.insta360.com/
 
-#### К этому товару подходят:
 
-Экшн-камера Insta360 Ace Pro Splash Kit / Экшн-камера Insta360 Ace Pro Motorcycle Kit / Экшн-камера Insta360 Ace Pro Winter Kit / Экшн-камера Insta360 Ace Pro Creator Kit / Экшн-камера Insta360 Ace Pro   / Экшн-камера Insta360 Ace Pro Cycling Kit
 
----
+
 
 ## Вертикально-горизонтальное крепление Insta360 Ace Pro & Ace
 
@@ -44539,10 +32735,6 @@ https://www.insta360.com/
 https://drone.kz/product/vertikalno-gorizontalnoe-kreplenie-insta360-ace-pro-ace/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970357856404
 
 #### Тип:
 
@@ -44564,29 +32756,13 @@ Alu
 
 CINSAAXT
 
-#### Дополнительные изображения:
-
-230498 / 230499 / 230500 / 230501
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-1
-
-#### KaspiQtyAstana:
-
-1
-
 #### Совместимость:
 
 Ace Pro & Ace
-
-#### Цена со скидкой:
-
-16100
 
 #### Комплектация:
 
@@ -44596,19 +32772,15 @@ Ace Pro & Ace
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.insta360.com/
-
-#### К этому товару подходят:
-
-Экшн-камера Insta360 Ace Pro   / Экшн-камера Insta360 Ace Pro Motorcycle Kit / Экшн-камера Insta360 Ace Pro Cycling Kit / Экшн-камера Insta360 Ace Pro Splash Kit / Экшн-камера Insta360 Ace Pro Creator Kit / Экшн-камера Insta360 Ace Pro Winter Kit
-
 #### Размеры (Ш×В×Г), cm:
 
 6.2 x 5.0 x 2.4
 
----
+
+
+
+
+
 
 ## Чехол-поплавок Insta360 Ace Pro & Ace Float Guard
 
@@ -44625,10 +32797,6 @@ https://www.insta360.com/
 https://drone.kz/product/chekhol-poplavok-insta360-ace-pro-ace-float-guard/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970357855575
 
 #### Тип:
 
@@ -44650,29 +32818,13 @@ EVA
 
 CINSAAXK
 
-#### Дополнительные изображения:
-
-230515 / 230516 / 230517 / 230518
-
 #### Цвет:
 
 оранжевый
 
-#### KaspiQtyAlmaty:
-
-5
-
-#### KaspiQtyAstana:
-
-2
-
 #### Совместимость:
 
 Ace Pro & Ace
-
-#### Цена со скидкой:
-
-19500
 
 #### Комплектация:
 
@@ -44682,15 +32834,11 @@ Ace Pro & Ace
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.insta360.com/
 
-#### К этому товару подходят:
 
-Экшн-камера Insta360 Ace Pro Creator Kit / Экшн-камера Insta360 Ace Pro   / Экшн-камера Insta360 Ace Pro Cycling Kit / Экшн-камера Insta360 Ace Pro Winter Kit / Экшн-камера Insta360 Ace Pro Splash Kit / Экшн-камера Insta360 Ace Pro Motorcycle Kit / Плавающая рукоятка для экшн-камеры Insta360 Floating Hand Grip
 
----
+
 
 ## Кабель Insta360 Ace Pro & Ace Type-C to Type-C
 
@@ -44707,10 +32855,6 @@ https://www.insta360.com/
 https://drone.kz/product/kabel-insta360-ace-pro-ace-type-c-to-type-c/
 
 ### Характеристики:
-
-#### Штрихкод:
-
-6970357856343
 
 #### Тип:
 
@@ -44732,29 +32876,13 @@ Ace Pro & Ace Type-C to Type-C Cable
 
 Ace Pro & Ace Type-C to Type-C Cable
 
-#### Дополнительные изображения:
-
-230520 / 230521
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-7
-
-#### KaspiQtyAstana:
-
-2
-
 #### Совместимость:
 
 Ace Pro & Ace
-
-#### Цена со скидкой:
-
-8000
 
 #### Порты и интерфейсы:
 
@@ -44768,14 +32896,6 @@ Ace Pro & Ace
 
 12
 
-#### Страница товара на сайте производителя:
-
-https://www.insta360.com
-
-#### К этому товару подходят:
-
-Экшн-камера Insta360 Ace Pro   / Экшн-камера Insta360 Ace Pro Creator Kit / Экшн-камера Insta360 Ace Pro Splash Kit / Экшн-камера Insta360 Ace Pro Motorcycle Kit / Экшн-камера Insta360 Ace Pro Cycling Kit / Экшн-камера Insta360 Ace Pro Winter Kit
-
 #### Размеры (Ш×В×Г), cm:
 
 50
@@ -44784,7 +32904,11 @@ https://www.insta360.com
 
 micro USB
 
----
+
+
+
+
+
 
 ## Крышка Insta360 Ace Pro USB Cover
 
@@ -44802,10 +32926,6 @@ https://drone.kz/product/kryshka-insta360-ace-pro-usb-cover/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-6970357856367
-
 #### Тип:
 
 крышка
@@ -44822,29 +32942,13 @@ Ace Pro USB Cover
 
 Ace Pro USB Cover
 
-#### Дополнительные изображения:
-
-230527 / 230528 / 230529 / 230530
-
 #### Цвет:
 
 черный
 
-#### KaspiQtyAlmaty:
-
-7
-
-#### KaspiQtyAstana:
-
-2
-
 #### Совместимость:
 
 Ace Pro
-
-#### Цена со скидкой:
-
-6800
 
 #### Комплектация:
 
@@ -44854,15 +32958,11 @@ Ace Pro
 
 12
 
-#### Страница товара на сайте производителя:
 
-https://www.insta360.com/
 
-#### К этому товару подходят:
 
-Экшн-камера Insta360 Ace Pro Creator Kit / Экшн-камера Insta360 Ace Pro   / Экшн-камера Insta360 Ace Pro Motorcycle Kit / Экшн-камера Insta360 Ace Pro Cycling Kit / Экшн-камера Insta360 Ace Pro Splash Kit / Экшн-камера Insta360 Ace Pro Winter Kit
 
----
+
 
 ## Набор крепежаFPVCrate Hardware Kit
 
@@ -44880,10 +32980,6 @@ https://drone.kz/product/nabor-krepezhafpvcrate-hardware-kit/
 
 ### Характеристики:
 
-#### Штрихкод:
-
-14930
-
 #### Тип:
 
 комплект запчастей
@@ -44900,21 +32996,9 @@ FPVCrate Hardware Kit
 
 14930
 
-#### Дополнительные изображения:
 
-230545
 
-#### KaspiQtyAlmaty:
 
-2
 
-#### KaspiQtyAstana:
 
-0
-
-#### Цена со скидкой:
-
-20700
-
----
 
