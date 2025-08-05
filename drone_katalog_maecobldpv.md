@@ -13932,7 +13932,7 @@ FOV(Adjustable) Large: 155°/ Middle: 142°/ Small: 130° / Затвор Auto 1/
 
 
 
-## Название: Аналоговая камера RunCam Phoenix 2
+## Название: Аналоговая камера RunCam Phoenix 2 (JB)
 
 ### Идентификатор:
 
