@@ -31874,7 +31874,7 @@ https://drone.kz/product/zashchita-propellerov-dobby-propeller-guard/
 
 #### Бренд:
 
-aaronia
+dobby
 
 #### Модель товара:
 
