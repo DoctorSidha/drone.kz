@@ -17148,7 +17148,7 @@ https://drone.kz/product/udlinitel-insta360-extended-edition-selfie-stick-one-x2
 
 #### Тип:
 
-удлинитель
+монопод
 
 #### Бренд:
 
