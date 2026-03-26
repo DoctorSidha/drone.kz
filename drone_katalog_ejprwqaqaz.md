@@ -1,55 +1,5 @@
 # Каталог товаров drone.kz - часть 3
 
-## Название: Центральный корпус Parrot Central Body for Bebop 2 белый
-
-### Идентификатор:
-
-58547
-
-### Описание:
-
-
-
-### Ссылка на товар:
-
-https://drone.kz/product/tsentralnyy-korpus-parrot-central-body-for-bebop-2-belyy/
-
-### Характеристики:
-
-#### Тип:
-
-корпус
-
-#### Бренд:
-
-parrot
-
-#### Модель товара:
-
-Central Body For Bebop 2 White
-
-#### Артикул:
-
-PF070203AA
-
-#### Модель:
-
-Bebop Drone
-
-#### Цвет:
-
-черный
-
-#### Комплектация:
-
-Центральный корпус Parrot Central Body for Bebop 2 белый
-
-
-
-
-
-
-
 ## Название: Аккумулятор BetaFPV 300mAh 1S 30C (BT2.0) 8 шт
 
 ### Идентификатор:
