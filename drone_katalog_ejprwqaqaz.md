@@ -7018,60 +7018,6 @@ Autel EVO Nano
 
 
 
-## Название: Пропеллеры Autel EVO Lite Series
-
-### Идентификатор:
-
-58712
-
-### Описание:
-
-
-
-### Ссылка на товар:
-
-https://drone.kz/product/propellery-autel-evo-lite-series/
-
-### Характеристики:
-
-#### Тип:
-
-пропеллеры
-
-#### Бренд:
-
-autel-robotics
-
-#### Модель товара:
-
-Propeller(pair) for Lite series
-
-#### Артикул:
-
-Propeller(pair) for Lite series
-
-#### Цвет:
-
-черный
-
-#### Совместимость:
-
-Autel Robotics EVO Lite series
-
-#### Комплектация:
-
-Пропеллеры Autel EVO Lite Series / Документация
-
-#### Срок гарантии производителя, m:
-
-12
-
-
-
-
-
-
-
 ## Название: Круговая ручка DJI Ronin Grip (part52)
 
 ### Идентификатор:
@@ -7979,60 +7925,6 @@ Autel EVO Nano
 #### Комплектация:
 
 Защита пропеллера Autel EVO Propeller Guards for Nano series / Документация
-
-#### Срок гарантии производителя, m:
-
-12
-
-
-
-
-
-
-
-## Название: Пропеллеры Autel EVO Lite Series
-
-### Идентификатор:
-
-58746
-
-### Описание:
-
-
-
-### Ссылка на товар:
-
-https://drone.kz/product/propellery-autel-evo-lite-series7544/
-
-### Характеристики:
-
-#### Тип:
-
-пропеллеры
-
-#### Бренд:
-
-autel-robotics
-
-#### Модель товара:
-
-Propeller(pair) for Lite series
-
-#### Артикул:
-
-Propeller(pair) for Lite series
-
-#### Цвет:
-
-черный
-
-#### Совместимость:
-
-Autel Robotics EVO Lite series
-
-#### Комплектация:
-
-Пропеллеры Autel EVO Lite Series / Документация
 
 #### Срок гарантии производителя, m:
 
