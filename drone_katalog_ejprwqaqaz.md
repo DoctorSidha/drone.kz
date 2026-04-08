@@ -1,55 +1,5 @@
 # Каталог товаров drone.kz - часть 3
 
-## Название: Клип-кейс PolarPro LiteChaser Pro iPhone 12 Pro Case Sage
-
-### Идентификатор:
-
-58551
-
-### Описание:
-
-
-
-### Ссылка на товар:
-
-https://drone.kz/product/klip-keys-polarpro-litechaser-pro-iphone-12-pro-case-sage/
-
-### Характеристики:
-
-#### Тип:
-
-чехол
-
-#### Бренд:
-
-polarpro
-
-#### Модель товара:
-
-LiteChaser Pro для iPhone 12 Pro
-
-#### Артикул:
-
-LCP-12PRO-CASE-SAGE
-
-#### Цвет:
-
-песочный
-
-#### Комплектация:
-
-Клип-кейс PolarPro LiteChaser Pro iPhone 12 Pro Case Sage
-
-#### Срок гарантии производителя, m:
-
-12
-
-
-
-
-
-
-
 ## Название: Клип-кейс PolarPro LiteChaser Pro iPhone 12 Pro Case Mojave
 
 ### Идентификатор:
