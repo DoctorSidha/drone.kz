@@ -1,55 +1,5 @@
 # Каталог товаров drone.kz - часть 3
 
-## Название: Клип-кейс PolarPro LiteChaser Pro iPhone 12 Pro Case Mojave
-
-### Идентификатор:
-
-58552
-
-### Описание:
-
-
-
-### Ссылка на товар:
-
-https://drone.kz/product/klip-keys-polarpro-litechaser-pro-iphone-12-pro-case-mojave/
-
-### Характеристики:
-
-#### Тип:
-
-чехол
-
-#### Бренд:
-
-polarpro
-
-#### Модель товара:
-
-LiteChaser Pro для iPhone 12 Pro
-
-#### Артикул:
-
-LCP-12MAX-CASE-MOJ
-
-#### Цвет:
-
-коричневый
-
-#### Комплектация:
-
-Клип-кейс PolarPro LiteChaser Pro iPhone 12 Pro Case Mojave
-
-#### Срок гарантии производителя, m:
-
-12
-
-
-
-
-
-
-
 ## Название: Клип-кейс PolarPro LiteChaser Pro iPhone 12 Pro Max Mojave
 
 ### Идентификатор:
@@ -16407,60 +16357,6 @@ https://drone.kz/catalog/komplektuyushchie-dlya-ehkshn-kamer/
 #### Комплектация:
 
 Аккумулятор Insta360 Ace Pro & Ace / Документация
-
-#### Срок гарантии производителя, m:
-
-12
-
-
-
-
-
-
-
-## Название: Быстросъемное крепление Insta360 Quick Release Mount
-
-### Идентификатор:
-
-60140
-
-### Описание:
-
-
-
-### Ссылка на товар:
-
-https://drone.kz/product/bystrosemnoe-kreplenie-insta360-quick-release-mount/
-
-### Характеристики:
-
-#### Тип:
-
-крепление
-
-#### Бренд:
-
-insta360
-
-#### Модель товара:
-
-Quick Release
-
-#### Корпус:
-
-Алюминий
-
-#### Артикул:
-
-CINSAAVH
-
-#### Цвет:
-
-черный
-
-#### Комплектация:
-
-Крепление Insta360 Quick Release Mount / Документация
 
 #### Срок гарантии производителя, m:
 
