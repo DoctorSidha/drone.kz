@@ -1,55 +1,5 @@
 # Каталог товаров drone.kz - часть 3
 
-## Название: Антенна OcuSync Cylindrical для DJI Goggles Racing Edition (Part 7)
-
-### Идентификатор:
-
-58565
-
-### Описание:
-
-
-
-### Ссылка на товар:
-
-https://drone.kz/product/antenna-ocusync-cylindrical-dlya-dji-goggles-racing-edition-part-7/
-
-### Характеристики:
-
-#### Тип:
-
-антенна
-
-#### Бренд:
-
-dji
-
-#### Модель товара:
-
-OcuSync Cylindrical
-
-#### Артикул:
-
-OcuSync Cylindrical
-
-#### Цвет:
-
-черный
-
-#### Комплектация:
-
-Антенна OcuSync Cylindrical для DJI Goggles Racing Edition (Part 7) / Документация
-
-#### Срок гарантии производителя, m:
-
-12
-
-
-
-
-
-
-
 ## Название: Внешний вентилятор OcuSync External Fan для DJI Goggles Racing Edition (Part 16)
 
 ### Идентификатор:
