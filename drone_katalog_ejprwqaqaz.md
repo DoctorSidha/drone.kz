@@ -1,59 +1,5 @@
 # Каталог товаров drone.kz - часть 3
 
-## Название: Внешний вентилятор OcuSync External Fan для DJI Goggles Racing Edition (Part 16)
-
-### Идентификатор:
-
-58566
-
-### Описание:
-
-
-
-### Ссылка на товар:
-
-https://drone.kz/product/vneshniy-ventilyator-ocusync-external-fan-dlya-dji-goggles-racing-edition-part-16/
-
-### Характеристики:
-
-#### Тип:
-
-пропеллеры
-
-#### Бренд:
-
-dji
-
-#### Модель товара:
-
-OcuSync External Fan
-
-#### Артикул:
-
-OcuSync External Fan
-
-#### Цвет:
-
-серый
-
-#### Дополнительные возможности:
-
-устанавливается на воздушный модуль DJI OcuSync Air Unit / cлужит для отвода и рассеивания тепла от модуля
-
-#### Комплектация:
-
-Внешний вентилятор OcuSync External Fan для DJI Goggles Racing Edition (Part 16) / Документация
-
-#### Срок гарантии производителя, m:
-
-12
-
-
-
-
-
-
-
 ## Название: Джойстик DJI Motion Controller
 
 ### Идентификатор:
