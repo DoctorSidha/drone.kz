@@ -1,59 +1,5 @@
 # Каталог товаров drone.kz - часть 3
 
-## Название: Кольцо DJI Focus Lens Gear Ring 60mm (Part 8)
-
-### Идентификатор:
-
-58582
-
-### Описание:
-
-
-
-### Ссылка на товар:
-
-https://drone.kz/product/koltso-dji-focus-lens-gear-ring-60mm-part-8/
-
-### Характеристики:
-
-#### Тип:
-
-переходник
-
-#### Бренд:
-
-dji
-
-#### Модель товара:
-
-Lens Gear Ring 60mm (Part 8)
-
-#### Артикул:
-
-DJI-FOCUS-PART8
-
-#### Цвет:
-
-черный
-
-#### Комплектация:
-
-Кольцо DJI Focus Lens Gear Ring 60mm (Part 8)
-
-#### Срок гарантии производителя, m:
-
-12
-
-#### Размеры (Ш×В×Г), cm:
-
-6
-
-
-
-
-
-
-
 ## Название: Кольцо DJI Focus Lens Gear Ring 70mm (Part 9)
 
 ### Идентификатор:
