@@ -1,59 +1,5 @@
 # Каталог товаров drone.kz - часть 3
 
-## Название: Комплект фильтров PolarPro Standard Series | Mavic Air 3-Pack
-
-### Идентификатор:
-
-58607
-
-### Описание:
-
-
-
-### Ссылка на товар:
-
-https://drone.kz/product/komplekt-filtrov-polarpro-standard-series-mavic-air-3-pack/
-
-### Характеристики:
-
-#### Тип:
-
-светофильтр
-
-#### Бренд:
-
-polarpro
-
-#### Модель товара:
-
-Standard Series для Mavic Air 3-Pack
-
-#### Артикул:
-
-AR-5001
-
-#### Модель:
-
-Mavic Air 
-
-#### Дополнительные возможности:
-
-1x ND4 / 1x ND8 / 1x ND16
-
-#### Комплектация:
-
-Фильтры PolarPro Standard Series | Mavic Air - 3 шт / Кейс - 1 шт
-
-#### Срок гарантии производителя, m:
-
-12
-
-
-
-
-
-
-
 ## Название: Комплект фильтров PolarPro Standard Series | Mavic Air 6-Pack
 
 ### Идентификатор:
