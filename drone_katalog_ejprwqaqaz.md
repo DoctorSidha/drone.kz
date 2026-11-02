@@ -31988,7 +31988,7 @@ Luna Ultra Standard Bundle Black CINSABTA (Luna01)
 
 #### Остатки поставщиков:
 
-33
+32
 
 #### Источник остатков:
 
